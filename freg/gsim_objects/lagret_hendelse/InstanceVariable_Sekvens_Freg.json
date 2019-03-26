@@ -1,0 +1,27 @@
+{
+ "id": "9f5d88a7-ec44-45e9-9c18-d57a73a2411a",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Sekvensnummer"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Sekvensnummer hendelser i Freg"
+  }
+ ],
+ "createdDate": "2019-02-19T12:28:38.665Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T12:28:38.665Z",
+ "lastUpdatedDate": "2019-02-19T12:28:38.665Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T12:28:38.665Z",
+ "representedVariable": "/RepresentedVariable/44427a4e-8060-4fda-bbf0-9de846f8f297",
+ "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "dataStructureComponent": "/IdentifierComponent/9f4cb7c4-b492-4b56-af4a-31cb13efdb2e",
+ "sourceName": "ns2:sekvensnummer",
+ "sourcePath": "/feed/entry/content/ns2:lagretHendelse"
+}

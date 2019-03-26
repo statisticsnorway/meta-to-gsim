@@ -1,0 +1,28 @@
+{
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-18T12:22:21.831Z",
+ "createdDate": "2019-02-18T09:12:25.724Z",
+ "createdBy": "Test",
+ "unitTypes": [
+  "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f"
+ ],
+ "subjectFields": [
+  "/SubjectField/c77bddf1-006d-40bb-9d77-6b68677ecf26"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Folkeregisteret"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Folkeregisteret omfatter nøkkelopplysninger om alle personer som er eller har vært bosatt i Norge. "
+  }
+ ],
+ "id": "3a3e9da5-74e0-4fd4-92fa-c4bcea77134d",
+ "validFrom": "2019-02-18T09:12:25.724Z",
+ "version": "1.0.2",
+ "versionValidFrom": "2019-02-18T12:22:21.831Z"
+}

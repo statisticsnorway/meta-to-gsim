@@ -1,0 +1,27 @@
+{
+ "id": "33746f8d-fa98-42a1-a86d-9f33c4a965ac",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype i Folkeregisteret"
+  }
+ ],
+ "createdDate": "2019-02-19T10:41:23.172Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T10:41:23.172Z",
+ "lastUpdatedDate": "2019-02-19T10:41:23.172Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T10:41:23.172Z",
+ "representedVariable": "/RepresentedVariable/b798e440-caaa-4826-9d44-83861a5e14db",
+ "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "dataStructureComponent": "/IdentifierComponent/d8d613b5-5c2b-4517-9085-139b1dd9b565",
+ "sourceName": "ns2:hendelsetype",
+ "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse"
+}

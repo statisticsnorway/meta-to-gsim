@@ -1,0 +1,24 @@
+{
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-18T11:48:59.852Z",
+ "protocol": "/Protocol/4eea64e6-5c87-462d-9fc5-c3fdd3a310fb",
+ "createdDate": "2019-02-15T13:31:37.795Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "API-FREG"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Api mot folkeregistret hos Skatteetaten"
+  }
+ ],
+ "exchangeType": "COLLECT",
+ "id": "d5a243b7-b9b5-4ae5-9892-3dd359e54823",
+ "validFrom": "2019-02-15T13:31:37.795Z",
+ "version": "1.0.2",
+ "versionValidFrom": "2019-02-18T11:48:59.852Z"
+}

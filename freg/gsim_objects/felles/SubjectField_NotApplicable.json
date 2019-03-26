@@ -1,0 +1,22 @@
+{
+ "id": "1a2bd424-1abb-4525-8d6b-c4971726f146",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "N/A"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Not applicable"
+  }
+ ],
+ "createdDate": "2019-02-19T13:53:31.265Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T13:53:31.265Z",
+ "lastUpdatedDate": "2019-02-19T13:53:31.265Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T13:53:31.265Z"
+}

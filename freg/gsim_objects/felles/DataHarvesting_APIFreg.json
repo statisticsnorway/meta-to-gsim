@@ -1,0 +1,25 @@
+{
+ "lastUpdatedBy": "Test",
+ "dataHarvestingType": "API",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelses API hos Skatteetaten"
+  }
+ ],
+ "validFrom": "2019-02-15T13:46:33.594Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-18T11:45:29.157Z",
+ "lastUpdatedDate": "2019-02-18T11:45:29.157Z",
+ "protocol": "/Protocol/4eea64e6-5c87-462d-9fc5-c3fdd3a310fb",
+ "createdDate": "2019-02-15T13:46:33.594Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "API FREG"
+  }
+ ],
+ "id": "662795de-3c0d-4444-a71f-04755e5b55da",
+ "direction": "COLLECT"
+}

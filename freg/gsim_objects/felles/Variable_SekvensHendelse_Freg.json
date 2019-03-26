@@ -1,0 +1,26 @@
+{
+ "unitType": "/UnitType/2d9be397-7f41-4d27-b1ec-0e8eb6f95399",
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-19T11:58:48.812Z",
+ "createdDate": "2019-02-18T14:04:36.560Z",
+ "createdBy": "Test",
+ "subjectFields": [
+  "/SubjectField/c77bddf1-006d-40bb-9d77-6b68677ecf26"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "SekvensHendelseFreg"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Sekvens for hendelser i Freg"
+  }
+ ],
+ "id": "c2c8018f-bc1f-4513-9694-95b4a4a02dec",
+ "validFrom": "2019-02-18T14:04:36.560Z",
+ "version": "1.0.3",
+ "versionValidFrom": "2019-02-19T11:58:48.812Z"
+}

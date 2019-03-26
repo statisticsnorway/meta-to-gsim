@@ -1,0 +1,23 @@
+{
+ "id": "2d9be397-7f41-4d27-b1ec-0e8eb6f95399",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "N/A"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Ikke relevant"
+  }
+ ],
+ "createdDate": "2019-02-19T11:54:53.138Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T11:54:53.138Z",
+ "lastUpdatedDate": "2019-02-19T11:54:53.138Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T11:54:53.138Z",
+ "typeOfStatisticalUnit": "NOT_APPLICABLE"
+}

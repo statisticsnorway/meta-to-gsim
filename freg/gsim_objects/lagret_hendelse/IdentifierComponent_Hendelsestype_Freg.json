@@ -1,0 +1,28 @@
+{
+ "lastUpdatedBy": "Test",
+ "representedVariable": "/RepresentedVariable/b798e440-caaa-4826-9d44-83861a5e14db",
+ "role": "ENTITY",
+ "isUnique": false,
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype i folkeregisteret"
+  }
+ ],
+ "validFrom": "2019-02-18T10:39:22.222Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-18T11:49:55.010Z",
+ "lastUpdatedDate": "2019-02-18T11:49:55.010Z",
+ "createdDate": "2019-02-18T10:39:22.222Z",
+ "isComposite": true,
+ "geoType": "POINT",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype i folkeregisteret"
+  }
+ ],
+ "id": "d8d613b5-5c2b-4517-9085-139b1dd9b565",
+ "shortName": "Hendelsestype"
+}

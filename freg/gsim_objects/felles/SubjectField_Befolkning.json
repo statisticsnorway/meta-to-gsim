@@ -1,0 +1,31 @@
+{
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-18T12:21:20.019Z",
+ "createdDate": "2019-02-18T08:53:22.603Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "02 - Befolkning"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Standard for SSBs emneinndeling - Befolkning"
+  }
+ ],
+ "id": "c77bddf1-006d-40bb-9d77-6b68677ecf26",
+ "validFrom": "2019-02-18T08:53:22.603Z",
+ "version": "1.0.2",
+ "administrativeDetails": [
+  {
+   "values": [
+    " Subject Field bør ha peker til KLASS, siden de ligger der. https://www.ssb.no/klass/klassifikasjoner/15",
+    "Mangler mulighet i KLASS til å peke til spesifikt klassifikasjonselement innen en klassifikasjon."
+   ],
+   "administrativeDetailType": "ANNOTATION"
+  }
+ ],
+ "versionValidFrom": "2019-02-18T12:21:20.019Z"
+}

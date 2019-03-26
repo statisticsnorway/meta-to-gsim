@@ -1,0 +1,25 @@
+{
+ "lastUpdatedBy": "Test",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype i Folkeregisteret"
+  }
+ ],
+ "validFrom": "2019-02-18T10:27:21.041Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-18T12:20:04.878Z",
+ "lastUpdatedDate": "2019-02-18T12:20:04.878Z",
+ "createdDate": "2019-02-18T10:27:21.041Z",
+ "createdBy": "Test",
+ "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype"
+  }
+ ],
+ "substantiveValueDomain": "/EnumeratedValueDomain/ce969161-116c-49fc-9a13-f9f27c530928",
+ "variable": "/Variable/9df84f19-0e2a-497b-8c8e-4c1a80b65a2c",
+ "id": "b798e440-caaa-4826-9d44-83861a5e14db"
+}

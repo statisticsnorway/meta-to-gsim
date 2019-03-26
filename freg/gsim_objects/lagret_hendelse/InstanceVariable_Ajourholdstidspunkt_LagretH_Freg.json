@@ -1,0 +1,28 @@
+{
+ "lastUpdatedBy": "Test",
+ "representedVariable": "/RepresentedVariable/f1dccb54-2ddb-48f3-97e0-4467579beda1",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Ajourholdstidspunkt i Freg"
+  }
+ ],
+ "dataStructureComponent": "/IdentifierComponent/ae845f7d-1951-40ae-9631-efeeb79898bc",
+ "sentinelValueDomain": "/EnumeratedValueDomain/29e2238b-1e5d-46cc-b9dc-1a0f5ec5060d",
+ "validFrom": "2019-02-19T10:37:00.784Z",
+ "version": "1.0.1",
+ "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "versionValidFrom": "2019-02-19T10:38:55.484Z",
+ "lastUpdatedDate": "2019-02-19T10:38:55.484Z",
+ "createdDate": "2019-02-19T10:37:00.784Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Ajourholdstidspunkt"
+  }
+ ],
+ "id": "e5495a9b-b2cd-47c1-bd07-a09bbf8bc812",
+ "sourceName": "ns2:ajourholdstidspunkt",
+ "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse"
+}

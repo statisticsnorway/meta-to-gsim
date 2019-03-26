@@ -1,0 +1,25 @@
+{
+ "id": "620f2fec-94cd-4161-9777-96df3009f073",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelser i Folkeregisteret"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Alle overordnede hendelser i Folkeregisteret"
+  }
+ ],
+ "createdDate": "2019-02-19T14:18:28.268Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T14:18:28.268Z",
+ "lastUpdatedDate": "2019-02-19T14:18:28.268Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T14:18:28.268Z",
+ "logicalRecords": [
+  "/LogicalRecord/a5303ade-d74f-49c4-8747-4746dd7b8ddb"
+ ]
+}

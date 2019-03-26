@@ -1,0 +1,24 @@
+{
+ "id": "d83a6f7d-bb4b-4b79-bd6d-f59f408874f6",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Persondokument"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Persondokument i Freg"
+  }
+ ],
+ "createdDate": "2019-02-19T13:09:47.223Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T13:09:47.223Z",
+ "lastUpdatedDate": "2019-02-19T13:09:47.223Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T13:09:47.223Z",
+ "variable": "/Variable/a11ac165-dd12-4190-983b-b623271dc816",
+ "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d"
+}

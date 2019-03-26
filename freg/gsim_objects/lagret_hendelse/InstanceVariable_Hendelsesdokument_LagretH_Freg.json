@@ -1,0 +1,27 @@
+{
+ "lastUpdatedBy": "Test",
+ "representedVariable": "/RepresentedVariable/73ff748c-b3ec-4e07-a581-1fcad904de91",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsesdokument i Freg"
+  }
+ ],
+ "dataStructureComponent": "/MeasureComponent/f1e30752-3746-415e-ae56-50f2c5b504dc",
+ "validFrom": "2019-02-19T14:06:14.452Z",
+ "version": "1.0.2",
+ "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "versionValidFrom": "2019-02-19T14:10:32.219Z",
+ "lastUpdatedDate": "2019-02-19T14:10:32.219Z",
+ "createdDate": "2019-02-19T14:06:14.452Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsesdokument"
+  }
+ ],
+ "id": "d1a67422-0dab-4ece-9d27-16fa61e71996",
+ "sourceName": "ns2:hendelsesdokument",
+ "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse"
+}

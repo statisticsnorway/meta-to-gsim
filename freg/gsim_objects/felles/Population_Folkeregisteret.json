@@ -1,0 +1,32 @@
+{
+ "lastUpdatedBy": "Test",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Alle som er registrert i folkeregistret fra start dato"
+  }
+ ],
+ "validFrom": "2019-02-18T09:26:05.887Z",
+ "version": "1.0.3",
+ "versionValidFrom": "2019-02-18T12:17:50.123Z",
+ "populationType": "TARGET",
+ "lastUpdatedDate": "2019-02-18T12:17:50.123Z",
+ "createdDate": "2019-02-18T09:26:05.887Z",
+ "createdBy": "Test",
+ "geography": "COUNTRY",
+ "subjectFields": [
+  "/SubjectField/c77bddf1-006d-40bb-9d77-6b68677ecf26"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Alle personer i folkeregisteret"
+  }
+ ],
+ "referencePeriodStartDate": "2019-02-17T23:00:00.000Z",
+ "universes": [
+  "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d"
+ ],
+ "id": "2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "referencePeriodEndDate": "2999-12-31T23:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+ "lastUpdatedBy": "Test",
+ "role": "/Role/85aa81f1-5998-4f3f-a8a4-3ec1aff7e4ef",
+ "administrativeStatus": "OPEN",
+ "description": [
+  {
+   "languageCode": "en",
+   "languageText": "Information provider at Norwegian tax auhtority"
+  }
+ ],
+ "validFrom": "2019-02-15T13:29:25.712Z",
+ "version": "1.0.1",
+ "agents": [
+  "/Agent/661c35a5-26b1-4a94-8c6d-a51a69305555"
+ ],
+ "versionValidFrom": "2019-02-18T11:43:50.734Z",
+ "versionRationale": [
+  {
+   "languageCode": "nb",
+   "languageText": ""
+  }
+ ],
+ "lastUpdatedDate": "2019-02-18T11:43:50.734Z",
+ "createdDate": "2019-02-15T13:29:25.712Z",
+ "createdBy": "Test",
+ "name": [
+  {
+   "languageCode": "en",
+   "languageText": "Information provider at Norwegian tax auhtority"
+  }
+ ],
+ "id": "e22b34d6-d03d-459d-80e8-f3aeb0c247cd"
+}

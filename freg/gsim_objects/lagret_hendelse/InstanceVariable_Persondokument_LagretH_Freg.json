@@ -1,0 +1,27 @@
+{
+ "id": "ae857520-8002-4da0-b650-1ca8b1d541ef",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Persondokument"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Persondokument i Freg"
+  }
+ ],
+ "createdDate": "2019-02-19T14:12:17.573Z",
+ "createdBy": "Test",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-19T14:12:20.217Z",
+ "lastUpdatedDate": "2019-02-19T14:12:20.217Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T14:12:17.573Z",
+ "representedVariable": "/RepresentedVariable/d83a6f7d-bb4b-4b79-bd6d-f59f408874f6",
+ "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+ "dataStructureComponent": "/MeasureComponent/eccc0a06-9fee-4484-bd28-a9077ca7a6c4",
+ "sourceName": "ns2:persondokument",
+ "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse"
+}

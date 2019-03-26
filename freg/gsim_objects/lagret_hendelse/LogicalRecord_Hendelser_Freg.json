@@ -1,0 +1,34 @@
+{
+ "lastUpdatedBy": "Test",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelse i folkeregisteret"
+  }
+ ],
+ "validFrom": "2019-02-18T10:50:31.672Z",
+ "version": "1.0.2",
+ "versionValidFrom": "2019-02-19T14:16:23.477Z",
+ "unitType": "/UnitType/2d9be397-7f41-4d27-b1ec-0e8eb6f95399",
+ "lastUpdatedDate": "2019-02-19T14:16:23.477Z",
+ "createdDate": "2019-02-18T10:50:31.672Z",
+ "createdBy": "Test",
+ "measureComponents": [
+  "/MeasureComponent/f1e30752-3746-415e-ae56-50f2c5b504dc",
+  "/MeasureComponent/eccc0a06-9fee-4484-bd28-a9077ca7a6c4"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelse i folkeregisteret"
+  }
+ ],
+ "id": "a5303ade-d74f-49c4-8747-4746dd7b8ddb",
+ "shortName": "HENDELSE",
+ "identifierComponents": [
+  "/IdentifierComponent/d8d613b5-5c2b-4517-9085-139b1dd9b565",
+  "/IdentifierComponent/6b163989-deeb-4eb3-a749-442d4fbf2e56",
+  "/IdentifierComponent/ae845f7d-1951-40ae-9631-efeeb79898bc",
+  "/IdentifierComponent/9f4cb7c4-b492-4b56-af4a-31cb13efdb2e"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "lastUpdatedBy": "Test",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Not applicable"
+  }
+ ],
+ "validFrom": "2019-02-19T13:47:31.848Z",
+ "version": "1.0.3",
+ "versionValidFrom": "2019-02-19T13:57:59.478Z",
+ "populationType": "TARGET",
+ "lastUpdatedDate": "2019-02-19T13:57:59.478Z",
+ "createdDate": "2019-02-19T13:47:31.848Z",
+ "createdBy": "Test",
+ "geography": "CONTINENT",
+ "subjectFields": [
+  "/SubjectField/1a2bd424-1abb-4525-8d6b-c4971726f146"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "N/A"
+  }
+ ],
+ "referencePeriodStartDate": "1959-12-31T23:00:00.000Z",
+ "universes": [
+  "/Universe/1bf5d364-13a8-47a8-bed4-c7311945c5fa"
+ ],
+ "id": "697bad36-53e8-4e6d-9b3b-0593c95eccf8",
+ "referencePeriodEndDate": "2998-12-31T23:00:00.000Z"
+}

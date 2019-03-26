@@ -1,0 +1,26 @@
+{
+ "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-18T12:23:06.666Z",
+ "createdDate": "2019-02-18T10:26:14.485Z",
+ "createdBy": "Test",
+ "subjectFields": [
+  "/SubjectField/c77bddf1-006d-40bb-9d77-6b68677ecf26"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsestype"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsetype i Folkeregistret Skatt"
+  }
+ ],
+ "id": "9df84f19-0e2a-497b-8c8e-4c1a80b65a2c",
+ "validFrom": "2019-02-18T10:26:14.485Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-18T12:23:06.666Z"
+}

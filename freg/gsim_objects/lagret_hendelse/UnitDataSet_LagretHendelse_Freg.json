@@ -1,0 +1,29 @@
+{
+ "id": "7123ad6e-0db6-480e-9c7c-c9bdacbf329c",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelser Freg"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelser i Folkeregisteret overordnet."
+  }
+ ],
+ "createdDate": "2019-02-19T14:21:29.334Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T14:21:29.334Z",
+ "lastUpdatedDate": "2019-02-19T14:21:29.334Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T14:21:29.334Z",
+ "dataSetState": "RAW_DATA",
+ "temporalityType": "EVENT",
+ "unitDataStructure": "/UnitDataStructure/620f2fec-94cd-4161-9777-96df3009f073",
+ "metadataSourcePath": "https://skatteetaten.github.io/folkeregisteret-api-dokumentasjon/kontrakter/Folkeregisterhendelse_v1.xsd",
+ "dataSourcePath": "C:\\hererdet\\rådatasettet\\ligger\\kanskje",
+ "dataExistsFromDate": "1959-12-31T23:00:00.000Z",
+ "dataExistsUntilDate": "2098-12-31T23:00:00.000Z"
+}

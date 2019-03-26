@@ -1,0 +1,25 @@
+{
+ "id": "73ff748c-b3ec-4e07-a581-1fcad904de91",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsesdokument"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "Hendelsesdokument i Freg"
+  }
+ ],
+ "administrativeStatus": "DRAFT",
+ "createdDate": "2019-02-19T13:44:25.522Z",
+ "createdBy": "Test",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-02-19T13:44:25.522Z",
+ "lastUpdatedDate": "2019-02-19T13:44:25.522Z",
+ "lastUpdatedBy": "Test",
+ "validFrom": "2019-02-19T13:44:25.522Z",
+ "variable": "/Variable/b72ec057-76ab-4a66-b3f8-f1a05e1b3881",
+ "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d"
+}
