@@ -1,0 +1,23 @@
+{
+    "id": "50954cf6-043e-43ee-9ebd-ffe113894f7d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse bruksenhetstype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse matrikkeladresse bruksenhetstype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.929236",
+    "validFrom": "2019-03-27T14:48:11.929236",
+    "createdDate": "2019-03-27T14:48:11.929236",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/f4479407-af45-43f0-9f99-7590fd7dcdeb"
+}

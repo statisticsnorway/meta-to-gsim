@@ -1,0 +1,22 @@
+{
+    "id": "a5f67537-b79e-45a1-b5a2-24ad0f3d0589",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse stemmekrets"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse stemmekrets"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.389701",
+    "validFrom": "2019-03-27T14:48:12.389701",
+    "createdDate": "2019-03-27T14:48:12.389701",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_STEMMEKRETS"
+}

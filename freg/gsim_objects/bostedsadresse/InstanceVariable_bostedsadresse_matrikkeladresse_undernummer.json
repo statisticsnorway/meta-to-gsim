@@ -1,0 +1,23 @@
+{
+    "id": "bac53ce7-8c56-4ba2-8e06-b1f9c58069a7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse undernummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse matrikkeladresse undernummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.972237",
+    "validFrom": "2019-03-27T14:48:11.972237",
+    "createdDate": "2019-03-27T14:48:11.972237",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/4d680d46-0bcd-4f7b-a096-1122de2a3c4f"
+}

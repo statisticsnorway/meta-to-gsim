@@ -1,0 +1,23 @@
+{
+    "id": "2a556dc8-e773-47c0-8c55-4c6d7e30bddb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.864237",
+    "validFrom": "2019-03-27T14:48:11.864237",
+    "createdDate": "2019-03-27T14:48:11.864237",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a42f6f03-12da-4f0d-8743-a6bbe145852b"
+}

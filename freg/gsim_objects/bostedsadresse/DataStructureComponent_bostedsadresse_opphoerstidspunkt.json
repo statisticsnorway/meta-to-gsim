@@ -1,0 +1,22 @@
+{
+    "id": "c14e9f27-ef97-4334-b5b7-41910a07c4b1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.141233",
+    "validFrom": "2019-03-27T14:48:12.141233",
+    "createdDate": "2019-03-27T14:48:12.141233",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_OPPHOERSTIDSPUNKT"
+}

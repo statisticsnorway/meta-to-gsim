@@ -1,0 +1,22 @@
+{
+    "id": "5f07f818-bea5-40b8-845d-010645ee480a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse adressetilleggsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse matrikkeladresse adressetilleggsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.317240",
+    "validFrom": "2019-03-27T14:48:12.317240",
+    "createdDate": "2019-03-27T14:48:12.317240",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_ADRESSETILLEGGSNAVN"
+}

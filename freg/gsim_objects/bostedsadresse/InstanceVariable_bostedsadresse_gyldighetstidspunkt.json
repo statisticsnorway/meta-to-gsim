@@ -1,0 +1,23 @@
+{
+    "id": "e8c9425a-6d4f-472b-9f52-9dfabfa31d2f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.796234",
+    "validFrom": "2019-03-27T14:48:11.796234",
+    "createdDate": "2019-03-27T14:48:11.796234",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/89818e7f-c277-443d-867d-d7ad8612723e"
+}

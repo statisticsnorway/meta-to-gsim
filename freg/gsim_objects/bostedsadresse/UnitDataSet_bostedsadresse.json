@@ -1,0 +1,23 @@
+{
+    "id": "cd8626c6-5c47-478d-a90d-0615dbc13956",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.682242",
+    "validFrom": "2019-03-27T14:48:11.682242",
+    "createdDate": "2019-03-27T14:48:11.682242",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/81872637-cc33-4d8b-a6cf-dc4e54124412",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

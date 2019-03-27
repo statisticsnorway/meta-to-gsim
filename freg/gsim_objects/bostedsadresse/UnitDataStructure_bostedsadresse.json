@@ -1,0 +1,23 @@
+{
+    "id": "81872637-cc33-4d8b-a6cf-dc4e54124412",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.702250",
+    "validFrom": "2019-03-27T14:48:11.703239",
+    "createdDate": "2019-03-27T14:48:11.703239",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/aaca7436-6c22-4b57-82a6-90602a025fd9"
+    ]
+}

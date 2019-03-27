@@ -1,0 +1,23 @@
+{
+    "id": "dd0e0fb4-9dae-45b3-98e9-e81617defca2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse vegadresse coAdressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse vegadresse co adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.908238",
+    "validFrom": "2019-03-27T14:48:11.908238",
+    "createdDate": "2019-03-27T14:48:11.908238",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a76c03dd-a97e-4ddc-bbd9-70a01805e56e"
+}

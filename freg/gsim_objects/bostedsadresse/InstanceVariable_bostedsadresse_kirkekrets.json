@@ -1,0 +1,23 @@
+{
+    "id": "250b5451-0aae-47ea-9be9-a9ca79407e86",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse kirkekrets"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse kirkekrets"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.090234",
+    "validFrom": "2019-03-27T14:48:12.090234",
+    "createdDate": "2019-03-27T14:48:12.090234",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/ae7fa2bb-9f55-435d-93b5-e82916e4efb6"
+}

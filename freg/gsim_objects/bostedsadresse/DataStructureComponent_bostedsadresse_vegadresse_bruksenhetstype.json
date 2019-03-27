@@ -1,0 +1,22 @@
+{
+    "id": "a45ed54c-e51b-4db5-b180-0b95b11eaac3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse vegadresse bruksenhetstype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse vegadresse bruksenhetstype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.171236",
+    "validFrom": "2019-03-27T14:48:12.171236",
+    "createdDate": "2019-03-27T14:48:12.171236",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_VEGADRESSE_BRUKSENHETSTYPE"
+}

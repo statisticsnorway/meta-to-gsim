@@ -1,0 +1,22 @@
+{
+    "id": "1c0d9a0b-69c1-40ce-8315-27f82cdeee88",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.112234",
+    "validFrom": "2019-03-27T14:48:12.112234",
+    "createdDate": "2019-03-27T14:48:12.112234",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_ERGJELDENDE"
+}

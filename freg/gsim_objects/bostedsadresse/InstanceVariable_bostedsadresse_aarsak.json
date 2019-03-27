@@ -1,0 +1,23 @@
+{
+    "id": "674f97c0-75ea-41d6-8458-2711b81aaf1d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.788235",
+    "validFrom": "2019-03-27T14:48:11.788235",
+    "createdDate": "2019-03-27T14:48:11.788235",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/b883fb71-cd52-4ce9-8ed9-2dc1e6caa8c1"
+}

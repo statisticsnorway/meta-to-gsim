@@ -1,0 +1,22 @@
+{
+    "id": "016bbc69-f27c-4a77-8387-8d00abaa48c7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse poststed postnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse matrikkeladresse poststed postnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.333234",
+    "validFrom": "2019-03-27T14:48:12.333234",
+    "createdDate": "2019-03-27T14:48:12.333234",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_POSTSTED_POSTNUMMER"
+}

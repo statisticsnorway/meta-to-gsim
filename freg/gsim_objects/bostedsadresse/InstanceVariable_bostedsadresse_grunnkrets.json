@@ -1,0 +1,23 @@
+{
+    "id": "0c9cf6dc-38eb-4f5c-9a98-10176a5ff5d5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse grunnkrets"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse grunnkrets"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.062238",
+    "validFrom": "2019-03-27T14:48:12.062238",
+    "createdDate": "2019-03-27T14:48:12.062238",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/2c227168-4e07-433f-96fc-8405eb89b97b"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "595e7f5a-769a-410e-a828-4dfe19cc007d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.781235",
+    "validFrom": "2019-03-27T14:48:11.781235",
+    "createdDate": "2019-03-27T14:48:11.781235",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/b2a839ae-e751-47fb-9375-959ab03be483"
+}

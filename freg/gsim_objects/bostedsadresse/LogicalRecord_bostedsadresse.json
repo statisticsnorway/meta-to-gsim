@@ -1,0 +1,65 @@
+{
+    "id": "aaca7436-6c22-4b57-82a6-90602a025fd9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.730237",
+    "validFrom": "2019-03-27T14:48:11.730237",
+    "createdDate": "2019-03-27T14:48:11.730237",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/3e325c23-0a3e-48f6-ad01-8ca05013970f"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/3b542ea8-7990-45d9-a32e-2cb5a3b0faba",
+        "/MeasureComponent/1c0d9a0b-69c1-40ce-8315-27f82cdeee88",
+        "/MeasureComponent/b2a839ae-e751-47fb-9375-959ab03be483",
+        "/MeasureComponent/b883fb71-cd52-4ce9-8ed9-2dc1e6caa8c1",
+        "/MeasureComponent/89818e7f-c277-443d-867d-d7ad8612723e",
+        "/MeasureComponent/c14e9f27-ef97-4334-b5b7-41910a07c4b1",
+        "/MeasureComponent/d55b43d3-a9f3-4528-b490-050e24d24155",
+        "/MeasureComponent/743596ff-cf12-4a96-84ef-795961b2c02f",
+        "/MeasureComponent/bd342759-e12d-467d-b696-fd9c9c03cb9b",
+        "/MeasureComponent/a45ed54c-e51b-4db5-b180-0b95b11eaac3",
+        "/MeasureComponent/513eb0aa-d9e0-47ca-bc96-5a5a92400dce",
+        "/MeasureComponent/163c74be-1aa5-4423-9310-4d1dd9ac51fb",
+        "/MeasureComponent/a42f6f03-12da-4f0d-8743-a6bbe145852b",
+        "/MeasureComponent/6bb068fa-0c00-4066-a76f-b81338fa074a",
+        "/MeasureComponent/3d88ad85-e30a-4f11-9134-5e85c5bad57d",
+        "/MeasureComponent/85aa1fbc-1166-4ebc-a0cb-32be08384791",
+        "/MeasureComponent/016bbc69-f27c-4a77-8387-8d00abaa48c7",
+        "/MeasureComponent/a76c03dd-a97e-4ddc-bbd9-70a01805e56e",
+        "/MeasureComponent/8edcc880-ee00-4e6d-9a4a-59c93a16a1c3",
+        "/MeasureComponent/f4479407-af45-43f0-9f99-7590fd7dcdeb",
+        "/MeasureComponent/1307f993-0f5e-4d96-b27c-4e935c185e6e",
+        "/MeasureComponent/6eca0c76-992a-45d1-ab08-29e72b4bc7e5",
+        "/MeasureComponent/300b902c-410d-4e54-9d9c-6073af3f4a57",
+        "/MeasureComponent/e6a43347-24f5-4e8e-8477-00234eb49103",
+        "/MeasureComponent/4d680d46-0bcd-4f7b-a096-1122de2a3c4f",
+        "/MeasureComponent/5f07f818-bea5-40b8-845d-010645ee480a",
+        "/MeasureComponent/85aa1fbc-1166-4ebc-a0cb-32be08384791",
+        "/MeasureComponent/016bbc69-f27c-4a77-8387-8d00abaa48c7",
+        "/MeasureComponent/58745cea-3b13-43c3-9bf6-28b7a48601a8",
+        "/MeasureComponent/9d3d4504-0292-4e1a-a187-af7e68bf4239",
+        "/MeasureComponent/41774674-20ea-4c5f-acad-53460306949b",
+        "/MeasureComponent/17f11d5b-0a1c-4028-9536-83107eeafafd",
+        "/MeasureComponent/07237af9-271d-405e-90cb-3f486d02d71e",
+        "/MeasureComponent/2c227168-4e07-433f-96fc-8405eb89b97b",
+        "/MeasureComponent/a5f67537-b79e-45a1-b5a2-24ad0f3d0589",
+        "/MeasureComponent/6aaa1e44-98f7-45d5-92aa-cfbcdc3d9510",
+        "/MeasureComponent/ae7fa2bb-9f55-435d-93b5-e82916e4efb6"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BOSTEDSADRESSE"
+}

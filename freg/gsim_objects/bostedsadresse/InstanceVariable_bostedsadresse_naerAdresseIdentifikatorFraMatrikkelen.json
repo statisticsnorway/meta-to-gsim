@@ -1,0 +1,23 @@
+{
+    "id": "a0296252-c8b7-4e47-b359-c9ffe2692499",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse naerAdresseIdentifikatorFraMatrikkelen"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse naer adresse identifikator fra matrikkelen"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:12.026237",
+    "validFrom": "2019-03-27T14:48:12.026237",
+    "createdDate": "2019-03-27T14:48:12.026237",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/41774674-20ea-4c5f-acad-53460306949b"
+}

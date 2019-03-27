@@ -1,0 +1,23 @@
+{
+    "id": "fd881fda-416f-466d-8ccd-f8284484ea8e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse poststed poststedsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse matrikkeladresse poststed poststedsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.989236",
+    "validFrom": "2019-03-27T14:48:11.989236",
+    "createdDate": "2019-03-27T14:48:11.989236",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/85aa1fbc-1166-4ebc-a0cb-32be08384791"
+}

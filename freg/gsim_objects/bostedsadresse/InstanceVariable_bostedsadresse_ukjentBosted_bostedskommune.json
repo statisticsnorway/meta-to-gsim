@@ -1,0 +1,23 @@
+{
+    "id": "5084ebde-aa7c-4766-8601-d115431fb832",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse ukjentBosted bostedskommune"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse ukjentBosted bostedskommune"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-27T14:48:11.812236",
+    "validFrom": "2019-03-27T14:48:11.813235",
+    "createdDate": "2019-03-27T14:48:11.813235",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/d55b43d3-a9f3-4528-b490-050e24d24155"
+}
