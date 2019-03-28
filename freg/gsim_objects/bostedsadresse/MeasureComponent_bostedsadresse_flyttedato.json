@@ -1,0 +1,22 @@
+{
+    "id": "85af8523-be6f-461c-91e0-a57a45f0aa05",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse flyttedato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse flyttedato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:13.000Z",
+    "validFrom": "2019-03-28T11:05:13.000Z",
+    "createdDate": "2019-03-28T11:05:13.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_FLYTTEDATO"
+}

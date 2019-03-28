@@ -1,0 +1,22 @@
+{
+    "id": "25a1d1ea-ff1f-41d7-a601-194bc41eb8a3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:12.000Z",
+    "validFrom": "2019-03-28T11:05:12.000Z",
+    "createdDate": "2019-03-28T11:05:12.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_KILDE"
+}

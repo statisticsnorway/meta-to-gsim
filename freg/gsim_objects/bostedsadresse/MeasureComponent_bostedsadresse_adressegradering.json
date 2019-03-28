@@ -1,0 +1,22 @@
+{
+    "id": "35169a6d-4aad-4df9-8454-c1ebe7491a3d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse adressegradering"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse adressegradering"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:13.000Z",
+    "validFrom": "2019-03-28T11:05:13.000Z",
+    "createdDate": "2019-03-28T11:05:13.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_ADRESSEGRADERING"
+}

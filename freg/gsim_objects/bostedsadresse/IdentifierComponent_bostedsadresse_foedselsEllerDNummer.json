@@ -1,0 +1,22 @@
+{
+    "id": "450ed148-07d1-4626-827f-514997a29cbe",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:13.000Z",
+    "validFrom": "2019-03-28T11:05:13.000Z",
+    "createdDate": "2019-03-28T11:05:13.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_FOEDSELSELLERDNUMMER"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "98dff3ba-ac73-44b1-9a13-60a4ebc88a83",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse adresseIdentifikatorFraMatrikkelen"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse adresse identifikator fra matrikkelen"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:13.000Z",
+    "validFrom": "2019-03-28T11:05:13.000Z",
+    "createdDate": "2019-03-28T11:05:13.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_ADRESSEIDENTIFIKATORFRAMATRIKKELEN"
+}

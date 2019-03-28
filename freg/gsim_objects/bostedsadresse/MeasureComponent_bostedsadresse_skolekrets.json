@@ -1,0 +1,22 @@
+{
+    "id": "b2a90a02-8443-48e1-8dbc-b851380ff844",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse skolekrets"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bostedsadresse skolekrets"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-28T11:05:13.000Z",
+    "validFrom": "2019-03-28T11:05:13.000Z",
+    "createdDate": "2019-03-28T11:05:13.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BOSTEDSADRESSE_SKOLEKRETS"
+}
