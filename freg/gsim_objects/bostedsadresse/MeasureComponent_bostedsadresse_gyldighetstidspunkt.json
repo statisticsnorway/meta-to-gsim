@@ -1,5 +1,5 @@
 {
-    "id": "26190a38-4336-434c-a913-1640652ccf09",
+    "id": "64896e6a-2c49-43b4-bcc6-8e0ff7ab3990",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:11.000Z",
-    "validFrom": "2019-03-29T15:14:11.000Z",
-    "createdDate": "2019-03-29T15:14:11.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_GYLDIGHETSTIDSPUNKT"

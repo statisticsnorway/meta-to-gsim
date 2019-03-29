@@ -1,0 +1,22 @@
+{
+    "id": "bde27445-fef3-425d-ac37-6ef97d0955c2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt verge omfang"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG vergemaalEllerFremtidsfullmakt verge omfang"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_VERGE_OMFANG"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "52f3d242-d2b0-40c5-8254-618d5376c730",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kjoenn gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/f8ebaffb-fb02-48e7-b7c8-59f53ce7f5af"
+}

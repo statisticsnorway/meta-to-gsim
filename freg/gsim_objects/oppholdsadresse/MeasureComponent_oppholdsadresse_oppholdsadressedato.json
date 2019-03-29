@@ -1,0 +1,22 @@
+{
+    "id": "c50c78dd-836e-492c-8805-84f372f30659",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse oppholdsadressedato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse oppholdsadressedato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_OPPHOLDSADRESSEDATO"
+}

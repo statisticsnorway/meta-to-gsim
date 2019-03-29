@@ -1,0 +1,23 @@
+{
+    "id": "60635761-5b05-49a0-b489-96918074552b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPersonUtenFolkeregisteridentifikator statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon relatertPersonUtenFolkeregisteridentifikator statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a307571b-b2b6-4656-a8e6-e9ee4b8b1aba"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "d448c0fd-222b-40ba-94e8-fa571bcc970d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

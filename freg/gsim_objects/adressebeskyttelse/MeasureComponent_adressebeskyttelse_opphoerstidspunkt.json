@@ -1,0 +1,22 @@
+{
+    "id": "2dc11453-8da5-4928-85af-660a2023aa9b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "ADRESSEBESKYTTELSE_OPPHOERSTIDSPUNKT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "41f65717-e474-4f37-823a-fa3786b5afdf",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSEIUTLANDET_ERGJELDENDE"
+}

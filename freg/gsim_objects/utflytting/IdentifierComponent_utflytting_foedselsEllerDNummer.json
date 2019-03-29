@@ -1,0 +1,23 @@
+{
+    "id": "31058549-f2a0-43b6-9f48-cac589d53b78",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTFLYTTING_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "26061901-2ce7-402d-b018-45db796dc3fd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) innflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/042c375b-2236-4717-9259-1ac39b5db6ab"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/eb087054-15e8-4fae-a440-bd8ca7d73a0e",
+        "/MeasureComponent/2b72c23d-6fcf-4c60-a1f7-f50ae0da9a0e",
+        "/MeasureComponent/72ca3bbe-bc07-46d2-93d9-22086ad4df49",
+        "/MeasureComponent/c5186fd8-e48f-4cd3-bf0f-fa45ff764f76",
+        "/MeasureComponent/5eaa6fb5-e703-46aa-89d5-f2c81dbe7f3c",
+        "/MeasureComponent/721e8df0-2308-4b7b-b69f-df8fec36dcd6",
+        "/MeasureComponent/ff184bc5-326d-4ca1-8345-d63a9359f453",
+        "/MeasureComponent/658b8faa-75dc-4713-9cc2-bcf06998b52b"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "INNFLYTTING"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ad6b75ed-4833-42db-bebf-8725ed8adad6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett foedsel inorge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/dc0b8092-0ce7-46bd-b14f-30bcb540794a",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

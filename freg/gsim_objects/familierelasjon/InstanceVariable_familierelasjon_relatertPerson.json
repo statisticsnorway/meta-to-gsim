@@ -1,0 +1,23 @@
+{
+    "id": "bbbdc6c1-3222-4011-9547-bf91beb2c57c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPerson"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon relatert person"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/8fc49cdd-aa74-4372-aceb-b5dc25015c70"
+}

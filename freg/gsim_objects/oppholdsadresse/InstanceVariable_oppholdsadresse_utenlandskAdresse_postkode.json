@@ -1,0 +1,23 @@
+{
+    "id": "483d3b1f-cc6b-4bda-8450-a021d183739d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse utenlandskAdresse postkode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse utenlandskAdresse postkode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/6dcc82e0-c3aa-4fec-a8d3-7c44aeaf3132"
+}

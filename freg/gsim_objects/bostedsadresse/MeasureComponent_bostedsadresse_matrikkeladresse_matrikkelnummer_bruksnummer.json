@@ -1,5 +1,5 @@
 {
-    "id": "202cdef7-c302-47c4-bef0-7aa1e300d755",
+    "id": "3b97f78b-e8ff-436e-bf56-3cc7b8a17c56",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:12.000Z",
-    "validFrom": "2019-03-29T15:14:12.000Z",
-    "createdDate": "2019-03-29T15:14:12.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_MATRIKKELNUMMER_BRUKSNUMMER"

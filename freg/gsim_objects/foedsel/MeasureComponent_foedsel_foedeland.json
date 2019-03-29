@@ -1,0 +1,22 @@
+{
+    "id": "f67f5871-962d-4eb9-803d-9a9e307f4c1a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedeland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedeland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSEL_FOEDELAND"
+}

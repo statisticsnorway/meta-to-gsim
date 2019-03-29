@@ -1,0 +1,23 @@
+{
+    "id": "6257c21c-f162-40a5-9a79-d1f1e178a232",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted matrikkeladresse poststed poststedsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted matrikkeladresse poststed poststedsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/65936215-be0c-4fb7-afde-ccb0c632a332"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "4c929b0e-beb6-412e-907e-2cb951f712cf",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument gyldigFra"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument gyldig fra"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "LEGITIMASJONSDOKUMENT_GYLDIGFRA"
+}

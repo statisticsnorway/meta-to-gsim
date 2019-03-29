@@ -1,0 +1,22 @@
+{
+    "id": "c5c9d02e-02f2-44ff-a4c2-07445be0e31e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer utstederland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utlendingsmyndighetenesIdentifikasjonsnummer utstederland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_UTSTEDERLAND"
+}

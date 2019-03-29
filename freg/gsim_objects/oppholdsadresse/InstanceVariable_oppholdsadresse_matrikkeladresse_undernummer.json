@@ -1,0 +1,23 @@
+{
+    "id": "cdd899e7-ae55-42dc-80c4-2dd79eba0477",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse matrikkeladresse undernummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse matrikkeladresse undernummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/bb78abfa-7dfc-4731-8684-564dd4fdfa62"
+}

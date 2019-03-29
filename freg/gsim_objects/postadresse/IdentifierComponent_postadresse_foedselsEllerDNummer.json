@@ -1,0 +1,23 @@
+{
+    "id": "585a73cd-859f-456e-a8ea-6bb9c60c2908",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

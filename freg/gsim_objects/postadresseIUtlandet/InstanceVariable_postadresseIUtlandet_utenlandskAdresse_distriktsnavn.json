@@ -1,0 +1,23 @@
+{
+    "id": "81b6f643-dba2-4e23-b81a-3f8141c460a6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet utenlandskAdresse distriktsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet utenlandskAdresse distriktsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/ac5c88e1-2bdc-4095-8a7c-a9c64a1367db"
+}

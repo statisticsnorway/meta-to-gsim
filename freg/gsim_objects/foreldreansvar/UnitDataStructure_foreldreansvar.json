@@ -1,0 +1,23 @@
+{
+    "id": "bdabb9f7-e49c-485a-b659-3ea0ffafaaae",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur foreldreansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/3f054b8b-8302-4fdf-9b0e-738ae3eb8e49"
+    ]
+}

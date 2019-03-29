@@ -1,0 +1,23 @@
+{
+    "id": "843afc5f-822e-4799-afc6-9a67ebadc59d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet utenlandskAdresseIFrittFormat postkode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet utenlandskAdresseIFrittFormat postkode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/3609e06d-f382-490e-a941-4bcdb03deebf"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "5303e1cd-5dbe-45e1-884c-901543f494df",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSEIUTLANDET_AARSAK"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "ef275bec-536a-42c1-94ce-03513cb9dfed",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kjoenn opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KJOENN_OPPHOERSTIDSPUNKT"
+}

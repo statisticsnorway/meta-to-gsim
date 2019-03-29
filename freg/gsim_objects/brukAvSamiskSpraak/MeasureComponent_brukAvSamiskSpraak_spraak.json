@@ -1,0 +1,22 @@
+{
+    "id": "3ef0ef8c-5812-453c-a67f-9804fbcb78a2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak spraak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG brukAvSamiskSpraak spraak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BRUKAVSAMISKSPRAAK_SPRAAK"
+}

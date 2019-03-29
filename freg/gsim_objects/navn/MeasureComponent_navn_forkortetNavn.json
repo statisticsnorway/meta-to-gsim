@@ -1,0 +1,22 @@
+{
+    "id": "107f5a97-227a-4e75-98cd-a44390aa16fe",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn forkortetNavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn forkortet navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_FORKORTETNAVN"
+}

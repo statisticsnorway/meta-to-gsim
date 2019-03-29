@@ -1,0 +1,23 @@
+{
+    "id": "4a2911f5-3e1f-429a-a0f8-44ccf73ddd17",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/794a3408-8d0c-4c80-9142-5fc1abc1a360"
+}

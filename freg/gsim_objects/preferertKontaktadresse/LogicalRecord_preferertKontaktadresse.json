@@ -1,0 +1,37 @@
+{
+    "id": "46234179-9d94-4fcb-881a-cccc5b637c3c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) preferert kontaktadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/065f6daa-233b-43fd-9794-b0d7cad05c06"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/adffab3c-f1e4-49e8-8b7f-3eb286b3d8f7",
+        "/MeasureComponent/d81d522e-20a4-4b76-821f-55858292c1b9",
+        "/MeasureComponent/2934c088-7e8e-4f36-929a-aee4822272c5",
+        "/MeasureComponent/c1324794-cd10-428a-8dbf-c923d98833af",
+        "/MeasureComponent/dd9cc98b-ad53-474f-a296-42467405e4f0",
+        "/MeasureComponent/8e90ae62-7c4d-4cb0-ac3e-b97454845356",
+        "/MeasureComponent/a53edc07-0950-4c20-b13a-08870f3b3a3d",
+        "/MeasureComponent/25569e63-c3c4-4084-a826-6a8bb322f83d",
+        "/MeasureComponent/b1fee05d-886e-470e-8aa6-f48ce41e3d8f"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "PREFERERTKONTAKTADRESSE"
+}

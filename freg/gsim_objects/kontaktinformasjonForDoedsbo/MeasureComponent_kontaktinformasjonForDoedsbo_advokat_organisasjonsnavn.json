@@ -1,0 +1,22 @@
+{
+    "id": "974a439f-3b28-4edb-86c3-bf2f40986f00",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo advokat organisasjonsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kontaktinformasjonForDoedsbo advokat organisasjonsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ADVOKAT_ORGANISASJONSNAVN"
+}

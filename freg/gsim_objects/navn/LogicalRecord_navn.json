@@ -1,0 +1,41 @@
+{
+    "id": "5933c67d-70e6-415c-a4d3-f5306440e70a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/71435876-fc7f-49b7-96f2-2bac98e4ff81"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/ab4d8920-3759-444a-a02d-5377b1d843f4",
+        "/MeasureComponent/b85fa273-fb7d-493f-894f-9be1eeb4c126",
+        "/MeasureComponent/3e5693bd-6215-480b-ba84-e8d677fa9b50",
+        "/MeasureComponent/b12b8a9b-d5ce-4638-9e14-e6c8d9270018",
+        "/MeasureComponent/f0871baa-6e76-411b-a310-21368a4798e1",
+        "/MeasureComponent/610ac9df-6259-4bc4-a4e7-4f3749e19f0c",
+        "/MeasureComponent/5316adc1-1832-4c9c-82e7-9ef643c047ae",
+        "/MeasureComponent/c428c84d-2a62-4867-b9f3-bb6a84dbedd5",
+        "/MeasureComponent/0ef84fc2-3b94-4307-900c-d65dfc71be49",
+        "/MeasureComponent/107f5a97-227a-4e75-98cd-a44390aa16fe",
+        "/MeasureComponent/f821ea27-50fd-47e0-a8cc-d90288277bbf",
+        "/MeasureComponent/092c66af-20f0-48df-9881-ec52afa1ebe0",
+        "/MeasureComponent/434d0971-49e0-4115-9c55-7fe540eafb9b"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "NAVN"
+}

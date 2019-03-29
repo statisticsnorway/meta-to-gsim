@@ -1,0 +1,22 @@
+{
+    "id": "ff184bc5-326d-4ca1-8345-d63a9359f453",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting fraflyttingsland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting fraflyttingsland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_FRAFLYTTINGSLAND"
+}

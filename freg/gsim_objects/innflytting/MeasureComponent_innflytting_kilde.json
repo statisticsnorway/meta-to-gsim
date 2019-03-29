@@ -1,0 +1,22 @@
+{
+    "id": "72ca3bbe-bc07-46d2-93d9-22086ad4df49",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_KILDE"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "d89e2f9f-f5af-4ad0-8b2f-92b26613767e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand sted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand sted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/438a9f43-d879-45d1-a1ab-366e791625ef"
+}

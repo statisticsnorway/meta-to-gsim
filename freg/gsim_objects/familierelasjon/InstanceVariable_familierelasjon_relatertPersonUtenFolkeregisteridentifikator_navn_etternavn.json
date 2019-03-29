@@ -1,0 +1,23 @@
+{
+    "id": "9fed27a3-4ec4-4ffc-b988-df5aed917671",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPersonUtenFolkeregisteridentifikator navn etternavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon relatertPersonUtenFolkeregisteridentifikator navn etternavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/86bf72b7-ff12-46d4-a782-9ce5fa3f33bf"
+}

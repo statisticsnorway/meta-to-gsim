@@ -1,0 +1,41 @@
+{
+    "id": "199b914e-ba9d-4324-b2a7-b598c8aa3af4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/419154f6-e176-4913-bf44-a57d153788a0"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/dd5472c5-0d8d-4d48-8009-1a7c69f357f7",
+        "/MeasureComponent/2561c5aa-855b-462d-8c32-8e3dca144586",
+        "/MeasureComponent/23e70fee-ac0f-4312-a854-17e0698a40d6",
+        "/MeasureComponent/a426847a-3c3f-4c6e-a267-9c20897b7844",
+        "/MeasureComponent/5b1711de-b32c-447a-b347-670979bdbcef",
+        "/MeasureComponent/1808f403-8870-4592-8ad2-dc6a11cdab1b",
+        "/MeasureComponent/807b9a7d-440c-4e7a-a828-f823a6f98b9d",
+        "/MeasureComponent/f7255860-a3f8-46eb-92f0-b6e377c2d812",
+        "/MeasureComponent/2f0b177c-f705-4b41-9d34-60e001964c60",
+        "/MeasureComponent/1b805b12-2443-4d39-90fe-1aa4a78621c5",
+        "/MeasureComponent/438a9f43-d879-45d1-a1ab-366e791625ef",
+        "/MeasureComponent/9a2a48f8-0247-44e5-8f35-559229891c50",
+        "/MeasureComponent/5c10866b-d303-45e0-a543-6f8b2f8874a9"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "SIVILSTAND"
+}

@@ -1,5 +1,5 @@
 {
-    "id": "e47e11bf-e80c-4fa1-97ac-7817623d3eb3",
+    "id": "0779bd04-68b5-4153-b2f7-ddc57a8e605b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:12.000Z",
-    "validFrom": "2019-03-29T15:14:12.000Z",
-    "createdDate": "2019-03-29T15:14:12.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_KIRKEKRETS"

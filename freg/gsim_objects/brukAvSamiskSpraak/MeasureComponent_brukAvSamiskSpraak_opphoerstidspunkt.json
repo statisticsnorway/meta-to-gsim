@@ -1,0 +1,22 @@
+{
+    "id": "2fe4aacf-7157-411f-a1cf-ee3c055a9b94",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG brukAvSamiskSpraak opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BRUKAVSAMISKSPRAAK_OPPHOERSTIDSPUNKT"
+}

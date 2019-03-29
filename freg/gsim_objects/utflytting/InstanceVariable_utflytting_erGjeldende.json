@@ -1,0 +1,23 @@
+{
+    "id": "6dacbc4b-4046-44ba-8dff-03475ad40a23",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/5d7d0918-03b0-4c46-9057-af66fbd15251"
+}

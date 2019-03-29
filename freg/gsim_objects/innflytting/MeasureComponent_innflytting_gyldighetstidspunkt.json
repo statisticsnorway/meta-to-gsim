@@ -1,0 +1,22 @@
+{
+    "id": "5eaa6fb5-e703-46aa-89d5-f2c81dbe7f3c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_GYLDIGHETSTIDSPUNKT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "fb4e7369-0e19-4f4a-bbff-e999dca67c87",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/d4559006-1c3d-4597-9212-4c057afc3a81"
+}

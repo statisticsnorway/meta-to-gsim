@@ -1,0 +1,23 @@
+{
+    "id": "65335814-7e8a-4b21-a0a5-eec01e1c4f39",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/2d3ea968-0b0b-4ae7-8a33-dc537fa38e68"
+}

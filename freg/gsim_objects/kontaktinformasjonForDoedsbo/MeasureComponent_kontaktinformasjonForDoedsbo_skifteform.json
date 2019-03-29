@@ -1,0 +1,22 @@
+{
+    "id": "b6fb9256-2870-410b-bace-2162dbdf4f6d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo skifteform"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kontaktinformasjonForDoedsbo skifteform"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_SKIFTEFORM"
+}

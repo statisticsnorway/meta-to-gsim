@@ -1,0 +1,22 @@
+{
+    "id": "4bb4481c-431f-41f3-b861-9d5e8fe60994",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_ERGJELDENDE"
+}

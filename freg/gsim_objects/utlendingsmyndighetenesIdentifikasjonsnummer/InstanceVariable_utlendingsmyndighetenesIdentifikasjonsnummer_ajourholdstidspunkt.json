@@ -1,0 +1,23 @@
+{
+    "id": "532fae9a-acbe-4a63-a8e7-c570af07c452",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utlendingsmyndighetenesIdentifikasjonsnummer ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/e3c1b216-3047-43e2-a38f-3bc02e7b554f"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "6666b30b-4b0f-422e-890e-ab2a1820da2c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/84ac4cd4-2754-4862-8985-dec8486fd42a",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

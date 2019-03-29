@@ -1,0 +1,23 @@
+{
+    "id": "339d00d6-9137-45a5-8b85-0563d993ae01",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedselsaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedselsaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/52140270-3441-4574-b86e-533591a33771"
+}

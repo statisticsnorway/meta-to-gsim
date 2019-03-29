@@ -1,0 +1,23 @@
+{
+    "id": "e50aa2e3-a0af-41fb-8c0c-7c2c643df197",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/ad623dc6-87c2-471e-a8a1-a520729af741"
+}

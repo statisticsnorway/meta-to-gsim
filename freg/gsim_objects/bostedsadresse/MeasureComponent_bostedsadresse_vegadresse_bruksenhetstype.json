@@ -1,5 +1,5 @@
 {
-    "id": "495ef3c4-f391-48db-98bb-5c3ffbf808f6",
+    "id": "1370464a-b044-4d23-b1c6-221f425a80a2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:11.000Z",
-    "validFrom": "2019-03-29T15:14:11.000Z",
-    "createdDate": "2019-03-29T15:14:11.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_VEGADRESSE_BRUKSENHETSTYPE"

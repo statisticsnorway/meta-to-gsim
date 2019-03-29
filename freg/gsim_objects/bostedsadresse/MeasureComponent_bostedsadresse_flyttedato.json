@@ -1,5 +1,5 @@
 {
-    "id": "bb6ebce4-b4e6-4231-a284-ba23032217e0",
+    "id": "a5426f8d-bd90-4703-8e46-50c4bdb75b97",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:12.000Z",
-    "validFrom": "2019-03-29T15:14:12.000Z",
-    "createdDate": "2019-03-29T15:14:12.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_FLYTTEDATO"

@@ -1,0 +1,22 @@
+{
+    "id": "f0224368-9967-42b7-8f11-276974a1cbd1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_KILDE"
+}

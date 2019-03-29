@@ -1,0 +1,22 @@
+{
+    "id": "bc0ab74f-4c41-4448-a04f-68093aeb3fa8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet rettIdentitetVedIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet rett identitet ved identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETVEDIDENTIFIKASJONSNUMMER"
+}

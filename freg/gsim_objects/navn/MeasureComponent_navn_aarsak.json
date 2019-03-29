@@ -1,0 +1,22 @@
+{
+    "id": "b12b8a9b-d5ce-4638-9e14-e6c8d9270018",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_AARSAK"
+}

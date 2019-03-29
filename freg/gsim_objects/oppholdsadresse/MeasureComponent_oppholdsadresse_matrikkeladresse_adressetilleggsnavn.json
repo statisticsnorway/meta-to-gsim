@@ -1,0 +1,22 @@
+{
+    "id": "6682f427-78d4-478c-98d2-f33d55e7e388",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse matrikkeladresse adressetilleggsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse matrikkeladresse adressetilleggsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_MATRIKKELADRESSE_ADRESSETILLEGGSNAVN"
+}

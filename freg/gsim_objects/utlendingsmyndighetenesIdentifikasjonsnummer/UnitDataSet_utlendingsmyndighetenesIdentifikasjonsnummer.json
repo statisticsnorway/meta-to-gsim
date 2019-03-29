@@ -1,0 +1,23 @@
+{
+    "id": "3699b3e8-0841-4364-93ac-2c2dec27372e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett utlendingsmyndighetenes identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/200efe18-5362-469c-810d-25d237145ffa",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

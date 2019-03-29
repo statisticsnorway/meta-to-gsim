@@ -1,0 +1,23 @@
+{
+    "id": "b67c00bd-ba5d-45d7-a89b-30a444a6e56d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/1f9253e1-1e4d-48e9-99de-143228c8d343"
+}

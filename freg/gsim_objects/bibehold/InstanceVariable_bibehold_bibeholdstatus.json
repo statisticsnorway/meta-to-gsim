@@ -1,0 +1,23 @@
+{
+    "id": "d620158d-188e-4eb1-9ef0-7a7cd4105525",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold bibeholdstatus"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bibehold bibeholdstatus"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/aff954c3-1ed5-44bb-93c9-4318fee5a0d5"
+}

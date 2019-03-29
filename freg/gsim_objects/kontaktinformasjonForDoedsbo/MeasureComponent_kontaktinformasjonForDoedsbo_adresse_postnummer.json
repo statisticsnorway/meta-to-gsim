@@ -1,0 +1,22 @@
+{
+    "id": "86301897-b958-4c19-b32a-a6dd87de9249",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo adresse postnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kontaktinformasjonForDoedsbo adresse postnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ADRESSE_POSTNUMMER"
+}

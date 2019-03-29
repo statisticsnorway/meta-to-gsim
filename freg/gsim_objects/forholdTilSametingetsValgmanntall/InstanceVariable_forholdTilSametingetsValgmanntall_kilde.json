@@ -1,0 +1,23 @@
+{
+    "id": "1c3ae065-b467-4629-abf8-95b63befe3e8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG forholdTilSametingetsValgmanntall kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/89a17a1b-45c3-42ca-850f-58e3fd28b128"
+}

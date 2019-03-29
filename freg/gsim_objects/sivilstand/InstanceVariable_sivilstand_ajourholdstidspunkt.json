@@ -1,0 +1,23 @@
+{
+    "id": "4d860f91-30f1-4bae-a966-3a76c0a4ea0a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/dd5472c5-0d8d-4d48-8009-1a7c69f357f7"
+}

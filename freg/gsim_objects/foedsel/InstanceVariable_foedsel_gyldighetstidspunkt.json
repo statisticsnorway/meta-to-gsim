@@ -1,0 +1,23 @@
+{
+    "id": "eb6297ba-7665-4cb4-a34a-04540f325d53",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/e9c62ee7-0b37-4dae-9e7c-41509010ab57"
+}

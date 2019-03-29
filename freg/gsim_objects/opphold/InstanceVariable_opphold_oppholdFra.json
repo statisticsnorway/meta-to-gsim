@@ -1,0 +1,23 @@
+{
+    "id": "15413d56-c158-424e-96e0-4104c5348d6d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold oppholdFra"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold opphold fra"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/0e67b449-6f24-4ef9-9d1d-1bbe0f9819c2"
+}

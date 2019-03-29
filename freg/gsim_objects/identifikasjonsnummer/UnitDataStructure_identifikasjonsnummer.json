@@ -1,0 +1,23 @@
+{
+    "id": "90e43ccc-3a96-4540-902a-01a82425fa8d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/fd17bde8-81a6-4983-a6b1-ffcf732e7978"
+    ]
+}

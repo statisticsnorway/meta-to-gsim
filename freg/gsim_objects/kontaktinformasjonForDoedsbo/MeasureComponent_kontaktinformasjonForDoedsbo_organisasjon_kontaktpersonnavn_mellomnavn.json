@@ -1,0 +1,22 @@
+{
+    "id": "55a5e187-6baa-4536-ba58-d72ebd240306",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo organisasjon kontaktpersonnavn mellomnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kontaktinformasjonForDoedsbo organisasjon kontaktpersonnavn mellomnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ORGANISASJON_KONTAKTPERSONNAVN_MELLOMNAVN"
+}

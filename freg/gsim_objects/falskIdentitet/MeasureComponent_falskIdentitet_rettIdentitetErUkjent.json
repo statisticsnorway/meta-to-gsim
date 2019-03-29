@@ -1,0 +1,22 @@
+{
+    "id": "0eb8afee-aa34-4f74-b2be-65563c3eb56e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet rettIdentitetErUkjent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet rett identitet er ukjent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETERUKJENT"
+}

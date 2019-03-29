@@ -1,0 +1,23 @@
+{
+    "id": "bacaf51e-4379-4987-af40-9dd8fb2fb710",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument utstederland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument utstederland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/4d67fe9d-10fd-4703-bf63-ad7879a13686"
+}

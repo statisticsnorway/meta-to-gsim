@@ -1,0 +1,23 @@
+{
+    "id": "2e043ec0-5ae7-4504-9a8c-01ecc37e372e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett oppholdsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/1ed2a9bd-8a54-4633-9aae-a36e2c26fd3a",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

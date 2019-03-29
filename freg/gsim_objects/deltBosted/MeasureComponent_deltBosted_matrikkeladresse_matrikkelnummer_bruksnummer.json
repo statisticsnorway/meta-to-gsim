@@ -1,0 +1,22 @@
+{
+    "id": "4b2ca07b-2a65-49af-9a43-d5a421c696bd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted matrikkeladresse matrikkelnummer bruksnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted matrikkeladresse matrikkelnummer bruksnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_MATRIKKELADRESSE_MATRIKKELNUMMER_BRUKSNUMMER"
+}

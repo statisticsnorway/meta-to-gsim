@@ -1,0 +1,22 @@
+{
+    "id": "bacbc1bb-b12b-4eb8-ba68-a706a9f53e2f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG forholdTilSametingetsValgmanntall opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_OPPHOERSTIDSPUNKT"
+}

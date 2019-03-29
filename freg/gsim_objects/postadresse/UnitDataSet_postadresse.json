@@ -1,0 +1,23 @@
+{
+    "id": "3005e3a2-b510-4edb-a76c-063ed12ae221",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett postadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/cf1483d3-5474-4e0c-90c6-27598480e557",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

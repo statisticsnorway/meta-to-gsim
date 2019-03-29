@@ -1,0 +1,23 @@
+{
+    "id": "17291800-efb9-48e3-879f-2add380d215f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/31dab2f9-2c7a-4253-bbaa-26ca52eee79a",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

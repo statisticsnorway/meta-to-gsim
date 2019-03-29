@@ -1,0 +1,23 @@
+{
+    "id": "71435876-fc7f-49b7-96f2-2bac98e4ff81",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

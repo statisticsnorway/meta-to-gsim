@@ -1,0 +1,23 @@
+{
+    "id": "02bf9c5c-f5df-4aca-83f9-cdfef71eb9ee",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/c93917fd-2010-4347-b452-006d4a789665"
+}

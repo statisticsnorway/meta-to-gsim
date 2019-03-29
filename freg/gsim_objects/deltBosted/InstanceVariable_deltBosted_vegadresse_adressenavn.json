@@ -1,0 +1,23 @@
+{
+    "id": "df887591-a436-4a91-bca3-d7ec274fd178",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse adressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted vegadresse adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/b524b9e3-eb93-4c6c-af7d-b6688f81c1c5"
+}

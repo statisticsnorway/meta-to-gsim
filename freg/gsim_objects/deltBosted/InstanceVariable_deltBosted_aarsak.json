@@ -1,0 +1,23 @@
+{
+    "id": "100d25d6-3ecd-49ff-9efd-f318a017eb4b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/e76f3abe-58c8-467c-a166-f9574adcd7b5"
+}

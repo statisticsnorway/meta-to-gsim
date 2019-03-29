@@ -1,0 +1,23 @@
+{
+    "id": "40f7d254-78fe-444f-b8d0-8d9bf6613e5e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/807b9a7d-440c-4e7a-a828-f823a6f98b9d"
+}

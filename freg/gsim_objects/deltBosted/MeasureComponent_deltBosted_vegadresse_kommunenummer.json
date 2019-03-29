@@ -1,0 +1,22 @@
+{
+    "id": "14148994-3bec-4aaf-bd85-e8fbd0962575",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse kommunenummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted vegadresse kommunenummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_VEGADRESSE_KOMMUNENUMMER"
+}

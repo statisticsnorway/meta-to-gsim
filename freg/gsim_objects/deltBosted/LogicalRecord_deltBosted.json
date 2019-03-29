@@ -1,0 +1,62 @@
+{
+    "id": "4211a004-0f7a-4ae6-bf4e-3c058f3af4e6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/bc0c1430-849d-4f51-a1ed-ae6664374aab"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/79d7c626-8120-4854-884d-959f38efc799",
+        "/MeasureComponent/c6ef3191-da05-423d-8cfa-3924fcd7563b",
+        "/MeasureComponent/bb1fa7cd-a7dc-40e9-963a-9b0e336a55b3",
+        "/MeasureComponent/e76f3abe-58c8-467c-a166-f9574adcd7b5",
+        "/MeasureComponent/31f63922-b08e-4c7c-8ec5-5158731c3ba2",
+        "/MeasureComponent/475ad901-2a04-4a1f-b750-a5eda3a64948",
+        "/MeasureComponent/14148994-3bec-4aaf-bd85-e8fbd0962575",
+        "/MeasureComponent/3128df44-c1fe-4312-894e-28ca3978209a",
+        "/MeasureComponent/c06b162f-154a-4148-91a7-bbac272f0ae8",
+        "/MeasureComponent/b524b9e3-eb93-4c6c-af7d-b6688f81c1c5",
+        "/MeasureComponent/810a2d3e-6df9-4c39-a335-a295724b8ba9",
+        "/MeasureComponent/145602bb-014c-49e0-bdf9-f2c7a37e945a",
+        "/MeasureComponent/92c9b2d9-3b37-4d2d-8613-39766b8ae038",
+        "/MeasureComponent/2c4eb9b9-ae5f-4323-8820-387ea8246059",
+        "/MeasureComponent/65936215-be0c-4fb7-afde-ccb0c632a332",
+        "/MeasureComponent/cd68effc-4406-4777-a6e7-54e19afa775d",
+        "/MeasureComponent/d039b66a-0adf-4f6b-b2a9-732f86dfe5df",
+        "/MeasureComponent/d2d44287-b2e8-4e43-82a9-da1b7eaa36d2",
+        "/MeasureComponent/d1b65ba5-4067-4be4-bda3-a812eed2c642",
+        "/MeasureComponent/e188b14b-e093-4593-8f6d-2174e1eae385",
+        "/MeasureComponent/d4acd50b-3de3-4a29-bb4d-15660dc46bc2",
+        "/MeasureComponent/4b2ca07b-2a65-49af-9a43-d5a421c696bd",
+        "/MeasureComponent/615449ec-51e5-4bc2-a628-8d0adef519f7",
+        "/MeasureComponent/3c04ad37-8b5e-4177-820a-cb3a0f35e05b",
+        "/MeasureComponent/7a62f16b-449d-491a-a4d7-c1684cdaa6fa",
+        "/MeasureComponent/65936215-be0c-4fb7-afde-ccb0c632a332",
+        "/MeasureComponent/cd68effc-4406-4777-a6e7-54e19afa775d",
+        "/MeasureComponent/684cb040-1b55-429a-a90c-f4f9dc6fb46f",
+        "/MeasureComponent/02a3e745-14c4-42f2-9862-ffc9692f6a0b",
+        "/MeasureComponent/db648b83-745b-406b-b95a-359f20755638",
+        "/MeasureComponent/6679f6fa-3b83-45cd-8967-428469930022",
+        "/MeasureComponent/e54aaf98-9bb8-43b8-8f79-c60ac68494f6",
+        "/MeasureComponent/8c676787-9591-4859-be71-69f97705b45d",
+        "/MeasureComponent/1c54dcc9-867a-41cb-8386-a017d253dc1c"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DELTBOSTED"
+}

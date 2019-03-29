@@ -1,0 +1,23 @@
+{
+    "id": "7a9eb392-b2c3-4eb1-9447-66f75c46b7a7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/67b10a54-2f35-4fc6-9855-1d47a7242416"
+}

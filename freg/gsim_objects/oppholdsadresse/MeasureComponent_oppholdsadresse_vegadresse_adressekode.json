@@ -1,0 +1,22 @@
+{
+    "id": "f14602ed-9be0-4102-849e-77eb150b0d3f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse vegadresse adressekode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse vegadresse adressekode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_VEGADRESSE_ADRESSEKODE"
+}

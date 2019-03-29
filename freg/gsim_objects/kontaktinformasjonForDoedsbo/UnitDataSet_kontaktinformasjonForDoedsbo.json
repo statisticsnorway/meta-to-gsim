@@ -1,0 +1,23 @@
+{
+    "id": "a649ce59-2d58-460f-a990-34006e79a0fc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett kontaktinformasjon for doedsbo"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/792063c6-f52e-4b91-9dda-186876251fb2",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

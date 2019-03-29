@@ -1,0 +1,22 @@
+{
+    "id": "ce5e4b2f-f617-4a59-869e-8824ff2ccb0e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG status status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATUS_STATUS"
+}

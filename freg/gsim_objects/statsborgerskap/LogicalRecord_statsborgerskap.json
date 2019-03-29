@@ -1,0 +1,36 @@
+{
+    "id": "1032ace6-f381-47be-a8eb-b2af0a309b6e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/adf19fc3-2d08-41c0-9f60-377d7c003f10"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/a86579c7-74a8-4438-a045-abac73768e65",
+        "/MeasureComponent/0b24ce34-5e19-4c02-a179-600b8b1570c4",
+        "/MeasureComponent/71135b56-8686-4ea3-b3b4-b1a1bf01ed22",
+        "/MeasureComponent/348ee3a3-8757-482a-a863-a24e23d2e311",
+        "/MeasureComponent/7b4455d8-c7e4-4831-9b71-dc745215a98a",
+        "/MeasureComponent/b3881ef5-6bb5-4c73-9e24-553e2f69961c",
+        "/MeasureComponent/1c72bc59-000e-4b9b-a7e3-c0fd1dc4eefc",
+        "/MeasureComponent/66adafd6-e423-430f-b2b6-5198d30d2380"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "STATSBORGERSKAP"
+}

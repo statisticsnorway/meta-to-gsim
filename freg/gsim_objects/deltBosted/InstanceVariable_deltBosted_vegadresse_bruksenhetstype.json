@@ -1,0 +1,23 @@
+{
+    "id": "e3fefede-6bee-4f4a-b6e8-417611498b9b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse bruksenhetstype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted vegadresse bruksenhetstype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/c06b162f-154a-4148-91a7-bbac272f0ae8"
+}

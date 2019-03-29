@@ -1,5 +1,5 @@
 {
-    "id": "632924f3-ff70-4c54-9fa4-1b7e4a19cb75",
+    "id": "695a65dd-3c2d-4984-a270-802148307fa4",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:12.000Z",
-    "validFrom": "2019-03-29T15:14:12.000Z",
-    "createdDate": "2019-03-29T15:14:12.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_BRUKSENHETSTYPE"

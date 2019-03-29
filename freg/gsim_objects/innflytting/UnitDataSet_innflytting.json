@@ -1,0 +1,23 @@
+{
+    "id": "feab36ac-c74b-4367-8e47-dba779419b0b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett innflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/8faf9c54-bd79-4d64-8761-1914c843c44b",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

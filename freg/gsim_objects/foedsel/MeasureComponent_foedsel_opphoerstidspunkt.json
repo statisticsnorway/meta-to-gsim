@@ -1,0 +1,22 @@
+{
+    "id": "31cc5e22-324f-47f3-9758-817d7e61e920",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSEL_OPPHOERSTIDSPUNKT"
+}

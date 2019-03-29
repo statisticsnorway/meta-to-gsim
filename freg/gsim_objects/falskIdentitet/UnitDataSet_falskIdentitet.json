@@ -1,0 +1,23 @@
+{
+    "id": "b5118f99-6230-4760-afa9-eea9138d9a53",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/0621d21e-9ab3-4892-a852-2e431939ba59",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

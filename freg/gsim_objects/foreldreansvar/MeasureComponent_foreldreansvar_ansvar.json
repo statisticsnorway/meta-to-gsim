@@ -1,0 +1,22 @@
+{
+    "id": "95a09ebc-ab38-44e2-b6d2-a3fed3e47bad",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar ansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar ansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_ANSVAR"
+}

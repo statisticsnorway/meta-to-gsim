@@ -1,0 +1,23 @@
+{
+    "id": "b14d5aa5-067e-4433-b4a4-91c107913ccb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/0c37eeee-e1bd-481f-a2ff-7ad3fe3880d2"
+}

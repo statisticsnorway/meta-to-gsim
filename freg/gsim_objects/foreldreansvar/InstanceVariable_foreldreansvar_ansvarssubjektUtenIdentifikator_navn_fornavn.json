@@ -1,0 +1,23 @@
+{
+    "id": "99e372ed-5c5d-43dc-b723-0e224454c426",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar ansvarssubjektUtenIdentifikator navn fornavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar ansvarssubjektUtenIdentifikator navn fornavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/6a745f66-a7e5-40d4-8fba-3a0a3966dce5"
+}

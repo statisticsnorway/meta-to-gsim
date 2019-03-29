@@ -1,0 +1,23 @@
+{
+    "id": "0621d21e-9ab3-4892-a852-2e431939ba59",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/e3391f6d-d0eb-4b1a-871b-0318f1092933"
+    ]
+}

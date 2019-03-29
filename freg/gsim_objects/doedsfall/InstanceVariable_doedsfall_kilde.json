@@ -1,0 +1,23 @@
+{
+    "id": "8ec0ab10-566a-4b6f-9a74-eaba18b81e4b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/822982e6-578a-4b90-9324-ebbee2a1c5e6"
+}

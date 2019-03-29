@@ -1,0 +1,23 @@
+{
+    "id": "82d6c665-0f7c-4e24-b138-76c0e4d606a9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/338acbc9-98e2-4b4e-bdce-ec0660179b6a"
+    ]
+}

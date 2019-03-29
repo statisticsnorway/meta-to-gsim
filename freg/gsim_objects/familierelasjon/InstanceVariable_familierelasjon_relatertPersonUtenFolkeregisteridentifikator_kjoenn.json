@@ -1,0 +1,23 @@
+{
+    "id": "84667310-43d0-4c86-935d-bfc0a87e290e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPersonUtenFolkeregisteridentifikator kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon relatertPersonUtenFolkeregisteridentifikator kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/cfff169c-e036-44f2-8ce6-41cd8d2182c2"
+}

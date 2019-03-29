@@ -1,0 +1,22 @@
+{
+    "id": "00b739bd-2a85-4110-86a8-481316b593bd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bibehold aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BIBEHOLD_AARSAK"
+}

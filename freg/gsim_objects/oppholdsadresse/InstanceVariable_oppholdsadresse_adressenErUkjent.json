@@ -1,0 +1,23 @@
+{
+    "id": "907b0bbb-fe0a-444b-be93-a4dc59f77440",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse adressenErUkjent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse adressen er ukjent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/6d9d2473-84a8-4461-a467-64cc64cf532b"
+}

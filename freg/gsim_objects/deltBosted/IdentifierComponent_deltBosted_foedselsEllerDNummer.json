@@ -1,0 +1,23 @@
+{
+    "id": "bc0c1430-849d-4f51-a1ed-ae6664374aab",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

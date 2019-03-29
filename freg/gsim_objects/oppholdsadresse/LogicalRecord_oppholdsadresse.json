@@ -1,0 +1,71 @@
+{
+    "id": "7d0bd0e0-bb76-4428-8af4-51bf69111b43",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) oppholdsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/d448c0fd-222b-40ba-94e8-fa571bcc970d"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/c344b043-c062-463c-b4b1-c2d51dea402c",
+        "/MeasureComponent/d26cc337-e7b0-4b28-bbd6-c84e77d87622",
+        "/MeasureComponent/9c7c808d-670f-4d59-a8f1-928cbc27fddf",
+        "/MeasureComponent/69b5a479-3704-4d50-bdee-d38323bbc0da",
+        "/MeasureComponent/5736526f-05fb-4b4a-b0a2-f00772e645fd",
+        "/MeasureComponent/85b0247b-c4ac-46da-b911-78c2c504f08d",
+        "/MeasureComponent/e5a5449b-ee1f-4354-9a3e-fa3d5a08c5d4",
+        "/MeasureComponent/c6d8dd37-e703-4faf-87b4-1b84ee8012bf",
+        "/MeasureComponent/1f6ef421-972c-4070-ac10-3616f492d5a3",
+        "/MeasureComponent/a1377178-f78c-417a-92f7-4db42e693036",
+        "/MeasureComponent/ec4144ac-718f-4dd7-9090-9580e780bc9c",
+        "/MeasureComponent/d4559006-1c3d-4597-9212-4c057afc3a81",
+        "/MeasureComponent/f14602ed-9be0-4102-849e-77eb150b0d3f",
+        "/MeasureComponent/c3371952-6cbb-4b3c-851d-ffefb2a82e63",
+        "/MeasureComponent/67496451-7a65-40da-8d92-33840a8cab01",
+        "/MeasureComponent/e70c9a99-bc16-485b-9e8d-60b42cbaf70e",
+        "/MeasureComponent/7b8d540f-f40a-41ce-9c16-0dbb491761ea",
+        "/MeasureComponent/c94837fb-353c-47dd-ac73-278dbe38ca41",
+        "/MeasureComponent/eb3f843b-152c-43c4-b354-6a22eb2761ff",
+        "/MeasureComponent/92b36316-9a00-4be0-aa58-ffb37eda9546",
+        "/MeasureComponent/16f09ebc-d0eb-4c0e-a6f9-06a7c1e7933b",
+        "/MeasureComponent/1f0917df-17de-4561-a14c-ffe878e91d85",
+        "/MeasureComponent/a0f5b6f9-d320-46b7-982f-5d260578d55b",
+        "/MeasureComponent/bb78abfa-7dfc-4731-8684-564dd4fdfa62",
+        "/MeasureComponent/6682f427-78d4-478c-98d2-f33d55e7e388",
+        "/MeasureComponent/67496451-7a65-40da-8d92-33840a8cab01",
+        "/MeasureComponent/e70c9a99-bc16-485b-9e8d-60b42cbaf70e",
+        "/MeasureComponent/f131c729-ba39-4981-8932-9a76b77722bf",
+        "/MeasureComponent/d2fb0b15-aaa8-421b-89da-5880e84c89bb",
+        "/MeasureComponent/44fad5ee-bb32-427a-b051-05a50772b961",
+        "/MeasureComponent/ba7cf3b3-360f-4d19-8f54-a2d87bc89d72",
+        "/MeasureComponent/e9867c6c-fe94-4324-847f-3776d4137436",
+        "/MeasureComponent/4cd88426-3715-4fc0-939f-e9347ce229fa",
+        "/MeasureComponent/34c6fcd2-2eb7-46db-b703-07ce8bc769a0",
+        "/MeasureComponent/6dcc82e0-c3aa-4fec-a8d3-7c44aeaf3132",
+        "/MeasureComponent/2e5ca054-9e10-459b-8102-0dcf1c733738",
+        "/MeasureComponent/c11e6ed3-7c2b-4070-a557-d6ddd8bb01ff",
+        "/MeasureComponent/759fe41f-c8c4-45a3-a80e-53ff72aad837",
+        "/MeasureComponent/6d9d2473-84a8-4461-a467-64cc64cf532b",
+        "/MeasureComponent/7c552c73-6b5f-4a8d-8d5f-6dad77403e86",
+        "/MeasureComponent/c24efa3b-e152-488d-90e8-3feed8c88d39",
+        "/MeasureComponent/c50c78dd-836e-492c-8805-84f372f30659",
+        "/MeasureComponent/2c9addf7-11ca-4cb7-9dfb-e556820ecce5"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "OPPHOLDSADRESSE"
+}

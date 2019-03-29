@@ -1,0 +1,23 @@
+{
+    "id": "b2dfa67a-9aff-4bd5-a960-e09fc16e4edc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/475ad901-2a04-4a1f-b750-a5eda3a64948"
+}

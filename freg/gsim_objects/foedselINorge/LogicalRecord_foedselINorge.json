@@ -1,0 +1,36 @@
+{
+    "id": "4c4020cc-ce1f-4a1c-8fa4-4061d2fe20c8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) foedsel inorge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/442bf99b-f05b-4921-bcf0-4204fc064276"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/ad623dc6-87c2-471e-a8a1-a520729af741",
+        "/MeasureComponent/3fa3b065-1059-4df7-8da6-f04acba9928d",
+        "/MeasureComponent/e5dba22d-94e5-4f5d-b4ee-9677588a8628",
+        "/MeasureComponent/af7b0bae-5064-403f-8b57-085ea57e5d18",
+        "/MeasureComponent/c0d4905d-d284-4238-90c0-c969876675a8",
+        "/MeasureComponent/08c00291-2dbf-47d2-81cf-48431d3261a5",
+        "/MeasureComponent/47020a89-95fb-4b15-a655-cfd26c5653e8",
+        "/MeasureComponent/f5381429-fc46-4dac-81ef-584f4dbda52b"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FOEDSELINORGE"
+}

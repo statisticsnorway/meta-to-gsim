@@ -1,0 +1,22 @@
+{
+    "id": "1c43e0cb-9f26-415d-b401-ea5cb8ca6144",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DOEDSFALL_AJOURHOLDSTIDSPUNKT"
+}

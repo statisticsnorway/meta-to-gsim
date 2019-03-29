@@ -1,0 +1,22 @@
+{
+    "id": "23342724-46f9-4a08-81c8-bae4298fede8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_KILDE"
+}

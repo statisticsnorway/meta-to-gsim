@@ -1,0 +1,22 @@
+{
+    "id": "d81d522e-20a4-4b76-821f-55858292c1b9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "PREFERERTKONTAKTADRESSE_ERGJELDENDE"
+}

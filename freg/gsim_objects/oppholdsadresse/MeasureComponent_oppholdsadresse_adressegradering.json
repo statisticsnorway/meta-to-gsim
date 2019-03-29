@@ -1,0 +1,22 @@
+{
+    "id": "c24efa3b-e152-488d-90e8-3feed8c88d39",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse adressegradering"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse adressegradering"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_ADRESSEGRADERING"
+}

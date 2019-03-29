@@ -1,0 +1,22 @@
+{
+    "id": "1808f403-8870-4592-8ad2-dc6a11cdab1b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_OPPHOERSTIDSPUNKT"
+}

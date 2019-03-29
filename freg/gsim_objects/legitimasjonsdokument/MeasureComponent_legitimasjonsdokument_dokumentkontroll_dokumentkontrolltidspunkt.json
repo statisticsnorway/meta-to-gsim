@@ -1,0 +1,22 @@
+{
+    "id": "bac1cb19-b290-41e2-82bc-661e5fe0abab",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument dokumentkontroll dokumentkontrolltidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument dokumentkontroll dokumentkontrolltidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "LEGITIMASJONSDOKUMENT_DOKUMENTKONTROLL_DOKUMENTKONTROLLTIDSPUNKT"
+}

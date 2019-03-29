@@ -1,0 +1,22 @@
+{
+    "id": "25569e63-c3c4-4084-a826-6a8bb322f83d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse adressegradering"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse adressegradering"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "PREFERERTKONTAKTADRESSE_ADRESSEGRADERING"
+}

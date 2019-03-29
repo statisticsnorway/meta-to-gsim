@@ -1,0 +1,23 @@
+{
+    "id": "5066154e-8291-4e91-b7d0-001acea595fd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge rekkefoelgenummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge rekkefoelgenummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/f5381429-fc46-4dac-81ef-584f4dbda52b"
+}

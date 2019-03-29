@@ -1,0 +1,23 @@
+{
+    "id": "b4abd32e-2177-4e98-94db-e53d53cf1f7c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur vergemaal eller fremtidsfullmakt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/8efc3729-4013-4155-b34d-437eec6fe308"
+    ]
+}

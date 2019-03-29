@@ -1,0 +1,22 @@
+{
+    "id": "5b1711de-b32c-447a-b347-670979bdbcef",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_GYLDIGHETSTIDSPUNKT"
+}

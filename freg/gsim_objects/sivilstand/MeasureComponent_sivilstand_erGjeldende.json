@@ -1,0 +1,22 @@
+{
+    "id": "2561c5aa-855b-462d-8c32-8e3dca144586",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_ERGJELDENDE"
+}

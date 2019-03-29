@@ -1,0 +1,23 @@
+{
+    "id": "adf19fc3-2d08-41c0-9f60-377d7c003f10",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATSBORGERSKAP_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dd8ff91b-b996-4dff-85ef-095edb059673",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument identifikasjonsdokumenttype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument identifikasjonsdokumenttype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/808efcef-ce50-4fcc-949c-6010a3bed37f"
+}

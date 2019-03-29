@@ -1,0 +1,22 @@
+{
+    "id": "2f0b177c-f705-4b41-9d34-60e001964c60",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand myndighet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand myndighet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_MYNDIGHET"
+}

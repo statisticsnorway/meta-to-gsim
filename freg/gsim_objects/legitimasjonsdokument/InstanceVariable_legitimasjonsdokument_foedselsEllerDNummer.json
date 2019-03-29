@@ -1,0 +1,23 @@
+{
+    "id": "d2d296be-6b5f-4833-b0b7-8887363fec13",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/IdentifierComponent/9564871d-40ac-4dee-a61d-5b121b8a0876"
+}

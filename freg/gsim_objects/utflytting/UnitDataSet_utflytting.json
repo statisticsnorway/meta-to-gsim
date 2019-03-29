@@ -1,0 +1,23 @@
+{
+    "id": "3bd20af0-fdda-423b-b510-63089d3bf253",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett utflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/b167a200-1b55-41a9-981a-d79d627ccb78",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

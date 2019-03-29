@@ -1,0 +1,22 @@
+{
+    "id": "e03550f6-3972-42e5-ab52-ca52ed1dff03",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar ansvarssubjektUtenIdentifikator statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar ansvarssubjektUtenIdentifikator statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_ANSVARSSUBJEKTUTENIDENTIFIKATOR_STATSBORGERSKAP"
+}

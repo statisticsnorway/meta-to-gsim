@@ -1,0 +1,22 @@
+{
+    "id": "1665cfd2-d798-47c7-b142-34f5ba9a3e32",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG brukAvSamiskSpraak aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BRUKAVSAMISKSPRAAK_AARSAK"
+}

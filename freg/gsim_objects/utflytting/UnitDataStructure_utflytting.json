@@ -1,0 +1,23 @@
+{
+    "id": "b167a200-1b55-41a9-981a-d79d627ccb78",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur utflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/789ba942-a857-434c-aca7-2371f4908282"
+    ]
+}

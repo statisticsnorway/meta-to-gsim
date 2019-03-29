@@ -1,0 +1,22 @@
+{
+    "id": "c45014a7-cc0c-46fe-af11-1740e6c7738a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon identifikasjonsnummertype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utenlandskPersonidentifikasjon identifikasjonsnummertype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_IDENTIFIKASJONSNUMMERTYPE"
+}

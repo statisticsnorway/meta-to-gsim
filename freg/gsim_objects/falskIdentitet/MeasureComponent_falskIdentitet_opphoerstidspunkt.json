@@ -1,0 +1,22 @@
+{
+    "id": "8981d1eb-dbf9-4b99-91d0-be40f41bf856",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_OPPHOERSTIDSPUNKT"
+}

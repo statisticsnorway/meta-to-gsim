@@ -1,0 +1,22 @@
+{
+    "id": "b111d856-8071-49f9-bd67-5c3f6d53c88b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSEIUTLANDET_AJOURHOLDSTIDSPUNKT"
+}

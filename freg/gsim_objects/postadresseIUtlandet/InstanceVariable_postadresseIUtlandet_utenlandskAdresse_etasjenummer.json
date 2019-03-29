@@ -1,0 +1,23 @@
+{
+    "id": "b6c0d33e-a6ac-4779-b01d-f13bb22b265a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet utenlandskAdresse etasjenummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet utenlandskAdresse etasjenummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/49d5f3a8-1b94-49ac-9d62-4091dbad55e9"
+}

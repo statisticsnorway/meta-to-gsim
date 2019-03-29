@@ -1,0 +1,23 @@
+{
+    "id": "45520faa-0966-443f-9924-bae792cf16d2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG forholdTilSametingetsValgmanntall foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

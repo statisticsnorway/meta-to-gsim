@@ -1,0 +1,23 @@
+{
+    "id": "52257d2b-95d5-4924-a51d-b5a30c725cda",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse postadresseIFrittFormat adresselinje"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse postadresseIFrittFormat adresselinje"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/eacec92c-cae3-48c0-b745-be7e47494c41"
+}

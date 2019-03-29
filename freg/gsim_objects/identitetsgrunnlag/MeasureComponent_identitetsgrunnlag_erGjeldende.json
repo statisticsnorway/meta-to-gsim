@@ -1,0 +1,22 @@
+{
+    "id": "9df450b6-69ee-46bb-b023-68e3b0241f74",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTITETSGRUNNLAG_ERGJELDENDE"
+}

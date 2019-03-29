@@ -1,0 +1,22 @@
+{
+    "id": "2f84fc6c-03ef-4e23-b292-9383800df3df",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_AJOURHOLDSTIDSPUNKT"
+}

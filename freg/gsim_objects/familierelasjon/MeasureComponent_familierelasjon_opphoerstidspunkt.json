@@ -1,0 +1,22 @@
+{
+    "id": "7f84478e-b2b3-4eab-bebc-97bf06513520",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_OPPHOERSTIDSPUNKT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "80af4396-67e0-4a2a-bc2f-a27b445b6525",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a86579c7-74a8-4438-a045-abac73768e65"
+}

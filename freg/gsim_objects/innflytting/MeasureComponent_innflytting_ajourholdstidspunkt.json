@@ -1,0 +1,22 @@
+{
+    "id": "eb087054-15e8-4fae-a440-bd8ca7d73a0e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_AJOURHOLDSTIDSPUNKT"
+}

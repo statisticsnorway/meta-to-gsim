@@ -1,0 +1,23 @@
+{
+    "id": "99abe314-78eb-47b2-9aca-ce0fd8f58893",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge foedselsinstitusjonsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge foedselsinstitusjonsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/47020a89-95fb-4b15-a655-cfd26c5653e8"
+}

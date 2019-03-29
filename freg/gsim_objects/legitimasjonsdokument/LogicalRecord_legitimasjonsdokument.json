@@ -1,0 +1,42 @@
+{
+    "id": "07ec9ced-7c80-499c-9330-1455c4a2608a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/9564871d-40ac-4dee-a61d-5b121b8a0876"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/c468685a-15ce-44f4-8e3a-8c14f64ca1f4",
+        "/MeasureComponent/1f9253e1-1e4d-48e9-99de-143228c8d343",
+        "/MeasureComponent/39c61bf7-cebc-48d5-a340-5bfe6dd9a5c4",
+        "/MeasureComponent/7f7f0294-5571-4713-8b14-092dc5399f9e",
+        "/MeasureComponent/27ebd2d4-a1b6-46f1-8682-c146477839c4",
+        "/MeasureComponent/136b5bd1-c39d-49a8-9f0b-a9ee8a1c5c6d",
+        "/MeasureComponent/4729bdad-e9cc-4698-aa02-6201a30a211f",
+        "/MeasureComponent/808efcef-ce50-4fcc-949c-6010a3bed37f",
+        "/MeasureComponent/4d67fe9d-10fd-4703-bf63-ad7879a13686",
+        "/MeasureComponent/6762379f-d298-40b1-a8d5-55b296c67129",
+        "/MeasureComponent/4c929b0e-beb6-412e-907e-2cb951f712cf",
+        "/MeasureComponent/583ecb99-728e-4fc2-aefa-a86f2be383dc",
+        "/MeasureComponent/880690e4-d143-4a02-9127-86594cc9d61d",
+        "/MeasureComponent/bac1cb19-b290-41e2-82bc-661e5fe0abab"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "LEGITIMASJONSDOKUMENT"
+}

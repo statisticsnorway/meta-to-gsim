@@ -1,0 +1,48 @@
+{
+    "id": "9d70bace-c736-4635-93ee-4529288d2c72",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) postadresse iutlandet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/30792c58-5816-4afc-9a46-95123ba66dc2"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/b111d856-8071-49f9-bd67-5c3f6d53c88b",
+        "/MeasureComponent/41f65717-e474-4f37-823a-fa3786b5afdf",
+        "/MeasureComponent/a6a4ae93-efd1-4eff-8696-1d1d3a215048",
+        "/MeasureComponent/5303e1cd-5dbe-45e1-884c-901543f494df",
+        "/MeasureComponent/e5641110-e421-4461-93cc-3ce7a2197372",
+        "/MeasureComponent/20cdde56-016e-482b-90f9-5ecbf3b6524a",
+        "/MeasureComponent/ab5c2593-60d3-4717-9f78-90c3a59925f2",
+        "/MeasureComponent/51647394-88a2-43a5-b589-c665c9cbb75a",
+        "/MeasureComponent/18f47ec5-bd65-49a6-8947-cc7333d06970",
+        "/MeasureComponent/49cc9b52-b87d-4a4b-a059-0311ac535f66",
+        "/MeasureComponent/49d5f3a8-1b94-49ac-9d62-4091dbad55e9",
+        "/MeasureComponent/f16d47bc-e9c4-4380-8478-449eb89b1e32",
+        "/MeasureComponent/ebb23113-d3a4-418e-b772-a768e51e4c5e",
+        "/MeasureComponent/5ffeff08-1b49-448a-b6a0-5b84d9100401",
+        "/MeasureComponent/13420823-f108-4072-9aa9-3e55110e5e68",
+        "/MeasureComponent/ac5c88e1-2bdc-4095-8a7c-a9c64a1367db",
+        "/MeasureComponent/41200e13-ecb4-4f6c-9abf-5c7c716d41dc",
+        "/MeasureComponent/4b3b7257-3340-45c9-bd29-69c4f8eaaad0",
+        "/MeasureComponent/3609e06d-f382-490e-a941-4bcdb03deebf",
+        "/MeasureComponent/36ff6c30-9481-4de8-a3ba-8c10397e1f93"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "POSTADRESSEIUTLANDET"
+}

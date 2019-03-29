@@ -1,0 +1,22 @@
+{
+    "id": "145602bb-014c-49e0-bdf9-f2c7a37e945a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse adressenummer husbokstav"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted vegadresse adressenummer husbokstav"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_VEGADRESSE_ADRESSENUMMER_HUSBOKSTAV"
+}

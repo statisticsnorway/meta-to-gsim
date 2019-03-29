@@ -1,0 +1,22 @@
+{
+    "id": "f7255860-a3f8-46eb-92f0-b6e377c2d812",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand sivilstandsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand sivilstandsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_SIVILSTANDSDATO"
+}

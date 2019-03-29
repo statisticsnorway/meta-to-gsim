@@ -1,0 +1,22 @@
+{
+    "id": "c06b162f-154a-4148-91a7-bbac272f0ae8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse bruksenhetstype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted vegadresse bruksenhetstype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_VEGADRESSE_BRUKSENHETSTYPE"
+}

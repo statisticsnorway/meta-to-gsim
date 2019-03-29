@@ -1,0 +1,22 @@
+{
+    "id": "ec2b7fb2-7ae7-4956-9095-ae98b18a2dba",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DOEDSFALL_OPPHOERSTIDSPUNKT"
+}

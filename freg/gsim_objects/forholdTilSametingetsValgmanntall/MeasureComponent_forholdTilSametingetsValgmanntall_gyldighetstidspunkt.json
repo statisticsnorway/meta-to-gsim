@@ -1,0 +1,22 @@
+{
+    "id": "5c1089e7-c99a-4f87-9ac4-4177d303da5d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG forholdTilSametingetsValgmanntall gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_GYLDIGHETSTIDSPUNKT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "d1b30660-c73a-413a-a062-9701d1b52df9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG status er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATUS_ERGJELDENDE"
+}

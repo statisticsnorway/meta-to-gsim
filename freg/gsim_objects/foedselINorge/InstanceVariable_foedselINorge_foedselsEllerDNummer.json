@@ -1,0 +1,23 @@
+{
+    "id": "fe13d721-eda9-424a-a473-8c712786bec1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/IdentifierComponent/442bf99b-f05b-4921-bcf0-4204fc064276"
+}

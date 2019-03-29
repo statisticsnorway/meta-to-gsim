@@ -1,0 +1,23 @@
+{
+    "id": "c6e09353-317d-4e59-8860-f24f098dea80",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/5a934017-4522-415c-9a7e-1edbd7764e4e"
+}

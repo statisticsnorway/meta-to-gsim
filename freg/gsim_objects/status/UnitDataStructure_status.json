@@ -1,0 +1,23 @@
+{
+    "id": "84ac4cd4-2754-4862-8985-dec8486fd42a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/721cbdf3-7f0b-4ee2-9e4c-e9a295397770"
+    ]
+}

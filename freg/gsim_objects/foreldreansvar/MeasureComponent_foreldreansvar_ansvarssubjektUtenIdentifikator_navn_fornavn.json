@@ -1,0 +1,22 @@
+{
+    "id": "6a745f66-a7e5-40d4-8fba-3a0a3966dce5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar ansvarssubjektUtenIdentifikator navn fornavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar ansvarssubjektUtenIdentifikator navn fornavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_ANSVARSSUBJEKTUTENIDENTIFIKATOR_NAVN_FORNAVN"
+}

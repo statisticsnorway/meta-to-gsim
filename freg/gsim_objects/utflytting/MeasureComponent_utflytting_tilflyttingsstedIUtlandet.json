@@ -1,0 +1,22 @@
+{
+    "id": "9403fa75-4fde-424e-b155-d688e1bfbcea",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting tilflyttingsstedIUtlandet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting tilflyttingssted iutlandet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTFLYTTING_TILFLYTTINGSSTEDIUTLANDET"
+}

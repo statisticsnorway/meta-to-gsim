@@ -1,0 +1,22 @@
+{
+    "id": "fb62160a-afe5-4cbe-aabd-1449b339b3f5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse vegadresse adressenummer husbokstav"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_VEGADRESSE_ADRESSENUMMER_HUSBOKSTAV"
+}

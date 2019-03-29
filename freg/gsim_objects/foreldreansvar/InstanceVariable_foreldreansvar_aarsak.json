@@ -1,0 +1,23 @@
+{
+    "id": "385a0653-72e0-4529-a57f-b354beb5eb41",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/db54f093-a761-43e9-a4a5-36f0c249a88e"
+}

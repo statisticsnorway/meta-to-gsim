@@ -1,0 +1,22 @@
+{
+    "id": "2b72c23d-6fcf-4c60-a1f7-f50ae0da9a0e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_ERGJELDENDE"
+}

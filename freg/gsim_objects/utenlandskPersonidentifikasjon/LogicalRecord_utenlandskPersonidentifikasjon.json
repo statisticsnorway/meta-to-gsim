@@ -1,0 +1,37 @@
+{
+    "id": "d26cfda9-6829-48d4-86d3-82764e1e9d31",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/0bea6898-8bf6-41b0-a156-177a515ab4ee"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/47fd25ce-6f36-40d4-afab-6210f40c39e7",
+        "/MeasureComponent/dafef6aa-2033-45a4-9322-6a214f977738",
+        "/MeasureComponent/34e5849a-006b-42a1-a2f0-843fedb8625a",
+        "/MeasureComponent/cb5de2ed-cb99-4bdb-a0d3-c4d5d849b2d4",
+        "/MeasureComponent/687e68f1-8502-4a5a-b8f5-78fa24b8b8c0",
+        "/MeasureComponent/eb1879cc-0527-4b98-bc72-a6dff83671bb",
+        "/MeasureComponent/4708c8c8-15c6-4e9f-baf9-4a0ebb6eada7",
+        "/MeasureComponent/c45014a7-cc0c-46fe-af11-1740e6c7738a",
+        "/MeasureComponent/fa22393d-7985-463f-bfa8-81d293ee1701"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON"
+}

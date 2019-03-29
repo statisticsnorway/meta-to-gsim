@@ -1,0 +1,22 @@
+{
+    "id": "27197f9a-f479-428f-bebe-a1dc610b92cd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "ADRESSEBESKYTTELSE_KILDE"
+}

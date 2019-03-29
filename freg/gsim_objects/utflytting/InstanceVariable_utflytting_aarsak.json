@@ -1,0 +1,23 @@
+{
+    "id": "5bb15f4f-02ea-42b8-b760-f6216d225add",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/6ec56522-fadf-4bb5-a9ad-eab3c6f4f5ee"
+}

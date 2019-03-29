@@ -1,0 +1,22 @@
+{
+    "id": "6a9c724b-6a80-4de4-b283-ef0bfefc1b4c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTITETSGRUNNLAG_AJOURHOLDSTIDSPUNKT"
+}

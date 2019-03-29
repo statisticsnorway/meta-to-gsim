@@ -1,0 +1,23 @@
+{
+    "id": "8faf9c54-bd79-4d64-8761-1914c843c44b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur innflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/26061901-2ce7-402d-b018-45db796dc3fd"
+    ]
+}

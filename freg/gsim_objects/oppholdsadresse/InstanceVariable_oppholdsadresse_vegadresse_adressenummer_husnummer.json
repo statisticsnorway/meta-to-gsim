@@ -1,0 +1,23 @@
+{
+    "id": "106cb026-f30d-4bf8-9f54-a873ed44a1ec",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse vegadresse adressenummer husnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse vegadresse adressenummer husnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/ec4144ac-718f-4dd7-9090-9580e780bc9c"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "966e1eef-46a8-46eb-b4d9-eeb1c6ef7125",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_OPPHOERSTIDSPUNKT"
+}

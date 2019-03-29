@@ -1,0 +1,23 @@
+{
+    "id": "cf1483d3-5474-4e0c-90c6-27598480e557",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur postadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/84ea7081-502c-492a-af75-2b51a000cd97"
+    ]
+}

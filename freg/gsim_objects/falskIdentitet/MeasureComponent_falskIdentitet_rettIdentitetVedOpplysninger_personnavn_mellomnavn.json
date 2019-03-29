@@ -1,0 +1,22 @@
+{
+    "id": "6310c59d-1bc5-4603-9900-1a0e24e6d15a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet rettIdentitetVedOpplysninger personnavn mellomnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet rettIdentitetVedOpplysninger personnavn mellomnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETVEDOPPLYSNINGER_PERSONNAVN_MELLOMNAVN"
+}

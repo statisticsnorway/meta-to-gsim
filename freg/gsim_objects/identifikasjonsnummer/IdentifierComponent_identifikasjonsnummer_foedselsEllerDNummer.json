@@ -1,0 +1,23 @@
+{
+    "id": "051e4c9f-ec40-4c8e-a8b7-a355b0586a28",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identifikasjonsnummer foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTIFIKASJONSNUMMER_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "880690e4-d143-4a02-9127-86594cc9d61d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument dokumentkontroll dokumentkontrollstatus"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument dokumentkontroll dokumentkontrollstatus"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "LEGITIMASJONSDOKUMENT_DOKUMENTKONTROLL_DOKUMENTKONTROLLSTATUS"
+}

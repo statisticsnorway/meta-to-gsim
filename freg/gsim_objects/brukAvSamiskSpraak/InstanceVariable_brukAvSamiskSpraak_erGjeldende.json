@@ -1,0 +1,23 @@
+{
+    "id": "ba1107cb-0b12-44b0-bffb-f32e86db7344",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG brukAvSamiskSpraak er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/fb5aa989-397e-4926-b512-108ffa87475d"
+}

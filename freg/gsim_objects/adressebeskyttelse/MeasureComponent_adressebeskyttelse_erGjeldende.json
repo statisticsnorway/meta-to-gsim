@@ -1,0 +1,22 @@
+{
+    "id": "98a29a92-810a-4da3-b4a3-064b8096341e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "ADRESSEBESKYTTELSE_ERGJELDENDE"
+}

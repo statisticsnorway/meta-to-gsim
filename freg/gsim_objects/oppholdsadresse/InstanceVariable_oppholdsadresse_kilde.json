@@ -1,0 +1,23 @@
+{
+    "id": "71d73aeb-11d2-4944-ab6d-d92f71870524",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/9c7c808d-670f-4d59-a8f1-928cbc27fddf"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "18ef339c-f0d7-4415-9dd9-d489a3d51f5a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/IdentifierComponent/042c375b-2236-4717-9259-1ac39b5db6ab"
+}

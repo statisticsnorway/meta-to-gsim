@@ -1,0 +1,23 @@
+{
+    "id": "abd6ff02-1045-47b7-99b7-6e121bdffc66",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur bibehold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/c00c9969-ca77-4850-a4b1-494abe63ec53"
+    ]
+}

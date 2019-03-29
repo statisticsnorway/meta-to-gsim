@@ -1,0 +1,22 @@
+{
+    "id": "b6b83db7-9ab3-45f9-8766-6f29c7299f8f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_AARSAK"
+}

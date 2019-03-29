@@ -1,0 +1,22 @@
+{
+    "id": "69ceeadc-38dd-4311-a1e1-df9411d18864",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_AJOURHOLDSTIDSPUNKT"
+}

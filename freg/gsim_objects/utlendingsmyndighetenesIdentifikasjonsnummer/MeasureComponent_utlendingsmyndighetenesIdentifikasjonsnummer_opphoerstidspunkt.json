@@ -1,0 +1,22 @@
+{
+    "id": "aaa2aec1-033b-4aa5-bfbf-e079f1a1e3e9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utlendingsmyndighetenesIdentifikasjonsnummer opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_OPPHOERSTIDSPUNKT"
+}

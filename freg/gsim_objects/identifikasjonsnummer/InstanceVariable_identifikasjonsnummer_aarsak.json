@@ -1,0 +1,23 @@
+{
+    "id": "dbeea423-31f8-4290-9162-31959d7b0129",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identifikasjonsnummer aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/d3ed0ffa-0edf-4896-8e6a-831024924786"
+}

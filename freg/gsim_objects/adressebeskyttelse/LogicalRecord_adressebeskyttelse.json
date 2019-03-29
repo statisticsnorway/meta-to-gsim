@@ -1,0 +1,35 @@
+{
+    "id": "b3d31696-ec4a-4f95-99b0-5dbdcdb12f53",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/1d4e4959-513d-45ad-bfcb-f65d118608c2"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/60aa76cc-5a66-4b19-a396-bde2ebf4134e",
+        "/MeasureComponent/98a29a92-810a-4da3-b4a3-064b8096341e",
+        "/MeasureComponent/27197f9a-f479-428f-bebe-a1dc610b92cd",
+        "/MeasureComponent/9c52ed30-6144-4e33-80f3-66662af27013",
+        "/MeasureComponent/5a934017-4522-415c-9a7e-1edbd7764e4e",
+        "/MeasureComponent/2dc11453-8da5-4928-85af-660a2023aa9b",
+        "/MeasureComponent/c42b6b50-f11e-45e9-ae60-ce26f2ef9296"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ADRESSEBESKYTTELSE"
+}

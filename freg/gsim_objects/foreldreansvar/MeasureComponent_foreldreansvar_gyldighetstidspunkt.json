@@ -1,0 +1,22 @@
+{
+    "id": "693f5ca1-e4cd-427a-bca0-05c51d786481",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORELDREANSVAR_GYLDIGHETSTIDSPUNKT"
+}

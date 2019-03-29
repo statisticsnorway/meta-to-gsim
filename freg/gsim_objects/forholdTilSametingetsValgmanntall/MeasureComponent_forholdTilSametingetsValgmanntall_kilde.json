@@ -1,0 +1,22 @@
+{
+    "id": "89a17a1b-45c3-42ca-850f-58e3fd28b128",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG forholdTilSametingetsValgmanntall kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_KILDE"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "3da75680-2857-4a42-8e69-4653a9af79c6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_AARSAK"
+}

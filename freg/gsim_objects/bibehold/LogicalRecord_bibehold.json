@@ -1,0 +1,36 @@
+{
+    "id": "c00c9969-ca77-4850-a4b1-494abe63ec53",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) bibehold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/6099015b-3811-4bfb-b37e-650da780a55a"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/23e3a276-291b-46e2-86be-880b14ee9377",
+        "/MeasureComponent/3054f911-2eb8-4ada-bde1-fde851791a72",
+        "/MeasureComponent/09171100-49b0-4fa1-95f4-21e3c3c28e77",
+        "/MeasureComponent/00b739bd-2a85-4110-86a8-481316b593bd",
+        "/MeasureComponent/0aa2a199-8cc8-4d37-91e2-c700bbecb7bc",
+        "/MeasureComponent/250637dc-512e-4c6d-a0b7-b85a957e0465",
+        "/MeasureComponent/aff954c3-1ed5-44bb-93c9-4318fee5a0d5",
+        "/MeasureComponent/e10a2cb2-cf90-44f2-b3f6-f3a465b838bc"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BIBEHOLD"
+}

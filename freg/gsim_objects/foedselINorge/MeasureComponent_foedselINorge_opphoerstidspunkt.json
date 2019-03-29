@@ -1,0 +1,22 @@
+{
+    "id": "08c00291-2dbf-47d2-81cf-48431d3261a5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSELINORGE_OPPHOERSTIDSPUNKT"
+}

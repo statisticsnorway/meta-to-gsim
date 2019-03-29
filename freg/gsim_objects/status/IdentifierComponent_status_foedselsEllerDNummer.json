@@ -1,0 +1,23 @@
+{
+    "id": "1c21b463-5937-4f34-b1a6-e8d88fe28ec6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG status foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATUS_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

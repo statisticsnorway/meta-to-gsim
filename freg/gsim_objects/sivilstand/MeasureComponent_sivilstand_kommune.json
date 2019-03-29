@@ -1,0 +1,22 @@
+{
+    "id": "1b805b12-2443-4d39-90fe-1aa4a78621c5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand kommune"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand kommune"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_KOMMUNE"
+}

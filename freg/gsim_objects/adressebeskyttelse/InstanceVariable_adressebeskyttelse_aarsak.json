@@ -1,0 +1,23 @@
+{
+    "id": "299365a5-1342-43f5-830f-79555fc23ce9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/9c52ed30-6144-4e33-80f3-66662af27013"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "9a2a48f8-0247-44e5-8f35-559229891c50",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand utland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand utland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_UTLAND"
+}

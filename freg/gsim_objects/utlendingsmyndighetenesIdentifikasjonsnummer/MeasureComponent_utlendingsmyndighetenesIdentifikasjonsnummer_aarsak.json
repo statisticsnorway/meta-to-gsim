@@ -1,0 +1,22 @@
+{
+    "id": "3511b0d5-1be6-431a-8c5f-ac3b7ab9e9e0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utlendingsmyndighetenesIdentifikasjonsnummer aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_AARSAK"
+}

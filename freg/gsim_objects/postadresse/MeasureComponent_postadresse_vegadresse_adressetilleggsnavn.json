@@ -1,0 +1,22 @@
+{
+    "id": "b154a097-c08b-4b1c-97ad-f04326f2e15b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse vegadresse adressetilleggsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse vegadresse adressetilleggsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_VEGADRESSE_ADRESSETILLEGGSNAVN"
+}

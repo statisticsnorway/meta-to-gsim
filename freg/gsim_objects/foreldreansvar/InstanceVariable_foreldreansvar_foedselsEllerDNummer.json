@@ -1,0 +1,23 @@
+{
+    "id": "dc3d3e16-19d3-4b75-8042-fc19d4db9092",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/IdentifierComponent/b3f97c9d-2fe7-41e5-bbf5-dde56fdbe4a0"
+}

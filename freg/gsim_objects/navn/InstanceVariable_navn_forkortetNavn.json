@@ -1,0 +1,23 @@
+{
+    "id": "06843252-dbc9-44f8-aae7-2f70b21eb93b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn forkortetNavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn forkortet navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/107f5a97-227a-4e75-98cd-a44390aa16fe"
+}

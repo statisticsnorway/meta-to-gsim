@@ -1,0 +1,22 @@
+{
+    "id": "de479581-6624-44a8-b9fd-d58432bef635",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_OPPHOERSTIDSPUNKT"
+}

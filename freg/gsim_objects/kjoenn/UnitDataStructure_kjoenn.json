@@ -1,0 +1,23 @@
+{
+    "id": "6ed302bf-337b-4277-9d55-54ea2b185a93",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/b713427c-0ca9-40ec-9499-313d729e489f"
+    ]
+}

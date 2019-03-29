@@ -1,0 +1,22 @@
+{
+    "id": "af7b0bae-5064-403f-8b57-085ea57e5d18",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSELINORGE_AARSAK"
+}

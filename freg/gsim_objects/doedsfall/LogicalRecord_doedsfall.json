@@ -1,0 +1,35 @@
+{
+    "id": "338acbc9-98e2-4b4e-bdce-ec0660179b6a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/28df17fb-bd6f-41ab-9be9-62e1e0b45005"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/1c43e0cb-9f26-415d-b401-ea5cb8ca6144",
+        "/MeasureComponent/d2f15135-142b-4d04-8876-bd3281f1a8fa",
+        "/MeasureComponent/822982e6-578a-4b90-9324-ebbee2a1c5e6",
+        "/MeasureComponent/67b10a54-2f35-4fc6-9855-1d47a7242416",
+        "/MeasureComponent/027bf926-2222-4bad-b241-6bbf2fa0bb5b",
+        "/MeasureComponent/ec2b7fb2-7ae7-4956-9095-ae98b18a2dba",
+        "/MeasureComponent/6076dfb9-59c1-4197-96ae-dd4bb73d6ea8"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DOEDSFALL"
+}

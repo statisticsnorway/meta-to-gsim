@@ -1,0 +1,23 @@
+{
+    "id": "f0de6a44-5a0c-46cc-80a9-988369a99b2a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett bibehold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/abd6ff02-1045-47b7-99b7-6e121bdffc66",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

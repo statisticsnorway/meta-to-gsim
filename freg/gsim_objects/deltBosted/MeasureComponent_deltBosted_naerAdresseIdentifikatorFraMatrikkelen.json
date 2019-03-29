@@ -1,0 +1,22 @@
+{
+    "id": "8c676787-9591-4859-be71-69f97705b45d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted naerAdresseIdentifikatorFraMatrikkelen"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted naer adresse identifikator fra matrikkelen"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_NAERADRESSEIDENTIFIKATORFRAMATRIKKELEN"
+}

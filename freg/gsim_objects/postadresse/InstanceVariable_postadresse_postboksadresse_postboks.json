@@ -1,0 +1,23 @@
+{
+    "id": "58d0b1f0-88dd-4823-8d46-fbb4ec0fb4c8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse postboksadresse postboks"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse postboksadresse postboks"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/aa6999a0-581b-4213-a371-b02012ce5f38"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "6a067b8c-ae85-4dcd-82d5-3163c150889e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold oppholdstillatelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold oppholdstillatelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/9d072d02-d7f5-4d91-aea3-d6d2d640bfc3"
+}

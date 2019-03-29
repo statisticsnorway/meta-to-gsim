@@ -1,0 +1,22 @@
+{
+    "id": "97d6a707-7121-4523-b59f-3624b461c757",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG vergemaalEllerFremtidsfullmakt opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_OPPHOERSTIDSPUNKT"
+}

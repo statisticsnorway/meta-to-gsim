@@ -1,0 +1,22 @@
+{
+    "id": "0e36343a-60cd-4cab-bcb5-76d0b2554be2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG utflytting gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "UTFLYTTING_GYLDIGHETSTIDSPUNKT"
+}

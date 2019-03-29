@@ -1,0 +1,23 @@
+{
+    "id": "022769a5-99be-4647-be1a-fd62057f6f9d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/35739ddf-3ddc-405e-81c4-fcb55fd0aa18"
+}

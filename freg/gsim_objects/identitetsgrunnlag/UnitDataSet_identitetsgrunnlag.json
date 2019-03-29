@@ -1,0 +1,23 @@
+{
+    "id": "bee52726-6e99-40cf-9372-ca9ced2f04ad",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett identitetsgrunnlag"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/4425a361-6a8b-4c84-b407-8923852cf9e3",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

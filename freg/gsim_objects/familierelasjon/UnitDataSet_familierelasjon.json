@@ -1,0 +1,23 @@
+{
+    "id": "bab796fd-c66a-404a-b10c-640ce33827af",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/ebfa6899-3f21-4a72-860a-fc0d6dfb0630",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

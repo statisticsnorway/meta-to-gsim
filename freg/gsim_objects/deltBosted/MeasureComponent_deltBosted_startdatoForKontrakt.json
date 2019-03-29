@@ -1,0 +1,22 @@
+{
+    "id": "db648b83-745b-406b-b95a-359f20755638",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted startdatoForKontrakt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted startdato for kontrakt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_STARTDATOFORKONTRAKT"
+}

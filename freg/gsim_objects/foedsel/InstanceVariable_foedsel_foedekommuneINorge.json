@@ -1,0 +1,23 @@
+{
+    "id": "377e835c-bae1-4395-a2ea-1b8de26e5b36",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedekommuneINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedekommune inorge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/994b5d8c-8e3b-4665-96a0-cb67f1e09462"
+}

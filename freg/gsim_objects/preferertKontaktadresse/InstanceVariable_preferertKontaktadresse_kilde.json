@@ -1,0 +1,23 @@
+{
+    "id": "316f4878-a18d-40b1-8861-d5561bd6cb2c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/2934c088-7e8e-4f36-929a-aee4822272c5"
+}

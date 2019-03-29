@@ -1,0 +1,23 @@
+{
+    "id": "81618d00-430d-4c5e-8be6-dcf7d5e4dd89",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTITETSGRUNNLAG_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

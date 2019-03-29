@@ -1,0 +1,22 @@
+{
+    "id": "d3ed0ffa-0edf-4896-8e6a-831024924786",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identifikasjonsnummer aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTIFIKASJONSNUMMER_AARSAK"
+}

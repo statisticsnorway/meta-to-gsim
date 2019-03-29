@@ -1,0 +1,23 @@
+{
+    "id": "042c375b-2236-4717-9259-1ac39b5db6ab",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG innflytting foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "INNFLYTTING_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

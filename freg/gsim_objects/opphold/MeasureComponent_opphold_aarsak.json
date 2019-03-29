@@ -1,0 +1,22 @@
+{
+    "id": "5b4b7e0a-7083-473e-8d21-f3c55eb96a9d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLD_AARSAK"
+}

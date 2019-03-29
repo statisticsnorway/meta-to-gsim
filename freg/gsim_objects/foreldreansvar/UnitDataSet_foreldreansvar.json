@@ -1,0 +1,23 @@
+{
+    "id": "7f4f682c-fb32-4732-a2f6-73b6a73d518e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett foreldreansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/bdabb9f7-e49c-485a-b659-3ea0ffafaaae",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

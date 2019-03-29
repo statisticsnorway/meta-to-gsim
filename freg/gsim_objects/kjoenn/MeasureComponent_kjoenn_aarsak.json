@@ -1,0 +1,22 @@
+{
+    "id": "5e9bf8ee-e819-4917-ba66-1de6ea082e67",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kjoenn aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "KJOENN_AARSAK"
+}

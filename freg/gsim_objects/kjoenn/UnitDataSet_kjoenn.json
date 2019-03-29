@@ -1,0 +1,23 @@
+{
+    "id": "c592a6fc-12ae-430f-8773-99ab805e5c05",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/6ed302bf-337b-4277-9d55-54ea2b185a93",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

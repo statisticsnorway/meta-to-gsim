@@ -1,0 +1,22 @@
+{
+    "id": "dd5472c5-0d8d-4d48-8009-1a7c69f357f7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_AJOURHOLDSTIDSPUNKT"
+}

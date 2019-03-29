@@ -1,0 +1,23 @@
+{
+    "id": "7b0ac7df-6f6b-4002-b4cf-563c37a79d36",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/143da665-2b84-40d0-942f-f145f5544535",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

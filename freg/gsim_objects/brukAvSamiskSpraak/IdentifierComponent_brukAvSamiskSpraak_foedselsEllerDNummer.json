@@ -1,0 +1,23 @@
+{
+    "id": "1b93782b-665d-4061-9c9f-7bd5778f8238",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG brukAvSamiskSpraak foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BRUKAVSAMISKSPRAAK_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

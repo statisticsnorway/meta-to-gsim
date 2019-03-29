@@ -1,0 +1,22 @@
+{
+    "id": "e9867c6c-fe94-4324-847f-3776d4137436",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse utenlandskAdresse etasjenummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse utenlandskAdresse etasjenummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_UTENLANDSKADRESSE_ETASJENUMMER"
+}

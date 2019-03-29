@@ -1,0 +1,22 @@
+{
+    "id": "4d67fe9d-10fd-4703-bf63-ad7879a13686",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument utstederland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument utstederland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "LEGITIMASJONSDOKUMENT_UTSTEDERLAND"
+}

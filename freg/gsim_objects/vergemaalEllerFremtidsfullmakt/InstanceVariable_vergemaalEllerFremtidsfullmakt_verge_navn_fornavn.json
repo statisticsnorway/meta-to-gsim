@@ -1,0 +1,23 @@
+{
+    "id": "975824c6-4011-4bfc-8e56-ae767b0d2df1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt verge navn fornavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG vergemaalEllerFremtidsfullmakt verge navn fornavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/b305d921-1be9-4726-80af-ee3d1335fd28"
+}

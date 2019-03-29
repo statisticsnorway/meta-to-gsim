@@ -1,0 +1,23 @@
+{
+    "id": "4f6990cc-e767-465d-8482-ccc1785002c7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/IdentifierComponent/81618d00-430d-4c5e-8be6-dcf7d5e4dd89"
+}

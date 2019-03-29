@@ -1,0 +1,22 @@
+{
+    "id": "315e62bc-5bce-476f-8463-1ef0ab628c00",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_GYLDIGHETSTIDSPUNKT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "e5dba22d-94e5-4f5d-b4ee-9677588a8628",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSELINORGE_KILDE"
+}

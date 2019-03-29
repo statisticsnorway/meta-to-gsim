@@ -1,0 +1,22 @@
+{
+    "id": "6076dfb9-59c1-4197-96ae-dd4bb73d6ea8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall doedsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall doedsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DOEDSFALL_DOEDSDATO"
+}

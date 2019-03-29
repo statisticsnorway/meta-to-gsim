@@ -1,0 +1,22 @@
+{
+    "id": "ad623dc6-87c2-471e-a8a1-a520729af741",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedselINorge ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSELINORGE_AJOURHOLDSTIDSPUNKT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "3c84dce7-90a9-4e9e-9fe7-f41c471a7607",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a426847a-3c3f-4c6e-a267-9c20897b7844"
+}

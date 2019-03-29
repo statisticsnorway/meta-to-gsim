@@ -1,0 +1,23 @@
+{
+    "id": "ebfa6899-3f21-4a72-860a-fc0d6dfb0630",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/c557bc44-7928-475b-963a-6ee00294f44a"
+    ]
+}

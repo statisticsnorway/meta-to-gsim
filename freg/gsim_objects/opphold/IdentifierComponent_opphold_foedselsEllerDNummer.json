@@ -1,0 +1,23 @@
+{
+    "id": "660c2488-832d-487c-8dde-4f7a05ca95da",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLD_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

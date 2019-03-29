@@ -1,0 +1,23 @@
+{
+    "id": "0680b6dc-ceeb-4ea1-9091-199b70a14645",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse vegadresse adressenummer husnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse vegadresse adressenummer husnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/70b26bbc-ef71-4b93-94cd-f31b33e3df75"
+}

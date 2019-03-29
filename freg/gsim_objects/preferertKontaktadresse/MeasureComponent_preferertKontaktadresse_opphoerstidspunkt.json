@@ -1,0 +1,22 @@
+{
+    "id": "8e90ae62-7c4d-4cb0-ac3e-b97454845356",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "PREFERERTKONTAKTADRESSE_OPPHOERSTIDSPUNKT"
+}

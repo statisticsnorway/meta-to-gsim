@@ -1,0 +1,23 @@
+{
+    "id": "dc9b4c6a-bed1-410a-b5dc-f555ffb13ef0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/2c472967-26ee-4685-88aa-510e0bab4c28"
+    ]
+}

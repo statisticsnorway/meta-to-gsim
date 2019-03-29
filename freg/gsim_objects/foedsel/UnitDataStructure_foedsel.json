@@ -1,0 +1,23 @@
+{
+    "id": "4a89b30a-7a9e-4a4b-99e9-0ab382264f89",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur foedsel"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/368a8c09-12c7-477a-af5f-7db36eb418ca"
+    ]
+}

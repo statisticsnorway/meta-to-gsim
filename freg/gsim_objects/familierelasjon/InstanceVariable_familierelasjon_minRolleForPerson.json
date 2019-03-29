@@ -1,0 +1,23 @@
+{
+    "id": "4d3a328b-02b0-45f4-be38-09a1b7361188",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon minRolleForPerson"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon min rolle for person"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a10cf3c3-4c7a-4f2b-855b-4475320467cb"
+}

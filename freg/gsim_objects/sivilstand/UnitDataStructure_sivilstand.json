@@ -1,0 +1,23 @@
+{
+    "id": "143da665-2b84-40d0-942f-f145f5544535",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/199b914e-ba9d-4324-b2a7-b598c8aa3af4"
+    ]
+}

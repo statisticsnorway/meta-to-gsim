@@ -1,0 +1,23 @@
+{
+    "id": "1ec63c9d-ffa4-47c6-afcf-97080d6dfe2a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/027bf926-2222-4bad-b241-6bbf2fa0bb5b"
+}

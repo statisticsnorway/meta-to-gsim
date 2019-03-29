@@ -1,0 +1,22 @@
+{
+    "id": "85b0247b-c4ac-46da-b911-78c2c504f08d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_OPPHOERSTIDSPUNKT"
+}

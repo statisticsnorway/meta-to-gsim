@@ -1,0 +1,22 @@
+{
+    "id": "a6a4ae93-efd1-4eff-8696-1d1d3a215048",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSEIUTLANDET_KILDE"
+}

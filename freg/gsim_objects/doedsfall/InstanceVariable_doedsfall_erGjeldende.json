@@ -1,0 +1,23 @@
+{
+    "id": "5bcb86f4-550d-413c-950e-ef8aee34c4ca",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/d2f15135-142b-4d04-8876-bd3281f1a8fa"
+}

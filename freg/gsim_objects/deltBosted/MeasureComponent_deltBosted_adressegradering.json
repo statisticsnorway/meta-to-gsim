@@ -1,0 +1,22 @@
+{
+    "id": "1c54dcc9-867a-41cb-8386-a017d253dc1c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted adressegradering"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted adressegradering"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_ADRESSEGRADERING"
+}

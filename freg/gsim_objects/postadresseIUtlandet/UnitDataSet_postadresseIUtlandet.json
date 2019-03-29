@@ -1,0 +1,23 @@
+{
+    "id": "79dcc982-3729-4999-930d-52eebd784177",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett postadresse iutlandet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/9f44a199-48b2-4247-839d-63a68db0def7",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

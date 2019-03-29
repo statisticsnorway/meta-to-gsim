@@ -1,0 +1,22 @@
+{
+    "id": "31f63922-b08e-4c7c-8ec5-5158731c3ba2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DELTBOSTED_GYLDIGHETSTIDSPUNKT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "1c72bc59-000e-4b9b-a7e3-c0fd1dc4eefc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATSBORGERSKAP_STATSBORGERSKAP"
+}

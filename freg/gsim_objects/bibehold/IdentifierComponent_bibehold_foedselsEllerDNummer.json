@@ -1,0 +1,23 @@
+{
+    "id": "6099015b-3811-4bfb-b37e-650da780a55a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bibehold foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BIBEHOLD_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

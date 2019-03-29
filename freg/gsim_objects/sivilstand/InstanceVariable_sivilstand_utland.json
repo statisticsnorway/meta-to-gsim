@@ -1,0 +1,23 @@
+{
+    "id": "dd093355-f1a1-476d-b5e6-b90849135c20",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand utland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand utland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/9a2a48f8-0247-44e5-8f35-559229891c50"
+}

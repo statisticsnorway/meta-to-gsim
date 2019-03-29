@@ -1,0 +1,23 @@
+{
+    "id": "31dab2f9-2c7a-4253-bbaa-26ca52eee79a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/b3d31696-ec4a-4f95-99b0-5dbdcdb12f53"
+    ]
+}

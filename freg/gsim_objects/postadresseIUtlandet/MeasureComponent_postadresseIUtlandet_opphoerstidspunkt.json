@@ -1,0 +1,22 @@
+{
+    "id": "20cdde56-016e-482b-90f9-5ecbf3b6524a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresseIUtlandet opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSEIUTLANDET_OPPHOERSTIDSPUNKT"
+}

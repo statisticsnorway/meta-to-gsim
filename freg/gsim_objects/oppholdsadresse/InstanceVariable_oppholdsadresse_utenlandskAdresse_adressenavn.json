@@ -1,0 +1,23 @@
+{
+    "id": "04991994-be5d-4726-9f89-588dd50b1228",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse utenlandskAdresse adressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse utenlandskAdresse adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/44fad5ee-bb32-427a-b051-05a50772b961"
+}

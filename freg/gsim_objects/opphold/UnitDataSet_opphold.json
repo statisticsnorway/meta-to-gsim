@@ -1,0 +1,23 @@
+{
+    "id": "d2ea86fa-dca2-4268-a3ab-4dad103f1c94",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/dc9b4c6a-bed1-410a-b5dc-f555ffb13ef0",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "11354ea7-253f-40e2-9a4c-349ead0b8df5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse vegadresse bruksenhetsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse vegadresse bruksenhetsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "POSTADRESSE_VEGADRESSE_BRUKSENHETSNUMMER"
+}

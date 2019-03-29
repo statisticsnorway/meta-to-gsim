@@ -1,0 +1,23 @@
+{
+    "id": "db5925b1-529a-4813-977b-d3f416da4711",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedested"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedested"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/fec7177f-4f45-4784-9148-8f4d84e4db8a"
+}

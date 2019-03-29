@@ -1,0 +1,22 @@
+{
+    "id": "438a9f43-d879-45d1-a1ab-366e791625ef",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand sted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand sted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_STED"
+}

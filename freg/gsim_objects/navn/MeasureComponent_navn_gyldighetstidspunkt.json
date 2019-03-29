@@ -1,0 +1,22 @@
+{
+    "id": "f0871baa-6e76-411b-a310-21368a4798e1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_GYLDIGHETSTIDSPUNKT"
+}

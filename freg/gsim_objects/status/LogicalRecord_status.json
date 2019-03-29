@@ -1,0 +1,35 @@
+{
+    "id": "721cbdf3-7f0b-4ee2-9e4c-e9a295397770",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/1c21b463-5937-4f34-b1a6-e8d88fe28ec6"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/fcfe6a1c-dc73-42f3-bec9-8e0b29a29290",
+        "/MeasureComponent/d1b30660-c73a-413a-a062-9701d1b52df9",
+        "/MeasureComponent/26aa4d87-5fac-4d6d-a881-8f21dcf3a019",
+        "/MeasureComponent/7c731a78-a1ca-44be-82a0-98de8f943c31",
+        "/MeasureComponent/38bacd59-5e95-4ff3-9fef-e29a57c14436",
+        "/MeasureComponent/2898e741-e992-4c16-a0ea-f3748dd9a317",
+        "/MeasureComponent/ce5e4b2f-f617-4a59-869e-8824ff2ccb0e"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "STATUS"
+}

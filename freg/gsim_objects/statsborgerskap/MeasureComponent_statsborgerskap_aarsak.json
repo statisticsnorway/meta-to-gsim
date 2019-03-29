@@ -1,0 +1,22 @@
+{
+    "id": "348ee3a3-8757-482a-a863-a24e23d2e311",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATSBORGERSKAP_AARSAK"
+}

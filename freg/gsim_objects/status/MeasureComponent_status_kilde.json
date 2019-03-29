@@ -1,0 +1,22 @@
+{
+    "id": "26aa4d87-5fac-4d6d-a881-8f21dcf3a019",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG status kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATUS_KILDE"
+}

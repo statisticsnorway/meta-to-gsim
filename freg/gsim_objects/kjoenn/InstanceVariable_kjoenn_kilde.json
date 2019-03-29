@@ -1,0 +1,23 @@
+{
+    "id": "6552e2cc-4eb1-4097-acaf-c78ef9ccc6f2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG kjoenn kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/d72dcce2-e6d2-423d-8b0f-b9ab8e69f07a"
+}

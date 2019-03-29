@@ -1,0 +1,22 @@
+{
+    "id": "ab28461a-cf74-46d7-af65-cc1ed74b1773",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSEL_AARSAK"
+}

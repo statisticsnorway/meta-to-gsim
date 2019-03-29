@@ -1,0 +1,23 @@
+{
+    "id": "99914c55-4e17-4921-bf1a-ef1c4b6024ee",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted sluttdatoForKontrakt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted sluttdato for kontrakt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/6679f6fa-3b83-45cd-8967-428469930022"
+}

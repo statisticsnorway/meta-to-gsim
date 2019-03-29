@@ -1,0 +1,23 @@
+{
+    "id": "7389c508-053f-47c8-aa4c-58833ec1b57e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foreldreansvar kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/e54194bf-c481-4985-a522-58d0afe2ef81"
+}

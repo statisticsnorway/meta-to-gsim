@@ -1,0 +1,23 @@
+{
+    "id": "ca1c3a45-935c-4d47-ae0f-0b973fd33e03",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/d453a5de-6be1-45ac-a1d2-9d503c448a63",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "71135b56-8686-4ea3-b3b4-b1a1bf01ed22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATSBORGERSKAP_KILDE"
+}

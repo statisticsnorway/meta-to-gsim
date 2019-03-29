@@ -1,0 +1,23 @@
+{
+    "id": "568049de-dc81-460d-9542-d8c230f8d4f2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/0505c0a9-7198-4ab1-8f48-688ece6a4bf8"
+}

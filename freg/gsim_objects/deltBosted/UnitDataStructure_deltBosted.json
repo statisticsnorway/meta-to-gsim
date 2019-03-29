@@ -1,0 +1,23 @@
+{
+    "id": "c4b00bfc-38f3-45d7-8540-719854d429b3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/4211a004-0f7a-4ae6-bf4e-3c058f3af4e6"
+    ]
+}

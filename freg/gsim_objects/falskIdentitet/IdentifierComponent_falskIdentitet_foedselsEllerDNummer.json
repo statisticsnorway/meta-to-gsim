@@ -1,0 +1,23 @@
+{
+    "id": "96fb9a7e-f831-4d12-b46a-90c3aaa530e4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

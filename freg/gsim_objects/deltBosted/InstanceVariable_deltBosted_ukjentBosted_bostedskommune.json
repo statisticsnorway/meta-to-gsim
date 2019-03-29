@@ -1,0 +1,23 @@
+{
+    "id": "6dece3fb-1941-4d05-b360-2ca9b6084812",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted ukjentBosted bostedskommune"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG deltBosted ukjentBosted bostedskommune"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/02a3e745-14c4-42f2-9862-ffc9692f6a0b"
+}

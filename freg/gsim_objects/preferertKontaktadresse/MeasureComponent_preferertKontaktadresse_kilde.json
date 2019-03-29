@@ -1,0 +1,22 @@
+{
+    "id": "2934c088-7e8e-4f36-929a-aee4822272c5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "PREFERERTKONTAKTADRESSE_KILDE"
+}

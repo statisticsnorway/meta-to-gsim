@@ -1,0 +1,22 @@
+{
+    "id": "027bf926-2222-4bad-b241-6bbf2fa0bb5b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG doedsfall gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "DOEDSFALL_GYLDIGHETSTIDSPUNKT"
+}

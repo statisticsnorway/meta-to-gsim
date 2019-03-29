@@ -1,0 +1,22 @@
+{
+    "id": "250637dc-512e-4c6d-a0b7-b85a957e0465",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bibehold opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "BIBEHOLD_OPPHOERSTIDSPUNKT"
+}

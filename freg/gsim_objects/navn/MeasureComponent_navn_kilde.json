@@ -1,0 +1,22 @@
+{
+    "id": "3e5693bd-6215-480b-ba84-e8d677fa9b50",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_KILDE"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "aaf7cf38-04fd-4eb6-8868-f500ce88ca9f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/4e2c9bee-968e-42e5-9e96-637b4cca335a",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

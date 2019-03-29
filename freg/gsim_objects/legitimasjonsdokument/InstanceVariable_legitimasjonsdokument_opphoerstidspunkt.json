@@ -1,0 +1,23 @@
+{
+    "id": "a2d31e30-bd5c-4b0b-a8e5-d8d963a9c489",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG legitimasjonsdokument opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/136b5bd1-c39d-49a8-9f0b-a9ee8a1c5c6d"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "e81f682f-6021-438a-bd5b-2e5c206cd183",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG bibehold kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/09171100-49b0-4fa1-95f4-21e3c3c28e77"
+}

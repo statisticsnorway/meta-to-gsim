@@ -1,0 +1,22 @@
+{
+    "id": "69b5a479-3704-4d50-bdee-d38323bbc0da",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_AARSAK"
+}

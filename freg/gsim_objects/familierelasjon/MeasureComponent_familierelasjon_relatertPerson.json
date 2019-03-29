@@ -1,0 +1,22 @@
+{
+    "id": "8fc49cdd-aa74-4372-aceb-b5dc25015c70",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPerson"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon relatert person"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_RELATERTPERSON"
+}

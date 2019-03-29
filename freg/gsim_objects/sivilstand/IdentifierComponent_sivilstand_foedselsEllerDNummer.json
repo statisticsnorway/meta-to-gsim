@@ -1,0 +1,23 @@
+{
+    "id": "419154f6-e176-4913-bf44-a57d153788a0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG sivilstand foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "SIVILSTAND_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

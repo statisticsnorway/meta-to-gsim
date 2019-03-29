@@ -1,0 +1,23 @@
+{
+    "id": "4214391e-682c-4af1-8826-1effb112b6bc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/1032ace6-f381-47be-a8eb-b2af0a309b6e"
+    ]
+}

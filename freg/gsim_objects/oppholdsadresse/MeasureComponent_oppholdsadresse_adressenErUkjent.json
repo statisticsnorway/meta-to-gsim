@@ -1,0 +1,22 @@
+{
+    "id": "6d9d2473-84a8-4461-a467-64cc64cf532b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse adressenErUkjent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse adressen er ukjent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_ADRESSENERUKJENT"
+}

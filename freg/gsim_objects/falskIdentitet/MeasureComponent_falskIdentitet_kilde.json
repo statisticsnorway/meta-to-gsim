@@ -1,0 +1,22 @@
+{
+    "id": "e269fb43-2f11-44be-a0b3-596f5c51d89b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_KILDE"
+}

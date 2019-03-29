@@ -1,0 +1,23 @@
+{
+    "id": "1ed2a9bd-8a54-4633-9aae-a36e2c26fd3a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur oppholdsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/7d0bd0e0-bb76-4428-8af4-51bf69111b43"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ccaa1777-be71-4167-a6fe-c15ffb6cca93",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/c4b00bfc-38f3-45d7-8540-719854d429b3",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

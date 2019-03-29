@@ -1,0 +1,23 @@
+{
+    "id": "f92fc618-f89f-4214-94b8-fb1a20f4883e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/82d6c665-0f7c-4e24-b138-76c0e4d606a9",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

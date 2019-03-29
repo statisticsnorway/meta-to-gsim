@@ -1,0 +1,23 @@
+{
+    "id": "d13812bc-f29f-4bc4-97df-e6fbc10f524f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/37565aa9-c3db-49e6-81ae-5396a7b97ded"
+}

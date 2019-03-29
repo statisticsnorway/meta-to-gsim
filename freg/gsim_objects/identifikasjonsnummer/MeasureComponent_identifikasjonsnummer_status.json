@@ -1,0 +1,22 @@
+{
+    "id": "4fe508d5-02b6-44ca-a655-294583df96fa",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identifikasjonsnummer status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTIFIKASJONSNUMMER_STATUS"
+}

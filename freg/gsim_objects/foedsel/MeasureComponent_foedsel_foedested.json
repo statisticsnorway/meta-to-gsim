@@ -1,0 +1,22 @@
+{
+    "id": "fec7177f-4f45-4784-9148-8f4d84e4db8a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedested"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedested"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FOEDSEL_FOEDESTED"
+}

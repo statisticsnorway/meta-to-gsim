@@ -1,0 +1,22 @@
+{
+    "id": "adffab3c-f1e4-49e8-8b7f-3eb286b3d8f7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG preferertKontaktadresse ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "PREFERERTKONTAKTADRESSE_AJOURHOLDSTIDSPUNKT"
+}

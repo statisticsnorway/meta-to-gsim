@@ -1,0 +1,23 @@
+{
+    "id": "a8ece2b7-e0fa-4abb-a2e0-6dd340ae9dca",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse postadresseIFrittFormat poststed poststedsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG postadresse postadresseIFrittFormat poststed poststedsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/a7f51f26-6208-4b1c-9958-357855436521"
+}

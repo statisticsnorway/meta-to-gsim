@@ -1,0 +1,23 @@
+{
+    "id": "9fb6af7c-4fbe-45ba-9514-bb0736d0c667",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedselsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG foedsel foedselsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/036353de-757f-42cd-b1ab-b12396ebde85"
+}

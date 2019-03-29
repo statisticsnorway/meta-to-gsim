@@ -1,0 +1,35 @@
+{
+    "id": "38e7d004-daae-4149-a2f5-2a3e9c775dcc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) forhold til sametingets valgmanntall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/45520faa-0966-443f-9924-bae792cf16d2"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/4392521d-ad08-45ae-8c87-5dcc6c757f32",
+        "/MeasureComponent/1de6aab0-d3ed-4580-b9c0-7984fbf42b99",
+        "/MeasureComponent/89a17a1b-45c3-42ca-850f-58e3fd28b128",
+        "/MeasureComponent/3e2a7637-af1e-4f59-a789-b7fcf71d7f52",
+        "/MeasureComponent/5c1089e7-c99a-4f87-9ac4-4177d303da5d",
+        "/MeasureComponent/bacbc1bb-b12b-4eb8-ba68-a706a9f53e2f",
+        "/MeasureComponent/e0108aa4-d74b-43a4-8025-fc342b914b17"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL"
+}

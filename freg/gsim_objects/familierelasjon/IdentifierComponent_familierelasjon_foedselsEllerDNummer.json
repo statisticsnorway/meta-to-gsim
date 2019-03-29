@@ -1,0 +1,23 @@
+{
+    "id": "dc1dd99b-0c0d-4626-8976-5afcf6ff49c7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG familierelasjon foedsels eller dnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:42.000Z",
+    "validFrom": "2019-03-29T15:56:42.000Z",
+    "createdDate": "2019-03-29T15:56:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FAMILIERELASJON_FOEDSELSELLERDNUMMER",
+    "role": "ENTITY"
+}

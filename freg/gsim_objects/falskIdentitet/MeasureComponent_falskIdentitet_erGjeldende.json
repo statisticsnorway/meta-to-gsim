@@ -1,0 +1,22 @@
+{
+    "id": "d7bbc64a-6e0c-4b7e-bcf6-91838114c224",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_ERGJELDENDE"
+}

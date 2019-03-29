@@ -1,0 +1,22 @@
+{
+    "id": "6bca78bb-7490-49a2-887a-6b85909de1e6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identifikasjonsnummer opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTIFIKASJONSNUMMER_OPPHOERSTIDSPUNKT"
+}

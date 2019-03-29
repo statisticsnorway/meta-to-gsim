@@ -1,0 +1,22 @@
+{
+    "id": "8b8eb1cf-6504-42d4-872d-afd68abcc34d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG identitetsgrunnlag opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:41.000Z",
+    "validFrom": "2019-03-29T15:56:41.000Z",
+    "createdDate": "2019-03-29T15:56:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "IDENTITETSGRUNNLAG_OPPHOERSTIDSPUNKT"
+}

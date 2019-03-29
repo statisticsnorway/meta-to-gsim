@@ -1,0 +1,35 @@
+{
+    "id": "77ecad2f-9527-43cc-b231-9c60c921126a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) bruk av samisk spraak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:48.000Z",
+    "validFrom": "2019-03-29T15:56:48.000Z",
+    "createdDate": "2019-03-29T15:56:48.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/1b93782b-665d-4061-9c9f-7bd5778f8238"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/461701d4-39a4-462e-9cf8-d33015f5416a",
+        "/MeasureComponent/fb5aa989-397e-4926-b512-108ffa87475d",
+        "/MeasureComponent/1a77b758-296e-4f94-9d89-49782f2b4104",
+        "/MeasureComponent/1665cfd2-d798-47c7-b142-34f5ba9a3e32",
+        "/MeasureComponent/12c19342-4056-4b77-9602-759b4287ce6f",
+        "/MeasureComponent/2fe4aacf-7157-411f-a1cf-ee3c055a9b94",
+        "/MeasureComponent/3ef0ef8c-5812-453c-a67f-9804fbcb78a2"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BRUKAVSAMISKSPRAAK"
+}

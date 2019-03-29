@@ -1,0 +1,23 @@
+{
+    "id": "26ff86b0-bbb9-4773-8a36-4ea7b30e208b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG adressebeskyttelse kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponent": "/MeasureComponent/27197f9a-f479-428f-bebe-a1dc610b92cd"
+}

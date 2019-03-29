@@ -1,0 +1,22 @@
+{
+    "id": "35739ddf-3ddc-405e-81c4-fcb55fd0aa18",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG opphold opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLD_OPPHOERSTIDSPUNKT"
+}

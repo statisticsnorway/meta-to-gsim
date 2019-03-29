@@ -1,0 +1,22 @@
+{
+    "id": "ab4d8920-3759-444a-a02d-5377b1d843f4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG navn ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "NAVN_AJOURHOLDSTIDSPUNKT"
+}

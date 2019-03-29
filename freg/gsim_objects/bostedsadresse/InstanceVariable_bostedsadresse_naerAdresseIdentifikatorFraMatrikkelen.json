@@ -1,5 +1,5 @@
 {
-    "id": "4916e3e3-512f-4db3-bb5b-a7dad2ee673d",
+    "id": "dfe851f4-4cc6-408e-93a2-a3d01f074239",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,11 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:14:11.000Z",
-    "validFrom": "2019-03-29T15:14:11.000Z",
-    "createdDate": "2019-03-29T15:14:11.000Z",
+    "versionValidFrom": "2019-03-29T15:56:43.000Z",
+    "validFrom": "2019-03-29T15:56:43.000Z",
+    "createdDate": "2019-03-29T15:56:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/4f37364c-6d09-404f-9b47-c0d046a1e3cd"
+    "dataStructureComponent": "/MeasureComponent/3cc36d24-e636-4b63-b4cb-57e1aed7abe9"
 }

@@ -1,0 +1,22 @@
+{
+    "id": "d2fb0b15-aaa8-421b-89da-5880e84c89bb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse utenlandskAdresse coAdressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG oppholdsadresse utenlandskAdresse co adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:44.000Z",
+    "validFrom": "2019-03-29T15:56:44.000Z",
+    "createdDate": "2019-03-29T15:56:44.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "OPPHOLDSADRESSE_UTENLANDSKADRESSE_COADRESSENAVN"
+}

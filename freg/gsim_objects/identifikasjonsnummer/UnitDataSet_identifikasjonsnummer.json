@@ -1,0 +1,23 @@
+{
+    "id": "dfba4436-e7b1-4e22-a4a2-d4060fa48a90",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datasett identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/90e43ccc-3a96-4540-902a-01a82425fa8d",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

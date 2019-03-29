@@ -1,0 +1,22 @@
+{
+    "id": "794a3408-8d0c-4c80-9142-5fc1abc1a360",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG falskIdentitet gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:40.000Z",
+    "validFrom": "2019-03-29T15:56:40.000Z",
+    "createdDate": "2019-03-29T15:56:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "FALSKIDENTITET_GYLDIGHETSTIDSPUNKT"
+}

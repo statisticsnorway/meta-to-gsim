@@ -1,0 +1,23 @@
+{
+    "id": "a548e801-137b-4dce-a055-d6598c3441bd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG datastruktur preferert kontaktadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:45.000Z",
+    "validFrom": "2019-03-29T15:56:45.000Z",
+    "createdDate": "2019-03-29T15:56:45.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/46234179-9d94-4fcb-881a-cccc5b637c3c"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "7b4455d8-c7e4-4831-9b71-dc745215a98a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG statsborgerskap gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:46.000Z",
+    "validFrom": "2019-03-29T15:56:46.000Z",
+    "createdDate": "2019-03-29T15:56:46.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "shortName": "STATSBORGERSKAP_GYLDIGHETSTIDSPUNKT"
+}

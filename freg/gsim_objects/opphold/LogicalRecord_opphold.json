@@ -1,0 +1,37 @@
+{
+    "id": "2c472967-26ee-4685-88aa-510e0bab4c28",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FREG record (LogicalRecord) opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-03-29T15:56:47.000Z",
+    "validFrom": "2019-03-29T15:56:47.000Z",
+    "createdDate": "2019-03-29T15:56:47.000Z",
+    "createdBy": "BNJ",
+    "identifierComponents": [
+        "/IdentifierComponent/660c2488-832d-487c-8dde-4f7a05ca95da"
+    ],
+    "measureComponents": [
+        "/MeasureComponent/69c55932-7a66-4c7a-9214-6551e48d8f4d",
+        "/MeasureComponent/f770b314-953d-4961-9e7b-ec299c85a043",
+        "/MeasureComponent/0c37eeee-e1bd-481f-a2ff-7ad3fe3880d2",
+        "/MeasureComponent/5b4b7e0a-7083-473e-8d21-f3c55eb96a9d",
+        "/MeasureComponent/a7ff12a2-9569-462c-bfb5-d6a80bede34c",
+        "/MeasureComponent/35739ddf-3ddc-405e-81c4-fcb55fd0aa18",
+        "/MeasureComponent/9d072d02-d7f5-4d91-aea3-d6d2d640bfc3",
+        "/MeasureComponent/0e67b449-6f24-4ef9-9d1d-1bbe0f9819c2",
+        "/MeasureComponent/d7800798-7cc8-47d2-a8ef-7a84ce0355ac"
+    ],
+    "attributeComponents": [],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "OPPHOLD"
+}
