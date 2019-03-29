@@ -1,5 +1,5 @@
 {
-    "id": "3ffd1adb-c497-4115-8190-53ccfd6bcbdc",
+    "id": "4f37364c-6d09-404f-9b47-c0d046a1e3cd",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-28T11:05:13.000Z",
-    "validFrom": "2019-03-28T11:05:13.000Z",
-    "createdDate": "2019-03-28T11:05:13.000Z",
+    "versionValidFrom": "2019-03-29T15:14:12.000Z",
+    "validFrom": "2019-03-29T15:14:12.000Z",
+    "createdDate": "2019-03-29T15:14:12.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_NAERADRESSEIDENTIFIKATORFRAMATRIKKELEN"

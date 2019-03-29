@@ -1,5 +1,5 @@
 {
-    "id": "2d43a116-9069-4d6b-a03a-c642a336b51c",
+    "id": "04135c00-1c88-4275-891a-360f1bb74e40",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-28T11:05:12.000Z",
-    "validFrom": "2019-03-28T11:05:12.000Z",
-    "createdDate": "2019-03-28T11:05:12.000Z",
+    "versionValidFrom": "2019-03-29T15:14:11.000Z",
+    "validFrom": "2019-03-29T15:14:11.000Z",
+    "createdDate": "2019-03-29T15:14:11.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_AARSAK"

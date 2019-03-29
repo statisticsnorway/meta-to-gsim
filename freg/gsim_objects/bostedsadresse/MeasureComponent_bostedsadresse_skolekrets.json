@@ -1,5 +1,5 @@
 {
-    "id": "b2a90a02-8443-48e1-8dbc-b851380ff844",
+    "id": "e37a7729-b7ad-4e52-be13-a4bbeebdd08d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-28T11:05:13.000Z",
-    "validFrom": "2019-03-28T11:05:13.000Z",
-    "createdDate": "2019-03-28T11:05:13.000Z",
+    "versionValidFrom": "2019-03-29T15:14:12.000Z",
+    "validFrom": "2019-03-29T15:14:12.000Z",
+    "createdDate": "2019-03-29T15:14:12.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BOSTEDSADRESSE_SKOLEKRETS"
