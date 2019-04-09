@@ -1,0 +1,6 @@
+{
+    "id": "464e6de2-0749-46a1-90c7-baedbab386c9",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/folkeregisterperson/doedsfall/",
+    "targetInstanceVariable": "/InstanceVariable/2a817f90-e214-4a7d-8dac-6d100faf3fc7"
+}

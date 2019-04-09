@@ -1,0 +1,6 @@
+{
+    "id": "d421e749-ac41-4221-990e-5979aba24213",
+    "sourceName": "coAdressenavn",
+    "sourcePath": "/folkeregisterperson/deltBosted/matrikkeladresse/",
+    "targetInstanceVariable": "/InstanceVariable/110ebf24-7857-410d-a7d1-95d10d15d747"
+}

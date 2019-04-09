@@ -1,0 +1,6 @@
+{
+    "id": "985c3cb2-0f31-4827-a63f-1f3b0ab2b6f4",
+    "sourceName": "adresseIdentifikatorFraMatrikkelen",
+    "sourcePath": "/folkeregisterperson/bostedsadresse/",
+    "targetInstanceVariable": "/InstanceVariable/6e1e5024-ef4b-4a22-af01-857ecff4fa56"
+}

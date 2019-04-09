@@ -1,0 +1,6 @@
+{
+    "id": "929ecd50-d649-40dc-8623-e91492e7c737",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/folkeregisterperson/preferertKontaktadresse/",
+    "targetInstanceVariable": "/InstanceVariable/d0136eca-132c-4f3e-92e7-ca20401bda3b"
+}

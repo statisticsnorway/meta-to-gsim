@@ -1,0 +1,6 @@
+{
+    "id": "e4d87aec-9a51-4852-be11-4c67b9f3005e",
+    "sourceName": "adressenavn",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/utenlandskAdresse/",
+    "targetInstanceVariable": "/InstanceVariable/b556a241-f6c2-43c8-accf-9de398b9a546"
+}

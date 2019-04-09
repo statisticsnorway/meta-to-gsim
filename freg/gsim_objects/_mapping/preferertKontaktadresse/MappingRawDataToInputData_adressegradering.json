@@ -1,0 +1,6 @@
+{
+    "id": "bcab0f8d-047b-45e4-aaa2-a11731913d04",
+    "sourceName": "adressegradering",
+    "sourcePath": "/folkeregisterperson/preferertKontaktadresse/",
+    "targetInstanceVariable": "/InstanceVariable/cb8d80f4-5d77-4339-98ea-e4be4474c34b"
+}

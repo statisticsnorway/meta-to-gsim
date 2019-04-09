@@ -1,0 +1,6 @@
+{
+    "id": "b6cea2aa-ec0e-45e2-b305-0e32787d80ee",
+    "sourceName": "adresselinje",
+    "sourcePath": "/folkeregisterperson/postadresse/postadresseIFrittFormat/",
+    "targetInstanceVariable": "/InstanceVariable/d7ab3c5d-d8ac-4a51-af67-5f569458cfca"
+}

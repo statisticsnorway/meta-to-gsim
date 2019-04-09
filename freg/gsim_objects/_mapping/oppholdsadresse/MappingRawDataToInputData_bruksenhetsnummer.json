@@ -1,0 +1,6 @@
+{
+    "id": "a969f504-b99d-4c25-a75f-c52eefba3143",
+    "sourceName": "bruksenhetsnummer",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/",
+    "targetInstanceVariable": "/InstanceVariable/ae0e31fb-bc18-4967-8395-0dd149426fc2"
+}

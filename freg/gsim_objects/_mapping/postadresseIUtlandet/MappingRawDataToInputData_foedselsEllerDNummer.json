@@ -1,0 +1,6 @@
+{
+    "id": "ee1c33a0-c93e-4262-84cc-e18cfca5285b",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/folkeregisterperson/postadresseIUtlandet/",
+    "targetInstanceVariable": "/InstanceVariable/b750ec57-fea5-4973-8214-ce74d6ab43f5"
+}

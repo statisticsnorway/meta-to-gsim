@@ -1,0 +1,6 @@
+{
+    "id": "d5732ea6-0d20-4217-a76b-ec327e4d0280",
+    "sourceName": "husnummer",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/vegadresse/adressenummer/",
+    "targetInstanceVariable": "/InstanceVariable/ecefd524-aa6b-4a84-b3b5-3595667ff121"
+}

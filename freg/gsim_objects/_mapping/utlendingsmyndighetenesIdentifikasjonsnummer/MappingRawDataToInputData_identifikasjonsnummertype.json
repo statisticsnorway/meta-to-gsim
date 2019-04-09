@@ -1,0 +1,6 @@
+{
+    "id": "821a4666-e3b3-444e-b0b6-6f8823fe0dcb",
+    "sourceName": "identifikasjonsnummertype",
+    "sourcePath": "/folkeregisterperson/utlendingsmyndighetenesIdentifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/19b3539e-654a-4bc4-8b00-cce71f6e1e03"
+}

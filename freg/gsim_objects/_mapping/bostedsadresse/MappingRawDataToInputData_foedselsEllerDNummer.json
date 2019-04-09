@@ -1,0 +1,6 @@
+{
+    "id": "a32661cb-13bc-400e-8cdb-7d5c8be0d0d0",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/folkeregisterperson/bostedsadresse/",
+    "targetInstanceVariable": "/InstanceVariable/170caacc-5688-4470-ba6f-5aa17e66bc7f"
+}
