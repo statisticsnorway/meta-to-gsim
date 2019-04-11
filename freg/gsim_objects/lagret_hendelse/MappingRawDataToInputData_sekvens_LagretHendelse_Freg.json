@@ -1,0 +1,6 @@
+{
+   "id": "a22e64f3-2aa2-4643-babd-1fc436d1c6dd",
+   "sourceName": "ns2:sekvensnummer",
+   "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse",
+   "targetInstanceVariable": "/InstanceVariable/9f5d88a7-ec44-45e9-9c18-d57a73a2411a"
+}
