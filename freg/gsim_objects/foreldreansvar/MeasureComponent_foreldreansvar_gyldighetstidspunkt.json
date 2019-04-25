@@ -1,5 +1,5 @@
 {
-    "id": "693f5ca1-e4cd-427a-bca0-05c51d786481",
+    "id": "4acb689c-28c4-405f-9c64-2ec89afef213",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:46.000Z",
-    "validFrom": "2019-03-29T15:56:46.000Z",
-    "createdDate": "2019-03-29T15:56:46.000Z",
+    "versionValidFrom": "2019-04-09T13:00:27.000Z",
+    "validFrom": "2019-04-09T13:00:27.000Z",
+    "createdDate": "2019-04-09T13:00:27.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "FORELDREANSVAR_GYLDIGHETSTIDSPUNKT"

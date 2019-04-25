@@ -1,5 +1,5 @@
 {
-    "id": "822982e6-578a-4b90-9324-ebbee2a1c5e6",
+    "id": "5ff0f73a-f70b-42c0-a3a9-26597378f3ee",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "DOEDSFALL_KILDE"

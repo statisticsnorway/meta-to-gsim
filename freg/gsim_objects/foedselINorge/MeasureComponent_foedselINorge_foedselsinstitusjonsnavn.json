@@ -1,5 +1,5 @@
 {
-    "id": "47020a89-95fb-4b15-a655-cfd26c5653e8",
+    "id": "b933ceb2-8342-4142-b295-be8dded60814",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "FOEDSELINORGE_FOEDSELSINSTITUSJONSNAVN"

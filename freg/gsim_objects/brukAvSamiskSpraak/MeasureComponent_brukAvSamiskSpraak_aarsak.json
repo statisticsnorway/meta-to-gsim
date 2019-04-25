@@ -1,5 +1,5 @@
 {
-    "id": "1665cfd2-d798-47c7-b142-34f5ba9a3e32",
+    "id": "b640a399-d6a5-444d-920a-691221e79c9a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BRUKAVSAMISKSPRAAK_AARSAK"

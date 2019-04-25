@@ -1,5 +1,5 @@
 {
-    "id": "ab5c2593-60d3-4717-9f78-90c3a59925f2",
+    "id": "f9a80277-69e7-4849-a729-ec017a825ca1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:45.000Z",
-    "validFrom": "2019-03-29T15:56:45.000Z",
-    "createdDate": "2019-03-29T15:56:45.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "POSTADRESSEIUTLANDET_ADRESSEGRADERING"

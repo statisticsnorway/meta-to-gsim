@@ -1,5 +1,5 @@
 {
-    "id": "f5381429-fc46-4dac-81ef-584f4dbda52b",
+    "id": "c8be5e56-1985-45b3-98c2-8ac06d22a54e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "FOEDSELINORGE_REKKEFOELGENUMMER"

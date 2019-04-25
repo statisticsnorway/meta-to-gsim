@@ -1,5 +1,5 @@
 {
-    "id": "13420823-f108-4072-9aa9-3e55110e5e68",
+    "id": "143a17ac-4770-4059-a8f6-e96d2c9e155f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:45.000Z",
-    "validFrom": "2019-03-29T15:56:45.000Z",
-    "createdDate": "2019-03-29T15:56:45.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "POSTADRESSEIUTLANDET_UTENLANDSKADRESSE_BYELLERSTEDSNAVN"

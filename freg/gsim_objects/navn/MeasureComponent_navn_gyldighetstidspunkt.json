@@ -1,5 +1,5 @@
 {
-    "id": "f0871baa-6e76-411b-a310-21368a4798e1",
+    "id": "222cfbeb-969d-4fb1-a2bd-960efc561dd0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "NAVN_GYLDIGHETSTIDSPUNKT"

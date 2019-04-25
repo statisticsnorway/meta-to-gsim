@@ -1,5 +1,5 @@
 {
-    "id": "615449ec-51e5-4bc2-a628-8d0adef519f7",
+    "id": "a36c0528-c072-4c3a-a43f-34099e1c0d88",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:44.000Z",
-    "validFrom": "2019-03-29T15:56:44.000Z",
-    "createdDate": "2019-03-29T15:56:44.000Z",
+    "versionValidFrom": "2019-04-09T13:00:24.000Z",
+    "validFrom": "2019-04-09T13:00:24.000Z",
+    "createdDate": "2019-04-09T13:00:24.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "DELTBOSTED_MATRIKKELADRESSE_MATRIKKELNUMMER_FESTENUMMER"

@@ -1,5 +1,5 @@
 {
-    "id": "f8ebaffb-fb02-48e7-b7c8-59f53ce7f5af",
+    "id": "3cc2ee05-df31-41f1-be6b-744cab97fb4d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:46.000Z",
-    "validFrom": "2019-03-29T15:56:46.000Z",
-    "createdDate": "2019-03-29T15:56:46.000Z",
+    "versionValidFrom": "2019-04-09T13:00:27.000Z",
+    "validFrom": "2019-04-09T13:00:27.000Z",
+    "createdDate": "2019-04-09T13:00:27.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KJOENN_GYLDIGHETSTIDSPUNKT"

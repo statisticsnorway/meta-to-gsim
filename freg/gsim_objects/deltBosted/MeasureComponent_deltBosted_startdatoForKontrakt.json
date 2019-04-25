@@ -1,5 +1,5 @@
 {
-    "id": "db648b83-745b-406b-b95a-359f20755638",
+    "id": "0ca64b36-4a84-43ce-9beb-cedd0be8126f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:44.000Z",
-    "validFrom": "2019-03-29T15:56:44.000Z",
-    "createdDate": "2019-03-29T15:56:44.000Z",
+    "versionValidFrom": "2019-04-09T13:00:24.000Z",
+    "validFrom": "2019-04-09T13:00:24.000Z",
+    "createdDate": "2019-04-09T13:00:24.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "DELTBOSTED_STARTDATOFORKONTRAKT"

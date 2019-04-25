@@ -1,5 +1,5 @@
 {
-    "id": "821efc1a-6d3a-4ea3-a835-125b2f879f2e",
+    "id": "8472cf30-bbbc-4497-ba67-8329752af626",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_GYLDIGHETSTIDSPUNKT"

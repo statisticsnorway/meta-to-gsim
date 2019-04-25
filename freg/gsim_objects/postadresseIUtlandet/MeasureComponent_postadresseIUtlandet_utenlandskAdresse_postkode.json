@@ -1,5 +1,5 @@
 {
-    "id": "5ffeff08-1b49-448a-b6a0-5b84d9100401",
+    "id": "d0f7cb5b-12d2-4580-b85d-e12ef8aac001",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:45.000Z",
-    "validFrom": "2019-03-29T15:56:45.000Z",
-    "createdDate": "2019-03-29T15:56:45.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "POSTADRESSEIUTLANDET_UTENLANDSKADRESSE_POSTKODE"

@@ -1,5 +1,5 @@
 {
-    "id": "bac1cb19-b290-41e2-82bc-661e5fe0abab",
+    "id": "127e5f0a-d5c3-45fc-9a71-7fef936a2baa",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "LEGITIMASJONSDOKUMENT_DOKUMENTKONTROLL_DOKUMENTKONTROLLTIDSPUNKT"

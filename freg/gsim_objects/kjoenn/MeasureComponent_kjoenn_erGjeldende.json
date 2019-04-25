@@ -1,5 +1,5 @@
 {
-    "id": "13f040d4-9ee8-47a6-bc3b-0a1e9e25374d",
+    "id": "bbfda88a-9d9e-4502-8a11-3cbc1c569864",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:46.000Z",
-    "validFrom": "2019-03-29T15:56:46.000Z",
-    "createdDate": "2019-03-29T15:56:46.000Z",
+    "versionValidFrom": "2019-04-09T13:00:27.000Z",
+    "validFrom": "2019-04-09T13:00:27.000Z",
+    "createdDate": "2019-04-09T13:00:27.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KJOENN_ERGJELDENDE"

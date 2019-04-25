@@ -1,5 +1,5 @@
 {
-    "id": "1b93782b-665d-4061-9c9f-7bd5778f8238",
+    "id": "4ff1e48e-b331-471f-9a36-9b4fa9e04cd7",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BRUKAVSAMISKSPRAAK_FOEDSELSELLERDNUMMER",

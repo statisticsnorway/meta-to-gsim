@@ -1,5 +1,5 @@
 {
-    "id": "4fe508d5-02b6-44ca-a655-294583df96fa",
+    "id": "d4f48d9f-023a-4eb2-a419-eb252ae2e867",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:21.000Z",
+    "validFrom": "2019-04-09T13:00:21.000Z",
+    "createdDate": "2019-04-09T13:00:21.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "IDENTIFIKASJONSNUMMER_STATUS"

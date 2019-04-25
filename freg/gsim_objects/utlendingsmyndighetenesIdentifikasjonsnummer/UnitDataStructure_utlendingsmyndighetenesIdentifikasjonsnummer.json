@@ -1,5 +1,5 @@
 {
-    "id": "200efe18-5362-469c-810d-25d237145ffa",
+    "id": "d0eb526a-1343-49df-9894-ea3b24d8320f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,11 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/dfc050b7-eece-41bb-8890-f386d8781960"
+        "/LogicalRecord/11283e18-23c3-445a-b91e-9a620f2d55c1"
     ]
 }

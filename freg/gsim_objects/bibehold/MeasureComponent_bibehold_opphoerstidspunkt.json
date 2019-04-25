@@ -1,5 +1,5 @@
 {
-    "id": "250637dc-512e-4c6d-a0b7-b85a957e0465",
+    "id": "964fd25d-3fde-451b-a025-9606a8addbf6",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BIBEHOLD_OPPHOERSTIDSPUNKT"

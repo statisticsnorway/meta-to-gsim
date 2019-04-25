@@ -1,5 +1,5 @@
 {
-    "id": "9564871d-40ac-4dee-a61d-5b121b8a0876",
+    "id": "cdd1f1f4-0f6a-4579-ba30-5de772457b62",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "LEGITIMASJONSDOKUMENT_FOEDSELSELLERDNUMMER",

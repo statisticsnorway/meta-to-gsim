@@ -1,5 +1,5 @@
 {
-    "id": "aff954c3-1ed5-44bb-93c9-4318fee5a0d5",
+    "id": "a52f198d-83d7-4f51-b2b8-1851076f2c29",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BIBEHOLD_BIBEHOLDSTATUS"

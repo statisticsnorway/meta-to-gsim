@@ -1,5 +1,5 @@
 {
-    "id": "34fb49f3-c4d7-4918-bdb0-7ce6f455888f",
+    "id": "49d7ccb8-44ea-4e5c-b6c1-72e664210390",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ADRESSE_POSTSTEDSNAVN"

@@ -1,5 +1,5 @@
 {
-    "id": "800aba9e-54fa-4f40-981b-4c0550afc980",
+    "id": "dde4cf8d-5a8b-4430-9d50-6b19ade19831",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KONTAKTINFORMASJONFORDOEDSBO_AJOURHOLDSTIDSPUNKT"

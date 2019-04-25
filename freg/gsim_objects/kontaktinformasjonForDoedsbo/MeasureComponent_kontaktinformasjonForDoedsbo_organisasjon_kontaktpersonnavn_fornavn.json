@@ -1,5 +1,5 @@
 {
-    "id": "a8a69375-62df-4769-bda4-fda57506c56a",
+    "id": "69337cd1-1f3b-47a2-bf50-fc1aaa7b734e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ORGANISASJON_KONTAKTPERSONNAVN_FORNAVN"

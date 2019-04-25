@@ -1,5 +1,5 @@
 {
-    "id": "bde27445-fef3-425d-ac37-6ef97d0955c2",
+    "id": "3c622993-d933-4c09-b85e-250a11c8a7d0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_VERGE_OMFANG"

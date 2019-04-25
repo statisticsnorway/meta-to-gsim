@@ -1,5 +1,5 @@
 {
-    "id": "97d6a707-7121-4523-b59f-3624b461c757",
+    "id": "a1199d4f-b61d-4c49-b546-41ee734f3ce4",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_OPPHOERSTIDSPUNKT"

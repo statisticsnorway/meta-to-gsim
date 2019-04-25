@@ -1,5 +1,5 @@
 {
-    "id": "c96581cc-974a-412e-b0e1-e6304c74a124",
+    "id": "5e9009fb-c435-48b1-a6c0-6bf045b2cf8c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "KONTAKTINFORMASJONFORDOEDSBO_PERSON_FOEDSELSDATO"

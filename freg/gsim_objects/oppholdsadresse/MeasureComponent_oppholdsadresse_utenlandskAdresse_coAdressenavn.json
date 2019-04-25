@@ -1,5 +1,5 @@
 {
-    "id": "d2fb0b15-aaa8-421b-89da-5880e84c89bb",
+    "id": "51e511be-e7a5-4744-ac0d-0e497951c396",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:44.000Z",
-    "validFrom": "2019-03-29T15:56:44.000Z",
-    "createdDate": "2019-03-29T15:56:44.000Z",
+    "versionValidFrom": "2019-04-09T13:00:25.000Z",
+    "validFrom": "2019-04-09T13:00:25.000Z",
+    "createdDate": "2019-04-09T13:00:25.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "OPPHOLDSADRESSE_UTENLANDSKADRESSE_COADRESSENAVN"

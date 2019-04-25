@@ -1,5 +1,5 @@
 {
-    "id": "14cfa286-d383-4dfe-958a-1eada526c786",
+    "id": "b61dbc64-4fbd-4dcd-8675-1cb7b86f5071",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:40.000Z",
-    "validFrom": "2019-03-29T15:56:40.000Z",
-    "createdDate": "2019-03-29T15:56:40.000Z",
+    "versionValidFrom": "2019-04-09T13:00:21.000Z",
+    "validFrom": "2019-04-09T13:00:21.000Z",
+    "createdDate": "2019-04-09T13:00:21.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "FALSKIDENTITET_RETTIDENTITETVEDOPPLYSNINGER_FOEDSELSDATO"

@@ -1,5 +1,5 @@
 {
-    "id": "c468685a-15ce-44f4-8e3a-8c14f64ca1f4",
+    "id": "d89cee83-dc68-4642-aa78-e0d46149c54b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "LEGITIMASJONSDOKUMENT_AJOURHOLDSTIDSPUNKT"

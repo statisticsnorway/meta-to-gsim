@@ -1,5 +1,5 @@
 {
-    "id": "a307571b-b2b6-4656-a8e6-e9ee4b8b1aba",
+    "id": "c30cb5e5-7267-4d35-83d2-a58da5595a07",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "FAMILIERELASJON_RELATERTPERSONUTENFOLKEREGISTERIDENTIFIKATOR_STATSBORGERSKAP"

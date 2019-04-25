@@ -1,5 +1,5 @@
 {
-    "id": "368a8c09-12c7-477a-af5f-7db36eb418ca",
+    "id": "9aa6c220-eb57-43c2-a1e6-a1ff8f94c5eb",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,25 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:46.000Z",
-    "validFrom": "2019-03-29T15:56:46.000Z",
-    "createdDate": "2019-03-29T15:56:46.000Z",
+    "versionValidFrom": "2019-04-09T13:00:27.000Z",
+    "validFrom": "2019-04-09T13:00:27.000Z",
+    "createdDate": "2019-04-09T13:00:27.000Z",
     "createdBy": "BNJ",
     "identifierComponents": [
-        "/IdentifierComponent/1c88d9c1-049e-4d2a-aae4-505caa1d5d66"
+        "/IdentifierComponent/588798e1-a713-4846-b7ae-d780fa4494c2"
     ],
     "measureComponents": [
-        "/MeasureComponent/0adda052-4dea-4249-84c7-0b5c8ce1cb23",
-        "/MeasureComponent/b4020d13-147d-4b27-957e-ee89fa4eed85",
-        "/MeasureComponent/c93917fd-2010-4347-b452-006d4a789665",
-        "/MeasureComponent/ab28461a-cf74-46d7-af65-cc1ed74b1773",
-        "/MeasureComponent/e9c62ee7-0b37-4dae-9e7c-41509010ab57",
-        "/MeasureComponent/31cc5e22-324f-47f3-9758-817d7e61e920",
-        "/MeasureComponent/036353de-757f-42cd-b1ab-b12396ebde85",
-        "/MeasureComponent/52140270-3441-4574-b86e-533591a33771",
-        "/MeasureComponent/fec7177f-4f45-4784-9148-8f4d84e4db8a",
-        "/MeasureComponent/994b5d8c-8e3b-4665-96a0-cb67f1e09462",
-        "/MeasureComponent/f67f5871-962d-4eb9-803d-9a9e307f4c1a"
+        "/MeasureComponent/9c274783-4b41-4e58-9c33-783b52da24e2",
+        "/MeasureComponent/01bb4a56-6d62-430f-881f-546404df8b02",
+        "/MeasureComponent/fddb234a-9966-4992-96b9-40bd2216c74f",
+        "/MeasureComponent/18d6cd1d-040d-4bcf-9246-42f88fc2d842",
+        "/MeasureComponent/dfd94f2a-fc13-4b58-acb1-d5a4551c5304",
+        "/MeasureComponent/9c7030a5-6ed4-4b35-80f9-7e8dc3a13f1d",
+        "/MeasureComponent/51bd5f56-9215-459d-8236-ce4c9603068d",
+        "/MeasureComponent/1c45961f-50cd-4f19-bbd0-93934dc826b6",
+        "/MeasureComponent/8dc572bd-0b38-490e-84fb-8ab8262e7a4a",
+        "/MeasureComponent/48802d14-ebf4-41f8-b1a0-81d4fe9b09aa",
+        "/MeasureComponent/ae2b6ae0-2f32-487d-bff8-d61eb68de6db"
     ],
     "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",

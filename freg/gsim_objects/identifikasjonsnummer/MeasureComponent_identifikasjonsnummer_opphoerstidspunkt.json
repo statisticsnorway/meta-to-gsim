@@ -1,5 +1,5 @@
 {
-    "id": "6bca78bb-7490-49a2-887a-6b85909de1e6",
+    "id": "c22f0c9c-3f34-4834-b800-b1e75a520189",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:21.000Z",
+    "validFrom": "2019-04-09T13:00:21.000Z",
+    "createdDate": "2019-04-09T13:00:21.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "IDENTIFIKASJONSNUMMER_OPPHOERSTIDSPUNKT"

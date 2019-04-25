@@ -1,5 +1,5 @@
 {
-    "id": "12c19342-4056-4b77-9602-759b4287ce6f",
+    "id": "591ee2d8-a63f-463d-aff0-9f1b64a8e9d3",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BRUKAVSAMISKSPRAAK_GYLDIGHETSTIDSPUNKT"

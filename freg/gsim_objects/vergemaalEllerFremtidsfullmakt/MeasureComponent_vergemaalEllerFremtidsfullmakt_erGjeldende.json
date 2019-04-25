@@ -1,5 +1,5 @@
 {
-    "id": "816f1376-0fd3-4708-9066-e44cba1175a6",
+    "id": "490afa8e-6f8f-4b69-9bcf-8e763ca5ff74",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:47.000Z",
-    "validFrom": "2019-03-29T15:56:47.000Z",
-    "createdDate": "2019-03-29T15:56:47.000Z",
+    "versionValidFrom": "2019-04-09T13:00:28.000Z",
+    "validFrom": "2019-04-09T13:00:28.000Z",
+    "createdDate": "2019-04-09T13:00:28.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_ERGJELDENDE"

@@ -1,5 +1,5 @@
 {
-    "id": "5a934017-4522-415c-9a7e-1edbd7764e4e",
+    "id": "ac831ea1-0cf4-4951-a3cb-ab37c5a8fb9f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:45.000Z",
-    "validFrom": "2019-03-29T15:56:45.000Z",
-    "createdDate": "2019-03-29T15:56:45.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "ADRESSEBESKYTTELSE_GYLDIGHETSTIDSPUNKT"

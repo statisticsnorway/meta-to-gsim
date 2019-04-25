@@ -1,5 +1,5 @@
 {
-    "id": "461701d4-39a4-462e-9cf8-d33015f5416a",
+    "id": "800bb0f3-99f7-4d11-96fe-84e12b1127ff",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:48.000Z",
-    "validFrom": "2019-03-29T15:56:48.000Z",
-    "createdDate": "2019-03-29T15:56:48.000Z",
+    "versionValidFrom": "2019-04-09T13:00:29.000Z",
+    "validFrom": "2019-04-09T13:00:29.000Z",
+    "createdDate": "2019-04-09T13:00:29.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "BRUKAVSAMISKSPRAAK_AJOURHOLDSTIDSPUNKT"

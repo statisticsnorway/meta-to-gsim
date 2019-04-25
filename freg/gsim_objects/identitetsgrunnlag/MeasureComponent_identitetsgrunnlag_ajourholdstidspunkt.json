@@ -1,5 +1,5 @@
 {
-    "id": "6a9c724b-6a80-4de4-b283-ef0bfefc1b4c",
+    "id": "8b382f0f-c3c1-4b2e-b44b-c90de43b0f88",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:41.000Z",
-    "validFrom": "2019-03-29T15:56:41.000Z",
-    "createdDate": "2019-03-29T15:56:41.000Z",
+    "versionValidFrom": "2019-04-09T13:00:22.000Z",
+    "validFrom": "2019-04-09T13:00:22.000Z",
+    "createdDate": "2019-04-09T13:00:22.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "IDENTITETSGRUNNLAG_AJOURHOLDSTIDSPUNKT"

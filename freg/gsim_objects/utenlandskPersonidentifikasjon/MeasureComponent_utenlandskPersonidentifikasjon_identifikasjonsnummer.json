@@ -1,5 +1,5 @@
 {
-    "id": "4708c8c8-15c6-4e9f-baf9-4a0ebb6eada7",
+    "id": "49177e05-8556-4ab6-aebc-1302700ecc9d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_IDENTIFIKASJONSNUMMER"

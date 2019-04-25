@@ -1,5 +1,5 @@
 {
-    "id": "a7f51f26-6208-4b1c-9958-357855436521",
+    "id": "ac343ed2-71fc-42f9-b04c-22b3192c8a06",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:45.000Z",
-    "validFrom": "2019-03-29T15:56:45.000Z",
-    "createdDate": "2019-03-29T15:56:45.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "POSTADRESSE_POSTADRESSEIFRITTFORMAT_POSTSTED_POSTSTEDSNAVN"

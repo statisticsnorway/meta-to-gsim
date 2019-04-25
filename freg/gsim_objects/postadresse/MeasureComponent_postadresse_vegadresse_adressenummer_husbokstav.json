@@ -1,5 +1,5 @@
 {
-    "id": "fb62160a-afe5-4cbe-aabd-1449b339b3f5",
+    "id": "7fe3ae5d-9d8d-412d-8637-ceceb6cfa3ee",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:44.000Z",
-    "validFrom": "2019-03-29T15:56:44.000Z",
-    "createdDate": "2019-03-29T15:56:44.000Z",
+    "versionValidFrom": "2019-04-09T13:00:26.000Z",
+    "validFrom": "2019-04-09T13:00:26.000Z",
+    "createdDate": "2019-04-09T13:00:26.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "POSTADRESSE_VEGADRESSE_ADRESSENUMMER_HUSBOKSTAV"

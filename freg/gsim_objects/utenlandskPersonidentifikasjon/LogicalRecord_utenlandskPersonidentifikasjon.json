@@ -1,5 +1,5 @@
 {
-    "id": "d26cfda9-6829-48d4-86d3-82764e1e9d31",
+    "id": "8a5367de-26cf-48e9-b9e1-c0b8e61b9fa5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,23 +13,23 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "identifierComponents": [
-        "/IdentifierComponent/0bea6898-8bf6-41b0-a156-177a515ab4ee"
+        "/IdentifierComponent/5abccb5b-31ed-475b-80bd-511fcdcbe2f3"
     ],
     "measureComponents": [
-        "/MeasureComponent/47fd25ce-6f36-40d4-afab-6210f40c39e7",
-        "/MeasureComponent/dafef6aa-2033-45a4-9322-6a214f977738",
-        "/MeasureComponent/34e5849a-006b-42a1-a2f0-843fedb8625a",
-        "/MeasureComponent/cb5de2ed-cb99-4bdb-a0d3-c4d5d849b2d4",
-        "/MeasureComponent/687e68f1-8502-4a5a-b8f5-78fa24b8b8c0",
-        "/MeasureComponent/eb1879cc-0527-4b98-bc72-a6dff83671bb",
-        "/MeasureComponent/4708c8c8-15c6-4e9f-baf9-4a0ebb6eada7",
-        "/MeasureComponent/c45014a7-cc0c-46fe-af11-1740e6c7738a",
-        "/MeasureComponent/fa22393d-7985-463f-bfa8-81d293ee1701"
+        "/MeasureComponent/04ba8b04-01f4-47c2-b049-510523591898",
+        "/MeasureComponent/63b73fb0-1f13-47ca-99a9-0923c4bc26d0",
+        "/MeasureComponent/c41b108b-8e75-43c1-a5be-9ee5c47d3b2f",
+        "/MeasureComponent/4a7edd03-8a4e-4234-96f1-037d0fe6b472",
+        "/MeasureComponent/a3a0f827-6e65-409a-b0c5-4d8614958b2c",
+        "/MeasureComponent/e466c3b3-9e1b-4f8c-b657-ec0b0b3f4dd8",
+        "/MeasureComponent/49177e05-8556-4ab6-aebc-1302700ecc9d",
+        "/MeasureComponent/d3ceb332-5f68-4486-bee8-fbc5813f8e10",
+        "/MeasureComponent/913c6689-4f8f-4277-821d-d171c56284b9"
     ],
     "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",

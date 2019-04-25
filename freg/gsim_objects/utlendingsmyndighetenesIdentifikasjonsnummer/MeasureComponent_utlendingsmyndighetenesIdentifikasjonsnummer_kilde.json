@@ -1,5 +1,5 @@
 {
-    "id": "9832ec34-a58c-486c-ad72-40f1b186e619",
+    "id": "68508fcd-6e19-4724-8ca8-68c6c86f795b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_KILDE"

@@ -1,5 +1,5 @@
 {
-    "id": "cb5de2ed-cb99-4bdb-a0d3-c4d5d849b2d4",
+    "id": "4a7edd03-8a4e-4234-96f1-037d0fe6b472",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_AARSAK"

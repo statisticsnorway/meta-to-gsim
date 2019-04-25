@@ -1,5 +1,5 @@
 {
-    "id": "687e68f1-8502-4a5a-b8f5-78fa24b8b8c0",
+    "id": "a3a0f827-6e65-409a-b0c5-4d8614958b2c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_GYLDIGHETSTIDSPUNKT"

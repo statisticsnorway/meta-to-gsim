@@ -1,5 +1,5 @@
 {
-    "id": "aaa2aec1-033b-4aa5-bfbf-e079f1a1e3e9",
+    "id": "d128df28-159c-4e81-b8f2-aab4d9b35db9",
     "name": [
         {
             "languageCode": "nb",
@@ -13,9 +13,9 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-03-29T15:56:42.000Z",
-    "validFrom": "2019-03-29T15:56:42.000Z",
-    "createdDate": "2019-03-29T15:56:42.000Z",
+    "versionValidFrom": "2019-04-09T13:00:23.000Z",
+    "validFrom": "2019-04-09T13:00:23.000Z",
+    "createdDate": "2019-04-09T13:00:23.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_OPPHOERSTIDSPUNKT"
