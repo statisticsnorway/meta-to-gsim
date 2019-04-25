@@ -13,10 +13,6 @@
  "lastUpdatedDate": "2019-02-19T14:16:23.477Z",
  "createdDate": "2019-02-18T10:50:31.672Z",
  "createdBy": "Test",
- "measureComponents": [
-  "/MeasureComponent/f1e30752-3746-415e-ae56-50f2c5b504dc",
-  "/MeasureComponent/eccc0a06-9fee-4484-bd28-a9077ca7a6c4"
- ],
  "name": [
   {
    "languageCode": "nb",
@@ -25,10 +21,12 @@
  ],
  "id": "a5303ade-d74f-49c4-8747-4746dd7b8ddb",
  "shortName": "HENDELSE",
- "identifierComponents": [
-  "/IdentifierComponent/d8d613b5-5c2b-4517-9085-139b1dd9b565",
-  "/IdentifierComponent/6b163989-deeb-4eb3-a749-442d4fbf2e56",
-  "/IdentifierComponent/ae845f7d-1951-40ae-9631-efeeb79898bc",
-  "/IdentifierComponent/9f4cb7c4-b492-4b56-af4a-31cb13efdb2e"
+ "instanceVariables": [
+  "/instanceVariable/e5495a9b-b2cd-47c1-bd07-a09bbf8bc812",
+  "/instanceVariable/d1a67422-0dab-4ece-9d27-16fa61e71996",
+  "/instanceVariable/33746f8d-fa98-42a1-a86d-9f33c4a965ac",
+  "/instanceVariable/ae857520-8002-4da0-b650-1ca8b1d541ef",
+  "/instanceVariable/09c24ccd-6765-4d8c-84ae-b4c7d55ad4ea",
+  "/instanceVariable/9f5d88a7-ec44-45e9-9c18-d57a73a2411a"
  ]
 }

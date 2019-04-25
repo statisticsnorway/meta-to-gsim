@@ -21,5 +21,9 @@
  "validFrom": "2019-02-19T10:41:23.172Z",
  "representedVariable": "/RepresentedVariable/b798e440-caaa-4826-9d44-83861a5e14db",
  "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
- "dataStructureComponent": "/IdentifierComponent/d8d613b5-5c2b-4517-9085-139b1dd9b565"
+ "dataStructureComponentType": "IDENTIFIER",
+ "shortName": "HENDELSESTYPE",
+  "identifierComponentIsComposite": true,
+  "dataStructureComponentRole": "ENTITY",
+  "identifierComponentIsUnique": false,
 }

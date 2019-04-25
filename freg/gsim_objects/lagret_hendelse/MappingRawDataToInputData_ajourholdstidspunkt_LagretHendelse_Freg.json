@@ -1,6 +1,6 @@
 {
    "id": "9afd5981-d3da-4ff7-a126-c1a2e3ebfbaa",
    "sourceName": "ns2:ajourholdstidspunkt",
-   "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse",
+   "sourcePath": "/entry/content/ns2:lagretHendelse/ns2:hendelse",
    "targetInstanceVariable": "/InstanceVariable/e5495a9b-b2cd-47c1-bd07-a09bbf8bc812"
 }
