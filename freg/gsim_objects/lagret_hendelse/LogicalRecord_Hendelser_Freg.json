@@ -22,11 +22,11 @@
  "id": "a5303ade-d74f-49c4-8747-4746dd7b8ddb",
  "shortName": "HENDELSE",
  "instanceVariables": [
-  "/instanceVariable/e5495a9b-b2cd-47c1-bd07-a09bbf8bc812",
-  "/instanceVariable/d1a67422-0dab-4ece-9d27-16fa61e71996",
-  "/instanceVariable/33746f8d-fa98-42a1-a86d-9f33c4a965ac",
-  "/instanceVariable/ae857520-8002-4da0-b650-1ca8b1d541ef",
-  "/instanceVariable/09c24ccd-6765-4d8c-84ae-b4c7d55ad4ea",
-  "/instanceVariable/9f5d88a7-ec44-45e9-9c18-d57a73a2411a"
+  "/InstanceVariable/e5495a9b-b2cd-47c1-bd07-a09bbf8bc812",
+  "/InstanceVariable/d1a67422-0dab-4ece-9d27-16fa61e71996",
+  "/InstanceVariable/33746f8d-fa98-42a1-a86d-9f33c4a965ac",
+  "/InstanceVariable/ae857520-8002-4da0-b650-1ca8b1d541ef",
+  "/InstanceVariable/09c24ccd-6765-4d8c-84ae-b4c7d55ad4ea",
+  "/InstanceVariable/9f5d88a7-ec44-45e9-9c18-d57a73a2411a"
  ]
 }

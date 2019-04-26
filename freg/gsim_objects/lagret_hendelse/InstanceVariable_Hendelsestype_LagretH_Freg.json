@@ -26,5 +26,5 @@
  "shortName": "HENDELSESTYPE",
   "identifierComponentIsComposite": true,
   "dataStructureComponentRole": "ENTITY",
-  "identifierComponentIsUnique": false,
+  "identifierComponentIsUnique": false
 }
