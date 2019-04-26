@@ -1,5 +1,5 @@
 {
-    "id": "bb893bf2-0f28-42d3-97d4-1ec21811c288",
+    "id": "7ad8adfc-3341-422f-93bb-aa7162154fa9",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/bae63819-01cb-407f-9284-bb0719b9de22"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTIFIKASJONSNUMMER_AJOURHOLDSTIDSPUNKT"
 }

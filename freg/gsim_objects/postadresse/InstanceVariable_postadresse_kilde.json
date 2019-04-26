@@ -1,5 +1,5 @@
 {
-    "id": "91f8364b-7746-4627-bf62-b7b5e4331a32",
+    "id": "97836257-a8ac-4473-83fd-435276b265af",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b5fc75f6-10a1-4a84-bbe5-4f010bcfac79"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_KILDE"
 }

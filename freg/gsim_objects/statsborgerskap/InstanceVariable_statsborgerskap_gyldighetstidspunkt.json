@@ -1,5 +1,5 @@
 {
-    "id": "283c10e5-28f8-4476-982b-5444ec7e096c",
+    "id": "22e6d64e-f47e-403c-a850-41fbe016250d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/13a84974-3fc0-4e60-84b2-c2afa52bf968"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATSBORGERSKAP_GYLDIGHETSTIDSPUNKT"
 }

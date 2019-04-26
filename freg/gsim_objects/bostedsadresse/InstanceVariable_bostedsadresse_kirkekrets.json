@@ -1,5 +1,5 @@
 {
-    "id": "bf65c13d-1313-49e7-b29e-6664ab26be1f",
+    "id": "467917f5-4298-4762-b107-5f1ebbd00a6d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/985a9833-d323-487f-b989-2cec16ad0a62"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_KIRKEKRETS"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "ae0e31fb-bc18-4967-8395-0dd149426fc2",
+    "id": "190185e8-5164-4906-ada1-2f99aa7d43ab",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b617432e-befd-4534-95cd-5fd161aebbdc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_MATRIKKELADRESSE_BRUKSENHETSNUMMER"
 }

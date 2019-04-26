@@ -1,5 +1,5 @@
 {
-    "id": "8715cb96-5b1f-404f-88c0-eb7bcd8d4798",
+    "id": "74e930d4-d080-46f9-8c24-49fb62fb1d11",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b338b2be-87cc-4494-ba29-d0732ed60dd8"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_AARSAK"
 }

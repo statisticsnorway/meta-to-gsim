@@ -1,5 +1,5 @@
 {
-    "id": "409583a3-776e-4a8b-826c-b52c2ab2e187",
+    "id": "b6463b60-7df4-4b0a-ace1-02fe6321eb1c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1d856830-e665-4bfd-90d3-8c5024b180cd"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_ERGJELDENDE"
 }

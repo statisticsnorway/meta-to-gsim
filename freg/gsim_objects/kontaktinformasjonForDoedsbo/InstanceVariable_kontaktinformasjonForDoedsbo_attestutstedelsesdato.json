@@ -1,5 +1,5 @@
 {
-    "id": "88f9f778-6f02-49be-8e5a-cc3ee2839703",
+    "id": "fbf99168-4bb4-494b-8014-1997844e6df0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/e248ba07-ac29-4d5c-8ee6-aa4b03211576"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ATTESTUTSTEDELSESDATO"
 }

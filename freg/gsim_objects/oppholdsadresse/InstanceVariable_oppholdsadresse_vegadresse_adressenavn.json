@@ -1,5 +1,5 @@
 {
-    "id": "2f29483f-38a3-42b6-8dba-170d93679b8d",
+    "id": "78e7d188-0868-4b87-a73c-e5fad335a251",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/e227e8f8-7cd7-4314-883d-17830c3a1895"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_VEGADRESSE_ADRESSENAVN"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "75ff1c50-7641-4b48-b92c-c9b983283f42",
+    "id": "b873c6a4-9826-491d-a0a9-e70746d5db4d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/59cfdad3-a4cb-49b5-ac48-dbbdb1b14c1a"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLD_ERGJELDENDE"
 }

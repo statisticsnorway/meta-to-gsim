@@ -1,5 +1,5 @@
 {
-    "id": "679749c6-fd65-4aeb-969f-767c890f0893",
+    "id": "52fff84b-7e0d-45b4-9bc9-5abcfc171766",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-04-26T13:24:45.000Z",
+    "validFrom": "2019-04-26T13:24:45.000Z",
+    "createdDate": "2019-04-26T13:24:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/e18cef23-fe4a-4f6d-a14d-7aa58a6c316b"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BIBEHOLD_AJOURHOLDSTIDSPUNKT"
 }

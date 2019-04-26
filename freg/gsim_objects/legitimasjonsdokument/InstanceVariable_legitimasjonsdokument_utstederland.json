@@ -1,5 +1,5 @@
 {
-    "id": "c4e1e8f8-473c-4683-8d4b-5b5592312c96",
+    "id": "dc2b8494-462a-44cd-8e0d-8c5389838a7f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1002b554-8ee1-4430-9879-995b4feb4a63"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_UTSTEDERLAND"
 }

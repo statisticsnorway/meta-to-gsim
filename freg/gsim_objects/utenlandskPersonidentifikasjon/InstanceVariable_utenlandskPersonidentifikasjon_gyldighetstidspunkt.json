@@ -1,5 +1,5 @@
 {
-    "id": "d3cf90f0-6761-4a2a-9d65-2ae7d0cfbe60",
+    "id": "06ff710a-abe6-4d57-af88-65e4c0cc3681",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a3a0f827-6e65-409a-b0c5-4d8614958b2c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_GYLDIGHETSTIDSPUNKT"
 }

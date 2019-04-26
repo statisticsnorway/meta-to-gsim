@@ -1,5 +1,5 @@
 {
-    "id": "4fb30246-74a3-4af6-ac48-d8577aec8752",
+    "id": "f9c0ba1d-3d3d-4f4b-85f3-cb3348cbdf4e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/ccbf4f27-10d1-4b69-8841-fb1d2e74288d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTIFIKASJONSNUMMER_KILDE"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "f1cef16c-c128-4ab2-8656-7c08cd9c2c15",
+    "id": "f28a86e8-202c-44fb-a636-d2b1b0a35b8f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/250ceaf0-c921-4006-ba42-89d11a416a10"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PREFERERTKONTAKTADRESSE_GYLDIGHETSTIDSPUNKT"
 }

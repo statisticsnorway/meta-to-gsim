@@ -1,5 +1,5 @@
 {
-    "id": "07217dee-9dae-475e-997a-06e46bfae8e8",
+    "id": "4e216d33-358a-4da6-91be-c709cccb8c29",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/15ee6e5a-1413-475e-9d0f-a147a59f4a46"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_KOMMUNENUMMER"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "a0095b52-5d90-476f-8473-3c1c1cb8dd3f",
+    "id": "b82049a4-8266-4342-9624-b86e62b4fd45",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/ae2b6ae0-2f32-487d-bff8-d61eb68de6db"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_FOEDELAND"
 }

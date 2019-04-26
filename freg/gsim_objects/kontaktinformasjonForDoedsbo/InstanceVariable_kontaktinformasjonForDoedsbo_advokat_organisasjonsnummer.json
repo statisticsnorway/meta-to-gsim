@@ -1,5 +1,5 @@
 {
-    "id": "572511f1-428b-4762-99c4-db845fd03fe8",
+    "id": "3e55cbcc-c4f6-4014-9c43-59800ca251bc",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/81403eb2-619d-4278-82a3-b27a07414305"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ADVOKAT_ORGANISASJONSNUMMER"
 }

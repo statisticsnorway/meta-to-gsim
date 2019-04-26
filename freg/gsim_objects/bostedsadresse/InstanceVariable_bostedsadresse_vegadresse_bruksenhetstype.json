@@ -1,5 +1,5 @@
 {
-    "id": "58627549-565e-48e3-89a8-d09bf4884e68",
+    "id": "0ed3549c-da56-4ae0-af80-639ec7fe101d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b69d8149-374c-4c78-a1af-13fc06853f53"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_VEGADRESSE_BRUKSENHETSTYPE"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "766818aa-d82d-41c6-9bff-9506cd9ca5a7",
+    "id": "9c057c1b-200c-4734-a952-29a6d7a55e99",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/caad4adf-c774-4398-b64b-608a38dd06c8"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_UTENLANDSKADRESSE_POSTKODE"
 }

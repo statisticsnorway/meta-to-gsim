@@ -1,5 +1,5 @@
 {
-    "id": "677c44db-caf1-4668-886d-29084152b385",
+    "id": "02107964-44f6-47dd-b7da-9a79c6d1d295",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/68626a16-71fe-47bf-9916-9942136c4467"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_AJOURHOLDSTIDSPUNKT"
 }

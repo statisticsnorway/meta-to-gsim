@@ -1,5 +1,5 @@
 {
-    "id": "484568b4-01c9-4fa8-b4c8-cf5d802d9850",
+    "id": "bc1d3f49-2a43-4a90-9b03-d72636a720f5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:41.000Z",
+    "validFrom": "2019-04-26T13:24:41.000Z",
+    "createdDate": "2019-04-26T13:24:41.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/308b8784-67ab-4b07-be3f-8eb7eb2ae6b7"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSEIUTLANDET_UTENLANDSKADRESSE_BOENHET"
 }

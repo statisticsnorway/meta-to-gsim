@@ -1,5 +1,5 @@
 {
-    "id": "fa4b9e61-9c13-4e53-8009-cec84aff503d",
+    "id": "7a25ac45-3b92-406a-a968-f97a32b4c037",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/f300ab55-684c-4e4a-9fef-0ed43edc56a5"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_VEGADRESSE_COADRESSENAVN"
 }

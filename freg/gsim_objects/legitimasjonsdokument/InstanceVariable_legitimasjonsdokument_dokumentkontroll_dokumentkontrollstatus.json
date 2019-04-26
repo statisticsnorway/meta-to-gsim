@@ -1,5 +1,5 @@
 {
-    "id": "75a914a9-fddc-4dd5-b95a-a46984123b4a",
+    "id": "5211efd0-256a-4d54-9dda-f28df5dc6b5a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/76b447ea-1711-466e-9534-706254d6d9cc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_DOKUMENTKONTROLL_DOKUMENTKONTROLLSTATUS"
 }

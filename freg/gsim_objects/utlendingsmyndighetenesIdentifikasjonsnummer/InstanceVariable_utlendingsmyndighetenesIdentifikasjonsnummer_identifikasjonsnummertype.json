@@ -1,5 +1,5 @@
 {
-    "id": "19b3539e-654a-4bc4-8b00-cce71f6e1e03",
+    "id": "e105e49c-053f-47f7-be3c-ccfb04f67a17",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a6f9b9d0-618d-49aa-a9e5-036db0cfce2f"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_IDENTIFIKASJONSNUMMERTYPE"
 }

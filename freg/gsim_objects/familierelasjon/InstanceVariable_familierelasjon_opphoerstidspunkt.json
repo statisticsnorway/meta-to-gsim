@@ -1,5 +1,5 @@
 {
-    "id": "ecc67473-b6e2-4a3a-917d-014a53f48a35",
+    "id": "70166a44-082e-46b7-808b-78d241bad500",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a9f8ed83-b2ba-483d-9371-d4d8c01cd3cd"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_OPPHOERSTIDSPUNKT"
 }

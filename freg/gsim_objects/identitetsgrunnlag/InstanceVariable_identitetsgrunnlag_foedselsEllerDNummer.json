@@ -1,5 +1,5 @@
 {
-    "id": "1663bd1c-45e9-491a-8af3-1c8b10d3aff7",
+    "id": "64c8651f-48e3-41df-a920-4573932cc80a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/0bced9b5-8768-406b-9793-b453a56d2756"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "IDENTITETSGRUNNLAG_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

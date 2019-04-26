@@ -1,5 +1,5 @@
 {
-    "id": "f0044035-50d3-4a2b-8cc2-82ed4227d124",
+    "id": "d4746dbb-d4cb-40d1-8d07-260cffe77b8e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b2383df7-19d8-494d-b5ae-9301ced0d0ea"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_UTENLANDSKADRESSE_BYELLERSTEDSNAVN"
 }

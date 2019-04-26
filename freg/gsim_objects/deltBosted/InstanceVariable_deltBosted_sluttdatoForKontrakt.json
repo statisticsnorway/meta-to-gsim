@@ -1,5 +1,5 @@
 {
-    "id": "f4fc9d0e-d518-46fa-ae1f-c3e79594f5d5",
+    "id": "3d045d6b-dfb7-4edc-b962-480cab7dabc7",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/bebe5a96-5080-4ce0-825b-348eca5517c3"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_SLUTTDATOFORKONTRAKT"
 }

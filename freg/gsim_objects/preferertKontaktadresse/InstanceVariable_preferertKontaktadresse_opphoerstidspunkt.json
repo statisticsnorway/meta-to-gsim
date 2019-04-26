@@ -1,5 +1,5 @@
 {
-    "id": "4f477997-ec2b-428c-b9d4-3f6d69527353",
+    "id": "f3bd02dc-a141-4d5a-906c-a97f223bb13a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/2169f0b5-b568-4c6d-afc8-417c9d9dc2fb"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PREFERERTKONTAKTADRESSE_OPPHOERSTIDSPUNKT"
 }

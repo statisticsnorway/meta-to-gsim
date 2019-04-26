@@ -1,5 +1,5 @@
 {
-    "id": "eb26a7de-7be1-49d3-94fd-4a684bb2714e",
+    "id": "a7a9d7d0-91e8-4282-a7ca-ca692b6fdb96",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:41.000Z",
+    "validFrom": "2019-04-26T13:24:41.000Z",
+    "createdDate": "2019-04-26T13:24:41.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/97bfb01b-17fe-4312-a6fb-97842c9ec6fc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSEIUTLANDET_OPPHOERSTIDSPUNKT"
 }

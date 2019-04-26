@@ -1,5 +1,5 @@
 {
-    "id": "ea603c41-40b9-4191-9659-f314dbc75222",
+    "id": "c2592dbf-b2c4-4631-a69b-4c0ee61f26bf",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-04-26T13:24:45.000Z",
+    "validFrom": "2019-04-26T13:24:45.000Z",
+    "createdDate": "2019-04-26T13:24:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/4ff1e48e-b331-471f-9a36-9b4fa9e04cd7"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BRUKAVSAMISKSPRAAK_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

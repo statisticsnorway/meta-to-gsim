@@ -1,5 +1,5 @@
 {
-    "id": "3e82cf9b-a32e-4641-8a82-388a0ba91d59",
+    "id": "e3873c0f-3e2d-48a9-aaff-b5399a32d588",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/3cef5e79-6d4b-4f72-aa49-dbb061127f21"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DELTBOSTED_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

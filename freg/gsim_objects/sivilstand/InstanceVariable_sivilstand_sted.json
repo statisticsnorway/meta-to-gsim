@@ -1,5 +1,5 @@
 {
-    "id": "3880f734-902d-4e9e-b209-4f9621ad6367",
+    "id": "dbec9a4c-10f8-42be-bc39-66beb01f7527",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1a4dc686-d00d-4b84-8362-4b70fe9a924e"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_STED"
 }

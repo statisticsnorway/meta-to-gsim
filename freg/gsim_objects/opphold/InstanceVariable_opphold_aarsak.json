@@ -1,5 +1,5 @@
 {
-    "id": "a0a1d3d5-00b6-465d-8151-b6c86b9402bc",
+    "id": "bb0dae10-c6a2-4f6b-b0a1-d193c89351b1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/8ea83ebb-567d-4f72-8628-203aec2f1ddf"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLD_AARSAK"
 }

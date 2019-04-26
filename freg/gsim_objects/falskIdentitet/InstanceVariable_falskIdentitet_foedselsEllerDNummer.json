@@ -1,5 +1,5 @@
 {
-    "id": "8a1cde4f-0cf0-47f7-8d39-6d420aea0b03",
+    "id": "3119b86b-0d37-4bd5-b490-1887dc234b0c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/40f97ba8-8696-4665-92c6-77784630df3f"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FALSKIDENTITET_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

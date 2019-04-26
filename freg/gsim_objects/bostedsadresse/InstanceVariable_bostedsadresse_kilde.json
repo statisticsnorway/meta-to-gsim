@@ -1,5 +1,5 @@
 {
-    "id": "b970bfaf-4b9b-4537-b2ba-0075e8bb8254",
+    "id": "1d877b3c-8cd0-43c5-8ba4-469d003c79b2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/c2476769-73ea-4c9d-ae39-29738c97b97c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_KILDE"
 }

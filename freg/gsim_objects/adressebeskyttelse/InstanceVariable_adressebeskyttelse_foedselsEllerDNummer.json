@@ -1,5 +1,5 @@
 {
-    "id": "a13f69d5-ea15-4db4-a29a-70e08d7daf3b",
+    "id": "77646fd4-f0dc-4340-ab9a-7abe7a53efde",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/18c1ea30-28ef-425c-8cc1-83a5c9adfdad"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ADRESSEBESKYTTELSE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

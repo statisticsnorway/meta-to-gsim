@@ -1,5 +1,5 @@
 {
-    "id": "90ab8b8b-54a6-4914-bb58-972b75ca7c5f",
+    "id": "cc55e991-73dc-4482-9fd2-9afea36eb8e5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/d0b1bdd0-766a-41c3-912c-6c2a575b2e7f"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_MATRIKKELADRESSE_MATRIKKELNUMMER_KOMMUNENUMMER"
 }

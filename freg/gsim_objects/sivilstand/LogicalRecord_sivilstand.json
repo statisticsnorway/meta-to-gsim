@@ -1,5 +1,5 @@
 {
-    "id": "b6a13694-a01d-485e-893a-57a6999844aa",
+    "id": "e8405b19-75ea-4bd8-9922-262fa31b1764",
     "name": [
         {
             "languageCode": "nb",
@@ -13,29 +13,26 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/78b33e7e-7fe5-4bf0-b456-c7a833b69425"
+    "instanceVariables": [
+        "/InstanceVariable/34c3d62c-0e4b-45df-ab32-4918d6af58b7",
+        "/InstanceVariable/a3bf448d-0452-474b-9cf8-1cce19afc317",
+        "/InstanceVariable/2ed78732-0bbd-4172-b496-351f2b5ec8ec",
+        "/InstanceVariable/d3ac7667-eb2c-47da-82a1-d76be9bdfb6e",
+        "/InstanceVariable/719194c9-f50a-488f-b0c9-4509d96c43db",
+        "/InstanceVariable/a4a2f75d-3275-433e-9c09-fe5df62bc9d2",
+        "/InstanceVariable/bd9c3b70-b646-43b4-b8e6-85bb8ef677e8",
+        "/InstanceVariable/4fccc054-61f7-4f0c-8782-5917c1c96609",
+        "/InstanceVariable/7516694b-801d-4ff1-b977-f757b79bd9c4",
+        "/InstanceVariable/c12b7618-1692-4c3f-b7f3-c187450fc52a",
+        "/InstanceVariable/dbec9a4c-10f8-42be-bc39-66beb01f7527",
+        "/InstanceVariable/d62ac8cc-90c1-4302-af5f-4ac9a135ad69",
+        "/InstanceVariable/a0c6de3c-668c-481f-bc5b-3875953a35cf",
+        "/InstanceVariable/7a286d5b-856c-4042-b47b-fccc976d4433"
     ],
-    "measureComponents": [
-        "/MeasureComponent/6a0cc4cf-aeae-4357-9c43-7ded68b36341",
-        "/MeasureComponent/c9a738fd-2a14-4cf2-bb1e-92438f5a371d",
-        "/MeasureComponent/952f5175-349a-4ecb-8364-0d6ef4a6885d",
-        "/MeasureComponent/b702378d-4498-42d5-b441-d797f201ce81",
-        "/MeasureComponent/0c03dad0-cb40-413f-be3f-7d0e2625822c",
-        "/MeasureComponent/fc536055-d66e-484d-8df9-1c2bc9bce5fe",
-        "/MeasureComponent/811ead1b-3b7e-4f90-b7a4-44709f61a80d",
-        "/MeasureComponent/eea89df6-c1a4-40b7-b41f-eebb2edbafbd",
-        "/MeasureComponent/1c148f72-dca2-42e6-ad4e-35a94ac43861",
-        "/MeasureComponent/e0a7617d-0a02-4851-af4d-61238a130045",
-        "/MeasureComponent/1a4dc686-d00d-4b84-8362-4b70fe9a924e",
-        "/MeasureComponent/82ee9934-7693-47af-a181-416207d8343f",
-        "/MeasureComponent/c2b46c58-563f-4c03-8ab4-1a344238a086"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SIVILSTAND"
 }

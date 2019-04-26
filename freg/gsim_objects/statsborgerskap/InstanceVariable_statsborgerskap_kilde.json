@@ -1,5 +1,5 @@
 {
-    "id": "30310389-bf65-42f4-b147-674d3b04a78e",
+    "id": "e20d4700-fd00-46f9-96d1-5db339163efd",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/46aaf93b-7649-4cdf-baa9-d4df3ee73985"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATSBORGERSKAP_KILDE"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "0592b20b-ba4b-4891-9cc3-e525a4bdf4e3",
+    "id": "b14fe787-31b4-41a4-9046-fa6757751d5b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/9677755a-5911-400e-9c8d-c49d38d840d7"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_GYLDIGTIL"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "e9c843be-5c3a-4db3-8d4b-b750f8c53ab5",
+    "id": "41ee2e2d-abdb-4cf3-befd-fed09b5edd05",
     "sourceName": "kommunenummer",
     "sourcePath": "/folkeregisterperson/deltBosted/matrikkeladresse/matrikkelnummer/",
-    "targetInstanceVariable": "/InstanceVariable/90ab8b8b-54a6-4914-bb58-972b75ca7c5f"
+    "targetInstanceVariable": "/InstanceVariable/cc55e991-73dc-4482-9fd2-9afea36eb8e5"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "c9b94a82-3458-44d8-9e0b-a89293946e4f",
+    "id": "d3fab222-8116-44e4-b81f-9d4531b5116a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/9ff0325b-c84e-4689-ba71-162b8a896c9f"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INNFLYTTING_KILDE"
 }

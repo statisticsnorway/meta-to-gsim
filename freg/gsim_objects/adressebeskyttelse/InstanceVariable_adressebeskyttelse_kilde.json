@@ -1,5 +1,5 @@
 {
-    "id": "937f3622-d8ca-4de3-a4c6-fb471c061440",
+    "id": "bab67e50-570b-49c0-90ab-3dde082e5a24",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/ae052d24-a8ca-4c1c-a162-98c88b63c29f"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ADRESSEBESKYTTELSE_KILDE"
 }

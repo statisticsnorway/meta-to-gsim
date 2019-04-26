@@ -1,5 +1,5 @@
 {
-    "id": "f0f0f87a-9369-4b09-8ed1-5f2defbabfbb",
+    "id": "8b57c567-6fb3-4e33-87a4-088003d4f60f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:41.000Z",
+    "validFrom": "2019-04-26T13:24:41.000Z",
+    "createdDate": "2019-04-26T13:24:41.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/7fe3ae5d-9d8d-412d-8637-ceceb6cfa3ee"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_VEGADRESSE_ADRESSENUMMER_HUSBOKSTAV"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "9aa6c220-eb57-43c2-a1e6-a1ff8f94c5eb",
+    "id": "6483c28d-e449-42f1-aa7a-4ba5ff7aa2a2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,27 +13,24 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/588798e1-a713-4846-b7ae-d780fa4494c2"
+    "instanceVariables": [
+        "/InstanceVariable/1bca84b3-884d-44c2-be63-a7521106718c",
+        "/InstanceVariable/0cf6b90b-178d-4fea-bdfd-036e9511e060",
+        "/InstanceVariable/425b2ec4-6bd6-4604-b73a-e78497312f85",
+        "/InstanceVariable/d222f0e3-992d-44c5-a827-5df617b46134",
+        "/InstanceVariable/42935c1b-eedb-41fe-912b-84b5d259a6ba",
+        "/InstanceVariable/31027331-1e1c-4a9b-95c1-e9e35a9f9592",
+        "/InstanceVariable/d57a27f4-4ecb-4b6c-8390-d0c36a6a9a1a",
+        "/InstanceVariable/ee1725df-aa6b-4773-9e47-0d1d9fa6b564",
+        "/InstanceVariable/6145731a-cdfb-4056-afb0-12b986a6f3b0",
+        "/InstanceVariable/ed5a2e8e-8d55-4764-9938-6193adbb55e7",
+        "/InstanceVariable/b82049a4-8266-4342-9624-b86e62b4fd45",
+        "/InstanceVariable/08992d0b-a479-485c-ad17-5f68bb265e29"
     ],
-    "measureComponents": [
-        "/MeasureComponent/9c274783-4b41-4e58-9c33-783b52da24e2",
-        "/MeasureComponent/01bb4a56-6d62-430f-881f-546404df8b02",
-        "/MeasureComponent/fddb234a-9966-4992-96b9-40bd2216c74f",
-        "/MeasureComponent/18d6cd1d-040d-4bcf-9246-42f88fc2d842",
-        "/MeasureComponent/dfd94f2a-fc13-4b58-acb1-d5a4551c5304",
-        "/MeasureComponent/9c7030a5-6ed4-4b35-80f9-7e8dc3a13f1d",
-        "/MeasureComponent/51bd5f56-9215-459d-8236-ce4c9603068d",
-        "/MeasureComponent/1c45961f-50cd-4f19-bbd0-93934dc826b6",
-        "/MeasureComponent/8dc572bd-0b38-490e-84fb-8ab8262e7a4a",
-        "/MeasureComponent/48802d14-ebf4-41f8-b1a0-81d4fe9b09aa",
-        "/MeasureComponent/ae2b6ae0-2f32-487d-bff8-d61eb68de6db"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FOEDSEL"
 }

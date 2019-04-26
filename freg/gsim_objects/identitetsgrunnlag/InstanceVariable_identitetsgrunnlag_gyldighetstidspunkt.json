@@ -1,5 +1,5 @@
 {
-    "id": "124b5925-93ba-4449-bdd4-85d57e0d1f8a",
+    "id": "42ee50a9-9b2c-4c28-bd18-ea27fe2f1b92",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a8cff037-b933-4923-9a57-b5a87b27b5eb"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTITETSGRUNNLAG_GYLDIGHETSTIDSPUNKT"
 }

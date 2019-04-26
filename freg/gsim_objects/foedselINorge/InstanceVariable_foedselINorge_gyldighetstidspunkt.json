@@ -1,5 +1,5 @@
 {
-    "id": "03de2dc3-c261-422a-97ae-2aca49bc447f",
+    "id": "d04df070-25c7-4cf4-8a37-220ea966a4a0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/3ad67a21-f19d-40d1-b6f8-4b0ded7604b6"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_GYLDIGHETSTIDSPUNKT"
 }

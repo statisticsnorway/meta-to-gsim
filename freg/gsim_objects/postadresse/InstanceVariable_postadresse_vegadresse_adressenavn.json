@@ -1,5 +1,5 @@
 {
-    "id": "ebf2cd89-fde8-4e65-b3e7-cd199f1bcb8d",
+    "id": "da4a9f29-4058-4632-8d4b-443ebb53d63c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:41.000Z",
+    "validFrom": "2019-04-26T13:24:41.000Z",
+    "createdDate": "2019-04-26T13:24:41.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/39809e8a-d87b-4bdc-8a57-3b5daa1cb5d0"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_VEGADRESSE_ADRESSENAVN"
 }

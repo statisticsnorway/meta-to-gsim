@@ -1,5 +1,5 @@
 {
-    "id": "a66ec99c-81ae-4f92-b515-fd8398c2dd4f",
+    "id": "106f8027-6ba8-4334-994d-7f1344e36233",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/f70f8615-d477-4846-a5a9-56f263ed4d60"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_AARSAK"
 }

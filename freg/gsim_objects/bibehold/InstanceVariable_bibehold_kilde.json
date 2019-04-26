@@ -1,5 +1,5 @@
 {
-    "id": "b4f63481-0ad4-4cd2-abb2-1f4e65e0e167",
+    "id": "979ed531-23d4-4ef5-821b-c2cd9d591d21",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-04-26T13:24:45.000Z",
+    "validFrom": "2019-04-26T13:24:45.000Z",
+    "createdDate": "2019-04-26T13:24:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/de7e13df-e304-4342-a084-d9afe4b845ed"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BIBEHOLD_KILDE"
 }

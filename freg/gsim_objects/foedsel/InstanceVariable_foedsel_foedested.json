@@ -1,5 +1,5 @@
 {
-    "id": "36b94f2a-dc41-4f8d-965e-ea6f4bcc2bea",
+    "id": "6145731a-cdfb-4056-afb0-12b986a6f3b0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/8dc572bd-0b38-490e-84fb-8ab8262e7a4a"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_FOEDESTED"
 }

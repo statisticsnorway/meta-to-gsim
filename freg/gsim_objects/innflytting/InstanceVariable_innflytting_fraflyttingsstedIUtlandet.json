@@ -1,5 +1,5 @@
 {
-    "id": "0434aff1-cc28-4536-b840-da7b2e18eed7",
+    "id": "5f036597-9474-4ade-bc90-fe751f063bf1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/04c3bd61-423c-47a4-99c5-e648a6148fef"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INNFLYTTING_FRAFLYTTINGSSTEDIUTLANDET"
 }

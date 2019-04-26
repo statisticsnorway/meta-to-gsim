@@ -1,5 +1,5 @@
 {
-    "id": "6fbdf2da-8ba2-4ab8-b3ae-390d11e3b2ab",
+    "id": "ed5a2e8e-8d55-4764-9938-6193adbb55e7",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/48802d14-ebf4-41f8-b1a0-81d4fe9b09aa"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_FOEDEKOMMUNEINORGE"
 }

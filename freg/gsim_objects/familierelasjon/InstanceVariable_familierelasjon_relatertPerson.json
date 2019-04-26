@@ -1,5 +1,5 @@
 {
-    "id": "2db91067-a09e-499a-8825-b030ae307263",
+    "id": "90189633-e816-40b5-bb84-2592fb6c64c7",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a2f8cf95-7b7a-4f07-9c86-6e2049fc6178"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_RELATERTPERSON"
 }

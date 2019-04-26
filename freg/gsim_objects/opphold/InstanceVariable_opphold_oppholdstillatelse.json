@@ -1,5 +1,5 @@
 {
-    "id": "59821645-18b2-4347-8227-d268e24dbec6",
+    "id": "76165ef9-b3d8-4926-920b-1135c76ab0cf",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:45.000Z",
+    "validFrom": "2019-04-26T13:24:45.000Z",
+    "createdDate": "2019-04-26T13:24:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/72542d36-cdaf-454c-8c52-81340d053fcc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLD_OPPHOLDSTILLATELSE"
 }

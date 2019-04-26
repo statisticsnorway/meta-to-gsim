@@ -1,5 +1,5 @@
 {
-    "id": "3139592c-f544-42bb-88b8-178f78ea0786",
+    "id": "d62ac8cc-90c1-4302-af5f-4ac9a135ad69",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/82ee9934-7693-47af-a181-416207d8343f"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_UTLAND"
 }

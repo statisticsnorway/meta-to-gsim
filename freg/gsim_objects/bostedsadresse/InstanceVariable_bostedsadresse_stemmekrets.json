@@ -1,5 +1,5 @@
 {
-    "id": "3086572c-998c-42e1-a926-4f81dc1e7306",
+    "id": "2d917e58-20a4-4b19-b9cb-7f9c698117dc",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/395caeca-4c7d-4750-a055-2cf8400f6692"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_STEMMEKRETS"
 }

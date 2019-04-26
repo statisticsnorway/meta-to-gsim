@@ -1,5 +1,5 @@
 {
-    "id": "514b8579-b81c-4195-8b69-43367fb44343",
+    "id": "e97927cd-9a8e-4b8a-879f-0d5d07e8f790",
     "name": [
         {
             "languageCode": "nb",
@@ -13,23 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/18c1ea30-28ef-425c-8cc1-83a5c9adfdad"
+    "instanceVariables": [
+        "/InstanceVariable/8abb9cee-a721-49dd-90be-d46996c93072",
+        "/InstanceVariable/79961cf9-c16c-4a6f-a58e-844cf45b9fbe",
+        "/InstanceVariable/bab67e50-570b-49c0-90ab-3dde082e5a24",
+        "/InstanceVariable/65309b5d-0b99-4767-8eb8-3bac5c9b70ef",
+        "/InstanceVariable/643bac3d-42d6-4813-a5d4-c98855ef04b7",
+        "/InstanceVariable/125a628b-84a9-4335-a7af-99eaf467a504",
+        "/InstanceVariable/4c71aaa5-1cee-44b9-904a-3a61c5f89335",
+        "/InstanceVariable/77646fd4-f0dc-4340-ab9a-7abe7a53efde"
     ],
-    "measureComponents": [
-        "/MeasureComponent/ae904690-9d34-42be-baae-f3a616b96302",
-        "/MeasureComponent/11c62ada-ce92-4264-9c2b-ffe7db5168cb",
-        "/MeasureComponent/ae052d24-a8ca-4c1c-a162-98c88b63c29f",
-        "/MeasureComponent/c946287f-198e-4f9a-a736-c91f2a969860",
-        "/MeasureComponent/ac831ea1-0cf4-4951-a3cb-ab37c5a8fb9f",
-        "/MeasureComponent/fbe6387a-fde7-4d78-83c1-7e7a3e222413",
-        "/MeasureComponent/3ca349a4-1580-42db-bc93-a4d9c07c9e09"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "ADRESSEBESKYTTELSE"
 }

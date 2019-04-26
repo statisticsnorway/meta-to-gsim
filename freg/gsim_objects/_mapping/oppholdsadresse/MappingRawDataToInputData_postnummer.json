@@ -1,6 +1,6 @@
 {
-    "id": "f88118e5-ee52-4e9c-8f66-22b7d4c8814a",
+    "id": "3f7fed12-f26d-428c-a27c-378d2b9fb7e1",
     "sourceName": "postnummer",
     "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/poststed/",
-    "targetInstanceVariable": "/InstanceVariable/c5ec6b68-fdc3-4368-902e-eb15b22360e6"
+    "targetInstanceVariable": "/InstanceVariable/7a0ce62d-ee23-43d2-a358-b9447d4e6039"
 }

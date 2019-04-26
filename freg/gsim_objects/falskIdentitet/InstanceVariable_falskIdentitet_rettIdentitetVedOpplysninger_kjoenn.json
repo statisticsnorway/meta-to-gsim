@@ -1,5 +1,5 @@
 {
-    "id": "fde853a7-3a97-4ffb-93d3-0aba5023ea20",
+    "id": "f8c132ef-b231-48b2-9318-1a684a6d1da0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/06b68b1a-2ff6-4243-8508-bf4c08d8e156"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETVEDOPPLYSNINGER_KJOENN"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "39b475eb-1848-45be-8f86-f368b49638f2",
+    "id": "2be346ae-1fbe-48cf-9778-9704654bc9fa",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/222cfbeb-969d-4fb1-a2bd-960efc561dd0"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_GYLDIGHETSTIDSPUNKT"
 }

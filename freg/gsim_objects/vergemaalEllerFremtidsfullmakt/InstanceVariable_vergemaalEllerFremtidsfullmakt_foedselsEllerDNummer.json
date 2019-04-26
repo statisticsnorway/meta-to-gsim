@@ -1,5 +1,5 @@
 {
-    "id": "bb65baad-e5b8-4ffa-993a-1f6ff9f7f89d",
+    "id": "c58b00dc-ae98-43d2-8f35-85c8076d5354",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/f30464f0-b08d-4b4c-b85e-a207d0c93c60"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

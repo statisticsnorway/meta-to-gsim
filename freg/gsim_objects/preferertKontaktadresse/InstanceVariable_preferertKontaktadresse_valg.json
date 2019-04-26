@@ -1,5 +1,5 @@
 {
-    "id": "633ec3c7-efdc-4c79-876a-492f739b976a",
+    "id": "4ac1c05b-c1b0-4755-874c-fca0fc894769",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/781cdf7c-7c85-4cd9-a2a0-ac5c852b4cac"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PREFERERTKONTAKTADRESSE_VALG"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "a806c9f8-cba8-4bdf-95b5-feeab267d8f0",
+    "id": "eb59199c-4325-4570-80ad-9c74343fb3a9",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/e0c1ed6d-1f0e-45d3-8f3e-4432ae32f1fe"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_ERGJELDENDE"
 }

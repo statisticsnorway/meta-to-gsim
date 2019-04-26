@@ -1,5 +1,5 @@
 {
-    "id": "ffb40637-dde6-4b1b-ac84-6081813ca775",
+    "id": "dd35727f-82cb-41b4-9214-0be454c25e95",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/86541a77-32df-4464-9215-ead160bc53dc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_FORHOLD"
 }

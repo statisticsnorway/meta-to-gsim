@@ -1,5 +1,5 @@
 {
-    "id": "8568faec-a570-4357-a125-cd0e828efff7",
+    "id": "31027331-1e1c-4a9b-95c1-e9e35a9f9592",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/9c7030a5-6ed4-4b35-80f9-7e8dc3a13f1d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_OPPHOERSTIDSPUNKT"
 }

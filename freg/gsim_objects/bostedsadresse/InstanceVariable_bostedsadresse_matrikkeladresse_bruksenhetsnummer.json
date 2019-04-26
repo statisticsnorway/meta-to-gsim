@@ -1,5 +1,5 @@
 {
-    "id": "96f78e44-1ac5-4bae-9751-4bd24039108b",
+    "id": "c7a690af-79e0-4393-b3ca-2749572f4242",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/fb30c845-a9ee-43df-af5b-3a3a53a8c686"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_BRUKSENHETSNUMMER"
 }

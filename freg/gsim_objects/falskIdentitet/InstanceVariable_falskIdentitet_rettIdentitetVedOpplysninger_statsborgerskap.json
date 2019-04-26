@@ -1,5 +1,5 @@
 {
-    "id": "f55662cc-e5a3-42f5-a218-83202ecd73bd",
+    "id": "45ffedde-b258-45e0-bea9-d96c149a1beb",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/268892c8-d40a-4ea5-a9f6-259fd60a3d6a"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETVEDOPPLYSNINGER_STATSBORGERSKAP"
 }

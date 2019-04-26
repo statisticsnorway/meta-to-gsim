@@ -1,5 +1,5 @@
 {
-    "id": "f0ae5714-f5f2-4e3e-8489-9e5cb09ca422",
+    "id": "9e319bd7-be67-4041-9295-05ffbb56be3d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/aef2ca97-c4b0-45cd-9516-450decd1b4d6"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATSBORGERSKAP_ERVERVSDATO"
 }

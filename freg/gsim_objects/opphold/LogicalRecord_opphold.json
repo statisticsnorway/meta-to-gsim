@@ -1,5 +1,5 @@
 {
-    "id": "96219152-06d9-4081-b395-9af586bea1ec",
+    "id": "14d5563e-e365-40f8-b2ef-7cbf1e67ddd8",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,22 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-04-26T13:24:44.000Z",
+    "validFrom": "2019-04-26T13:24:44.000Z",
+    "createdDate": "2019-04-26T13:24:44.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/a6fae542-81a5-4e1a-b4a5-8d365f5c31a7"
+    "instanceVariables": [
+        "/InstanceVariable/20e7579b-adcf-431b-9660-eca57267be21",
+        "/InstanceVariable/b873c6a4-9826-491d-a0a9-e70746d5db4d",
+        "/InstanceVariable/c1849adc-95d9-4811-888e-0393f1d1510b",
+        "/InstanceVariable/bb0dae10-c6a2-4f6b-b0a1-d193c89351b1",
+        "/InstanceVariable/3ee6ba81-a69c-4a26-b54d-c122885af3a0",
+        "/InstanceVariable/527a450d-745d-4c6b-8ebf-d38ccae68f1e",
+        "/InstanceVariable/76165ef9-b3d8-4926-920b-1135c76ab0cf",
+        "/InstanceVariable/fb1d1f95-ca9b-419a-a1df-85a94581ce72",
+        "/InstanceVariable/c0cb7a98-1641-458d-af06-3403e5114fa4",
+        "/InstanceVariable/4193a337-2f47-4c38-a143-758c5ff07756"
     ],
-    "measureComponents": [
-        "/MeasureComponent/e27c9d18-3dc3-4edb-82e8-f17c0ee02b11",
-        "/MeasureComponent/59cfdad3-a4cb-49b5-ac48-dbbdb1b14c1a",
-        "/MeasureComponent/6ea3ad0b-d53c-4134-9ac9-76c232092aed",
-        "/MeasureComponent/8ea83ebb-567d-4f72-8628-203aec2f1ddf",
-        "/MeasureComponent/9f56a6a2-9a47-4c93-9166-0aae456c75a7",
-        "/MeasureComponent/8916be38-48b0-4b3e-aee8-14f1ccfa7cd1",
-        "/MeasureComponent/72542d36-cdaf-454c-8c52-81340d053fcc",
-        "/MeasureComponent/06db4695-6a21-49b2-8df3-87451509f803",
-        "/MeasureComponent/5c585063-a6a1-40a2-bb8f-20b945be8957"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OPPHOLD"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "de401471-1043-46c7-ad0c-160b20223db9",
+    "id": "c0385796-144c-4403-9aec-4e88b0ec299c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:37.000Z",
+    "validFrom": "2019-04-26T13:24:37.000Z",
+    "createdDate": "2019-04-26T13:24:37.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/f204594b-e32f-4a88-84af-4e67eddf9485"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATUS_GYLDIGHETSTIDSPUNKT"
 }

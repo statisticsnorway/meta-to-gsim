@@ -1,5 +1,5 @@
 {
-    "id": "49319446-051d-44b7-9910-42249a3d5764",
+    "id": "8f6bf54f-3191-45f6-ba25-bee59f9ccef2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/bd6a9c9a-fde9-4ec0-b1ff-a115b1a62f02"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_KILDE"
 }

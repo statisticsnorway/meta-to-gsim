@@ -1,5 +1,5 @@
 {
-    "id": "16fee6c0-33fd-4d2a-aad9-44f1a0455402",
+    "id": "bd73d062-e953-4497-818c-003670cee118",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-04-26T13:24:40.000Z",
+    "validFrom": "2019-04-26T13:24:40.000Z",
+    "createdDate": "2019-04-26T13:24:40.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/aa97095e-7c4f-4141-acb0-41e2605b8569"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_ERGJELDENDE"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "cecca6a3-8815-46bf-b5e6-58c656182756",
+    "id": "fab723d4-ff9c-4fd5-beec-3b879f1802ef",
     "sourceName": "bruksnummer",
     "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/matrikkelnummer/",
-    "targetInstanceVariable": "/InstanceVariable/05f5afcc-1325-4602-b365-02d9c3fd4ef3"
+    "targetInstanceVariable": "/InstanceVariable/23048de9-763e-43c3-8209-81c0d1e733f9"
 }

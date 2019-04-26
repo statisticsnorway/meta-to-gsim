@@ -1,5 +1,5 @@
 {
-    "id": "b7f24cb7-ad8c-471e-975a-832074b7522c",
+    "id": "faf532f0-11a2-4df9-a503-e85ac5a54035",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/bbfda88a-9d9e-4502-8a11-3cbc1c569864"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_ERGJELDENDE"
 }

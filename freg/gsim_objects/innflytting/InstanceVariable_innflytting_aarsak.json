@@ -1,5 +1,5 @@
 {
-    "id": "f2864228-1ef0-4475-b947-c8ea025eabee",
+    "id": "fe4a1403-2f25-4341-bfe1-2c2b9a81887b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/ad2c5919-1782-43cc-bb38-f3fb3b069b09"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INNFLYTTING_AARSAK"
 }

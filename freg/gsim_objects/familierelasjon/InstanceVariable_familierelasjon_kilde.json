@@ -1,5 +1,5 @@
 {
-    "id": "78ab6eb2-227f-4390-ac97-10cf7cbd3520",
+    "id": "2c65366a-4bfe-4d05-82a1-d5a4b2558f56",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-04-26T13:24:38.000Z",
+    "validFrom": "2019-04-26T13:24:38.000Z",
+    "createdDate": "2019-04-26T13:24:38.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/7c05b40f-5b28-4341-bc17-2ddaffe8cc37"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_KILDE"
 }

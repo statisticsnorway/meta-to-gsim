@@ -1,5 +1,5 @@
 {
-    "id": "ebaa2377-17ca-468c-abb3-f6e2cf4cc2f5",
+    "id": "07480b20-ffa2-4a0b-ad76-de2bae0d8f21",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/ef756f5c-5210-4b51-a0d0-7ef4c197d2f7"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "STATSBORGERSKAP_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

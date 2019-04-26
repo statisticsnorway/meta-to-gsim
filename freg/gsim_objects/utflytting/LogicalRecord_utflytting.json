@@ -1,5 +1,5 @@
 {
-    "id": "3d26c280-3cc6-4d29-b677-d674f4d3756b",
+    "id": "8ee580b6-19a3-4e86-ac30-de76455edba3",
     "name": [
         {
             "languageCode": "nb",
@@ -13,24 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:42.000Z",
+    "validFrom": "2019-04-26T13:24:42.000Z",
+    "createdDate": "2019-04-26T13:24:42.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/292fe259-5022-4bae-9555-a4151e0e192d"
+    "instanceVariables": [
+        "/InstanceVariable/70e6d736-d28a-48ca-af0a-a75dc5d9e44b",
+        "/InstanceVariable/2d41dedd-ce4e-4e52-90ab-0e667551fc8a",
+        "/InstanceVariable/c676909d-c8fc-4b73-bd2e-f90058cff4b1",
+        "/InstanceVariable/e45e1d9d-54b8-4780-bbd6-68a57ad61436",
+        "/InstanceVariable/3d59ff1c-fca4-40d2-a17e-45ac632d520a",
+        "/InstanceVariable/e37e26c7-21cc-4b2c-899e-63e4593863bb",
+        "/InstanceVariable/b3224d59-9fc2-4f9a-9c30-1cd7dc62e834",
+        "/InstanceVariable/e3bad786-6e26-49ba-a692-4fecd1445d87",
+        "/InstanceVariable/650341ea-6b6f-4143-b54a-ef7fb9e72641"
     ],
-    "measureComponents": [
-        "/MeasureComponent/a1f7a7f7-8afd-40d0-9d8c-0c4b01913676",
-        "/MeasureComponent/b0de3c76-c798-492f-bb22-b02d6d846863",
-        "/MeasureComponent/07a17e87-5106-4e92-bc20-e97494707ed5",
-        "/MeasureComponent/9c2cc06d-47ca-4597-ba6e-6951064dc914",
-        "/MeasureComponent/4bc351b7-2ed3-410c-981a-1e213ca0930d",
-        "/MeasureComponent/7ecab0cb-eb1f-4da5-9bb6-fabb14b7847c",
-        "/MeasureComponent/f6614824-dc3e-4cc4-8d72-55426ed7d3d8",
-        "/MeasureComponent/4ea326ca-58f5-46b0-aa7f-626d04fe69f1"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "UTFLYTTING"
 }

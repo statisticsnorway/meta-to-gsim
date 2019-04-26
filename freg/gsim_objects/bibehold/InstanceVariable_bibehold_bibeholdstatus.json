@@ -1,5 +1,5 @@
 {
-    "id": "e28d7fcd-45c9-4828-8fd3-3341c8999f26",
+    "id": "43f46016-8da7-4f1e-86db-914d2fea7eb2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-04-26T13:24:45.000Z",
+    "validFrom": "2019-04-26T13:24:45.000Z",
+    "createdDate": "2019-04-26T13:24:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a52f198d-83d7-4f51-b2b8-1851076f2c29"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BIBEHOLD_BIBEHOLDSTATUS"
 }

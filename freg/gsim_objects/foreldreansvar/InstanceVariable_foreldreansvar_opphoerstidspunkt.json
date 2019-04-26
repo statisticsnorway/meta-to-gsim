@@ -1,5 +1,5 @@
 {
-    "id": "72ceec3b-3e22-4cea-8d9d-98598a85bee0",
+    "id": "e2f5afb8-883c-4dca-8636-d6f8fed25ecd",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-04-26T13:24:43.000Z",
+    "validFrom": "2019-04-26T13:24:43.000Z",
+    "createdDate": "2019-04-26T13:24:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/0026bed0-0781-4a01-8dd5-f2ba76c6f73c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORELDREANSVAR_OPPHOERSTIDSPUNKT"
 }

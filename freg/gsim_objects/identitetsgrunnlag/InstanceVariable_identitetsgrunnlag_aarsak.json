@@ -1,5 +1,5 @@
 {
-    "id": "85d825d2-3f79-402c-a52b-c13be1811300",
+    "id": "6e85f165-fa04-4c04-86c5-c7e3e864e9a4",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-04-26T13:24:36.000Z",
+    "validFrom": "2019-04-26T13:24:36.000Z",
+    "createdDate": "2019-04-26T13:24:36.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/57fffc72-9fc5-4c0a-b9f2-0b67f26e24e3"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTITETSGRUNNLAG_AARSAK"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "11a6996b-4e9d-4692-93f7-7881f48d6611",
+    "id": "c5531267-e6d8-45f6-b4e5-319afc9af40d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-04-26T13:24:39.000Z",
+    "validFrom": "2019-04-26T13:24:39.000Z",
+    "createdDate": "2019-04-26T13:24:39.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/2de14b7e-84f7-4dc1-af64-6ddd8f06cde0"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_KILDE"
 }
