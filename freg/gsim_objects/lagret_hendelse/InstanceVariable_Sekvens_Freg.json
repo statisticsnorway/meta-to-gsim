@@ -20,6 +20,7 @@
  "lastUpdatedBy": "Test",
  "validFrom": "2019-02-19T12:28:38.665Z",
  "representedVariable": "/RepresentedVariable/44427a4e-8060-4fda-bbf0-9de846f8f297",
+ "sentinelValueDomain": "/EnumeratedValueDomain/c1a40b5c-f8d4-4ed8-b137-60afc71afa0c",
  "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
  "dataStructureComponentType": "IDENTIFIER",
  "shortName": "SEKVENS",

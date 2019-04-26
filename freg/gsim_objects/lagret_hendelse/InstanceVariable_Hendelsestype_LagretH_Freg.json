@@ -20,6 +20,7 @@
  "lastUpdatedBy": "Test",
  "validFrom": "2019-02-19T10:41:23.172Z",
  "representedVariable": "/RepresentedVariable/b798e440-caaa-4826-9d44-83861a5e14db",
+ "sentinelValueDomain": "/EnumeratedValueDomain/c1a40b5c-f8d4-4ed8-b137-60afc71afa0c",
  "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
  "dataStructureComponentType": "IDENTIFIER",
  "shortName": "HENDELSESTYPE",
