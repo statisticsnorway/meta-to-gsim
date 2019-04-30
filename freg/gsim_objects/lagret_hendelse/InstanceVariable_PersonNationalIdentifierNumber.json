@@ -22,7 +22,7 @@
     "identifierComponentIsComposite": true,
     "dataStructureComponentRole": "ENTITY",
     "representedVariable": "/RepresentedVariable/6cdecd72-c4a8-4b56-9c0a-9fd01c4fea56",
-    "population": "/Population/dfb6eecf-c4f4-4fa6-82a1-8b8684d560f4c",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "IDENTIFIER",
     "sentinelValueDomain": "/EnumeratedValueDomain/c1a40b5c-f8d4-4ed8-b137-60afc71afa0c",
     "shortName": "PERSON_ID"
