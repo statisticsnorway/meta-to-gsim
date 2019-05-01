@@ -1,6 +1,6 @@
 {
-    "id": "13f1ebec-ab87-4bab-b474-95cd275bc0ec",
+    "id": "6468e3c9-ee74-4fb2-991e-0dc7d1688530",
     "sourceName": "bruksnummer",
     "sourcePath": "/folkeregisterperson/bostedsadresse/matrikkeladresse/matrikkelnummer/",
-    "targetInstanceVariable": "/InstanceVariable/c09a9b2f-e661-4932-aa31-e4a7e56362ab"
+    "targetInstanceVariable": "/InstanceVariable/6e6b141f-879e-4832-b1f2-5b3b44fe02ef"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "14d5563e-e365-40f8-b2ef-7cbf1e67ddd8",
+    "id": "9982f47a-ddc5-48f1-8409-3c6b96623b3a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:44.000Z",
-    "validFrom": "2019-04-26T13:24:44.000Z",
-    "createdDate": "2019-04-26T13:24:44.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/20e7579b-adcf-431b-9660-eca57267be21",
-        "/InstanceVariable/b873c6a4-9826-491d-a0a9-e70746d5db4d",
-        "/InstanceVariable/c1849adc-95d9-4811-888e-0393f1d1510b",
-        "/InstanceVariable/bb0dae10-c6a2-4f6b-b0a1-d193c89351b1",
-        "/InstanceVariable/3ee6ba81-a69c-4a26-b54d-c122885af3a0",
-        "/InstanceVariable/527a450d-745d-4c6b-8ebf-d38ccae68f1e",
-        "/InstanceVariable/76165ef9-b3d8-4926-920b-1135c76ab0cf",
-        "/InstanceVariable/fb1d1f95-ca9b-419a-a1df-85a94581ce72",
-        "/InstanceVariable/c0cb7a98-1641-458d-af06-3403e5114fa4",
-        "/InstanceVariable/4193a337-2f47-4c38-a143-758c5ff07756"
+        "/InstanceVariable/8b4ea4ba-a853-4e31-8849-ee7cafe6c3eb",
+        "/InstanceVariable/a78b554e-2d41-44f5-8451-90a8d43f1ceb",
+        "/InstanceVariable/dac44c37-344b-4b8a-84bb-a4f1ebd08fb3",
+        "/InstanceVariable/eaaa9fd2-78d1-415c-a280-31a55fc4985a",
+        "/InstanceVariable/595284f3-e10c-4178-bd47-f0d65673947c",
+        "/InstanceVariable/b097b96c-b721-41a2-9c1a-310fab869e99",
+        "/InstanceVariable/3744dbc0-ba88-4027-8f6f-9a503b53686d",
+        "/InstanceVariable/633483a7-0ad0-4d52-9da5-27d660de1079",
+        "/InstanceVariable/5d75d837-2ab1-44e7-8fa2-cf264914b520",
+        "/InstanceVariable/9fc388f8-58eb-43bc-aa81-040314ddddd4"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OPPHOLD"

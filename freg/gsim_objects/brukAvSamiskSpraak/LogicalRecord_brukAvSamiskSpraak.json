@@ -1,5 +1,5 @@
 {
-    "id": "92a07e77-29aa-44e2-950e-794ee1cb35ac",
+    "id": "2bb101cb-56df-40fe-a34b-1ffff6b603a3",
     "name": [
         {
             "languageCode": "nb",
@@ -13,19 +13,19 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:45.000Z",
-    "validFrom": "2019-04-26T13:24:45.000Z",
-    "createdDate": "2019-04-26T13:24:45.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/52cf3ced-d80e-48f8-9a84-10f988be40f4",
-        "/InstanceVariable/ff8d37ed-9e70-4294-b809-a2e6eca8fa0a",
-        "/InstanceVariable/292622ab-4a80-4fd9-a635-0c8f45fb6af6",
-        "/InstanceVariable/8920aadd-da3a-43e3-9fa6-d740859553d4",
-        "/InstanceVariable/3243f080-4646-4ab6-9f5c-d01e54b7aaa8",
-        "/InstanceVariable/4d6604e4-d2f9-4a80-95ef-984ff6fff7c6",
-        "/InstanceVariable/5f601036-6c38-48a7-a2d4-4198cc4a3230",
-        "/InstanceVariable/c2592dbf-b2c4-4631-a69b-4c0ee61f26bf"
+        "/InstanceVariable/b59acdc5-b1e1-466f-b753-8a86acc19c00",
+        "/InstanceVariable/37ea4767-98d7-40c3-b051-914bae12369b",
+        "/InstanceVariable/147a25a5-7d5d-478a-a62f-852a5fa4496e",
+        "/InstanceVariable/3fd4f703-142a-4b16-9bdd-f57742bf8e9a",
+        "/InstanceVariable/02483cf7-6813-46b2-929e-1a275f9248a5",
+        "/InstanceVariable/a3809f4d-f093-4727-be7c-79ee34e62cc2",
+        "/InstanceVariable/0e4b69af-bd9f-4372-8c5f-5f3ffbbc5d7f",
+        "/InstanceVariable/2e0afb3c-d43c-4449-af07-264798d6cfc7"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "BRUKAVSAMISKSPRAAK"

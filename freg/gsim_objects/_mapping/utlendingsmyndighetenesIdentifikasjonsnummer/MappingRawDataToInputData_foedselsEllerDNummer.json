@@ -1,6 +1,6 @@
 {
-    "id": "c1b9f434-663c-4dee-9fff-87e506b88457",
+    "id": "4c484bf6-314c-441a-a288-6abed2c229d1",
     "sourceName": "foedselsEllerDNummer",
     "sourcePath": "/folkeregisterperson/utlendingsmyndighetenesIdentifikasjonsnummer/",
-    "targetInstanceVariable": "/InstanceVariable/d0235bef-2fb2-47af-9b2c-3bdddea5369a"
+    "targetInstanceVariable": "/InstanceVariable/e8c45ea7-794d-4e9b-80aa-0189f76e46c9"
 }

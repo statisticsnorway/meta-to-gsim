@@ -1,5 +1,5 @@
 {
-    "id": "c6347d53-337c-4305-b4bd-10e0ae9dd7d1",
+    "id": "dc0265e9-4b47-4de2-b2ec-cccd1434731b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:36.000Z",
-    "validFrom": "2019-04-26T13:24:36.000Z",
-    "createdDate": "2019-04-26T13:24:36.000Z",
+    "versionValidFrom": "2019-05-01T15:48:59.000Z",
+    "validFrom": "2019-05-01T15:48:59.000Z",
+    "createdDate": "2019-05-01T15:48:59.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/7ad8adfc-3341-422f-93bb-aa7162154fa9",
-        "/InstanceVariable/3678b806-95bb-4623-a761-cf4fadc29772",
-        "/InstanceVariable/f9c0ba1d-3d3d-4f4b-85f3-cb3348cbdf4e",
-        "/InstanceVariable/8e1a3939-be8a-4f84-9f36-8f6477622f8e",
-        "/InstanceVariable/d3881dcb-ca59-48ec-828f-aed278a8de3e",
-        "/InstanceVariable/d3cfccb1-7cc8-4e3d-b6f0-dcc7759d9234",
-        "/InstanceVariable/ef83c7b4-98b7-49a0-bd57-4bbaf4bccc33",
-        "/InstanceVariable/a0c0a373-9198-48ea-b2f0-6b9172638a8a",
-        "/InstanceVariable/90acd579-2c05-4fad-b51c-68d9c2c30f23",
-        "/InstanceVariable/c28f827e-83d7-496d-b740-bfa66e8a28a7"
+        "/InstanceVariable/d3e0496e-7d94-49f1-9e3f-7b9e8aae0b4b",
+        "/InstanceVariable/fdc8921c-67bd-4ba4-8a56-95a804c967d5",
+        "/InstanceVariable/62d2c330-c483-4235-9ca9-dfb63536b8e7",
+        "/InstanceVariable/8ae1c831-f3e1-4032-a6c1-d12769e62c3c",
+        "/InstanceVariable/4896d2b9-d9f4-4659-a209-e267bb32ea1b",
+        "/InstanceVariable/663b2594-aad2-4ee1-bb6c-384076845eec",
+        "/InstanceVariable/64a41c44-8aba-4114-9369-f197eeae12e2",
+        "/InstanceVariable/534fa84e-748c-4eb9-afbc-1aa1037c46a7",
+        "/InstanceVariable/e8487ed9-796c-4aa9-bd68-59e6a655b54d",
+        "/InstanceVariable/32aab0e6-ec1d-491e-a93d-2e9d86d6efbd"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "IDENTIFIKASJONSNUMMER"

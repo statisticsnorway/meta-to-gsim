@@ -1,6 +1,6 @@
 {
-    "id": "c97fd05c-feef-4934-b914-e91dcfecdc25",
+    "id": "dc5f563b-ac60-4e62-9700-5263edcca851",
     "sourceName": "adresseIdentifikatorFraMatrikkelen",
     "sourcePath": "/folkeregisterperson/oppholdsadresse/",
-    "targetInstanceVariable": "/InstanceVariable/a325e319-d158-453f-852a-4ff8de0e93a0"
+    "targetInstanceVariable": "/InstanceVariable/297a3d67-0c14-4395-ad43-194fa1046eec"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "0dc4dbd8-fa0a-4bc0-9942-60a8c042e8b8",
+    "id": "b791e0c9-2c79-475c-84c4-18a529650ac9",
     "name": [
         {
             "languageCode": "nb",
@@ -13,20 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:42.000Z",
-    "validFrom": "2019-04-26T13:24:42.000Z",
-    "createdDate": "2019-04-26T13:24:42.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/819f28ee-ccbc-47f3-bdc2-8ea3bd863b9f",
-        "/InstanceVariable/f8c23250-33ed-47b0-8f3d-c90ef439d77c",
-        "/InstanceVariable/d3fab222-8116-44e4-b81f-9d4531b5116a",
-        "/InstanceVariable/fe4a1403-2f25-4341-bfe1-2c2b9a81887b",
-        "/InstanceVariable/a4ef3f28-2b4e-4e67-a081-c2c7679eee92",
-        "/InstanceVariable/164fc3c8-053e-4ac3-82bc-06fadd00d03b",
-        "/InstanceVariable/309baa24-4ec6-4ad8-b219-2e09c7381581",
-        "/InstanceVariable/5f036597-9474-4ade-bc90-fe751f063bf1",
-        "/InstanceVariable/8acbb2b2-be61-4a8a-adfa-cb166280c09d"
+        "/InstanceVariable/c7249259-712b-4660-b52e-a43cb2fc819c",
+        "/InstanceVariable/5699d7b1-c38a-486b-b3f5-c2faef1fe503",
+        "/InstanceVariable/d16b2461-0550-4f88-95bb-afdc80c7638c",
+        "/InstanceVariable/06fa54bb-e8e0-4e68-bd26-40f57285a95f",
+        "/InstanceVariable/36f14e9a-97fe-4639-8e6c-69ba69184bc0",
+        "/InstanceVariable/aa7beb7d-3c5d-4f15-97e5-ce27a54cc04e",
+        "/InstanceVariable/22579052-ff25-476a-b27c-1c71e680f74e",
+        "/InstanceVariable/b2257ea6-275a-432c-aaf9-79706e4ee4b6",
+        "/InstanceVariable/d831ec75-4c47-4837-8be8-07a3f26a1c32"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "INNFLYTTING"

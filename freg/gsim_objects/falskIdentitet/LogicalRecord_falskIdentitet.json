@@ -1,5 +1,5 @@
 {
-    "id": "b585b86d-1e02-4373-92ba-a586398af664",
+    "id": "5f55deb1-bd17-4c8f-a56d-08433b7864c1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,27 +13,27 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:36.000Z",
-    "validFrom": "2019-04-26T13:24:36.000Z",
-    "createdDate": "2019-04-26T13:24:36.000Z",
+    "versionValidFrom": "2019-05-01T15:48:59.000Z",
+    "validFrom": "2019-05-01T15:48:59.000Z",
+    "createdDate": "2019-05-01T15:48:59.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/55a6116e-1b3d-40e4-a86b-121be3597c82",
-        "/InstanceVariable/eb59199c-4325-4570-80ad-9c74343fb3a9",
-        "/InstanceVariable/c9a92f74-f8bb-4dd9-bc9a-0775402ecdd1",
-        "/InstanceVariable/52f48229-4ab6-4b3b-aeab-5a61fcc5223c",
-        "/InstanceVariable/f65eb784-6fb0-4a63-abe8-1fec1169ea41",
-        "/InstanceVariable/13682c23-2f6b-4e3b-bd44-b600c492f9fb",
-        "/InstanceVariable/5c9c9316-be20-40f5-b3a3-a83d210fa386",
-        "/InstanceVariable/e8531b57-9838-4ffe-9df0-defae32af81d",
-        "/InstanceVariable/de28f94c-a765-4f46-8c36-bf606938b25d",
-        "/InstanceVariable/1e787eb4-7a46-46c4-bebc-c7bba7c6df0d",
-        "/InstanceVariable/45ffedde-b258-45e0-bea9-d96c149a1beb",
-        "/InstanceVariable/f8c132ef-b231-48b2-9318-1a684a6d1da0",
-        "/InstanceVariable/72332462-8ad6-47e4-884c-e3a78de0f4db",
-        "/InstanceVariable/a5567c6c-3f9b-49a4-8856-93ab7abef7e6",
-        "/InstanceVariable/6fd06832-d6b9-48a8-b319-2945406a97b8",
-        "/InstanceVariable/3119b86b-0d37-4bd5-b490-1887dc234b0c"
+        "/InstanceVariable/9ebe98e4-9c53-4e05-ae84-11b0df611dd6",
+        "/InstanceVariable/4a7ef7d2-33e8-456b-be5d-69a890cf623b",
+        "/InstanceVariable/8e10a93e-7e5f-4ffe-8f2d-efa9ec7561ab",
+        "/InstanceVariable/7cc447a0-b57f-468f-ac7a-0e3b1dcc22a5",
+        "/InstanceVariable/478381dd-71ad-45f4-8e84-1b44508c82c0",
+        "/InstanceVariable/a6b36af6-97c7-4ec2-a090-54928f396b4f",
+        "/InstanceVariable/ce195767-7162-4755-b835-dd75a6d0bcb0",
+        "/InstanceVariable/3f0cc5d0-a75d-4f6c-bbea-d6c891dea3eb",
+        "/InstanceVariable/af1988a3-ade3-4260-8433-4aee51b98758",
+        "/InstanceVariable/17be9c43-0d27-443c-b6a8-1264002cd08e",
+        "/InstanceVariable/08c927b4-ec26-477b-80ee-a1d31270084c",
+        "/InstanceVariable/9ca8fae5-11e5-486e-86b2-2d1823172ee2",
+        "/InstanceVariable/b20a7ed1-e330-45ec-9471-a6b4a30cf85d",
+        "/InstanceVariable/0d6fb5ef-87a6-485f-930e-3af42086c457",
+        "/InstanceVariable/ee634583-da9d-47f8-91b2-b5d0fb43f3b8",
+        "/InstanceVariable/0facd674-2e95-4ab0-98d7-001b709a3060"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FALSKIDENTITET"

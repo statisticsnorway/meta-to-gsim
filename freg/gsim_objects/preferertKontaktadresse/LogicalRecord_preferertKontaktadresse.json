@@ -1,5 +1,5 @@
 {
-    "id": "e0403dd2-01d3-4c5f-9032-bca50c91fae3",
+    "id": "30ad5055-39fe-4da7-8c15-2b553620727e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:42.000Z",
-    "validFrom": "2019-04-26T13:24:42.000Z",
-    "createdDate": "2019-04-26T13:24:42.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/e441f7d0-fbb7-4125-b268-30b71a01632e",
-        "/InstanceVariable/6e071e2b-b2ea-4393-8f8b-1c4f2bd080fa",
-        "/InstanceVariable/90832370-babd-4889-8a5f-c59955a6fe09",
-        "/InstanceVariable/469e98e0-38db-4122-b115-7e9f43b35406",
-        "/InstanceVariable/f28a86e8-202c-44fb-a636-d2b1b0a35b8f",
-        "/InstanceVariable/f3bd02dc-a141-4d5a-906c-a97f223bb13a",
-        "/InstanceVariable/4ac1c05b-c1b0-4755-874c-fca0fc894769",
-        "/InstanceVariable/e9350d11-2072-4fdb-8cb7-7ae0afe59a08",
-        "/InstanceVariable/8125784c-7f3e-4a69-bd85-6cbb48afea4d",
-        "/InstanceVariable/07f12d67-9396-4334-96ee-fabf9ddf1b72"
+        "/InstanceVariable/60557e2c-8092-440f-9a5b-dae250fc6431",
+        "/InstanceVariable/1ce88e09-39b2-42eb-83cc-b18565cad99c",
+        "/InstanceVariable/db335745-6dd9-423d-8600-f90151dd5f2b",
+        "/InstanceVariable/f78b453d-55b7-4f95-96aa-1da2bc867347",
+        "/InstanceVariable/f1c7ae4b-2ed4-4aca-bc99-4d9a8d597839",
+        "/InstanceVariable/e0f2cc78-7eac-4e3f-8f3c-933cf1044043",
+        "/InstanceVariable/49c3627c-17e7-48f1-98ac-8f8a4729bf95",
+        "/InstanceVariable/fb9021ad-bc05-4d2d-ad66-976d3f54acd6",
+        "/InstanceVariable/f3c9b7be-caf9-48d0-bd87-12b2c096c94c",
+        "/InstanceVariable/ad4b2bf9-3225-41ca-945f-e4dde5829ff0"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PREFERERTKONTAKTADRESSE"

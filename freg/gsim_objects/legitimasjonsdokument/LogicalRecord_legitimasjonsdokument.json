@@ -1,5 +1,5 @@
 {
-    "id": "b9c43dd4-13b3-4040-a29f-3fc44b892203",
+    "id": "46512035-3713-4051-9e3d-eb52c83d0f4e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,26 +13,26 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:37.000Z",
-    "validFrom": "2019-04-26T13:24:37.000Z",
-    "createdDate": "2019-04-26T13:24:37.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/3510d6cc-d78c-4eec-a340-fe946c59a14b",
-        "/InstanceVariable/b6463b60-7df4-4b0a-ace1-02fe6321eb1c",
-        "/InstanceVariable/c56c7f6b-bed5-4170-ae8a-813531fa48a5",
-        "/InstanceVariable/64004788-4856-4618-ace5-58123ebe39e2",
-        "/InstanceVariable/9f4a120a-0edc-458a-a940-378085fb49d0",
-        "/InstanceVariable/053c7d60-96a3-4934-9730-a69f99c8689a",
-        "/InstanceVariable/51ae2710-9c42-4e7c-a62b-58f853eee5df",
-        "/InstanceVariable/6e94f9fb-e3fd-4ce3-a579-1dd99295c211",
-        "/InstanceVariable/dc2b8494-462a-44cd-8e0d-8c5389838a7f",
-        "/InstanceVariable/481c29f6-1ec1-4b4b-9bb8-0a702a9c5904",
-        "/InstanceVariable/eb05e91d-e33c-445b-b721-1b7160f46dc3",
-        "/InstanceVariable/b14fe787-31b4-41a4-9046-fa6757751d5b",
-        "/InstanceVariable/5211efd0-256a-4d54-9dda-f28df5dc6b5a",
-        "/InstanceVariable/7893a92e-da75-4483-a32e-78878c02e193",
-        "/InstanceVariable/e68a04ee-687a-44a7-8360-8c2ccc29dc4c"
+        "/InstanceVariable/9189078b-6eba-4c3b-9112-a469a85627bb",
+        "/InstanceVariable/30bd2c06-5326-4697-bf86-3151fa1e862e",
+        "/InstanceVariable/43965bc0-e2a3-4fa6-8a1e-bd3f3cdf3397",
+        "/InstanceVariable/b28b72bf-d181-4e5d-b539-7c14266d97f0",
+        "/InstanceVariable/810643aa-ce53-4b27-aa9f-f784d85a2803",
+        "/InstanceVariable/ce6af1c9-b621-494b-85d4-b985d33e7261",
+        "/InstanceVariable/c68b23ff-dd08-4a13-acfc-99dcb759fd9c",
+        "/InstanceVariable/5b9cdf23-c9b0-4eb2-b65e-7fac25c7d45b",
+        "/InstanceVariable/9059981e-21ea-4367-884c-930d68c5fde2",
+        "/InstanceVariable/09b1a317-f219-4548-86d3-02ad3ad7dcfd",
+        "/InstanceVariable/2c6e4e5c-e269-41f8-8119-d5a888106c52",
+        "/InstanceVariable/3deaac42-6c6d-40d8-a20e-70a6923240b3",
+        "/InstanceVariable/f3324a94-d429-44c1-8394-40f8ba05aa65",
+        "/InstanceVariable/efbec66d-9f12-450c-ae24-f7c32033d8a2",
+        "/InstanceVariable/34657892-790f-4c0a-a4a8-620d6799bbbd"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "LEGITIMASJONSDOKUMENT"

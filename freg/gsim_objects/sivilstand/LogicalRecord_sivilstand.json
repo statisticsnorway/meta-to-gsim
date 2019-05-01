@@ -1,5 +1,5 @@
 {
-    "id": "e8405b19-75ea-4bd8-9922-262fa31b1764",
+    "id": "793b086c-11d9-47e0-ada2-7ae2fb80eb6c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,25 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:38.000Z",
-    "validFrom": "2019-04-26T13:24:38.000Z",
-    "createdDate": "2019-04-26T13:24:38.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/34c3d62c-0e4b-45df-ab32-4918d6af58b7",
-        "/InstanceVariable/a3bf448d-0452-474b-9cf8-1cce19afc317",
-        "/InstanceVariable/2ed78732-0bbd-4172-b496-351f2b5ec8ec",
-        "/InstanceVariable/d3ac7667-eb2c-47da-82a1-d76be9bdfb6e",
-        "/InstanceVariable/719194c9-f50a-488f-b0c9-4509d96c43db",
-        "/InstanceVariable/a4a2f75d-3275-433e-9c09-fe5df62bc9d2",
-        "/InstanceVariable/bd9c3b70-b646-43b4-b8e6-85bb8ef677e8",
-        "/InstanceVariable/4fccc054-61f7-4f0c-8782-5917c1c96609",
-        "/InstanceVariable/7516694b-801d-4ff1-b977-f757b79bd9c4",
-        "/InstanceVariable/c12b7618-1692-4c3f-b7f3-c187450fc52a",
-        "/InstanceVariable/dbec9a4c-10f8-42be-bc39-66beb01f7527",
-        "/InstanceVariable/d62ac8cc-90c1-4302-af5f-4ac9a135ad69",
-        "/InstanceVariable/a0c6de3c-668c-481f-bc5b-3875953a35cf",
-        "/InstanceVariable/7a286d5b-856c-4042-b47b-fccc976d4433"
+        "/InstanceVariable/6d530904-9e03-4212-bb25-73255c7e0c04",
+        "/InstanceVariable/93124f17-1a5b-4aef-8a3f-f170ed128530",
+        "/InstanceVariable/108380c8-8ffc-415b-9d58-f665d3a03285",
+        "/InstanceVariable/12511e1b-cd30-4a77-9647-ec8719ccbd2d",
+        "/InstanceVariable/821e2c5f-ef18-483b-b27d-3c7eea4e4392",
+        "/InstanceVariable/d4814d7c-7f41-4310-98f5-80c2f625f0d8",
+        "/InstanceVariable/441e5d59-ff7a-47e8-87b0-f8c3d452f207",
+        "/InstanceVariable/481757cc-a721-413c-ab8d-37aa769415da",
+        "/InstanceVariable/ce639ddc-fcf9-4e17-b84f-4f7f115fd5e0",
+        "/InstanceVariable/09b56b2d-c345-431d-b885-246ff6af0c36",
+        "/InstanceVariable/909c3e48-55dd-436a-b65c-9a30958891c5",
+        "/InstanceVariable/fe3da11b-dadd-4dc9-9db6-0503b7991e82",
+        "/InstanceVariable/68c3e774-c60d-4130-9ae1-7a4e939a2abd",
+        "/InstanceVariable/d154b9fa-28b8-44dd-8cf0-0204db935433"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SIVILSTAND"

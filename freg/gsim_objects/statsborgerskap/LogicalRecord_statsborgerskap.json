@@ -1,5 +1,5 @@
 {
-    "id": "89a30c9d-8988-4444-88ee-850681d80adc",
+    "id": "2fcd72d2-db23-4745-9962-f86914bbef56",
     "name": [
         {
             "languageCode": "nb",
@@ -13,20 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:43.000Z",
-    "validFrom": "2019-04-26T13:24:43.000Z",
-    "createdDate": "2019-04-26T13:24:43.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/8528d84f-1590-491c-b746-57369e69d2dc",
-        "/InstanceVariable/d0249553-b985-437b-992e-e11090f9761c",
-        "/InstanceVariable/e20d4700-fd00-46f9-96d1-5db339163efd",
-        "/InstanceVariable/f81798e3-25b8-44b4-83f5-dc9a2ad0e7bf",
-        "/InstanceVariable/22e6d64e-f47e-403c-a850-41fbe016250d",
-        "/InstanceVariable/6ae8c3e6-b753-4530-b7ad-7d8c2c546abe",
-        "/InstanceVariable/9bac2f25-8cb9-4f6b-b2b4-16ca77c7ae6e",
-        "/InstanceVariable/9e319bd7-be67-4041-9295-05ffbb56be3d",
-        "/InstanceVariable/07480b20-ffa2-4a0b-ad76-de2bae0d8f21"
+        "/InstanceVariable/e19e39d1-6d24-4bf3-ac4c-06a65015675c",
+        "/InstanceVariable/38446aa3-578f-4303-b9ec-b872744dc87e",
+        "/InstanceVariable/5ca71a5f-beaa-4ebe-8433-a13d52ca4baf",
+        "/InstanceVariable/48ea5881-83d7-40aa-ab32-a62fc4a8ee95",
+        "/InstanceVariable/f8f21f9c-154f-4bf9-bf4c-b16df1023a7d",
+        "/InstanceVariable/8d4cb63c-d485-4e21-893b-f8b9b83b8cc3",
+        "/InstanceVariable/ef1b1513-c79c-4098-a527-e631ba446ccb",
+        "/InstanceVariable/2440ca91-2b61-419a-9e4c-0dc549206683",
+        "/InstanceVariable/8e45ba08-dc38-4d60-91c3-d8698970772d"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "STATSBORGERSKAP"

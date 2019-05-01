@@ -1,5 +1,5 @@
 {
-    "id": "abb715de-e294-4a64-ac53-6c1ebb62c625",
+    "id": "7bddda90-3385-438d-affb-d98280df5e90",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,11 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:37.000Z",
-    "validFrom": "2019-04-26T13:24:37.000Z",
-    "createdDate": "2019-04-26T13:24:37.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/ef854a99-af77-4d7b-ae94-8fff47662b80",
+    "unitDataStructure": "/UnitDataStructure/46f4928c-fc0d-4a06-98b3-663ea44a5bca",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

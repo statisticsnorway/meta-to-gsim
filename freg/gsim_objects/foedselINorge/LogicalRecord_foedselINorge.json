@@ -1,5 +1,5 @@
 {
-    "id": "e242e733-d757-4369-8833-c3163be492fb",
+    "id": "5201f7b7-da35-47bb-9a15-ab87eff72202",
     "name": [
         {
             "languageCode": "nb",
@@ -13,20 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:44.000Z",
-    "validFrom": "2019-04-26T13:24:44.000Z",
-    "createdDate": "2019-04-26T13:24:44.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/def14ad0-fcc5-4519-a54d-8bfc22a0d1b7",
-        "/InstanceVariable/64e9b6d5-cf9d-43e6-9a13-932991315c5a",
-        "/InstanceVariable/7f022183-ac41-4b44-af4c-1a8c46061dc4",
-        "/InstanceVariable/fc2da203-eb20-4087-a501-6eb5ae5f8048",
-        "/InstanceVariable/d04df070-25c7-4cf4-8a37-220ea966a4a0",
-        "/InstanceVariable/efe7043e-57a8-4875-a73e-9ee260ac8db7",
-        "/InstanceVariable/0cfe643e-9246-4242-8295-8c946650404f",
-        "/InstanceVariable/6512d1e2-ac0c-4fc6-9ec0-f026a04766da",
-        "/InstanceVariable/f7c953fb-d9ab-4e95-bafd-1be50ac1e222"
+        "/InstanceVariable/029e71ee-7493-43fd-826f-298d65db8c68",
+        "/InstanceVariable/9b919447-8d8b-4e3e-9582-f2769fd35e22",
+        "/InstanceVariable/b438cfbe-92b0-4343-94d5-64dcea0429cc",
+        "/InstanceVariable/d671243f-d200-45e1-80f1-30ece236751d",
+        "/InstanceVariable/91ceb389-a7de-4870-9c21-68bac963c8eb",
+        "/InstanceVariable/69bd9414-845e-4c0b-bfe4-2b555264d742",
+        "/InstanceVariable/20e7c224-840f-4607-b8e3-f60121955a6a",
+        "/InstanceVariable/05133ecc-8dee-4e89-9c54-16ca2c57146d",
+        "/InstanceVariable/bafdf8f6-469f-4b58-b009-fef51ede0663"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FOEDSELINORGE"

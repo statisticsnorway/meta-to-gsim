@@ -1,5 +1,5 @@
 {
-    "id": "3f647ceb-b8db-487c-911a-74e055d3072f",
+    "id": "c0801917-e46b-4ac3-a770-0a8c619b8560",
     "name": [
         {
             "languageCode": "nb",
@@ -13,19 +13,19 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:43.000Z",
-    "validFrom": "2019-04-26T13:24:43.000Z",
-    "createdDate": "2019-04-26T13:24:43.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/ed4269ef-f844-41f4-93a8-11a9a3a5394a",
-        "/InstanceVariable/addf6f5a-b025-4977-844a-955e1c96c848",
-        "/InstanceVariable/d0ddf698-1667-4452-becd-1a98d4a0bdf0",
-        "/InstanceVariable/106f8027-6ba8-4334-994d-7f1344e36233",
-        "/InstanceVariable/df42f61e-3691-4317-a60e-99d690693b7f",
-        "/InstanceVariable/8ec33068-6d25-4fd8-9e8a-8dc67c876d9e",
-        "/InstanceVariable/dd35727f-82cb-41b4-9214-0be454c25e95",
-        "/InstanceVariable/78857442-8eb9-4764-bb1f-338339dcca81"
+        "/InstanceVariable/96e201b2-edc7-4fb7-abc9-114973ec6230",
+        "/InstanceVariable/de8ff263-c434-478a-ab7e-cd27aa0b2a29",
+        "/InstanceVariable/ecb292fa-039d-43d9-9793-d1ae8ddc5fa1",
+        "/InstanceVariable/45e392ae-5365-4c2b-86bd-59e2d31d99e5",
+        "/InstanceVariable/02f40a9b-a5db-4ab1-8570-1a5b8dcd85fe",
+        "/InstanceVariable/72e5381e-2205-42ec-b592-50dab51a8fb9",
+        "/InstanceVariable/52f7d235-a07d-4938-92b2-621940701686",
+        "/InstanceVariable/8448921a-14d5-4d36-aae3-aab58ab8d3e2"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL"

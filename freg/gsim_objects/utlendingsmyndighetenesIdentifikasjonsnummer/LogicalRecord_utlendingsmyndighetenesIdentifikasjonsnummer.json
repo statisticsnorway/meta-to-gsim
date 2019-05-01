@@ -1,5 +1,5 @@
 {
-    "id": "3d458621-3a3a-4730-afb2-8f98e62a8f69",
+    "id": "b779e76f-541e-46a8-9c35-989cc291260e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:37.000Z",
-    "validFrom": "2019-04-26T13:24:37.000Z",
-    "createdDate": "2019-04-26T13:24:37.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/703e05f7-91dd-46f3-9dab-2d62d3fdd247",
-        "/InstanceVariable/5a09b615-15dd-47cb-b49f-482ed20f87e3",
-        "/InstanceVariable/295827c0-1a2a-4cd2-9a29-48562a0c33fb",
-        "/InstanceVariable/9fe492e6-de93-49cb-9879-5f2e7f9c28a2",
-        "/InstanceVariable/08fb0aab-81ec-4167-aa73-76c94d7134d8",
-        "/InstanceVariable/bea3be33-a360-45d6-9f1d-3cb5e73553ff",
-        "/InstanceVariable/3f939e12-4b0e-4d72-bb45-c41bbada1877",
-        "/InstanceVariable/e105e49c-053f-47f7-be3c-ccfb04f67a17",
-        "/InstanceVariable/a314a6ea-f7ae-4872-9c57-4e3df8f3569f",
-        "/InstanceVariable/d0235bef-2fb2-47af-9b2c-3bdddea5369a"
+        "/InstanceVariable/1bce2d90-5500-4064-9069-afe666fb27c0",
+        "/InstanceVariable/e54ebb96-5630-4214-a7fb-94b4cfc0b8a7",
+        "/InstanceVariable/8f74a8f2-ea0e-48b9-8eae-3c5e3bde9878",
+        "/InstanceVariable/daa4b7ba-1884-455d-b436-9b77976c9cfb",
+        "/InstanceVariable/1e7f158a-7a56-43f7-819f-d38c2374006d",
+        "/InstanceVariable/6c832de0-ec95-494a-8639-291f1fa37c89",
+        "/InstanceVariable/ade30128-a9a0-4942-ad29-9fce83ee6a77",
+        "/InstanceVariable/f0575d78-8a30-42c0-b180-05f491b55a71",
+        "/InstanceVariable/a2d6588c-6cfe-46e6-94b8-795f2b0dbb86",
+        "/InstanceVariable/e8c45ea7-794d-4e9b-80aa-0189f76e46c9"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER"

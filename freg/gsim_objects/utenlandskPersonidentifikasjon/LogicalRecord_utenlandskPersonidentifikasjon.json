@@ -1,5 +1,5 @@
 {
-    "id": "62fde4c8-7dee-4b39-a46a-bd0853f6803e",
+    "id": "cdd12f3b-9153-421a-9932-3a789485db49",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:37.000Z",
-    "validFrom": "2019-04-26T13:24:37.000Z",
-    "createdDate": "2019-04-26T13:24:37.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/4ca602ac-4939-446f-9344-118bb7314c4d",
-        "/InstanceVariable/42ab4945-3c49-4f5a-8a4f-5fe1b64a2f13",
-        "/InstanceVariable/6d4d9f9e-b921-4ead-8745-4072d06dc878",
-        "/InstanceVariable/f487a954-7554-4d07-bcad-951b08ef5bbd",
-        "/InstanceVariable/06ff710a-abe6-4d57-af88-65e4c0cc3681",
-        "/InstanceVariable/deaf1918-39ac-434b-9275-fbb0e8513dd4",
-        "/InstanceVariable/45474898-e76c-4294-b78e-04359bb98a6e",
-        "/InstanceVariable/b2dc2cb5-31d8-4945-8da7-0ae595422478",
-        "/InstanceVariable/fea82401-6a77-44a7-811d-d35f7dfd031b",
-        "/InstanceVariable/a20b0d7a-a823-4ef4-be3e-0195a5c1423a"
+        "/InstanceVariable/d09b431f-6dfd-431e-b528-a56bcc39479a",
+        "/InstanceVariable/0d6abe86-4355-46b3-ab6b-3a8a9b89eef0",
+        "/InstanceVariable/4e006d2c-1346-4fea-9328-5180c725c0bf",
+        "/InstanceVariable/6c3e5d0f-72b2-4238-8253-b65eef46486a",
+        "/InstanceVariable/ebe1f040-10e3-46e7-9c6d-12ce1f835f79",
+        "/InstanceVariable/6d7febda-2f14-499d-86dd-1ef011089f17",
+        "/InstanceVariable/8af6be6a-00b0-4068-b095-79a1805d928b",
+        "/InstanceVariable/f2bd4a76-3d1e-4825-8d2e-9b9ca4176775",
+        "/InstanceVariable/734f4ff8-5b39-4bda-a21f-6fe117d28538",
+        "/InstanceVariable/8f2eb8c6-dddc-4e14-92ba-7975ec30763d"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "UTENLANDSKPERSONIDENTIFIKASJON"

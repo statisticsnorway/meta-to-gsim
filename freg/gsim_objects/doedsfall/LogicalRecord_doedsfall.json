@@ -1,5 +1,5 @@
 {
-    "id": "cf5cf19f-aec6-4864-8aed-6f0ee43fe3a2",
+    "id": "4ebf0c86-eb96-4822-ac0d-37bc1c5a7664",
     "name": [
         {
             "languageCode": "nb",
@@ -13,19 +13,19 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-26T13:24:37.000Z",
-    "validFrom": "2019-04-26T13:24:37.000Z",
-    "createdDate": "2019-04-26T13:24:37.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/a68b3b8a-99c5-452e-b2e7-09b7e997b7df",
-        "/InstanceVariable/c18e5499-01ca-4af0-a270-140327a38a24",
-        "/InstanceVariable/79515f6f-82e3-42e3-8cfa-35cb1c71cfc2",
-        "/InstanceVariable/862046f1-e190-4560-8073-9f0c20a7ae22",
-        "/InstanceVariable/04b4f431-d4ae-4b46-a090-0f93ca2613a9",
-        "/InstanceVariable/6c100792-1479-4934-9d75-3cdfc88d70ef",
-        "/InstanceVariable/5eb4ae6f-a833-4f6b-b84e-2e3ceeb56074",
-        "/InstanceVariable/b16cb40b-06bb-43c5-b8e6-859c88bd18d0"
+        "/InstanceVariable/e7a51679-3157-42a9-8979-aa031f8b60ed",
+        "/InstanceVariable/e2f9ffaa-8c54-4058-8599-6fde420f0200",
+        "/InstanceVariable/bfaceae6-2bc0-4a82-a132-38ac18a71496",
+        "/InstanceVariable/3203db15-b0b2-4606-b215-c3d34ec87d2d",
+        "/InstanceVariable/6b4982a7-5c0c-437c-9739-2b6748100db3",
+        "/InstanceVariable/98cdcb00-8c58-4325-96fd-35765d45cc10",
+        "/InstanceVariable/7a49606d-e184-45ed-b822-70c60003f81e",
+        "/InstanceVariable/70562208-717f-4c4a-8465-107ad2b1f8a2"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "DOEDSFALL"
