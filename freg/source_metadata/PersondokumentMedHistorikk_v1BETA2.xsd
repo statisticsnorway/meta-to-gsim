@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="folkeregisteret:tilgjengeliggjoering:person:v1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="folkeregisteret:tilgjengeliggjoering:person:v1" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xsd:annotation>
+		<xsd:documentation>
+			<xsd:attribute fixed="2019-03-15T13:36:45.955+0100" name="generertDato"/>
+			<xsd:attribute fixed="1.0" name="versjon"/>
+			<xsd:attribute fixed="" name="beskrivelse"/>
+			<xsd:attribute fixed="Persondokument med historikk versjon 1 Beta 2" name="modellnavn"/>
+			<xsd:attribute fixed="folkeregisteret:tilgjengeliggjoering:person:v1" name="navnerom"/>
+			<xsd:attribute fixed="false" name="begrepsreferanse"/>
+			<xsd:attribute fixed="false" name="dokumentasjon"/>
+			<xsd:attribute fixed="false" name="nillable"/>
+			<xsd:attribute fixed="false" name="modellelement"/>
+		</xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="folkeregisterperson" type="Folkeregisterperson"/>
+	<xsd:complexType name="Folkeregisterperson">
+		<xsd:sequence>
+			<xsd:element name="falskIdentitet" type="FalskIdentitet" minOccurs="0"/>
+			<xsd:element name="identifikasjonsnummer" type="Folkeregisteridentifikator" maxOccurs="unbounded"/>
+			<xsd:element name="identitetsgrunnlag" type="Identitetsgrunnlag" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="kontaktinformasjonForDoedsbo" type="KontaktinformasjonForDoedsbo" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="legitimasjonsdokument" type="Identifikasjonsdokument" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="status" type="Folkeregisterpersonstatus" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="utlendingsmyndighetenesIdentifikasjonsnummer" type="Personidentifikasjon" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="utenlandskPersonidentifikasjon" type="Personidentifikasjon" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="doedsfall" type="Doedsfall" minOccurs="0"/>
+			<xsd:element name="sivilstand" type="Sivilstand" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="familierelasjon" type="Familierelasjon" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="bostedsadresse" type="Bostedsadresse" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="deltBosted" type="DeltBosted" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="oppholdsadresse" type="Oppholdsadresse" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="postadresse" type="Kontaktadresse" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="postadresseIUtlandet" type="KontaktadresseIUtlandet" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="adressebeskyttelse" type="GraderingAvAdresse" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="preferertKontaktadresse" type="PreferertKontaktadresse" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="innflytting" type="InnflyttingTilNorge" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="utflytting" type="UtflyttingFraNorge" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="forholdTilSametingetsValgmanntall" type="SametingetsValgmanntall" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="kjoenn" type="Personkjoenn" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="statsborgerskap" type="Statsborgerskap" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="foreldreansvar" type="Foreldreansvar" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="foedsel" type="Foedsel" minOccurs="0"/>
+			<xsd:element name="navn" type="Folkeregisterpersonnavn" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="foedselINorge" type="FoedselINorge" minOccurs="0"/>
+			<xsd:element name="vergemaalEllerFremtidsfullmakt" type="VergemaalRepresentasjonEllerFremtidsfullmakt" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="opphold" type="Opphold" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="bibehold" type="BibeholdAvNorskStatsborgerskap" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="brukAvSamiskSpraak" type="SamiskSpraak" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="AdresseIFrittFormat">
+		<xsd:sequence>
+			<xsd:element name="adresselinje" type="Tekst" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="landkode" type="LandkodeIsoAlfa2" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Registermetadata">
+		<xsd:sequence>
+			<xsd:element name="ajourholdstidspunkt" type="DatoKlokkeslett" minOccurs="0"/>
+			<xsd:element name="erGjeldende" type="Boolsk" minOccurs="0"/>
+			<xsd:element name="kilde" type="Tekst" minOccurs="0"/>
+			<xsd:element name="aarsak" type="Tekst" minOccurs="0"/>
+			<xsd:element name="gyldighetstidspunkt" type="DatoKlokkeslett" minOccurs="0"/>
+			<xsd:element name="opphoerstidspunkt" type="DatoKlokkeslett" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="FalskIdentitet">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="rettIdentitetVedOpplysninger" type="IdentifiserendeInformasjon"/>
+						<xsd:element name="rettIdentitetErUkjent" type="Boolsk"/>
+						<xsd:element name="rettIdentitetVedIdentifikasjonsnummer" type="Foedselsnummer"/>
+					</xsd:choice>
+					<xsd:element name="erFalsk" type="Boolsk"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Folkeregisteridentifikator">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="status" type="Identifikatorstatuskode"/>
+					<xsd:element name="foedselsEllerDNummer" type="Foedselsnummer"/>
+					<xsd:element name="identifikatortype" type="Folkeregisteridentifikatortype"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Identitetsgrunnlag">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="identitetsgrunnlagstatus" type="Identitetsgrunnlagstatus"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="KontaktinformasjonForDoedsbo">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="person" type="PersonSomKontakt"/>
+						<xsd:element name="advokat" type="AdvokatSomKontakt"/>
+						<xsd:element name="organisasjon" type="OrganisasjonSomKontakt"/>
+					</xsd:choice>
+					<xsd:element name="skifteform" type="Skifteform"/>
+					<xsd:element name="attestutstedelsesdato" type="Dato"/>
+					<xsd:element name="adresse" type="KontaktadresseForDoedsbo"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Identifikasjonsdokument">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="identifikasjonsdokumentnummer" type="Tekst" minOccurs="0"/>
+					<xsd:element name="identifikasjonsdokumenttype" type="Tekst"/>
+					<xsd:element name="utstederland" type="LandkodeIsoAlfa3"/>
+					<xsd:element name="utstedernavn" type="Tekst" minOccurs="0"/>
+					<xsd:element name="gyldigFra" type="Dato" minOccurs="0"/>
+					<xsd:element name="gyldigTil" type="Dato" minOccurs="0"/>
+					<xsd:element name="dokumentkontroll" type="TekniskDokumentkontroll" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Folkeregisterpersonstatus">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="status" type="Personstatus"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Personidentifikasjon">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="identifikasjonsnummer" type="Tekst"/>
+					<xsd:element name="identifikasjonsnummertype" type="Tekst"/>
+					<xsd:element name="utstederland" type="LandkodeIsoAlfa3"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Doedsfall">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="doedsdato" type="Dato" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Sivilstand">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="sivilstand" type="Sivilstandstype"/>
+					<xsd:element name="sivilstandsdato" type="Dato" minOccurs="0"/>
+					<xsd:element name="myndighet" type="Tekst" minOccurs="0"/>
+					<xsd:element name="kommune" type="Kommunenummer" minOccurs="0"/>
+					<xsd:element name="sted" type="Tekst" minOccurs="0"/>
+					<xsd:element name="utland" type="LandkodeIsoAlfa3" minOccurs="0"/>
+					<xsd:element name="relatertVedSivilstand" type="Foedselsnummer" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Familierelasjon">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="relatertPerson" type="Foedselsnummer"/>
+						<xsd:element name="relatertPersonUtenFolkeregisteridentifikator" type="RelatertBiPerson"/>
+					</xsd:choice>
+					<xsd:element name="relatertPersonsRolle" type="Familierelasjontype"/>
+					<xsd:element name="minRolleForPerson" type="Familierelasjontype" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Bostedsadresse">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="ukjentBosted" type="UkjentBosted"/>
+						<xsd:element name="vegadresse" type="Vegadresse"/>
+						<xsd:element name="matrikkeladresse" type="Matrikkeladresse"/>
+					</xsd:choice>
+					<xsd:element name="adresseIdentifikatorFraMatrikkelen" type="Identifikator" minOccurs="0"/>
+					<xsd:element name="naerAdresseIdentifikatorFraMatrikkelen" type="Identifikator" minOccurs="0"/>
+					<xsd:element name="adressegradering" type="Adressegradering"/>
+					<xsd:element name="flyttedato" type="Dato" minOccurs="0"/>
+					<xsd:element name="grunnkrets" type="Heltall" minOccurs="0"/>
+					<xsd:element name="stemmekrets" type="Heltall" minOccurs="0"/>
+					<xsd:element name="skolekrets" type="Heltall" minOccurs="0"/>
+					<xsd:element name="kirkekrets" type="Heltall" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="DeltBosted">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="vegadresse" type="Vegadresse"/>
+						<xsd:element name="matrikkeladresse" type="Matrikkeladresse"/>
+						<xsd:element name="ukjentBosted" type="UkjentBosted"/>
+					</xsd:choice>
+					<xsd:element name="startdatoForKontrakt" type="Dato"/>
+					<xsd:element name="sluttdatoForKontrakt" type="Dato" minOccurs="0"/>
+					<xsd:element name="adresseIdentifikatorFraMatrikkelen" type="Identifikator" minOccurs="0"/>
+					<xsd:element name="naerAdresseIdentifikatorFraMatrikkelen" type="Identifikator" minOccurs="0"/>
+					<xsd:element name="adressegradering" type="Adressegradering"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Oppholdsadresse">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:choice>
+						<xsd:element name="vegadresse" type="Vegadresse"/>
+						<xsd:element name="matrikkeladresse" type="Matrikkeladresse"/>
+						<xsd:element name="utenlandskAdresse" type="InternasjonalAdresse"/>
+						<xsd:element name="adressenErUkjent" type="Boolsk"/>
+					</xsd:choice>
+					<xsd:element name="adresseIdentifikatorFraMatrikkelen" type="Identifikator" minOccurs="0"/>
+					<xsd:element name="adressegradering" type="Adressegradering"/>
+					<xsd:element name="oppholdsadressedato" type="Dato" minOccurs="0"/>
+					<xsd:element name="oppholdAnnetSted" type="OppholdAnnetSted" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Kontaktadresse">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="adressegradering" type="Adressegradering"/>
+					<xsd:element name="postboksadresse" type="Postboksadresse" minOccurs="0"/>
+					<xsd:element name="vegadresse" type="VegadresseForPost" minOccurs="0"/>
+					<xsd:element name="postadresseIFrittFormat" type="PostadresseIFrittFormat" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="KontaktadresseIUtlandet">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="adressegradering" type="Adressegradering"/>
+					<xsd:element name="utenlandskAdresse" type="InternasjonalAdresse" minOccurs="0"/>
+					<xsd:element name="utenlandskAdresseIFrittFormat" type="InternasjonalAdresseIFrittFormat" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="GraderingAvAdresse">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="graderingsnivaa" type="Adressegradering"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="PreferertKontaktadresse">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="valg" type="Adressetype"/>
+					<xsd:element name="adressegradering" type="Adressegradering" minOccurs="0"/>
+					<xsd:element name="kontaktadresseIFrittFormat" type="AdresseIFrittFormat" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="InnflyttingTilNorge">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="fraflyttingsland" type="LandkodeIsoAlfa3" minOccurs="0"/>
+					<xsd:element name="fraflyttingsstedIUtlandet" type="Tekst" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="UtflyttingFraNorge">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="tilflyttingsland" type="LandkodeIsoAlfa3" minOccurs="0"/>
+					<xsd:element name="tilflyttingsstedIUtlandet" type="Tekst" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="SametingetsValgmanntall">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="forhold" type="ForholdTilSametingetsValgmanntall"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Personkjoenn">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="kjoenn" type="Kjoenn"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Statsborgerskap">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="statsborgerskap" type="LandkodeIsoAlfa3"/>
+					<xsd:element name="ervervsdato" type="Dato" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Foreldreansvar">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="ansvar" type="Foreldreansvarstype"/>
+					<xsd:element name="ansvarssubjekt" type="Foedselsnummer" minOccurs="0"/>
+					<xsd:element name="ansvarlig" type="Foedselsnummer" minOccurs="0"/>
+					<xsd:element name="ansvarligOrganisasjon" type="Organisasjonsnummer" minOccurs="0"/>
+					<xsd:element name="ansvarligUtenIdentifikator" type="RelatertBiPerson" minOccurs="0"/>
+					<xsd:element name="ansvarssubjektUtenIdentifikator" type="RelatertBiPerson" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Foedsel">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="foedselsdato" type="Dato" minOccurs="0"/>
+					<xsd:element name="foedselsaar" type="Aarstall"/>
+					<xsd:element name="foedested" type="Tekst" minOccurs="0"/>
+					<xsd:element name="foedekommuneINorge" type="Kommunenummer" minOccurs="0"/>
+					<xsd:element name="foedeland" type="LandkodeIsoAlfa3" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Folkeregisterpersonnavn">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="fornavn" type="Tekst"/>
+					<xsd:element name="mellomnavn" type="Tekst" minOccurs="0"/>
+					<xsd:element name="etternavn" type="Tekst"/>
+					<xsd:element name="forkortetNavn" type="Tekst" minOccurs="0"/>
+					<xsd:element name="originaltNavn" type="Personnavn" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="FoedselINorge">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="foedselsinstitusjonsnavn" type="Tekst" minOccurs="0"/>
+					<xsd:element name="rekkefoelgenummer" type="Heltall" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="VergemaalRepresentasjonEllerFremtidsfullmakt">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="vergemaaltype" type="Vergemaaltype" minOccurs="0"/>
+					<xsd:element name="embete" type="Tekst" minOccurs="0"/>
+					<xsd:element name="verge" type="VergeRepresentantEllerFullmektig"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="Opphold">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="oppholdstillatelse" type="Oppholdstillatelsetype"/>
+					<xsd:element name="oppholdFra" type="Dato"/>
+					<xsd:element name="oppholdTil" type="Dato" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="BibeholdAvNorskStatsborgerskap">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="bibeholdstatus" type="Bibehold"/>
+					<xsd:element name="datoForBibehold" type="Dato" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="SamiskSpraak">
+		<xsd:complexContent>
+			<xsd:extension base="Registermetadata">
+				<xsd:sequence>
+					<xsd:element name="spraak" type="SamiskSpraakType" minOccurs="0" maxOccurs="3"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:simpleType name="Tekst">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="4000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="LandkodeIsoAlfa2">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="2"/>
+			<xsd:pattern value="([A-Z]){2}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="DatoKlokkeslett">
+		<xsd:restriction base="xsd:dateTime"/>
+	</xsd:simpleType>
+	<xsd:simpleType name="Boolsk">
+		<xsd:restriction base="xsd:boolean"/>
+	</xsd:simpleType>
+	<xsd:complexType name="IdentifiserendeInformasjon">
+		<xsd:sequence>
+			<xsd:element name="personnavn" type="Personnavn"/>
+			<xsd:element name="foedselsdato" type="Dato" minOccurs="0"/>
+			<xsd:element name="statsborgerskap" type="LandkodeIsoAlfa3" maxOccurs="unbounded"/>
+			<xsd:element name="kjoenn" type="Kjoenn" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Foedselsnummer">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="11"/>
+			<xsd:pattern value="[0-9]+"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Identifikatorstatuskode">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="iBruk"/>
+			<xsd:enumeration value="opphoert"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Folkeregisteridentifikatortype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="foedselsnummer"/>
+			<xsd:enumeration value="dNummer"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Identitetsgrunnlagstatus">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="ingenStatus"/>
+			<xsd:enumeration value="ikkeKontrollert"/>
+			<xsd:enumeration value="kontrollert"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="PersonSomKontakt">
+		<xsd:sequence>
+			<xsd:choice>
+				<xsd:sequence>
+					<xsd:element name="foedselsdato" type="Dato" minOccurs="0"/>
+					<xsd:element name="personnavn" type="Personnavn"/>
+				</xsd:sequence>
+				<xsd:sequence>
+					<xsd:element name="foedselsEllerDNummer" type="Foedselsnummer"/>
+				</xsd:sequence>
+			</xsd:choice>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="AdvokatSomKontakt">
+		<xsd:sequence>
+			<xsd:element name="personnavn" type="Personnavn"/>
+			<xsd:element name="organisasjonsnavn" type="Organisasjonsnavn" minOccurs="0"/>
+			<xsd:element name="organisasjonsnummer" type="Organisasjonsnummer" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="OrganisasjonSomKontakt">
+		<xsd:sequence>
+			<xsd:element name="organisasjonsnavn" type="Organisasjonsnavn"/>
+			<xsd:element name="organisasjonsnummer" type="Organisasjonsnummer" minOccurs="0"/>
+			<xsd:element name="kontaktpersonnavn" type="Personnavn" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Skifteform">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="offentlig"/>
+			<xsd:enumeration value="annet"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Dato">
+		<xsd:restriction base="xsd:date"/>
+	</xsd:simpleType>
+	<xsd:complexType name="KontaktadresseForDoedsbo">
+		<xsd:sequence>
+			<xsd:element name="adresselinje" type="Tekst" maxOccurs="2"/>
+			<xsd:element name="poststedsnavn" type="Tekst"/>
+			<xsd:element name="postnummer" type="Tekst"/>
+			<xsd:element name="landkode" type="LandkodeIsoAlfa3" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="LandkodeIsoAlfa3">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="3"/>
+			<xsd:pattern value="([A-Z]){3}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="TekniskDokumentkontroll">
+		<xsd:sequence>
+			<xsd:element name="dokumentkontrollstatus" type="Tekst"/>
+			<xsd:element name="dokumentkontrolltidspunkt" type="DatoKlokkeslett" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Personstatus">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="bosatt"/>
+			<xsd:enumeration value="utflyttet"/>
+			<xsd:enumeration value="forsvunnet"/>
+			<xsd:enumeration value="doed"/>
+			<xsd:enumeration value="opphoert"/>
+			<xsd:enumeration value="foedselsregistrert"/>
+			<xsd:enumeration value="midlertidig"/>
+			<xsd:enumeration value="inaktiv"/>
+			<xsd:enumeration value="ikkeBosatt"/>
+			<xsd:enumeration value="aktiv"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Sivilstandstype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="uoppgitt"/>
+			<xsd:enumeration value="ugift"/>
+			<xsd:enumeration value="gift"/>
+			<xsd:enumeration value="enkeEllerEnkemann"/>
+			<xsd:enumeration value="skilt"/>
+			<xsd:enumeration value="separert"/>
+			<xsd:enumeration value="registrertPartner"/>
+			<xsd:enumeration value="separertPartner"/>
+			<xsd:enumeration value="skiltPartner"/>
+			<xsd:enumeration value="gjenlevendePartner"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Kommunenummer">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="4"/>
+			<xsd:pattern value="([0-9]){4}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="RelatertBiPerson">
+		<xsd:sequence>
+			<xsd:element name="navn" type="Personnavn"/>
+			<xsd:element name="foedselsdato" type="Dato" minOccurs="0"/>
+			<xsd:element name="statsborgerskap" type="LandkodeIsoAlfa3" minOccurs="0"/>
+			<xsd:element name="kjoenn" type="Kjoenn" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Familierelasjontype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="mor"/>
+			<xsd:enumeration value="far"/>
+			<xsd:enumeration value="medmor"/>
+			<xsd:enumeration value="barn"/>
+			<xsd:enumeration value="soesken"/>
+			<xsd:enumeration value="ektefelleEllerPartner"/>
+			<xsd:enumeration value="doedfoedtBarn"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="UkjentBosted">
+		<xsd:sequence>
+			<xsd:element name="bostedskommune" type="Kommunenummer" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Vegadresse">
+		<xsd:sequence>
+			<xsd:element name="kommunenummer" type="Kommunenummer"/>
+			<xsd:element name="bruksenhetsnummer" type="Tekst" minOccurs="0"/>
+			<xsd:element name="bruksenhetstype" type="Bruksenhetstype" minOccurs="0"/>
+			<xsd:element name="adressenavn" type="Tekst"/>
+			<xsd:element name="adressenummer" type="Adressenummer" minOccurs="0"/>
+			<xsd:element name="adressekode" type="Tekst" minOccurs="0"/>
+			<xsd:element name="adressetilleggsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="poststed" type="Poststed" minOccurs="0"/>
+			<xsd:element name="coAdressenavn" type="Tekst" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Matrikkeladresse">
+		<xsd:sequence>
+			<xsd:element name="bruksenhetsnummer" type="Tekst" minOccurs="0"/>
+			<xsd:element name="bruksenhetstype" type="Bruksenhetstype" minOccurs="0"/>
+			<xsd:element name="matrikkelnummer" type="Matrikkelnummer"/>
+			<xsd:element name="undernummer" type="Heltall" minOccurs="0"/>
+			<xsd:element name="adressetilleggsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="poststed" type="Poststed" minOccurs="0"/>
+			<xsd:element name="coAdressenavn" type="Tekst" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Identifikator">
+		<xsd:restriction base="Tekst"/>
+	</xsd:simpleType>
+	<xsd:simpleType name="Adressegradering">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="ugradert"/>
+			<xsd:enumeration value="klientadresse"/>
+			<xsd:enumeration value="fortrolig"/>
+			<xsd:enumeration value="strengtFortrolig"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Heltall">
+		<xsd:restriction base="xsd:long"/>
+	</xsd:simpleType>
+	<xsd:complexType name="InternasjonalAdresse">
+		<xsd:sequence>
+			<xsd:element name="coAdressenavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="adressenavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="bygning" type="Tekst" minOccurs="0"/>
+			<xsd:element name="etasjenummer" type="Tekst" minOccurs="0"/>
+			<xsd:element name="boenhet" type="Tekst" minOccurs="0"/>
+			<xsd:element name="postboks" type="Tekst" minOccurs="0"/>
+			<xsd:element name="postkode" type="Tekst" minOccurs="0"/>
+			<xsd:element name="byEllerStedsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="distriktsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="region" type="Tekst" minOccurs="0"/>
+			<xsd:element name="landkode" type="LandkodeIsoAlfa2"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="OppholdAnnetSted">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="militaer"/>
+			<xsd:enumeration value="utenriks"/>
+			<xsd:enumeration value="paaSvalbard"/>
+			<xsd:enumeration value="pendler"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="Postboksadresse">
+		<xsd:sequence>
+			<xsd:element name="postbokseier" type="Tekst" minOccurs="0"/>
+			<xsd:element name="postboks" type="Tekst"/>
+			<xsd:element name="poststed" type="Poststed" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="VegadresseForPost">
+		<xsd:sequence>
+			<xsd:element name="coAdressenavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="adressenavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="adressenummer" type="Adressenummer" minOccurs="0"/>
+			<xsd:element name="poststed" type="Poststed" minOccurs="0"/>
+			<xsd:element name="adressekode" type="Tekst" minOccurs="0"/>
+			<xsd:element name="adressetilleggsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="bruksenhetsnummer" type="Tekst" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="PostadresseIFrittFormat">
+		<xsd:sequence>
+			<xsd:element name="adresselinje" type="Tekst" minOccurs="0" maxOccurs="4"/>
+			<xsd:element name="poststed" type="Poststed" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="InternasjonalAdresseIFrittFormat">
+		<xsd:sequence>
+			<xsd:element name="adresselinje" type="Tekst" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="postkode" type="Tekst" minOccurs="0"/>
+			<xsd:element name="byEllerStedsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="landkode" type="LandkodeIsoAlfa2" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Adressetype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="bostedsadresse"/>
+			<xsd:enumeration value="oppholdsadresse"/>
+			<xsd:enumeration value="postadresse"/>
+			<xsd:enumeration value="postadresseIUtlandet"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="ForholdTilSametingetsValgmanntall">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="innmeldt"/>
+			<xsd:enumeration value="utmeldt"/>
+			<xsd:enumeration value="aldriInnmeldt"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Kjoenn">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="kvinne"/>
+			<xsd:enumeration value="mann"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Foreldreansvarstype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="felles"/>
+			<xsd:enumeration value="mor"/>
+			<xsd:enumeration value="far"/>
+			<xsd:enumeration value="medmor"/>
+			<xsd:enumeration value="andre"/>
+			<xsd:enumeration value="ukjent"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Organisasjonsnummer">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="9"/>
+			<xsd:pattern value="[0-9]+"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Aarstall">
+		<xsd:restriction base="xsd:gYear"/>
+	</xsd:simpleType>
+	<xsd:complexType name="Personnavn">
+		<xsd:sequence>
+			<xsd:element name="fornavn" type="Tekst"/>
+			<xsd:element name="mellomnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="etternavn" type="Tekst"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Vergemaaltype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="ensligMindreaarigAsylsoeker"/>
+			<xsd:enumeration value="ensligMindreaarigFlyktning"/>
+			<xsd:enumeration value="voksen"/>
+			<xsd:enumeration value="midlertidigForVoksen"/>
+			<xsd:enumeration value="mindreaarig"/>
+			<xsd:enumeration value="midlertidigForMindreaarig"/>
+			<xsd:enumeration value="forvaltningUtenforVergemaal"/>
+			<xsd:enumeration value="stadfestetFremtidsfullmakt"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="VergeRepresentantEllerFullmektig">
+		<xsd:sequence>
+			<xsd:element name="navn" type="Personnavn" minOccurs="0"/>
+			<xsd:element name="foedselsEllerDNummer" type="Foedselsnummer" minOccurs="0"/>
+			<xsd:element name="omfang" type="Vergemaalsomfang" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Oppholdstillatelsetype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="midlertidig"/>
+			<xsd:enumeration value="permanent"/>
+			<xsd:enumeration value="opplysningMangler"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Bibehold">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="harBibehold"/>
+			<xsd:enumeration value="harIkkeLengerBibehold"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="SamiskSpraakType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="nordsamisk"/>
+			<xsd:enumeration value="lulesamisk"/>
+			<xsd:enumeration value="soersamisk"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Organisasjonsnavn">
+		<xsd:restriction base="Tekst">
+			<xsd:maxLength value="175"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Bruksenhetstype">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="bolig"/>
+			<xsd:enumeration value="annetEnnBolig"/>
+			<xsd:enumeration value="fritidsbolig"/>
+			<xsd:enumeration value="ikkeGodkjentBolig"/>
+			<xsd:enumeration value="unummerertBruksenhet"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="Adressenummer">
+		<xsd:sequence>
+			<xsd:element name="husnummer" type="Husnummer"/>
+			<xsd:element name="husbokstav" type="Husbokstav" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Poststed">
+		<xsd:sequence>
+			<xsd:element name="poststedsnavn" type="Tekst" minOccurs="0"/>
+			<xsd:element name="postnummer" type="Postnummer" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Matrikkelnummer">
+		<xsd:sequence>
+			<xsd:element name="kommunenummer" type="Kommunenummer"/>
+			<xsd:element name="gaardsnummer" type="Heltall"/>
+			<xsd:element name="bruksnummer" type="Heltall"/>
+			<xsd:element name="festenummer" type="Heltall" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="Vergemaalsomfang">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="utlendingssakerPersonligeOgOekonomiskeInteresser"/>
+			<xsd:enumeration value="personligeOgOekonomiskeInteresser"/>
+			<xsd:enumeration value="oekonomiskeInteresser"/>
+			<xsd:enumeration value="personligeInteresser"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Husnummer">
+		<xsd:restriction base="Tekst">
+			<xsd:maxLength value="4"/>
+			<xsd:pattern value="[0-9]+"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Husbokstav">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="1"/>
+			<xsd:pattern value="[A-Za-zæøåÆØÅ]"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Postnummer">
+		<xsd:restriction base="Tekst">
+			<xsd:length value="4"/>
+			<xsd:pattern value="([0-9]){4}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>
