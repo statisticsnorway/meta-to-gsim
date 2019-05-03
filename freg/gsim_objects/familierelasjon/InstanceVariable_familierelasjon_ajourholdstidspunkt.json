@@ -1,5 +1,5 @@
 {
-    "id": "b8ee16c4-1adb-4eb0-9923-13b48a02b420",
+    "id": "54a4686c-f673-4010-9e8a-4a3fb47a8ddf",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/fd75de3f-1c59-48be-a0d8-bace0fafcf1c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_AJOURHOLDSTIDSPUNKT"
 }

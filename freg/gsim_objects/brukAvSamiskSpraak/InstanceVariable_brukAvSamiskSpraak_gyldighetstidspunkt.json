@@ -1,5 +1,5 @@
 {
-    "id": "7d8de974-eb18-44d1-9158-42f584531bbc",
+    "id": "02483cf7-6813-46b2-929e-1a275f9248a5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/591ee2d8-a63f-463d-aff0-9f1b64a8e9d3"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BRUKAVSAMISKSPRAAK_GYLDIGHETSTIDSPUNKT"
 }

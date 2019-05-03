@@ -1,5 +1,5 @@
 {
-    "id": "d7c5e1a0-1708-445e-bf3b-89d069377787",
+    "id": "e12db21d-04d6-4a74-a365-584b1dae465b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/b866118f-f729-4c16-b609-8ffc05eea653"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "KJOENN_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

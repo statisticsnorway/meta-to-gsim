@@ -1,5 +1,5 @@
 {
-    "id": "bfa1af64-600d-49d9-b030-8f8f3f71dfe6",
+    "id": "e19e39d1-6d24-4bf3-ac4c-06a65015675c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/6be86db6-1529-4c75-8979-0b21b16bf5f6"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATSBORGERSKAP_AJOURHOLDSTIDSPUNKT"
 }

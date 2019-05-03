@@ -1,5 +1,5 @@
 {
-    "id": "cb45acb9-336e-42f0-9904-88ff1f3be00c",
+    "id": "84a94e9f-f6f8-4413-93b9-dba55572128a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/69ace182-c3a0-45ad-a4e6-116399702b82"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FAMILIERELASJON_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

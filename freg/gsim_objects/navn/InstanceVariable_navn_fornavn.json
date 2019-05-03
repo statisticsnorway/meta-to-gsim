@@ -1,5 +1,5 @@
 {
-    "id": "de47683f-34b3-46c4-8adb-a9e3323dae15",
+    "id": "f1088d09-0e43-4e5e-b25a-6b5c38024092",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/c814ca5f-5be5-4690-8e53-f27af705a929"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_FORNAVN"
 }

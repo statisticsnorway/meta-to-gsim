@@ -1,5 +1,5 @@
 {
-    "id": "2a817f90-e214-4a7d-8dac-6d100faf3fc7",
+    "id": "70562208-717f-4c4a-8465-107ad2b1f8a2",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/3b15174f-d254-45f7-9d9a-b57434755d2c"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DOEDSFALL_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

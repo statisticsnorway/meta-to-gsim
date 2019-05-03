@@ -1,5 +1,5 @@
 {
-    "id": "b169aad5-bed7-4402-99dc-95f04163181e",
+    "id": "6bf2a2c5-9846-44d9-863f-3df98f9bec16",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/027b0909-9737-4594-bed7-fed57c764be5"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORELDREANSVAR_AJOURHOLDSTIDSPUNKT"
 }

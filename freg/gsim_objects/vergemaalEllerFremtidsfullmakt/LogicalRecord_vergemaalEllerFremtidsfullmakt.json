@@ -1,5 +1,5 @@
 {
-    "id": "1909fb12-a988-4989-aae4-e06cb54a0fc5",
+    "id": "a0649ea3-de3f-49c4-8f6a-b73aa6aef99e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,29 +13,26 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/f30464f0-b08d-4b4c-b85e-a207d0c93c60"
+    "instanceVariables": [
+        "/InstanceVariable/e3446ee3-5ff0-4f15-af36-450652418015",
+        "/InstanceVariable/50553f04-dd7e-41f6-b30a-1bd6d9b09373",
+        "/InstanceVariable/1bbbeae3-de5e-49cc-bca9-295c4ae9ee84",
+        "/InstanceVariable/86d8140d-8b97-4c81-840a-feb80fbf0c21",
+        "/InstanceVariable/dbdf9335-a065-44b5-9c72-959186e11b15",
+        "/InstanceVariable/3e8ac78b-39a2-4a85-90c0-b7387e1714d5",
+        "/InstanceVariable/b0a20baa-6f6e-471f-b864-eacf894155ef",
+        "/InstanceVariable/e2cd649a-498c-40c2-94a6-0def4da05282",
+        "/InstanceVariable/923a2ac7-7386-48a9-ac98-8d7c1b10ec77",
+        "/InstanceVariable/3653ba99-5489-4162-b6b2-346ccdfb0580",
+        "/InstanceVariable/46c48394-3cc9-4ad5-85ee-1603d79d2288",
+        "/InstanceVariable/08eff41a-9b85-473b-ba8f-d3229fd1af3d",
+        "/InstanceVariable/ed87f204-9d49-4101-8b1b-2eb78fbeb8c5",
+        "/InstanceVariable/c0ef8c47-30ad-42cf-bc07-e3cf5181a89e"
     ],
-    "measureComponents": [
-        "/MeasureComponent/1b473382-4ec6-44f6-8ce8-ee177417402f",
-        "/MeasureComponent/490afa8e-6f8f-4b69-9bcf-8e763ca5ff74",
-        "/MeasureComponent/eeb7ee48-2bdd-4204-aebf-e42b0c4ccb25",
-        "/MeasureComponent/b338b2be-87cc-4494-ba29-d0732ed60dd8",
-        "/MeasureComponent/8472cf30-bbbc-4497-ba67-8329752af626",
-        "/MeasureComponent/a1199d4f-b61d-4c49-b546-41ee734f3ce4",
-        "/MeasureComponent/e516da42-d32c-4598-a67d-571a6b440e4f",
-        "/MeasureComponent/36ab0109-1cf3-4611-afe5-c9662c915b95",
-        "/MeasureComponent/a81a11ca-3829-4685-abbe-e67d3e3be08e",
-        "/MeasureComponent/70a11357-6b2e-49c8-80ef-3db08e021436",
-        "/MeasureComponent/88ae96a9-1a22-4f89-9adf-82dff81bc2fd",
-        "/MeasureComponent/f92c9b74-288f-4c6a-83ef-000d70fafb75",
-        "/MeasureComponent/3c622993-d933-4c09-b85e-250a11c8a7d0"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT"
 }

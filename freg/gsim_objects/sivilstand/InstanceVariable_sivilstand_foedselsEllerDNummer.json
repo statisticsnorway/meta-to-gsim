@@ -1,5 +1,5 @@
 {
-    "id": "bfcd8f3a-3e18-4311-bff2-45dee3550c74",
+    "id": "d154b9fa-28b8-44dd-8cf0-0204db935433",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/78b33e7e-7fe5-4bf0-b456-c7a833b69425"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "SIVILSTAND_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

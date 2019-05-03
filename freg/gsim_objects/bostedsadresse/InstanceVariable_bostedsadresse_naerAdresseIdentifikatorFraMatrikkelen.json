@@ -1,5 +1,5 @@
 {
-    "id": "1b136bb1-2a19-4a94-b6ad-d51551911d16",
+    "id": "4fb5f9e3-ebbf-42bb-9bcb-41d1cd6dba2f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/c8413532-1e1b-46ef-be77-bbfc919a5eac"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_NAERADRESSEIDENTIFIKATORFRAMATRIKKELEN"
 }

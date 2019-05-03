@@ -1,5 +1,5 @@
 {
-    "id": "655829a7-bf70-4459-9024-b84170d87404",
+    "id": "09ed1638-5dd2-45ea-b571-642bd4052621",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/4bc351b7-2ed3-410c-981a-1e213ca0930d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTFLYTTING_GYLDIGHETSTIDSPUNKT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "66f079b5-5f25-4734-9d7e-c60387c3b03d",
+    "id": "3259dfe2-4e8a-4327-b29f-534fac0ecf77",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/292fe259-5022-4bae-9555-a4151e0e192d"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "UTFLYTTING_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

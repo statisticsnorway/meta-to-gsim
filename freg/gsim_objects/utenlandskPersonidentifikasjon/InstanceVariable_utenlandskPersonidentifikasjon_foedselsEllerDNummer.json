@@ -1,5 +1,5 @@
 {
-    "id": "08508ca5-437b-4471-91c1-cf5ddc1864dd",
+    "id": "8f2eb8c6-dddc-4e14-92ba-7975ec30763d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/5abccb5b-31ed-475b-80bd-511fcdcbe2f3"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

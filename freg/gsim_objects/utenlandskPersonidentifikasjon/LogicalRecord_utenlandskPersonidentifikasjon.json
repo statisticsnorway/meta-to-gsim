@@ -1,5 +1,5 @@
 {
-    "id": "8a5367de-26cf-48e9-b9e1-c0b8e61b9fa5",
+    "id": "cdd12f3b-9153-421a-9932-3a789485db49",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,22 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/5abccb5b-31ed-475b-80bd-511fcdcbe2f3"
+    "instanceVariables": [
+        "/InstanceVariable/d09b431f-6dfd-431e-b528-a56bcc39479a",
+        "/InstanceVariable/0d6abe86-4355-46b3-ab6b-3a8a9b89eef0",
+        "/InstanceVariable/4e006d2c-1346-4fea-9328-5180c725c0bf",
+        "/InstanceVariable/6c3e5d0f-72b2-4238-8253-b65eef46486a",
+        "/InstanceVariable/ebe1f040-10e3-46e7-9c6d-12ce1f835f79",
+        "/InstanceVariable/6d7febda-2f14-499d-86dd-1ef011089f17",
+        "/InstanceVariable/8af6be6a-00b0-4068-b095-79a1805d928b",
+        "/InstanceVariable/f2bd4a76-3d1e-4825-8d2e-9b9ca4176775",
+        "/InstanceVariable/734f4ff8-5b39-4bda-a21f-6fe117d28538",
+        "/InstanceVariable/8f2eb8c6-dddc-4e14-92ba-7975ec30763d"
     ],
-    "measureComponents": [
-        "/MeasureComponent/04ba8b04-01f4-47c2-b049-510523591898",
-        "/MeasureComponent/63b73fb0-1f13-47ca-99a9-0923c4bc26d0",
-        "/MeasureComponent/c41b108b-8e75-43c1-a5be-9ee5c47d3b2f",
-        "/MeasureComponent/4a7edd03-8a4e-4234-96f1-037d0fe6b472",
-        "/MeasureComponent/a3a0f827-6e65-409a-b0c5-4d8614958b2c",
-        "/MeasureComponent/e466c3b3-9e1b-4f8c-b657-ec0b0b3f4dd8",
-        "/MeasureComponent/49177e05-8556-4ab6-aebc-1302700ecc9d",
-        "/MeasureComponent/d3ceb332-5f68-4486-bee8-fbc5813f8e10",
-        "/MeasureComponent/913c6689-4f8f-4277-821d-d171c56284b9"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "UTENLANDSKPERSONIDENTIFIKASJON"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "bd010e65-a55a-4fe3-901b-089dfde1e266",
+    "id": "575f8983-6e83-4666-a777-a1b88903a00c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:22.000Z",
-    "validFrom": "2019-04-09T13:00:22.000Z",
-    "createdDate": "2019-04-09T13:00:22.000Z",
+    "versionValidFrom": "2019-05-01T15:49:00.000Z",
+    "validFrom": "2019-05-01T15:49:00.000Z",
+    "createdDate": "2019-05-01T15:49:00.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/8818e1df-cdd5-4af4-b86f-88dae8ae91d7"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATUS_AARSAK"
 }

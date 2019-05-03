@@ -1,5 +1,5 @@
 {
-    "id": "6da88776-de59-4354-a730-aac961821daf",
+    "id": "37ea4767-98d7-40c3-b051-914bae12369b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/373534aa-4bad-497e-99a0-28d1ecfdd1cc"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BRUKAVSAMISKSPRAAK_ERGJELDENDE"
 }

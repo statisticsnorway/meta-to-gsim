@@ -1,5 +1,5 @@
 {
-    "id": "bb366326-fd01-46a9-bc2f-cce7511654a9",
+    "id": "bfaceae6-2bc0-4a82-a132-38ac18a71496",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/5ff0f73a-f70b-42c0-a3a9-26597378f3ee"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DOEDSFALL_KILDE"
 }

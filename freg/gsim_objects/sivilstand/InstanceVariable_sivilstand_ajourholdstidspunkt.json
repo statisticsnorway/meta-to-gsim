@@ -1,5 +1,5 @@
 {
-    "id": "3a381e90-8bea-4212-8750-4a80029574f8",
+    "id": "6d530904-9e03-4212-bb25-73255c7e0c04",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/6a0cc4cf-aeae-4357-9c43-7ded68b36341"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_AJOURHOLDSTIDSPUNKT"
 }

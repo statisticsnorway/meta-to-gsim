@@ -1,5 +1,5 @@
 {
-    "id": "2b6eee95-064f-4a75-ae20-4c32fe5d23ed",
+    "id": "9e62fba6-5306-4bd0-b9df-70cc6cceb592",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:02.000Z",
+    "validFrom": "2019-05-01T15:49:02.000Z",
+    "createdDate": "2019-05-01T15:49:02.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/5c806a40-547a-47b1-8152-f95372651132"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_OPPHOERSTIDSPUNKT"
 }

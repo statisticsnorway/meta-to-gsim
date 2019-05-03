@@ -1,5 +1,5 @@
 {
-    "id": "26597ab9-ffef-4e0d-baf2-f94832e9c0a3",
+    "id": "6868845d-b428-401e-8efe-bc8a542e9638",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/6ac1a390-1ba5-4b69-9820-2dbcd55c3d5e"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_GYLDIGHETSTIDSPUNKT"
 }

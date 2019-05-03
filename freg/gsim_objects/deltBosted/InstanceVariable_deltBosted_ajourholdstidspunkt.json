@@ -1,5 +1,5 @@
 {
-    "id": "35ae940b-c926-4d09-822a-e8ffd54d2b95",
+    "id": "b0f13871-f8c1-456c-b18e-0751f91b5fe1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:02.000Z",
+    "validFrom": "2019-05-01T15:49:02.000Z",
+    "createdDate": "2019-05-01T15:49:02.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/84bb1958-f40f-493c-9018-10cc6c5e4000"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_AJOURHOLDSTIDSPUNKT"
 }

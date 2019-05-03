@@ -1,5 +1,5 @@
 {
-    "id": "b4a26677-4370-4883-8e6d-5d1f61d7035d",
+    "id": "09565432-a618-400d-ac4e-b06dd2323d31",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/1990b8d1-9464-425f-a4b4-1c653c9267df"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BIBEHOLD_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

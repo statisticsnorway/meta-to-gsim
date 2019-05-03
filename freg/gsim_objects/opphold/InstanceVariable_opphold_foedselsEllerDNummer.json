@@ -1,5 +1,5 @@
 {
-    "id": "331c22bb-6391-4906-966d-a68ae2f1ccba",
+    "id": "9fc388f8-58eb-43bc-aa81-040314ddddd4",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/a6fae542-81a5-4e1a-b4a5-8d365f5c31a7"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "OPPHOLD_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

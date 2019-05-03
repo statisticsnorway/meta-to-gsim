@@ -1,5 +1,5 @@
 {
-    "id": "4b79ba30-3db8-4621-844b-d667d25914e9",
+    "id": "37658fcd-476a-40f3-b3f7-30f4b1c2df29",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/a1f7a7f7-8afd-40d0-9d8c-0c4b01913676"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTFLYTTING_AJOURHOLDSTIDSPUNKT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "84658e04-4ba1-43c9-aa25-d037ba09139f",
+    "id": "4525aa64-777c-4540-9111-254fbe94adae",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/c6084d03-8fec-4ad3-803a-3a368a265ce4"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_GYLDIGHETSTIDSPUNKT"
 }

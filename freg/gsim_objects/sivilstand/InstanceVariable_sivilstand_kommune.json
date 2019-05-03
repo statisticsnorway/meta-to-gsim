@@ -1,5 +1,5 @@
 {
-    "id": "0bb684ed-44ea-40e1-a50e-54c36f0fd92f",
+    "id": "09b56b2d-c345-431d-b885-246ff6af0c36",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/e0a7617d-0a02-4851-af4d-61238a130045"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_KOMMUNE"
 }

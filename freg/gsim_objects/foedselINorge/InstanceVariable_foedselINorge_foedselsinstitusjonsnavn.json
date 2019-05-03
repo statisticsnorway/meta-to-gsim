@@ -1,5 +1,5 @@
 {
-    "id": "61f72719-0e98-4398-85e3-3515688c3a5b",
+    "id": "20e7c224-840f-4607-b8e3-f60121955a6a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/b933ceb2-8342-4142-b295-be8dded60814"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_FOEDSELSINSTITUSJONSNAVN"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "c5784fdf-71b0-467d-af64-2291dcdde4b2",
+    "id": "559c86fa-9283-45b0-a29b-7221b8fb6b84",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-05-01T15:49:03.000Z",
+    "validFrom": "2019-05-01T15:49:03.000Z",
+    "createdDate": "2019-05-01T15:49:03.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/2c7e1c0d-a92a-44bc-aa78-6ce53f6d073c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_POSTBOKSADRESSE_POSTBOKSEIER"
 }

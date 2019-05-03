@@ -1,5 +1,5 @@
 {
-    "id": "ea0f7f55-354e-4bd4-9c25-4abdb8f76ddb",
+    "id": "d4814d7c-7f41-4310-98f5-80c2f625f0d8",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/fc536055-d66e-484d-8df9-1c2bc9bce5fe"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_OPPHOERSTIDSPUNKT"
 }

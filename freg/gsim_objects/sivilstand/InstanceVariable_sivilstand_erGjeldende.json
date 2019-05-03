@@ -1,5 +1,5 @@
 {
-    "id": "67117393-2e16-47f6-bcda-6e8ebe340e7b",
+    "id": "93124f17-1a5b-4aef-8a3f-f170ed128530",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/c9a738fd-2a14-4cf2-bb1e-92438f5a371d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_ERGJELDENDE"
 }

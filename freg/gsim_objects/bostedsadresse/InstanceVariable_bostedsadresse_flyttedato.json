@@ -1,5 +1,5 @@
 {
-    "id": "fa02f700-f1c3-41f0-a42c-b787cb9faa62",
+    "id": "bdd6aff0-7532-4c0f-b4a9-829325928900",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/555b0ef0-01c0-4ae5-a250-8be89b080f2e"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_FLYTTEDATO"
 }

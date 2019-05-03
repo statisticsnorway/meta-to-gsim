@@ -1,5 +1,5 @@
 {
-    "id": "30eb0fb5-2bd4-4328-a856-e17a64230b28",
+    "id": "833a9f50-4abf-41f8-83aa-8a41b5265ce9",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/295dc967-ee10-42ba-a49c-232961bf5ec9"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_ERGJELDENDE"
 }

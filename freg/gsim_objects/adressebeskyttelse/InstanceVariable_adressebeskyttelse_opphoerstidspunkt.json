@@ -1,5 +1,5 @@
 {
-    "id": "bdae25af-f19b-4f8d-a3c0-55fb000ab3bf",
+    "id": "fba7f800-78fd-4754-8897-f44a8fb53e4d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-05-01T15:49:03.000Z",
+    "validFrom": "2019-05-01T15:49:03.000Z",
+    "createdDate": "2019-05-01T15:49:03.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/fbe6387a-fde7-4d78-83c1-7e7a3e222413"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ADRESSEBESKYTTELSE_OPPHOERSTIDSPUNKT"
 }

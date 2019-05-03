@@ -1,5 +1,5 @@
 {
-    "id": "717db034-81b7-4e9e-af12-4c7245685da7",
+    "id": "d671243f-d200-45e1-80f1-30ece236751d",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/af98469b-e52f-424f-9846-9a33f078b884"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_AARSAK"
 }

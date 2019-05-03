@@ -1,5 +1,5 @@
 {
-    "id": "0c262b8a-4319-4c1f-a86d-0c2ad4a345dd",
+    "id": "96aa5bb3-856a-485f-a656-123181d78ae0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/42fe9075-45bc-449f-924a-906a32fac206"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_AJOURHOLDSTIDSPUNKT"
 }

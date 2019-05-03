@@ -1,5 +1,5 @@
 {
-    "id": "e05b4a91-2653-4f62-b1f8-4e488564903d",
+    "id": "7beaaa87-009c-49f7-a441-1194a703e903",
     "name": [
         {
             "languageCode": "nb",
@@ -13,29 +13,26 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/c1dc6cb7-c537-4456-acce-f985b4490b39"
+    "instanceVariables": [
+        "/InstanceVariable/cca45780-7ab4-44cd-ae45-3addf4c2a9a7",
+        "/InstanceVariable/b3ceec87-2cf4-482b-949f-1171f16d85fa",
+        "/InstanceVariable/89cc55ee-da99-4679-b7b4-90c1b7a5f1a9",
+        "/InstanceVariable/472bcf7f-22e3-4e02-bdf7-b3ba54419813",
+        "/InstanceVariable/fdcddec0-0dbc-4b84-b927-31b7d7d3586d",
+        "/InstanceVariable/81ae5b3f-bcd5-430e-8913-d8548d9e703b",
+        "/InstanceVariable/f1088d09-0e43-4e5e-b25a-6b5c38024092",
+        "/InstanceVariable/375c3a6a-09bc-450d-a87b-8d24091b1818",
+        "/InstanceVariable/1805b2e5-8304-48e2-9662-4ffafd13056f",
+        "/InstanceVariable/77220db4-f456-4c86-b299-01c0ae70af0c",
+        "/InstanceVariable/59929371-a6df-442b-8b20-dd4739bd3fc3",
+        "/InstanceVariable/fc6a938f-57e8-4209-9f50-cb1b84d24dd6",
+        "/InstanceVariable/76a26745-17cc-4b59-a105-8d6cb9ccbcb5",
+        "/InstanceVariable/24a21661-41e5-40b2-a3e8-f3c04d693f1e"
     ],
-    "measureComponents": [
-        "/MeasureComponent/1aca1090-baba-4c54-9323-37bc08b0f435",
-        "/MeasureComponent/523f449d-4a35-4948-8a89-0473224c3ae9",
-        "/MeasureComponent/e05e48c8-cc05-443e-9d3a-4cab40f6d0b6",
-        "/MeasureComponent/24de5221-1e02-4d4e-ad15-6b87be95a1df",
-        "/MeasureComponent/222cfbeb-969d-4fb1-a2bd-960efc561dd0",
-        "/MeasureComponent/70b7670c-ae95-4d63-9a2c-b1812d281f89",
-        "/MeasureComponent/c814ca5f-5be5-4690-8e53-f27af705a929",
-        "/MeasureComponent/e2611228-2a02-4ca0-bdde-7ce8d240ec5d",
-        "/MeasureComponent/44346e55-9db8-4373-824d-5ff723a9a82e",
-        "/MeasureComponent/ea8abd20-380e-4514-9fdc-9de7d09883ec",
-        "/MeasureComponent/59462622-5249-4f44-a753-9d4bfa310dff",
-        "/MeasureComponent/08cf4237-cb28-40ae-a63e-43ea304a410e",
-        "/MeasureComponent/9b50d6a0-11ce-46b7-a995-4ab665132f61"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "NAVN"
 }

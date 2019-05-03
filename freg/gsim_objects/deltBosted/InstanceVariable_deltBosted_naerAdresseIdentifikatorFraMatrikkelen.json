@@ -1,5 +1,5 @@
 {
-    "id": "2aa1241f-05ae-456f-82fb-e3511b5e2061",
+    "id": "7bcf7fb3-6c0d-46c7-88d6-17b682df7838",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:02.000Z",
+    "validFrom": "2019-05-01T15:49:02.000Z",
+    "createdDate": "2019-05-01T15:49:02.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/4e895a58-e67e-4fac-9499-68852cc78add"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_NAERADRESSEIDENTIFIKATORFRAMATRIKKELEN"
 }

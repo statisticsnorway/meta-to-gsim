@@ -1,5 +1,5 @@
 {
-    "id": "9fe62c6a-ede8-41cd-9a0e-e41b44baf04c",
+    "id": "dc0265e9-4b47-4de2-b2ec-cccd1434731b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,22 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-05-01T15:48:59.000Z",
+    "validFrom": "2019-05-01T15:48:59.000Z",
+    "createdDate": "2019-05-01T15:48:59.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/8616d711-2dab-4026-90a9-03799265018e"
+    "instanceVariables": [
+        "/InstanceVariable/d3e0496e-7d94-49f1-9e3f-7b9e8aae0b4b",
+        "/InstanceVariable/fdc8921c-67bd-4ba4-8a56-95a804c967d5",
+        "/InstanceVariable/62d2c330-c483-4235-9ca9-dfb63536b8e7",
+        "/InstanceVariable/8ae1c831-f3e1-4032-a6c1-d12769e62c3c",
+        "/InstanceVariable/4896d2b9-d9f4-4659-a209-e267bb32ea1b",
+        "/InstanceVariable/663b2594-aad2-4ee1-bb6c-384076845eec",
+        "/InstanceVariable/64a41c44-8aba-4114-9369-f197eeae12e2",
+        "/InstanceVariable/534fa84e-748c-4eb9-afbc-1aa1037c46a7",
+        "/InstanceVariable/e8487ed9-796c-4aa9-bd68-59e6a655b54d",
+        "/InstanceVariable/32aab0e6-ec1d-491e-a93d-2e9d86d6efbd"
     ],
-    "measureComponents": [
-        "/MeasureComponent/bae63819-01cb-407f-9284-bb0719b9de22",
-        "/MeasureComponent/a7643e63-45b4-4ccb-9fc5-edc8241b2ea4",
-        "/MeasureComponent/ccbf4f27-10d1-4b69-8841-fb1d2e74288d",
-        "/MeasureComponent/ee155365-6fcf-402f-b5ba-46cf6aa24e06",
-        "/MeasureComponent/9cb673e2-6bed-4896-b72b-ecc41ec9bad7",
-        "/MeasureComponent/c22f0c9c-3f34-4834-b800-b1e75a520189",
-        "/MeasureComponent/d4f48d9f-023a-4eb2-a419-eb252ae2e867",
-        "/MeasureComponent/27ce5c61-6ca8-473d-9255-cc9544e76a8c",
-        "/MeasureComponent/0a564c1c-aa47-4e79-ba98-0121206caf97"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "IDENTIFIKASJONSNUMMER"
 }

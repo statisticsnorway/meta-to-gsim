@@ -1,5 +1,5 @@
 {
-    "id": "2290a524-c3fc-4898-aa25-3a550fa0cc31",
+    "id": "108380c8-8ffc-415b-9d58-f665d3a03285",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/952f5175-349a-4ecb-8364-0d6ef4a6885d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_KILDE"
 }

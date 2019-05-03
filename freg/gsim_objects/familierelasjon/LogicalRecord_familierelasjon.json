@@ -1,5 +1,5 @@
 {
-    "id": "8b2cb850-4941-4e81-b3ed-5b9dac15d0a6",
+    "id": "c77b0f1c-b494-4815-9a47-a7df4a076eb0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,31 +13,28 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/69ace182-c3a0-45ad-a4e6-116399702b82"
+    "instanceVariables": [
+        "/InstanceVariable/54a4686c-f673-4010-9e8a-4a3fb47a8ddf",
+        "/InstanceVariable/833a9f50-4abf-41f8-83aa-8a41b5265ce9",
+        "/InstanceVariable/bdb6ecbb-034b-4662-b3ee-89bd85340b0e",
+        "/InstanceVariable/94616752-97d7-4682-9612-5420c0bc01a6",
+        "/InstanceVariable/4525aa64-777c-4540-9111-254fbe94adae",
+        "/InstanceVariable/d350e6a5-c3cb-4815-8c5a-10a83352aedb",
+        "/InstanceVariable/7ad48def-0298-4a91-ad69-9d07e806a80e",
+        "/InstanceVariable/64046381-b80e-4036-aed6-e6d50097e45d",
+        "/InstanceVariable/6cb9c9d5-d2c1-42c1-8f73-f22b0b65d06e",
+        "/InstanceVariable/cb8a1143-0258-4df2-b81b-d5a2919a3e0f",
+        "/InstanceVariable/acf5368c-70d5-4f40-8eca-92f3e5c0ffbe",
+        "/InstanceVariable/265b7a38-ae0d-4d99-add6-3cdaf687f5c5",
+        "/InstanceVariable/a7f1cf94-6724-40c5-8f93-736dda9765a1",
+        "/InstanceVariable/625d2152-8465-4bfe-aca6-1ee0772b0be9",
+        "/InstanceVariable/e93d96ca-9df9-4b03-b2f6-155d56aa9c16",
+        "/InstanceVariable/84a94e9f-f6f8-4413-93b9-dba55572128a"
     ],
-    "measureComponents": [
-        "/MeasureComponent/fd75de3f-1c59-48be-a0d8-bace0fafcf1c",
-        "/MeasureComponent/295dc967-ee10-42ba-a49c-232961bf5ec9",
-        "/MeasureComponent/7c05b40f-5b28-4341-bc17-2ddaffe8cc37",
-        "/MeasureComponent/6007607e-a7f7-4cb8-b510-642aa27ccf29",
-        "/MeasureComponent/c6084d03-8fec-4ad3-803a-3a368a265ce4",
-        "/MeasureComponent/a9f8ed83-b2ba-483d-9371-d4d8c01cd3cd",
-        "/MeasureComponent/a2f8cf95-7b7a-4f07-9c86-6e2049fc6178",
-        "/MeasureComponent/1af95cb1-3d94-4cb6-b884-35ca5ee4f50c",
-        "/MeasureComponent/5233130e-5577-4c9e-ac3d-b058740b6303",
-        "/MeasureComponent/98766af1-a5d1-4f8e-9fb4-42d13163bd45",
-        "/MeasureComponent/3225c18e-b98e-4081-9728-625035f4ba49",
-        "/MeasureComponent/c30cb5e5-7267-4d35-83d2-a58da5595a07",
-        "/MeasureComponent/cc33b552-e66c-4edd-acd7-2c5c410eefbf",
-        "/MeasureComponent/8b354878-ce47-48cd-9b8b-4ac26500db00",
-        "/MeasureComponent/a643e6ea-2603-486d-8eb4-e25b4afcbac8"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FAMILIERELASJON"
 }

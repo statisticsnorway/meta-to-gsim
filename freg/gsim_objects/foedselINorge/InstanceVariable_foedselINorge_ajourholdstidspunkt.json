@@ -1,5 +1,5 @@
 {
-    "id": "d3439b87-67ba-44c3-9b63-7f8f4989cf96",
+    "id": "029e71ee-7493-43fd-826f-298d65db8c68",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/d1871d1f-921e-470a-a09f-3cad07aeee73"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_AJOURHOLDSTIDSPUNKT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "58d4c17f-b8ea-4665-960b-813c8868d7e7",
+    "id": "5da65668-103e-4459-a3b2-84979e501713",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-05-01T15:49:03.000Z",
+    "validFrom": "2019-05-01T15:49:03.000Z",
+    "createdDate": "2019-05-01T15:49:03.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/207d36d8-c415-4561-88c1-07b1704eeef2"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_AARSAK"
 }

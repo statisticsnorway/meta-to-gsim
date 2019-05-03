@@ -1,5 +1,5 @@
 {
-    "id": "c6fa8885-10f7-47de-ace5-05f9f6aca171",
+    "id": "e2f9ffaa-8c54-4058-8599-6fde420f0200",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/fa25b0d8-3394-4079-b8ef-70a65b87a5a5"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DOEDSFALL_ERGJELDENDE"
 }

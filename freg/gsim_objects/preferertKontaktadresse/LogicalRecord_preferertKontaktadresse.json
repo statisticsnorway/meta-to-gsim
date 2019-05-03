@@ -1,5 +1,5 @@
 {
-    "id": "37d054c0-948b-4f82-a558-31994a40d8b7",
+    "id": "30ad5055-39fe-4da7-8c15-2b553620727e",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,22 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:26.000Z",
-    "validFrom": "2019-04-09T13:00:26.000Z",
-    "createdDate": "2019-04-09T13:00:26.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/704f93a6-7564-405d-9079-92696eb12c68"
+    "instanceVariables": [
+        "/InstanceVariable/60557e2c-8092-440f-9a5b-dae250fc6431",
+        "/InstanceVariable/1ce88e09-39b2-42eb-83cc-b18565cad99c",
+        "/InstanceVariable/db335745-6dd9-423d-8600-f90151dd5f2b",
+        "/InstanceVariable/f78b453d-55b7-4f95-96aa-1da2bc867347",
+        "/InstanceVariable/f1c7ae4b-2ed4-4aca-bc99-4d9a8d597839",
+        "/InstanceVariable/e0f2cc78-7eac-4e3f-8f3c-933cf1044043",
+        "/InstanceVariable/49c3627c-17e7-48f1-98ac-8f8a4729bf95",
+        "/InstanceVariable/fb9021ad-bc05-4d2d-ad66-976d3f54acd6",
+        "/InstanceVariable/f3c9b7be-caf9-48d0-bd87-12b2c096c94c",
+        "/InstanceVariable/ad4b2bf9-3225-41ca-945f-e4dde5829ff0"
     ],
-    "measureComponents": [
-        "/MeasureComponent/20351c37-66f6-4b36-b092-d6b297f2860b",
-        "/MeasureComponent/c7653245-12f5-4bf7-ab42-42840d5f9897",
-        "/MeasureComponent/8dc821e8-747e-47c5-8cc0-625466ec4bfd",
-        "/MeasureComponent/1ebecb40-8f1e-4b3a-94b0-b30fa22ba89b",
-        "/MeasureComponent/250ceaf0-c921-4006-ba42-89d11a416a10",
-        "/MeasureComponent/2169f0b5-b568-4c6d-afc8-417c9d9dc2fb",
-        "/MeasureComponent/781cdf7c-7c85-4cd9-a2a0-ac5c852b4cac",
-        "/MeasureComponent/44336bce-7a4b-440e-b9f0-b5714177a131",
-        "/MeasureComponent/4cabc3df-f631-4921-b994-536a9306beba"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PREFERERTKONTAKTADRESSE"
 }

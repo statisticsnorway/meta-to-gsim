@@ -1,5 +1,5 @@
 {
-    "id": "170caacc-5688-4470-ba6f-5aa17e66bc7f",
+    "id": "20ff0314-88f2-48dd-9074-f313ee70daeb",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,13 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:24.000Z",
-    "validFrom": "2019-04-09T13:00:24.000Z",
-    "createdDate": "2019-04-09T13:00:24.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/IdentifierComponent/5a7f61be-869e-4226-b402-c20cf670feb0"
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BOSTEDSADRESSE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
 }

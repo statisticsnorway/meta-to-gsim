@@ -1,5 +1,5 @@
 {
-    "id": "5782d6aa-064b-4114-9144-0dec73e45299",
+    "id": "cca45780-7ab4-44cd-ae45-3addf4c2a9a7",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1aca1090-baba-4c54-9323-37bc08b0f435"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_AJOURHOLDSTIDSPUNKT"
 }

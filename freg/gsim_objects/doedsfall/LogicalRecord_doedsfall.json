@@ -1,5 +1,5 @@
 {
-    "id": "a1cb3956-17ee-4608-a83d-12b10ff5b744",
+    "id": "4ebf0c86-eb96-4822-ac0d-37bc1c5a7664",
     "name": [
         {
             "languageCode": "nb",
@@ -13,23 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/3b15174f-d254-45f7-9d9a-b57434755d2c"
+    "instanceVariables": [
+        "/InstanceVariable/e7a51679-3157-42a9-8979-aa031f8b60ed",
+        "/InstanceVariable/e2f9ffaa-8c54-4058-8599-6fde420f0200",
+        "/InstanceVariable/bfaceae6-2bc0-4a82-a132-38ac18a71496",
+        "/InstanceVariable/3203db15-b0b2-4606-b215-c3d34ec87d2d",
+        "/InstanceVariable/6b4982a7-5c0c-437c-9739-2b6748100db3",
+        "/InstanceVariable/98cdcb00-8c58-4325-96fd-35765d45cc10",
+        "/InstanceVariable/7a49606d-e184-45ed-b822-70c60003f81e",
+        "/InstanceVariable/70562208-717f-4c4a-8465-107ad2b1f8a2"
     ],
-    "measureComponents": [
-        "/MeasureComponent/eea34f7f-3afe-4b39-b21d-e5d01e74764b",
-        "/MeasureComponent/fa25b0d8-3394-4079-b8ef-70a65b87a5a5",
-        "/MeasureComponent/5ff0f73a-f70b-42c0-a3a9-26597378f3ee",
-        "/MeasureComponent/ca6aa274-c57d-40b9-9a4d-ea0926de7a1d",
-        "/MeasureComponent/a3f2d466-5a39-46ea-9bbe-68f10312ff9d",
-        "/MeasureComponent/edc0129b-aa82-41df-aff4-076cf689cf96",
-        "/MeasureComponent/bcf368c7-9bbb-4208-af1d-c3b5a5f52bb0"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "DOEDSFALL"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "01ec4b0f-0dff-4514-8fe0-4ff3de5fd5c8",
+    "id": "3fd76182-49a5-4e48-9e84-ea82b5b077de",
     "name": [
         {
             "languageCode": "nb",
@@ -13,23 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
-    "identifierComponents": [
-        "/IdentifierComponent/b866118f-f729-4c16-b609-8ffc05eea653"
+    "instanceVariables": [
+        "/InstanceVariable/96aa5bb3-856a-485f-a656-123181d78ae0",
+        "/InstanceVariable/c5684073-e29e-4538-a054-da5e70484dff",
+        "/InstanceVariable/9edd6e3e-818e-4075-b972-8688bcbf48ad",
+        "/InstanceVariable/3e8f19b4-be64-426c-9ba7-bcf1d8577934",
+        "/InstanceVariable/735e8bc2-4941-4194-bb3c-ad46cdff8831",
+        "/InstanceVariable/6bd957ba-c6fe-49db-8709-6c0cffab1f1b",
+        "/InstanceVariable/afab895e-d993-439e-a047-26c2c55b9990",
+        "/InstanceVariable/e12db21d-04d6-4a74-a365-584b1dae465b"
     ],
-    "measureComponents": [
-        "/MeasureComponent/42fe9075-45bc-449f-924a-906a32fac206",
-        "/MeasureComponent/bbfda88a-9d9e-4502-8a11-3cbc1c569864",
-        "/MeasureComponent/bd6a9c9a-fde9-4ec0-b1ff-a115b1a62f02",
-        "/MeasureComponent/c10dd548-671f-4486-8ebb-4e5604a0af12",
-        "/MeasureComponent/3cc2ee05-df31-41f1-be6b-744cab97fb4d",
-        "/MeasureComponent/1f2d0ecd-1969-4f27-b9cb-a1a5ecede0e3",
-        "/MeasureComponent/e7c1051f-f7db-4855-922e-e85ff36f12c7"
-    ],
-    "attributeComponents": [],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "KJOENN"
 }

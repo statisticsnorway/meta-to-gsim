@@ -1,5 +1,5 @@
 {
-    "id": "19294d38-4264-4ff7-a811-0c4eed6b76a2",
+    "id": "7cc447a0-b57f-468f-ac7a-0e3b1dcc22a5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-05-01T15:48:59.000Z",
+    "validFrom": "2019-05-01T15:48:59.000Z",
+    "createdDate": "2019-05-01T15:48:59.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/7fb3d8a7-61df-4012-87de-89949c833614"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_AARSAK"
 }

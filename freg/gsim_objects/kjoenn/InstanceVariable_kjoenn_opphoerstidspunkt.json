@@ -1,5 +1,5 @@
 {
-    "id": "dfa0f6b5-a17b-4b32-a2cd-e398e965eff7",
+    "id": "6bd957ba-c6fe-49db-8709-6c0cffab1f1b",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1f2d0ecd-1969-4f27-b9cb-a1a5ecede0e3"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_OPPHOERSTIDSPUNKT"
 }

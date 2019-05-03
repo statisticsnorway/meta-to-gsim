@@ -1,6 +1,6 @@
 {
-    "id": "8efef498-34fd-4900-9010-9430bb004c45",
+    "id": "d0b1c41f-b510-49cd-9057-338403047c3b",
     "sourceName": "kommunenummer",
     "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/matrikkelnummer/",
-    "targetInstanceVariable": "/InstanceVariable/bfe0accc-8d77-42fc-9ba1-9f8257f9b717"
+    "targetInstanceVariable": "/InstanceVariable/464a5876-ff59-4834-b079-879c4593bc3b"
 }

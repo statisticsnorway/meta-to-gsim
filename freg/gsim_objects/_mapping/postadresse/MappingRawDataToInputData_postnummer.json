@@ -1,6 +1,6 @@
 {
-    "id": "97652cc6-73f9-4fee-8022-8de4c7bcc070",
+    "id": "303f2b08-bc33-4699-bab7-c067b80f4214",
     "sourceName": "postnummer",
     "sourcePath": "/folkeregisterperson/postadresse/postadresseIFrittFormat/poststed/",
-    "targetInstanceVariable": "/InstanceVariable/81a924cd-07a8-4ec0-8412-90799d35210e"
+    "targetInstanceVariable": "/InstanceVariable/9f65774d-d9e0-4fd8-ac88-1e8ebbf27bec"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "d9eee680-eca2-4ade-a91e-c3aa7f261310",
+    "id": "821e2c5f-ef18-483b-b27d-3c7eea4e4392",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/0c03dad0-cb40-413f-be3f-7d0e2625822c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_GYLDIGHETSTIDSPUNKT"
 }

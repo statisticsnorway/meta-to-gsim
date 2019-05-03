@@ -1,5 +1,5 @@
 {
-    "id": "08330a1d-f993-4748-a7f3-7f9818d760e1",
+    "id": "94616752-97d7-4682-9612-5420c0bc01a6",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/6007607e-a7f7-4cb8-b510-642aa27ccf29"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_AARSAK"
 }

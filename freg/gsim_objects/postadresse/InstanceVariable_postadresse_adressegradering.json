@@ -1,5 +1,5 @@
 {
-    "id": "83da9213-645a-43be-96ac-bb264e8bdc7f",
+    "id": "db25a8f0-9265-4241-a907-23e3b076f5d6",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:25.000Z",
-    "validFrom": "2019-04-09T13:00:25.000Z",
-    "createdDate": "2019-04-09T13:00:25.000Z",
+    "versionValidFrom": "2019-05-01T15:49:03.000Z",
+    "validFrom": "2019-05-01T15:49:03.000Z",
+    "createdDate": "2019-05-01T15:49:03.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/de1622d1-875c-4876-a60a-8a522d32f6a3"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_ADRESSEGRADERING"
 }

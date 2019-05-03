@@ -1,5 +1,5 @@
 {
-    "id": "039497bb-783c-49fd-b1b5-66dd3e7c3904",
+    "id": "b59acdc5-b1e1-466f-b753-8a86acc19c00",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:29.000Z",
-    "validFrom": "2019-04-09T13:00:29.000Z",
-    "createdDate": "2019-04-09T13:00:29.000Z",
+    "versionValidFrom": "2019-05-01T15:49:06.000Z",
+    "validFrom": "2019-05-01T15:49:06.000Z",
+    "createdDate": "2019-05-01T15:49:06.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/800bb0f3-99f7-4d11-96fe-84e12b1127ff"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BRUKAVSAMISKSPRAAK_AJOURHOLDSTIDSPUNKT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "76324497-5adc-4f13-844d-15d1d5be2445",
+    "id": "626f15a2-eb8a-4e5c-b3df-a3323270fb9c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:28.000Z",
-    "validFrom": "2019-04-09T13:00:28.000Z",
-    "createdDate": "2019-04-09T13:00:28.000Z",
+    "versionValidFrom": "2019-05-01T15:49:05.000Z",
+    "validFrom": "2019-05-01T15:49:05.000Z",
+    "createdDate": "2019-05-01T15:49:05.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/51bd5f56-9215-459d-8236-ce4c9603068d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_FOEDSELSDATO"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "8bd65d97-f3da-4d03-ac0e-d5f526f8cbcf",
+    "id": "ce639ddc-fcf9-4e17-b84f-4f7f115fd5e0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:23.000Z",
-    "validFrom": "2019-04-09T13:00:23.000Z",
-    "createdDate": "2019-04-09T13:00:23.000Z",
+    "versionValidFrom": "2019-05-01T15:49:01.000Z",
+    "validFrom": "2019-05-01T15:49:01.000Z",
+    "createdDate": "2019-05-01T15:49:01.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/1c148f72-dca2-42e6-ad4e-35a94ac43861"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_MYNDIGHET"
 }

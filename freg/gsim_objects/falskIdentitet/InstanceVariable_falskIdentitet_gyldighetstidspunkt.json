@@ -1,5 +1,5 @@
 {
-    "id": "e50b4efa-b827-468c-8a4a-942554efc72c",
+    "id": "478381dd-71ad-45f4-8e84-1b44508c82c0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:21.000Z",
-    "validFrom": "2019-04-09T13:00:21.000Z",
-    "createdDate": "2019-04-09T13:00:21.000Z",
+    "versionValidFrom": "2019-05-01T15:48:59.000Z",
+    "validFrom": "2019-05-01T15:48:59.000Z",
+    "createdDate": "2019-05-01T15:48:59.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/916912c1-f5be-47aa-95c0-1b14efbaf15c"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_GYLDIGHETSTIDSPUNKT"
 }

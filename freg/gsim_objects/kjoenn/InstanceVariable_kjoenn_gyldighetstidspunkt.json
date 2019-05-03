@@ -1,5 +1,5 @@
 {
-    "id": "ec087d6b-4fe0-41db-87f1-51ff4f248d64",
+    "id": "735e8bc2-4941-4194-bb3c-ad46cdff8831",
     "name": [
         {
             "languageCode": "nb",
@@ -13,11 +13,12 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-04-09T13:00:27.000Z",
-    "validFrom": "2019-04-09T13:00:27.000Z",
-    "createdDate": "2019-04-09T13:00:27.000Z",
+    "versionValidFrom": "2019-05-01T15:49:04.000Z",
+    "validFrom": "2019-05-01T15:49:04.000Z",
+    "createdDate": "2019-05-01T15:49:04.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/DRAFT",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
-    "dataStructureComponent": "/MeasureComponent/3cc2ee05-df31-41f1-be6b-744cab97fb4d"
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_GYLDIGHETSTIDSPUNKT"
 }
