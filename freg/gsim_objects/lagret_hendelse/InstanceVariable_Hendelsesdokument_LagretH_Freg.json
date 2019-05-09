@@ -23,5 +23,8 @@
   }
  ],
  "id": "d1a67422-0dab-4ece-9d27-16fa61e71996",
- "shortName": "HENDELSESDOKUMENT"
+ "shortName": "HENDELSESDOKUMENT",
+  "dataStructureComponentRole": "ENTITY",
+ "identifierComponentIsUnique": false,
+ "identifierComponentIsComposite": false
 }

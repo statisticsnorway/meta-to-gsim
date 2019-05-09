@@ -23,5 +23,8 @@
  "sentinelValueDomain": "/EnumeratedValueDomain/c1a40b5c-f8d4-4ed8-b137-60afc71afa0c",
  "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
  "dataStructureComponentType": "MEASURE",
- "shortName": "PERSONDOKUMENT"
+ "shortName": "PERSONDOKUMENT",
+ "dataStructureComponentRole": "ENTITY",
+ "identifierComponentIsUnique": false,
+ "identifierComponentIsComposite": false
 }
