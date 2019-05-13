@@ -20,6 +20,11 @@
  "lastUpdatedBy": "Test",
  "validFrom": "2019-02-19T14:12:17.573Z",
  "representedVariable": "/RepresentedVariable/d83a6f7d-bb4b-4b79-bd6d-f59f408874f6",
+ "sentinelValueDomain": "/EnumeratedValueDomain/c1a40b5c-f8d4-4ed8-b137-60afc71afa0c",
  "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
- "dataStructureComponent": "/MeasureComponent/eccc0a06-9fee-4484-bd28-a9077ca7a6c4"
+ "dataStructureComponentType": "MEASURE",
+ "shortName": "PERSONDOKUMENT",
+ "dataStructureComponentRole": "ENTITY",
+ "identifierComponentIsUnique": false,
+ "identifierComponentIsComposite": false
 }

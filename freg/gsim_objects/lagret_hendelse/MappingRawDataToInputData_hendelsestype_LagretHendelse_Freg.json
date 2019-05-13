@@ -1,6 +1,6 @@
 {
    "id": "ca6dcd65-19e5-42b7-acb7-3b36f3489744",
    "sourceName": "ns2:hendelsetype",
-   "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse",
+   "sourcePath": "/entry/content/ns2:lagretHendelse/ns2:hendelse",
    "targetInstanceVariable": "/InstanceVariable/33746f8d-fa98-42a1-a86d-9f33c4a965ac"
 }

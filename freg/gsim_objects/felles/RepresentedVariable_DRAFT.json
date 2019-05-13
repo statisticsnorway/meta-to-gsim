@@ -1,0 +1,25 @@
+{
+ "lastUpdatedBy": "Test",
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "DRAFT"
+  }
+ ],
+ "validFrom": "2019-02-19T10:25:44.663Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-19T10:27:02.911Z",
+ "lastUpdatedDate": "2019-02-19T10:27:02.911Z",
+ "createdDate": "2019-02-19T10:25:44.663Z",
+ "createdBy": "Test",
+ "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d",
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "DRAFT"
+  }
+ ],
+ "substantiveValueDomain": "/DescribedValueDomain/ae8edf6a-be4d-4c1c-930f-e6c9473cff95",
+ "variable": "/Variable/DRAFT2",
+ "id": "DRAFT"
+}

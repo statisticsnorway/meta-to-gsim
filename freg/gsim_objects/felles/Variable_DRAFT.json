@@ -1,0 +1,26 @@
+{
+ "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+ "lastUpdatedBy": "Test",
+ "lastUpdatedDate": "2019-02-18T14:07:50.773Z",
+ "createdDate": "2019-02-18T14:07:37.573Z",
+ "createdBy": "Test",
+ "subjectFields": [
+  "/SubjectField/c77bddf1-006d-40bb-9d77-6b68677ecf26"
+ ],
+ "name": [
+  {
+   "languageCode": "nb",
+   "languageText": "DRAFT2"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "nb",
+   "languageText": "DRAFT2"
+  }
+ ],
+ "id": "DRAFT2",
+ "validFrom": "2019-02-18T14:07:37.573Z",
+ "version": "1.0.1",
+ "versionValidFrom": "2019-02-18T14:07:50.773Z"
+}

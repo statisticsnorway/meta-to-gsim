@@ -21,5 +21,6 @@
  "lastUpdatedBy": "Test",
  "validFrom": "2019-02-19T13:44:25.522Z",
  "variable": "/Variable/b72ec057-76ab-4a66-b3f8-f1a05e1b3881",
- "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d"
+ "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d",
+ "substantiveValueDomain": "/DescribedValueDomain/42c799a6-952f-4504-abe2-92f2bd478XXX"
 }

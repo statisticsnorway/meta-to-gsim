@@ -1,6 +1,6 @@
 {
    "id": "6009f28b-ab51-4d79-861e-0a023a0038b2",
  "sourceName": "ns2:persondokument",
- "sourcePath": "/feed/entry/content/ns2:lagretHendelse/ns2:hendelse",
+ "sourcePath": "/entry/content/ns2:lagretHendelse/ns2:hendelse",
    "targetInstanceVariable": "/InstanceVariable/ae857520-8002-4da0-b650-1ca8b1d541ef"
 }
