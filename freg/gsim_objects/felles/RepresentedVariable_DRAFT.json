@@ -3,7 +3,7 @@
  "description": [
   {
    "languageCode": "nb",
-   "languageText": "DRAFT"
+   "languageText": "RepresentertVariable_DUMMY"
   }
  ],
  "validFrom": "2019-02-19T10:25:44.663Z",
@@ -16,10 +16,10 @@
  "name": [
   {
    "languageCode": "nb",
-   "languageText": "DRAFT"
+   "languageText": "RepresentertVariable_DUMMY"
   }
  ],
  "substantiveValueDomain": "/DescribedValueDomain/ae8edf6a-be4d-4c1c-930f-e6c9473cff95",
  "variable": "/Variable/DRAFT2",
- "id": "DRAFT"
+ "id": "RepresentertVariable_DUMMY"
 }
