@@ -1,0 +1,25 @@
+{
+    "id": "cde4a500-7aba-46ed-920a-fabffadef76f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsoppholdUtenforHjemmet foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsopphold utenfor hjemmet, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-23T16:39:19.000Z",
+    "validFrom": "2019-05-23T16:39:19.000Z",
+    "createdDate": "2019-05-23T16:39:19.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

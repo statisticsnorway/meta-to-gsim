@@ -1,0 +1,24 @@
+{
+    "id": "0d14bf06-e7e8-4513-9838-238ea8152b22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsoppholdUtenforHjemmet godtgjoerelseForKostVedArbeidsforholdUtenforHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsopphold utenfor hjemmet, godtgjoerelse for kost ved arbeidsforhold utenfor hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-23T16:39:18.000Z",
+    "validFrom": "2019-05-23T16:39:18.000Z",
+    "createdDate": "2019-05-23T16:39:18.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_GODTGJOERELSEFORKOSTVEDARBEIDSFORHOLDUTENFORHJEMMET"
+}
