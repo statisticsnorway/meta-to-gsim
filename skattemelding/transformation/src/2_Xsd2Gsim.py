@@ -24,6 +24,8 @@ import uuid
 import datetime
 from pathlib import Path
 import re
+import os
+
 
 # TODO: import "cleanXsdFile.py" og kjør dette som første steg her !!!!
 
@@ -33,6 +35,12 @@ numOfInstanceVariables = 0
 sisteSkatteetatenHovedElement = ""
 gruppePrefix = ""
 sisteObject = ""
+
+# Input metadata, dvs. leser XSD-filen fra Skatteetaten ("cleaned XSD file")
+# tree = ET.parse('C://BNJ//prosjektutvikling//FREG//xsdFiles//Del_1_PersondokumentMedHistorikk.xsd')
+tree = ET.parse(config.xsdSourcePath + config.xsdCleanedFile)
+root = tree.getroot()
+
 
 # "Hjelpe-metode" som kun brukes til manuell debugging!
 #  Skriver ut hele/deler av ElementTree som xml (tekst).
@@ -77,12 +85,6 @@ def nsStrip(item):
 # Henter xsd ns (namespace)
 def getNs():
     return '{http://www.w3.org/2001/XMLSchema}'
-
-
-# Input metadata, dvs. leser XSD-filen fra Skatteetaten ("cleaned XSD file")
-# tree = ET.parse('C://BNJ//prosjektutvikling//FREG//xsdFiles//Del_1_PersondokumentMedHistorikk.xsd')
-tree = ET.parse(config.xsdSourcePath + config.xsdCleanedFile)
-root = tree.getroot()
 
 
 # Sjekker om dette objektet er definert som en kodeliste i xsd-filen.
@@ -376,11 +378,14 @@ def writeJsonFile(gsimObject, jsonSubPath, fileName):
     jsonPath = Path(targetPath + jsonSubPath)
     if not jsonPath.exists():
         jsonPath.mkdir()
-    with open(targetPath + jsonSubPath + '//' + fileName + '.json', 'w') as fp:
+    # Fikk problemer med relative path og lange filnavn hvis dette utgjør ca. 180 tegn eller mer.
+    # Det samme skjer hvis lengden av absolute path blir mer enn 256 tegn.
+    # Ser ut til at kombinasjonen av r'\\?\\' (raw string) og absolute path løser problemet.
+    fullPath = r'\\?\\' + os.path.abspath(targetPath + jsonSubPath + '//' + fileName + '.json')
+    with open(fullPath, 'w') as fp:
         json.dump(gsimObject, fp, indent=4)
 
-
-def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement=None):
+def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement):
     global gsimInstanceVariables
     global numOfInstanceVariables
     global sisteSkatteetatenHovedElement
@@ -393,11 +398,8 @@ def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement=None):
     gruppePrefix = ""
     sisteObject = ""
 
-    # printList(findElementsInObject("Folkeregisterperson"))
-    i = 0
     skatteetatenElement = findXsdObjectByName(skatteetatenHovedElement)
-    i += 1
-    print("\n#### LogicalRecord: " + skatteetatenHovedElement, end='')
+    print("\n#### DataSet/DataStructure: " + skatteetatenHovedElement, end='')
     iterateXsd(skatteetatenElement.attrib.get("type"))
     gsimSource = {}
     gsimSource["dataSetName"] = skatteetatenElement.attrib.get("name")
@@ -416,17 +418,66 @@ def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement=None):
     gsimCreateLogicalRecord(gsimSource)
     gsimCreateInstanceVariables(gsimSource)
     mappingRawDataToInputData(gsimSource)
-    print("\nAntall UnitDataSet/LogicalRecords:", i)
     print("Antall InstanceVariables:", numOfInstanceVariables)
 
 
+# TODO: Hente begreps-url mv. fra Skatt XSD også¨?
+
+# TODO:
+def generateGsimJsonForAllSkatteetatenHovedElementer():
+    allSkatteetanenElements = findElementsInObject(config.xsdStartingPointElement)
+    i = 0
+    y = 0
+    for elem in allSkatteetanenElements:
+        if isSimpleElementType(elem.attrib.get("type")):
+            # Dette er kun en enkel type, f.eks. "årstall", "personidentifikator" el.l. og kan ikke behandles som et DataSet/DataStructure/LogicalRecord
+            print('\nOBS! XSD SimpleType element "' + elem.attrib.get("name") + " - " + elem.attrib.get("type") + '" ble oversett fordi det ikke kan behandles som et GSIM DataSet/DataStructure/LogicalRecord!\n' )
+            y +=1
+        else:
+            generateGsimJsonForSkatteetatenHovedElement(elem.get("name"))
+            i += 1
+    print("################ Oppsummering av genereringen #################")
+    print("Antall UnitDataSet/DataStrucures generert totalt:", i)
+    if y > 0:
+        print("\nOBS! " + str(y) + " elementer kunne ikke behandles (se logg ovenfor)!\n")
+    print("###############################################################")
 
 # RUN SCRIPT (MAIN):
 # Genererer GSIM-metadata (json-objekter) for alle meldingstyper i FREG XSD
 # TODO:
-#   Det må avklares om SSB skal lage inndata av alle de 30+ FREG-meldingstypene?
+#   Det må avklares om SSB skal lage inndata av alle de 30+ FREG-meldingstypene og tisvarende for skatte-objektene?
 #   Trolig har ikke SSB tilgang til å lese alle meldingstypene, men dette må avklares med Skatteetaten og S320?
 #
 #   Her forutsetter vi også at det genereres ett GSIM UnitDataSet/LogicalRecord per FREG meldingstype i inndata-tilstand,
 #   men vi må vurdere om dette er fornuftig i en produksjonsløsning?
-generateGsimJsonForSkatteetatenHovedElement("arbeidsoppholdUtenforHjemmet")
+
+generateGsimJsonForAllSkatteetatenHovedElementer()
+
+# Kan også kjøre ett og ett skatteobjekt.
+# generateGsimJsonForSkatteetatenHovedElement("arbeidsoppholdUtenforHjemmet")
+# generateGsimJsonForSkatteetatenHovedElement("arbeidsreise")
+# generateGsimJsonForSkatteetatenHovedElement("barnSomGirRettTilForeldrefradrag")
+# generateGsimJsonForSkatteetatenHovedElement("besoeksreiseTilHjemmet")
+# generateGsimJsonForSkatteetatenHovedElement("eiendomSomUtleieobjekt")
+# generateGsimJsonForSkatteetatenHovedElement("eiendom")
+# generateGsimJsonForSkatteetatenHovedElement("fagforeningskontingent")
+# generateGsimJsonForSkatteetatenHovedElement("fritidsbaatMedSalgsverdiOverSalgsverdigrense")
+# generateGsimJsonForSkatteetatenHovedElement("gaveTilFrivilligOrganisasjon")
+# generateGsimJsonForSkatteetatenHovedElement("individuellPensjonsordning")
+# generateGsimJsonForSkatteetatenHovedElement("kjoeretoey")
+# generateGsimJsonForSkatteetatenHovedElement("kollektivPensjonsordning")
+# generateGsimJsonForSkatteetatenHovedElement("kontantbeloep")
+# generateGsimJsonForSkatteetatenHovedElement("konto")
+# generateGsimJsonForSkatteetatenHovedElement("livsforsikring")
+# generateGsimJsonForSkatteetatenHovedElement("loennOgTilsvarendeYtelser")
+# generateGsimJsonForSkatteetatenHovedElement("oppholdskostnaderVedPassOgStellAvBarn")
+# generateGsimJsonForSkatteetatenHovedElement("pensjonspremierIArbeidsforhold")
+# generateGsimJsonForSkatteetatenHovedElement("privatFordringUtenforVirksomhet")
+# generateGsimJsonForSkatteetatenHovedElement("privatGjeldsforholdUtenforVirksomhet")
+# generateGsimJsonForSkatteetatenHovedElement("skattefriArvGaveOgGevinst")
+# generateGsimJsonForSkatteetatenHovedElement("skattefriStoenadTilBarnetilsyn")
+# generateGsimJsonForSkatteetatenHovedElement("skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler")
+# generateGsimJsonForSkatteetatenHovedElement("skyldigRestskatt")
+# generateGsimJsonForSkatteetatenHovedElement("verdiForAnnetPrivatInnboOgLoesoere")
+# generateGsimJsonForSkatteetatenHovedElement("oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap")
+# generateGsimJsonForSkatteetatenHovedElement("personidentifikator")
