@@ -1,0 +1,28 @@
+{
+  "id": "35d739d6-9ae6-4465-b9d2-c1bdaa31faf8",
+  "name": [
+    {
+      "languageCode": "nb",
+      "languageText": "Ressurs Freg"
+    }
+  ],
+  "description": [
+    {
+      "languageCode": "nb",
+      "languageText": "Samling av "
+    }
+  ],
+  "createdDate": "2019-05-13T07:35:13.980Z",
+  "createdBy": "Test user",
+  "version": "1.0.1",
+  "versionValidFrom": "2019-05-13T07:36:23.420Z",
+  "lastUpdatedDate": "2019-05-13T07:36:23.420Z",
+  "lastUpdatedBy": "Test user",
+  "validFrom": "2019-05-13T07:35:13.980Z",
+  "validUntil": "2020-05-13T07:36:23.420Z",
+  "dataResourceType": "STATISTICAL_REGISTER_PERSONS",
+  "dataSets": [
+    "/UnitDataSet/f2195d62-a04a-4fce-8ab0-42f426c6c7db",
+    "/UnitDataSet/a400011e-31e1-4bfe-afc6-97fe36eed8b1"
+  ]
+}
