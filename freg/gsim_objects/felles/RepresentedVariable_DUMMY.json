@@ -21,5 +21,6 @@
  ],
  "substantiveValueDomain": "/DescribedValueDomain/DescribedValueDomain_DUMMY",
  "variable": "/Variable/Variable_DUMMY",
- "id": "RepresentertVariable_DUMMY"
+ "id": "RepresentertVariable_DUMMY",
+ "administrativeStatus": "INTERNAL"
 }
