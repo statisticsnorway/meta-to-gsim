@@ -19,5 +19,6 @@
  "id": "Variable_DUMMY",
  "validFrom": "2019-02-18T14:07:37.573Z",
  "version": "1.0.1",
- "versionValidFrom": "2019-02-18T14:07:50.773Z"
+ "versionValidFrom": "2019-02-18T14:07:50.773Z",
+ "administrativeStatus": "INTERNAL"
 }
