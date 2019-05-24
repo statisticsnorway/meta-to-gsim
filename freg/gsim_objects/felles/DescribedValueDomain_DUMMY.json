@@ -1,0 +1,23 @@
+{
+    "id": "DescribedValueDomain_DUMMY",
+    "name": [
+      {
+        "languageCode": "en",
+        "languageText": "DescribedValueDomain_DUMMY"
+      }
+
+    ],
+    "description": [
+      {
+        "languageCode": "en",
+        "languageText": "DescribedValueDomain_DUMMY"
+      }
+    ],
+    "administrativeStatus": "INTERNAL",
+    "version": "1.0.0",
+    "versionValidFrom": "1985-01-01T15:00:00.000Z",
+    "validFrom": "1985-01-01T15:00:00.000Z",
+    "createdDate": "1985-01-01T15:00:00.000Z",
+    "createdBy": "OBV",
+    "dataType":"STRING"
+}
