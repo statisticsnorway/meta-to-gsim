@@ -1,0 +1,6 @@
+{
+    "id": "a3339351-7855-4276-b13a-a1a57180ee71",
+    "sourceName": "utbetalingFraIndividuellPensjonsordningPerSkattleggingsperiode",
+    "sourcePath": "/SkattemeldingUtflatet/individuellPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/dba906fb-dddb-42db-9d08-abd76d0de2c9"
+}

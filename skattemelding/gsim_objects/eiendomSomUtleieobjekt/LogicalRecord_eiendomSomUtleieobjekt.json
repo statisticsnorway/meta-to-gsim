@@ -1,0 +1,48 @@
+{
+    "id": "83e52551-d57c-4668-b96d-951c18669f0a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) eiendom som utleieobjekt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/419636c8-3855-477c-bb2e-b697f76918f4",
+        "/InstanceVariable/ad883054-b8f9-4990-a1b5-6cc147227f3d",
+        "/InstanceVariable/ecb98b9e-dd90-4a1e-b6a9-3d9c75fd4183",
+        "/InstanceVariable/de00d58e-5bcf-4b44-b75e-128c83aea2eb",
+        "/InstanceVariable/dd26f063-4ffb-4e08-8732-a5f65f962f0c",
+        "/InstanceVariable/262b4e20-075b-497c-84e5-5727b34a5faa",
+        "/InstanceVariable/31384e18-8821-479a-91f6-876f7b00023e",
+        "/InstanceVariable/f551b384-2537-4640-9311-faba686a418b",
+        "/InstanceVariable/337ff500-af7e-4a84-b478-83d5bd9ed2f0",
+        "/InstanceVariable/b1517a1d-b2e1-4cab-8d32-ff07eefafec9",
+        "/InstanceVariable/fcc87874-6beb-4427-a5dc-67b1c9cf1bee",
+        "/InstanceVariable/c49836f2-7cac-4722-bde9-7892c2690717",
+        "/InstanceVariable/a7c5e3bb-4980-423f-bc8f-ddc9521f7a56",
+        "/InstanceVariable/7065e1f1-2a0b-4d99-bdeb-c71fde2b28e4",
+        "/InstanceVariable/de353997-1505-4c99-b083-4ffb254e7bd7",
+        "/InstanceVariable/14b15a31-d781-43ea-9e13-7b92573741cd",
+        "/InstanceVariable/f06479b8-b318-4b77-8163-94ed16db9669",
+        "/InstanceVariable/3171671a-b032-4836-87e0-a9abc8c587eb",
+        "/InstanceVariable/644da10b-ff5d-4744-bccd-c37dd5ade62b",
+        "/InstanceVariable/912986fd-3b9b-45f0-b393-3e8adccd8a62",
+        "/InstanceVariable/a6a70572-053e-4098-a046-728c7ebea1eb",
+        "/InstanceVariable/e59545b4-2125-4271-b082-2719313c2143",
+        "/InstanceVariable/8697bfc8-58fa-4e93-9aba-8b2cb6a2ba0c",
+        "/InstanceVariable/a7428d80-996c-4be4-97f7-c6e80d99bb2e"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT"
+}

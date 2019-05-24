@@ -1,0 +1,6 @@
+{
+    "id": "b07cfb4c-ffd9-41a5-b475-0c4ca3ae96b3",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/SkattemeldingUtflatet/konto/",
+    "targetInstanceVariable": "/InstanceVariable/78048cd5-70de-41dc-9172-219ba883315c"
+}

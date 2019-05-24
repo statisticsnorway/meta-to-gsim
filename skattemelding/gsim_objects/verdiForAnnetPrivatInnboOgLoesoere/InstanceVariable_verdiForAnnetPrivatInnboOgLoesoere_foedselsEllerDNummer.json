@@ -1,0 +1,25 @@
+{
+    "id": "24deba97-2241-415e-b93c-c9df96587ee4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "verdiForAnnetPrivatInnboOgLoesoere foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - verdi for annet privat innbo og loesoere, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:42.000Z",
+    "validFrom": "2019-05-24T16:03:42.000Z",
+    "createdDate": "2019-05-24T16:03:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

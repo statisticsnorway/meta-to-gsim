@@ -1,0 +1,25 @@
+{
+    "id": "a31be6c7-5526-4ba4-9092-628d3c4c7f05",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - besoeksreise til hjemmet, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BESOEKSREISETILHJEMMET_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

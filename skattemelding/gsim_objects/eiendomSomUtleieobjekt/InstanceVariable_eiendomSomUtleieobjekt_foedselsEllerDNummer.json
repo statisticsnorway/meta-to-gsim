@@ -1,0 +1,25 @@
+{
+    "id": "a7428d80-996c-4be4-97f7-c6e80d99bb2e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom som utleieobjekt, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:33.000Z",
+    "validFrom": "2019-05-24T16:03:33.000Z",
+    "createdDate": "2019-05-24T16:03:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

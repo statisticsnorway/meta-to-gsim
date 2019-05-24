@@ -1,0 +1,24 @@
+{
+    "id": "154edd12-a4d5-4e77-83ab-2904c525a0dc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring organisasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - livsforsikring, organisasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LIVSFORSIKRING_ORGANISASJONSNUMMER"
+}

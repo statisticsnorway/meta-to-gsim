@@ -1,0 +1,24 @@
+{
+    "id": "2c0b11cc-91b3-4d0c-aae3-81dacf068c9d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriStoenadTilBarnetilsyn beloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - skattefri stoenad til barnetilsyn, beloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKATTEFRISTOENADTILBARNETILSYN_BELOEP"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ce7aeed2-2af5-4d77-86c3-c5328949a4f5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "loennOgTilsvarendeYtelser foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - loenn og tilsvarende ytelser, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "LOENNOGTILSVARENDEYTELSER_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

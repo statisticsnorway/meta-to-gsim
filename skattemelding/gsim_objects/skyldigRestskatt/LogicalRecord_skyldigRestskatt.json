@@ -1,0 +1,27 @@
+{
+    "id": "5350447b-c519-4b10-ac53-72bc473f8ad2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skyldigRestskatt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) skyldig restskatt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:42.000Z",
+    "validFrom": "2019-05-24T16:03:42.000Z",
+    "createdDate": "2019-05-24T16:03:42.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/0f8ecba1-3a50-4beb-8014-01afec9f66b7",
+        "/InstanceVariable/4d0146b7-1807-45cf-93c8-5af7027a58c0",
+        "/InstanceVariable/d4a0a96d-a41e-4c43-beab-b34fe4e1b9f2"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "SKYLDIGRESTSKATT"
+}

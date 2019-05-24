@@ -1,0 +1,24 @@
+{
+    "id": "d3f75e45-0085-4a8a-85f7-c532cc71b053",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey fabrikatnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - kjoeretoey, fabrikatnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOERETOEY_FABRIKATNAVN"
+}

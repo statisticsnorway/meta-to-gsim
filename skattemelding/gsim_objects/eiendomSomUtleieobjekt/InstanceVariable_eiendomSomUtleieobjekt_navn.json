@@ -1,0 +1,24 @@
+{
+    "id": "262b4e20-075b-497c-84e5-5727b34a5faa",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom som utleieobjekt, navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:33.000Z",
+    "validFrom": "2019-05-24T16:03:33.000Z",
+    "createdDate": "2019-05-24T16:03:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_NAVN"
+}

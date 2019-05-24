@@ -1,0 +1,23 @@
+{
+    "id": "2f8144f7-67a2-4e81-bd9d-d568b578bcb9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skyldigRestskatt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur skyldig restskatt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:42.000Z",
+    "validFrom": "2019-05-24T16:03:42.000Z",
+    "createdDate": "2019-05-24T16:03:42.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/5350447b-c519-4b10-ac53-72bc473f8ad2"
+    ]
+}

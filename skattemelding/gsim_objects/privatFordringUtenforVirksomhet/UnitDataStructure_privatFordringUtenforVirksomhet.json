@@ -1,0 +1,23 @@
+{
+    "id": "c28ac2d3-5e89-4ef9-999d-9242a59a3f3e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatFordringUtenforVirksomhet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur privat fordring utenfor virksomhet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:40.000Z",
+    "validFrom": "2019-05-24T16:03:40.000Z",
+    "createdDate": "2019-05-24T16:03:40.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/db2bd5ea-3979-4f35-82fc-1dff82d9977f"
+    ]
+}

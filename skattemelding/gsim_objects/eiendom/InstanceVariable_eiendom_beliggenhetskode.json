@@ -1,0 +1,24 @@
+{
+    "id": "9020b25d-3799-4aad-8260-077cd1431d31",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom beliggenhetskode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom, beliggenhetskode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:34.000Z",
+    "validFrom": "2019-05-24T16:03:34.000Z",
+    "createdDate": "2019-05-24T16:03:34.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOM_BELIGGENHETSKODE"
+}

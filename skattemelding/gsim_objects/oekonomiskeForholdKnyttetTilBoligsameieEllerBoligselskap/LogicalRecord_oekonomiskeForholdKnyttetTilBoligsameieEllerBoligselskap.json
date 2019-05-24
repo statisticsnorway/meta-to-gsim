@@ -1,0 +1,38 @@
+{
+    "id": "9667cedc-b83e-4521-924e-fb8f9ffa7e8f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) oekonomiske forhold knyttet til boligsameie eller boligselskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:43.000Z",
+    "validFrom": "2019-05-24T16:03:43.000Z",
+    "createdDate": "2019-05-24T16:03:43.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/fc3113ef-f4fb-42ba-ae8e-86757dae013d",
+        "/InstanceVariable/81eba1bd-00e2-49dc-b74a-cba6bf50eb2b",
+        "/InstanceVariable/c8821260-494d-4d3e-9e44-4754dcb744c7",
+        "/InstanceVariable/33c592cd-9917-4888-bd3c-05d2112ee732",
+        "/InstanceVariable/2b7384a5-8119-4a8f-8761-e37e4a777082",
+        "/InstanceVariable/bb9570db-6df1-4826-a80b-eb8a20b39942",
+        "/InstanceVariable/c0e11ceb-d4f9-4bf6-ae6e-992eb7a82b32",
+        "/InstanceVariable/b6152316-7483-403b-9598-0cb8ea5baebc",
+        "/InstanceVariable/a8a9e6f0-681e-4c90-9e28-a22ae7a939eb",
+        "/InstanceVariable/5dcd99aa-8bd8-4ae5-bfbe-731767217f7b",
+        "/InstanceVariable/2ef93f2c-7626-4408-8e76-6f8677f6b68a",
+        "/InstanceVariable/29f7b5d6-fe96-43be-b4ca-866e84d92588",
+        "/InstanceVariable/272bb6a2-724b-4b2e-a459-eb8c8c4f958a",
+        "/InstanceVariable/d61aa1c3-8784-4f4f-8f3c-2fc7307e97ff"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP"
+}

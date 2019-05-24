@@ -1,0 +1,24 @@
+{
+    "id": "f06479b8-b318-4b77-8163-94ed16db9669",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt andelsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom som utleieobjekt, andelsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:33.000Z",
+    "validFrom": "2019-05-24T16:03:33.000Z",
+    "createdDate": "2019-05-24T16:03:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_ANDELSNUMMER"
+}

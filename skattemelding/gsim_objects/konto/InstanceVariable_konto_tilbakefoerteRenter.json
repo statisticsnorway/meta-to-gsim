@@ -1,0 +1,24 @@
+{
+    "id": "24ba08ff-7991-4b65-8a4c-7352c7205a16",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto tilbakefoerteRenter"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - konto, tilbakefoerte renter"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:38.000Z",
+    "validFrom": "2019-05-24T16:03:38.000Z",
+    "createdDate": "2019-05-24T16:03:38.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTO_TILBAKEFOERTERENTER"
+}

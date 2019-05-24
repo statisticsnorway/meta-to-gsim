@@ -1,0 +1,24 @@
+{
+    "id": "9af6dd21-f2df-4915-bba0-a05a17d6d407",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning innbetalingTilIndividuellPensjonsordningPerSkattleggingsperiode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - individuell pensjonsordning, innbetaling til individuell pensjonsordning per skattleggingsperiode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_INNBETALINGTILINDIVIDUELLPENSJONSORDNINGPERSKATTLEGGINGSPERIODE"
+}

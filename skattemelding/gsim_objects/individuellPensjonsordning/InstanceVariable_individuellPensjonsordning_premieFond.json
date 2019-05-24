@@ -1,0 +1,24 @@
+{
+    "id": "f715176e-40a4-42cb-9071-f45cc608b754",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning premieFond"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - individuell pensjonsordning, premie fond"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_PREMIEFOND"
+}

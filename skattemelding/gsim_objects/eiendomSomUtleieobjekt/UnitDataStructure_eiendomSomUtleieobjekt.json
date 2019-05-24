@@ -1,0 +1,23 @@
+{
+    "id": "f7c7ab3a-15ed-489e-b12a-913b8cc9b0d1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur eiendom som utleieobjekt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/83e52551-d57c-4668-b96d-951c18669f0a"
+    ]
+}

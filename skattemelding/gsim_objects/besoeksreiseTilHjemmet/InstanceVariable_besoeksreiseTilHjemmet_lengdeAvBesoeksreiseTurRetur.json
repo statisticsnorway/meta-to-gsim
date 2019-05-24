@@ -1,0 +1,24 @@
+{
+    "id": "590a70f1-3699-4572-a062-a5f20a3b287f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet lengdeAvBesoeksreiseTurRetur"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - besoeksreise til hjemmet, lengde av besoeksreise tur retur"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BESOEKSREISETILHJEMMET_LENGDEAVBESOEKSREISETURRETUR"
+}

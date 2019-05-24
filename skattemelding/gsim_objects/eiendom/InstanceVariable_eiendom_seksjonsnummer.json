@@ -1,0 +1,24 @@
+{
+    "id": "d43688a1-48c7-4dca-bb35-7d3e50c6d778",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom seksjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom, seksjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:34.000Z",
+    "validFrom": "2019-05-24T16:03:34.000Z",
+    "createdDate": "2019-05-24T16:03:34.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOM_SEKSJONSNUMMER"
+}

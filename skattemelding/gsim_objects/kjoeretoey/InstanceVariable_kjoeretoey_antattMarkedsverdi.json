@@ -1,0 +1,24 @@
+{
+    "id": "375a817e-d398-4a61-8bf1-d68600725ef8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey antattMarkedsverdi"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - kjoeretoey, antatt markedsverdi"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOERETOEY_ANTATTMARKEDSVERDI"
+}

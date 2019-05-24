@@ -1,0 +1,24 @@
+{
+    "id": "0af4cecf-65c0-4c00-8a98-d2a9ee30b7b9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring fradragsberettigetTapPaaLivsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - livsforsikring, fradragsberettiget tap paa livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LIVSFORSIKRING_FRADRAGSBERETTIGETTAPPAALIVSFORSIKRING"
+}

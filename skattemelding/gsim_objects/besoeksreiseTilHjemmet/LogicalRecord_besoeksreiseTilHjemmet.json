@@ -1,0 +1,29 @@
+{
+    "id": "d239de2e-7792-4346-b735-aa8b343282f8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) besoeksreise til hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/d64efa1e-8d98-47b1-a34e-1e0e981085cc",
+        "/InstanceVariable/909d5fa7-0444-41c8-8b25-f92ca351eb17",
+        "/InstanceVariable/590a70f1-3699-4572-a062-a5f20a3b287f",
+        "/InstanceVariable/88dbd9f2-f9b8-4811-a81d-6f6885c74811",
+        "/InstanceVariable/a31be6c7-5526-4ba4-9092-628d3c4c7f05"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BESOEKSREISETILHJEMMET"
+}

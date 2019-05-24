@@ -1,0 +1,6 @@
+{
+    "id": "80c9e4bc-68ce-4271-b435-6155f8486610",
+    "sourceName": "pensjonsutbetalersNavn",
+    "sourcePath": "/SkattemeldingUtflatet/kollektivPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/e8447dde-6982-47fb-9383-cc4c2c11f677"
+}

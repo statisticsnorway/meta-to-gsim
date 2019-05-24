@@ -1,0 +1,24 @@
+{
+    "id": "2ff3fc7d-3f83-4d7a-966d-4388908f91bc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriArvGaveOgGevinst skattefriGevinstFraSpillEllerTiltakArrangertAvMassemedia"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - skattefri arv gave og gevinst, skattefri gevinst fra spill eller tiltak arrangert av massemedia"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKATTEFRIARVGAVEOGGEVINST_SKATTEFRIGEVINSTFRASPILLELLERTILTAKARRANGERTAVMASSEMEDIA"
+}

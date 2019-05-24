@@ -1,0 +1,23 @@
+{
+    "id": "f21b8713-ac18-4932-b534-987eb8dfc969",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett eiendom"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:34.000Z",
+    "validFrom": "2019-05-24T16:03:34.000Z",
+    "createdDate": "2019-05-24T16:03:34.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/5bb34b9d-53c1-403e-864a-a4efea9c29c1",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

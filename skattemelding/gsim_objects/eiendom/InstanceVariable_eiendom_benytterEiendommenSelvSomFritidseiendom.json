@@ -1,0 +1,24 @@
+{
+    "id": "9da8fc6d-d1af-4848-a6d4-c0d1ff881683",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom benytterEiendommenSelvSomFritidseiendom"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - eiendom, benytter eiendommen selv som fritidseiendom"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:34.000Z",
+    "validFrom": "2019-05-24T16:03:34.000Z",
+    "createdDate": "2019-05-24T16:03:34.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOM_BENYTTEREIENDOMMENSELVSOMFRITIDSEIENDOM"
+}

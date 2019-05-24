@@ -1,0 +1,24 @@
+{
+    "id": "5be37152-9a8c-49d8-9c60-0e5483fd1b72",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "fritidsbaatMedSalgsverdiOverSalgsverdigrense baatmerke"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - fritidsbaat med salgsverdi over salgsverdigrense, baatmerke"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FRITIDSBAATMEDSALGSVERDIOVERSALGSVERDIGRENSE_BAATMERKE"
+}

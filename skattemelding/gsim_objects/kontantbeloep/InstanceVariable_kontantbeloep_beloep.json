@@ -1,0 +1,24 @@
+{
+    "id": "75d062b4-1c7e-476a-a868-b36b624c5404",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontantbeloep beloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - kontantbeloep, beloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:38.000Z",
+    "validFrom": "2019-05-24T16:03:38.000Z",
+    "createdDate": "2019-05-24T16:03:38.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTANTBELOEP_BELOEP"
+}

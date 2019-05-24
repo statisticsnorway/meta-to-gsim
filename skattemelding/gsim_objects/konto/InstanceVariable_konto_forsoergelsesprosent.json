@@ -1,0 +1,24 @@
+{
+    "id": "9b645847-0e17-4811-9515-fee740991a8c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto forsoergelsesprosent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - konto, forsoergelsesprosent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:38.000Z",
+    "validFrom": "2019-05-24T16:03:38.000Z",
+    "createdDate": "2019-05-24T16:03:38.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTO_FORSOERGELSESPROSENT"
+}

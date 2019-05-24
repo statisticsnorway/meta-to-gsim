@@ -1,0 +1,23 @@
+{
+    "id": "68ef69ef-ea59-4396-9710-8a4a94d63016",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "gaveTilFrivilligOrganisasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett gave til frivillig organisasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/bd1d1c9b-d17f-4b9b-b4e3-d453d59b82de",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

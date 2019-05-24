@@ -1,0 +1,23 @@
+{
+    "id": "aac00581-5a36-46c3-b965-3d7ff952fc5b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriStoenadTilBarnetilsyn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett skattefri stoenad til barnetilsyn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/d1b0acd3-1efd-482a-a951-510337008321",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "9e046142-580e-4d37-afb5-edb2acb36723",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - livsforsikring, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "LIVSFORSIKRING_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

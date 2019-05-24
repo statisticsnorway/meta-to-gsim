@@ -1,0 +1,28 @@
+{
+    "id": "9a1cdbc6-4c63-4cbf-82da-e2c141afd3da",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) arbeidsreise"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/403d9f21-6c5f-4632-9650-6ffe6aec4ddd",
+        "/InstanceVariable/1ae6a67e-6cbb-43f1-9e1a-fbe82d7f6cf9",
+        "/InstanceVariable/0563ab4c-306d-473e-a11a-54dbc169c054",
+        "/InstanceVariable/deb2fed2-8413-49bd-81b3-347993e0cb69"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ARBEIDSREISE"
+}

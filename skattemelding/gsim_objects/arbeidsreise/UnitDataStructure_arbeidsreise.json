@@ -1,0 +1,23 @@
+{
+    "id": "17a450c4-8014-44d6-aead-e6bd698cae22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur arbeidsreise"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:31.000Z",
+    "validFrom": "2019-05-24T16:03:31.000Z",
+    "createdDate": "2019-05-24T16:03:31.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/9a1cdbc6-4c63-4cbf-82da-e2c141afd3da"
+    ]
+}

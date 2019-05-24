@@ -1,0 +1,25 @@
+{
+    "id": "f14f0df0-0390-4ad1-94a2-c6bbb1f79f44",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - kjoeretoey, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "KJOERETOEY_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "81d744c7-a0c8-401f-8830-20a98fe9ea59",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) kollektiv pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/e8447dde-6982-47fb-9383-cc4c2c11f677",
+        "/InstanceVariable/eb7de2f9-43dc-4cfa-8594-6d5697c7e8b5",
+        "/InstanceVariable/2a10173f-da48-464a-93a3-49ab5a88762c",
+        "/InstanceVariable/6b35d524-2f8b-4bdb-9e9c-828846913277",
+        "/InstanceVariable/67e20f0b-3b9b-4d1f-aca0-e93b9184e0d2"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KOLLEKTIVPENSJONSORDNING"
+}

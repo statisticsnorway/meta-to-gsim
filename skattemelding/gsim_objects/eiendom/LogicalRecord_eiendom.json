@@ -1,0 +1,51 @@
+{
+    "id": "83cf78d3-4607-4a14-8a52-4db89b9f4718",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) eiendom"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:34.000Z",
+    "validFrom": "2019-05-24T16:03:34.000Z",
+    "createdDate": "2019-05-24T16:03:34.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/d597bf0e-d776-4323-8b85-7e258f749d9e",
+        "/InstanceVariable/c6048cb1-8075-47f2-95a1-0664033b9ec3",
+        "/InstanceVariable/6ea5719c-6a40-4fa9-b6d1-7bf4a0f9f87d",
+        "/InstanceVariable/6b90fe66-7f89-4cc6-9c03-d197ad0eb84e",
+        "/InstanceVariable/d43688a1-48c7-4dca-bb35-7d3e50c6d778",
+        "/InstanceVariable/05afd1a7-dda6-4f9a-9a85-301cc29295d5",
+        "/InstanceVariable/2e1e2115-9b92-4007-9ba2-681cede62576",
+        "/InstanceVariable/1fa5bf47-9e36-495a-b62c-cf7126c698d2",
+        "/InstanceVariable/cdf8bb94-654c-4d32-96a9-d2135030ceb3",
+        "/InstanceVariable/ed7e6d0a-ee73-41c6-a702-e2625c630046",
+        "/InstanceVariable/ace562b1-d790-40f0-bc19-022ee0fa455e",
+        "/InstanceVariable/a66d8568-4570-4cab-a6eb-45e5a559422b",
+        "/InstanceVariable/d5d83199-599a-4f37-bdd9-8729e055251a",
+        "/InstanceVariable/9da8fc6d-d1af-4848-a6d4-c0d1ff881683",
+        "/InstanceVariable/05bfa530-a8fc-4f16-88cd-302e2abf777a",
+        "/InstanceVariable/ff8cadda-09f2-4905-bbb8-7c74184dc9c0",
+        "/InstanceVariable/aa11c03c-f370-4447-9c87-9eb39302b026",
+        "/InstanceVariable/1f8e66f0-08eb-4ca5-a214-52ab95ba4d1c",
+        "/InstanceVariable/7c878a8d-a565-40dc-afc5-d5092225d0d0",
+        "/InstanceVariable/36a9f6e3-34d6-4b63-a888-ee419a3361a9",
+        "/InstanceVariable/a1c7e4bc-1e10-4a82-85d9-b3f72ef5e3bc",
+        "/InstanceVariable/8c07d32a-afaf-4605-9059-b1c919ce8be1",
+        "/InstanceVariable/f0945d3e-d7aa-49d5-abb8-ca44fbb165a6",
+        "/InstanceVariable/db56d49a-4d5c-45b3-a8a4-030e41a95698",
+        "/InstanceVariable/9020b25d-3799-4aad-8260-077cd1431d31",
+        "/InstanceVariable/afac1acc-4097-4b04-9d02-485b55f00648",
+        "/InstanceVariable/ec1feb3f-1d1f-45ca-a661-920d433fa3e1"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "EIENDOM"
+}

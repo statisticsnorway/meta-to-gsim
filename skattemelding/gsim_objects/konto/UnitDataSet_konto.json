@@ -1,0 +1,23 @@
+{
+    "id": "026d5939-eb7b-4aa5-b44e-cdfdb7e73ae1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett konto"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:38.000Z",
+    "validFrom": "2019-05-24T16:03:38.000Z",
+    "createdDate": "2019-05-24T16:03:38.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/9803a779-d139-4629-a0be-d5aef2bbe608",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

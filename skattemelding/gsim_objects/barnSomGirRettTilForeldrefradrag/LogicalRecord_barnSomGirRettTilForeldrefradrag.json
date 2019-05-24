@@ -1,0 +1,27 @@
+{
+    "id": "638c2d01-c96c-47a4-907e-606be3ab1f01",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "barnSomGirRettTilForeldrefradrag"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) barn som gir rett til foreldrefradrag"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/7dd0b268-b7f8-422b-a567-0de225c73947",
+        "/InstanceVariable/fa5bd4dd-3c08-4cf8-ab8f-e3dd60189c16",
+        "/InstanceVariable/c57b4af2-3911-4422-bb65-ee47faf35074"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BARNSOMGIRRETTTILFORELDREFRADRAG"
+}

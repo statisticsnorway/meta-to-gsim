@@ -1,0 +1,24 @@
+{
+    "id": "403d9f21-6c5f-4632-9650-6ffe6aec4ddd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise bompengeEllerFergeutgifterUnderArbeidsreise"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsreise, bompenge eller fergeutgifter under arbeidsreise"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ARBEIDSREISE_BOMPENGEELLERFERGEUTGIFTERUNDERARBEIDSREISE"
+}

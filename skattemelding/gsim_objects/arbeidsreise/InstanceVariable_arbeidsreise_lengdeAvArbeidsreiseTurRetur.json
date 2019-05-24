@@ -1,0 +1,24 @@
+{
+    "id": "1ae6a67e-6cbb-43f1-9e1a-fbe82d7f6cf9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise lengdeAvArbeidsreiseTurRetur"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsreise, lengde av arbeidsreise tur retur"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ARBEIDSREISE_LENGDEAVARBEIDSREISETURRETUR"
+}

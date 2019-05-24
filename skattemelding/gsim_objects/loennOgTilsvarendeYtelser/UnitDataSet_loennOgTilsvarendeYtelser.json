@@ -1,0 +1,23 @@
+{
+    "id": "8906773d-7d07-47d5-b001-a830dd014394",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "loennOgTilsvarendeYtelser"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett loenn og tilsvarende ytelser"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/07094a3a-11de-4e23-a84f-b8561f8ae7ce",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

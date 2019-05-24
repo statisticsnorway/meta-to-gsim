@@ -1,0 +1,23 @@
+{
+    "id": "50c44212-2021-4fbc-9451-c4d5e4b9f2ea",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett individuell pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/7306f827-fa0c-45c9-9ca2-72f18305827f",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

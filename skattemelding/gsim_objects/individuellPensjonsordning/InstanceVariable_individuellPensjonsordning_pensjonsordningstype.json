@@ -1,0 +1,24 @@
+{
+    "id": "dc040e57-2294-4e58-a3c3-3358ce762568",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning pensjonsordningstype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - individuell pensjonsordning, pensjonsordningstype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_PENSJONSORDNINGSTYPE"
+}

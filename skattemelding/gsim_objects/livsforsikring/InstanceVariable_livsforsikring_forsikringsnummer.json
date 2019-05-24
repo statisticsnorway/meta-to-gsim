@@ -1,0 +1,24 @@
+{
+    "id": "d362fec4-0921-4d80-8445-ffbeeb817ad3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring forsikringsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - livsforsikring, forsikringsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LIVSFORSIKRING_FORSIKRINGSNUMMER"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "0563ab4c-306d-473e-a11a-54dbc169c054",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise antallDagerMedArbeidsreise"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsreise, antall dager med arbeidsreise"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ARBEIDSREISE_ANTALLDAGERMEDARBEIDSREISE"
+}

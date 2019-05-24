@@ -1,0 +1,6 @@
+{
+    "id": "ed6c86f8-b801-45d0-b7ab-5c7eaf9f0666",
+    "sourceName": "pensjonsinntektPerSkattleggingsperiode",
+    "sourcePath": "/SkattemeldingUtflatet/kollektivPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/6b35d524-2f8b-4bdb-9e9c-828846913277"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "afde9424-09e7-418b-a8ee-01c13f2aacc5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/45dfb7d0-7ffc-4c59-8450-d9994817eb3d",
+        "/InstanceVariable/154edd12-a4d5-4e77-83ab-2904c525a0dc",
+        "/InstanceVariable/d362fec4-0921-4d80-8445-ffbeeb817ad3",
+        "/InstanceVariable/0af4cecf-65c0-4c00-8a98-d2a9ee30b7b9",
+        "/InstanceVariable/f9b1805c-7683-49ac-98da-a3d408980520",
+        "/InstanceVariable/3feb7097-9d38-444b-ace8-559664a12053",
+        "/InstanceVariable/a15e0bb2-90a4-451c-9a78-3ba13ab1df3a",
+        "/InstanceVariable/0b53e987-6a59-4f74-a3a2-2ac65890ba75",
+        "/InstanceVariable/9e046142-580e-4d37-afb5-edb2acb36723"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "LIVSFORSIKRING"
+}

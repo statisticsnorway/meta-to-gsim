@@ -1,0 +1,25 @@
+{
+    "id": "a61d66c2-bd73-4748-bf2a-c17b2a3ea524",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - individuell pensjonsordning, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "34153747-652c-4081-aa83-370629c7a01f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) individuell pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/dc040e57-2294-4e58-a3c3-3358ce762568",
+        "/InstanceVariable/aee1a276-eab2-44fa-bda4-fdf2156c687a",
+        "/InstanceVariable/3b12dc6f-c702-4e53-ac91-70446399360b",
+        "/InstanceVariable/9af6dd21-f2df-4915-bba0-a05a17d6d407",
+        "/InstanceVariable/dba906fb-dddb-42db-9d08-abd76d0de2c9",
+        "/InstanceVariable/7e1fec80-2eb6-48d7-bbfd-b63741cc7dd6",
+        "/InstanceVariable/f715176e-40a4-42cb-9071-f45cc608b754",
+        "/InstanceVariable/a61d66c2-bd73-4748-bf2a-c17b2a3ea524"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "INDIVIDUELLPENSJONSORDNING"
+}

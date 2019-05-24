@@ -1,0 +1,23 @@
+{
+    "id": "dde86b04-5faa-48aa-a2f9-76512b3caa8c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/7d84babc-b990-4545-a1f7-40ec6f33ca10"
+    ]
+}

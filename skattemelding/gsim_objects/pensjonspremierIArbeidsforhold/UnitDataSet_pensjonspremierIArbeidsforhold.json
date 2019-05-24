@@ -1,0 +1,23 @@
+{
+    "id": "089dd0e9-4140-4a2e-895e-9248efb4e672",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "pensjonspremierIArbeidsforhold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett pensjonspremier i arbeidsforhold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:40.000Z",
+    "validFrom": "2019-05-24T16:03:40.000Z",
+    "createdDate": "2019-05-24T16:03:40.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/79d4af8a-008a-43bd-8fa8-b5451ad85f73",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

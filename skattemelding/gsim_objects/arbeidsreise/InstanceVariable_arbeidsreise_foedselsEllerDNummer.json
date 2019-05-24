@@ -1,0 +1,25 @@
+{
+    "id": "deb2fed2-8413-49bd-81b3-347993e0cb69",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - arbeidsreise, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:32.000Z",
+    "validFrom": "2019-05-24T16:03:32.000Z",
+    "createdDate": "2019-05-24T16:03:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ARBEIDSREISE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

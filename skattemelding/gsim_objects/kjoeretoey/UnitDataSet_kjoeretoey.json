@@ -1,0 +1,23 @@
+{
+    "id": "14e4d7aa-cf79-47c5-b82b-00917c087199",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett kjoeretoey"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/27104fbc-9696-433b-90c3-4b7cac667625",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

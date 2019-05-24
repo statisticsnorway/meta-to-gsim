@@ -1,0 +1,24 @@
+{
+    "id": "234b5097-424f-4f37-a46b-46a3505bda7b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:42.000Z",
+    "validFrom": "2019-05-24T16:03:42.000Z",
+    "createdDate": "2019-05-24T16:03:42.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER_NAVN"
+}

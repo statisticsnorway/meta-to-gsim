@@ -1,0 +1,24 @@
+{
+    "id": "613da5c1-d4aa-4415-b69a-3917aa71a0fd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdskostnaderVedPassOgStellAvBarn betaltBeloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - oppholdskostnader ved pass og stell av barn, betalt beloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:40.000Z",
+    "validFrom": "2019-05-24T16:03:40.000Z",
+    "createdDate": "2019-05-24T16:03:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSKOSTNADERVEDPASSOGSTELLAVBARN_BETALTBELOEP"
+}

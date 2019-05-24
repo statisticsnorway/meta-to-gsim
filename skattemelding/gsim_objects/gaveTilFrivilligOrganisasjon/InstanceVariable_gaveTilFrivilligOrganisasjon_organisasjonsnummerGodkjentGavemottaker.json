@@ -1,0 +1,24 @@
+{
+    "id": "ec497382-17b1-45c7-815e-05b25d6146c9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "gaveTilFrivilligOrganisasjon organisasjonsnummerGodkjentGavemottaker"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - gave til frivillig organisasjon, organisasjonsnummer godkjent gavemottaker"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:36.000Z",
+    "validFrom": "2019-05-24T16:03:36.000Z",
+    "createdDate": "2019-05-24T16:03:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "GAVETILFRIVILLIGORGANISASJON_ORGANISASJONSNUMMERGODKJENTGAVEMOTTAKER"
+}

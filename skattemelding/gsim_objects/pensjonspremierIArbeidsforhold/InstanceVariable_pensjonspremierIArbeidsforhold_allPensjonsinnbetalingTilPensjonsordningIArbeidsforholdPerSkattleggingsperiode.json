@@ -1,0 +1,24 @@
+{
+    "id": "47882d12-3214-475b-8683-d642ac179ffd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "pensjonspremierIArbeidsforhold allPensjonsinnbetalingTilPensjonsordningIArbeidsforholdPerSkattleggingsperiode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - pensjonspremier i arbeidsforhold, all pensjonsinnbetaling til pensjonsordning i arbeidsforhold per skattleggingsperiode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:40.000Z",
+    "validFrom": "2019-05-24T16:03:40.000Z",
+    "createdDate": "2019-05-24T16:03:40.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PENSJONSPREMIERIARBEIDSFORHOLD_ALLPENSJONSINNBETALINGTILPENSJONSORDNINGIARBEIDSFORHOLDPERSKATTLEGGINGSPERIODE"
+}

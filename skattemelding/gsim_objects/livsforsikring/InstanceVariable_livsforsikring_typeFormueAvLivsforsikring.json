@@ -1,0 +1,24 @@
+{
+    "id": "0b53e987-6a59-4f74-a3a2-2ac65890ba75",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring typeFormueAvLivsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - livsforsikring, type formue av livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LIVSFORSIKRING_TYPEFORMUEAVLIVSFORSIKRING"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "db2bd5ea-3979-4f35-82fc-1dff82d9977f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatFordringUtenforVirksomhet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding record (LogicalRecord) privat fordring utenfor virksomhet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:40.000Z",
+    "validFrom": "2019-05-24T16:03:40.000Z",
+    "createdDate": "2019-05-24T16:03:40.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/413bc3b1-3c1b-4b03-b661-69f60eab2c6e",
+        "/InstanceVariable/ef3bc2f2-2199-4394-9442-143b1072d5ee",
+        "/InstanceVariable/1b3a6158-b606-407c-a2aa-9e51140ac43d"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET"
+}

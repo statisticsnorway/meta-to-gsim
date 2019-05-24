@@ -1,0 +1,23 @@
+{
+    "id": "a2a30622-e2f0-43b9-abd3-2a8f4d016715",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datastruktur livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:39.000Z",
+    "validFrom": "2019-05-24T16:03:39.000Z",
+    "createdDate": "2019-05-24T16:03:39.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/afde9424-09e7-418b-a8ee-01c13f2aacc5"
+    ]
+}

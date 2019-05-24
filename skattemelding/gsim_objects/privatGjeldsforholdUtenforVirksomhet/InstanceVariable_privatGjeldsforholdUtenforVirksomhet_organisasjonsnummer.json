@@ -1,0 +1,24 @@
+{
+    "id": "8077930d-85cd-47f5-9f9d-c50d7d176102",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatGjeldsforholdUtenforVirksomhet organisasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - privat gjeldsforhold utenfor virksomhet, organisasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET_ORGANISASJONSNUMMER"
+}

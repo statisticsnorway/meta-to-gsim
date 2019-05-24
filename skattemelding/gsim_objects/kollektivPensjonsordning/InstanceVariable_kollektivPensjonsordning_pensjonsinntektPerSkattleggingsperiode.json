@@ -1,0 +1,24 @@
+{
+    "id": "6b35d524-2f8b-4bdb-9e9c-828846913277",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning pensjonsinntektPerSkattleggingsperiode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - kollektiv pensjonsordning, pensjonsinntekt per skattleggingsperiode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:37.000Z",
+    "validFrom": "2019-05-24T16:03:37.000Z",
+    "createdDate": "2019-05-24T16:03:37.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KOLLEKTIVPENSJONSORDNING_PENSJONSINNTEKTPERSKATTLEGGINGSPERIODE"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "2c178382-1c16-43de-ad57-9b5e1afb0d2a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriArvGaveOgGevinst samletVerdiArvEllerGaveUtenforArbeidsforhold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - skattefri arv gave og gevinst, samlet verdi arv eller gave utenfor arbeidsforhold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:41.000Z",
+    "validFrom": "2019-05-24T16:03:41.000Z",
+    "createdDate": "2019-05-24T16:03:41.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKATTEFRIARVGAVEOGGEVINST_SAMLETVERDIARVELLERGAVEUTENFORARBEIDSFORHOLD"
+}

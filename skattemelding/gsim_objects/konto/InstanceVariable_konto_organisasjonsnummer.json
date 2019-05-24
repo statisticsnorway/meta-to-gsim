@@ -1,0 +1,24 @@
+{
+    "id": "78048cd5-70de-41dc-9172-219ba883315c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto organisasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding - konto, organisasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:38.000Z",
+    "validFrom": "2019-05-24T16:03:38.000Z",
+    "createdDate": "2019-05-24T16:03:38.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/DRAFT",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTO_ORGANISASJONSNUMMER"
+}

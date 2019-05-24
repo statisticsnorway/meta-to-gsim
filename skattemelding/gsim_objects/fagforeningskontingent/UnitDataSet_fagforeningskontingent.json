@@ -1,0 +1,23 @@
+{
+    "id": "4d012560-98be-4757-a1de-3aaa25d578a9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "fagforeningskontingent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "Skattemelding datasett fagforeningskontingent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-24T16:03:35.000Z",
+    "validFrom": "2019-05-24T16:03:35.000Z",
+    "createdDate": "2019-05-24T16:03:35.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/afae6a35-a451-43e6-b750-ee463341eebd",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

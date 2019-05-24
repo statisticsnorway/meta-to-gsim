@@ -1,0 +1,6 @@
+{
+    "id": "27a5d61f-a02e-4c79-bddd-a62a0e8b70fb",
+    "sourceName": "forsikringsnummer",
+    "sourcePath": "/SkattemeldingUtflatet/livsforsikring/",
+    "targetInstanceVariable": "/InstanceVariable/d362fec4-0921-4d80-8445-ffbeeb817ad3"
+}
