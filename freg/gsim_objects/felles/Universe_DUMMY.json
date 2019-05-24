@@ -1,0 +1,25 @@
+{
+ "lastUpdatedBy": "OBV",
+ "lastUpdatedDate": "2019-02-18T12:22:21.831Z",
+ "createdDate": "2019-02-18T09:12:25.724Z",
+ "createdBy": "OBV",
+ "unitTypes": [
+  "/UnitType/UnitType_DUMMY"
+ ],
+ "name": [
+  {
+   "languageCode": "en",
+   "languageText": "Universe_DUMMY"
+  }
+ ],
+ "description": [
+  {
+   "languageCode": "en",
+   "languageText": "Universe_DUMMY"
+  }
+ ],
+ "id": "Universe_DUMMY",
+ "validFrom": "2019-01-01T00:00:25.724Z",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-01-01T00:00:25.724Z"
+}
