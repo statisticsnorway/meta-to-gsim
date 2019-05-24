@@ -1,0 +1,30 @@
+{
+ "lastUpdatedBy": "OBV",
+ "description": [
+  {
+   "languageCode": "en",
+   "languageText": "Population_DUMMY"
+  }
+ ],
+ "validFrom": "2019-01-01T00:00:31.848Z",
+ "version": "1.0.0",
+ "versionValidFrom": "2019-01-01T00:00:31.848Z",
+ "populationType": "TARGET",
+ "lastUpdatedDate": "2019-01-01T00:00:31.848Z",
+ "createdDate": "2019-01-01T00:00:31.848Z",
+ "createdBy": "OBV",
+ "geography": "CONTINENT",
+ "name": [
+  {
+   "languageCode": "en",
+   "languageText": "Population_DUMMY"
+  }
+ ],
+ "referencePeriodStartDate": "1959-12-31T23:00:00.000Z",
+ "universes": [
+  "/Universe/Universe_DUMMY"
+ ],
+ "id": "Population_DUMMY",
+ "referencePeriodEndDate": "2998-12-31T23:00:00.000Z",
+ "administrativeStatus": "INTERNAL"
+}
