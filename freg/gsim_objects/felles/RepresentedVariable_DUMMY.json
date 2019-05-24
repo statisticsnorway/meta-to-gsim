@@ -3,7 +3,7 @@
  "description": [
   {
    "languageCode": "nb",
-   "languageText": "DRAFT"
+   "languageText": "RepresentertVariable_DUMMY"
   }
  ],
  "validFrom": "2019-02-19T10:25:44.663Z",
@@ -12,14 +12,15 @@
  "lastUpdatedDate": "2019-02-19T10:27:02.911Z",
  "createdDate": "2019-02-19T10:25:44.663Z",
  "createdBy": "Test",
- "universe": "/Universe/3a3e9da5-74e0-4fd4-92fa-c4bcea77134d",
+ "universe": "/Universe/Universe_DUMMY",
  "name": [
   {
    "languageCode": "nb",
-   "languageText": "DRAFT"
+   "languageText": "RepresentertVariable_DUMMY"
   }
  ],
- "substantiveValueDomain": "/DescribedValueDomain/ae8edf6a-be4d-4c1c-930f-e6c9473cff95",
- "variable": "/Variable/DRAFT2",
- "id": "DRAFT"
+ "substantiveValueDomain": "/DescribedValueDomain/DescribedValueDomain_DUMMY",
+ "variable": "/Variable/Variable_DUMMY",
+ "id": "RepresentertVariable_DUMMY",
+ "administrativeStatus": "INTERNAL"
 }
