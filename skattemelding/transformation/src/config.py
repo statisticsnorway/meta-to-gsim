@@ -3,7 +3,7 @@
 ##################################################################################
 
 # "Key-word" for data/metadata-området som XSD-en fra Skatteetaten dekker, f.eks. "FREG", "Folkeregisteret", "Skattemelding", osv.
-# Brukes bl.a. til "tagging" og i description-felter i GSIM-objektene, men har ingen praktisk betydning utover dette.
+# Brukes bl.a. ved generering av "GSIM DataResource"-objektet og til "tagging" og i description-felter i andre GSIM-objekter.
 dataResource = "UttrekkSkattemelding"
 
 # Sti og navn til XSD-filen fra Skatteetaten:
