@@ -1,5 +1,5 @@
 {
-    "id": "20d95926-2b49-49b4-8388-542e9298b0bd",
+    "id": "70ceee83-d6ae-42dd-8d46-dc36afcec4cb",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - verdi for annet privat innbo og loesoere, andel av fribeloep"
+            "languageText": "UttrekkSkattemelding - verdi for annet privat innbo og loesoere, andel av fribeloep"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:42.000Z",
-    "validFrom": "2019-05-24T16:03:42.000Z",
-    "createdDate": "2019-05-24T16:03:42.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE_ANDELAVFRIBELOEP"

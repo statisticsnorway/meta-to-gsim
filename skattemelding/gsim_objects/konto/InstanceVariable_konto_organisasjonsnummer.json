@@ -1,5 +1,5 @@
 {
-    "id": "78048cd5-70de-41dc-9172-219ba883315c",
+    "id": "79460012-425a-43a9-b95a-5fcf699d5182",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - konto, organisasjonsnummer"
+            "languageText": "UttrekkSkattemelding - konto, organisasjonsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:38.000Z",
-    "validFrom": "2019-05-24T16:03:38.000Z",
-    "createdDate": "2019-05-24T16:03:38.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "KONTO_ORGANISASJONSNUMMER"

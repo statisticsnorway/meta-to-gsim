@@ -1,5 +1,5 @@
 {
-    "id": "2ef93f2c-7626-4408-8e76-6f8677f6b68a",
+    "id": "8e7545a6-86a7-40f9-b614-57f570f161f0",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av fradragsberettiget felleskostnad boligsameie"
+            "languageText": "UttrekkSkattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av fradragsberettiget felleskostnad boligsameie"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:43.000Z",
-    "validFrom": "2019-05-24T16:03:43.000Z",
-    "createdDate": "2019-05-24T16:03:43.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP_ANDELAVFRADRAGSBERETTIGETFELLESKOSTNADBOLIGSAMEIE"

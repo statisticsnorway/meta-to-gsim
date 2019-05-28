@@ -1,5 +1,5 @@
 {
-    "id": "9667cedc-b83e-4521-924e-fb8f9ffa7e8f",
+    "id": "b06c1d4b-d483-4342-bddc-be031d4a5869",
     "name": [
         {
             "languageCode": "nb",
@@ -9,29 +9,30 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) oekonomiske forhold knyttet til boligsameie eller boligselskap"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) oekonomiske forhold knyttet til boligsameie eller boligselskap"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:43.000Z",
-    "validFrom": "2019-05-24T16:03:43.000Z",
-    "createdDate": "2019-05-24T16:03:43.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/fc3113ef-f4fb-42ba-ae8e-86757dae013d",
-        "/InstanceVariable/81eba1bd-00e2-49dc-b74a-cba6bf50eb2b",
-        "/InstanceVariable/c8821260-494d-4d3e-9e44-4754dcb744c7",
-        "/InstanceVariable/33c592cd-9917-4888-bd3c-05d2112ee732",
-        "/InstanceVariable/2b7384a5-8119-4a8f-8761-e37e4a777082",
-        "/InstanceVariable/bb9570db-6df1-4826-a80b-eb8a20b39942",
-        "/InstanceVariable/c0e11ceb-d4f9-4bf6-ae6e-992eb7a82b32",
-        "/InstanceVariable/b6152316-7483-403b-9598-0cb8ea5baebc",
-        "/InstanceVariable/a8a9e6f0-681e-4c90-9e28-a22ae7a939eb",
-        "/InstanceVariable/5dcd99aa-8bd8-4ae5-bfbe-731767217f7b",
-        "/InstanceVariable/2ef93f2c-7626-4408-8e76-6f8677f6b68a",
-        "/InstanceVariable/29f7b5d6-fe96-43be-b4ca-866e84d92588",
-        "/InstanceVariable/272bb6a2-724b-4b2e-a459-eb8c8c4f958a",
-        "/InstanceVariable/d61aa1c3-8784-4f4f-8f3c-2fc7307e97ff"
+        "/InstanceVariable/57aa70d2-19d5-42fd-b9d2-d4bbd24f441d",
+        "/InstanceVariable/19036bcb-7e85-434e-b3fe-2a73bf560371",
+        "/InstanceVariable/7ef44af7-eca5-4b50-b98c-ee574e0e3ee9",
+        "/InstanceVariable/98e2a883-e334-462d-8311-9d062aa65126",
+        "/InstanceVariable/39556119-b24c-4ef7-92f0-f392624f3e0d",
+        "/InstanceVariable/fc8c3fe2-8982-4a6f-82a7-a28356bc7416",
+        "/InstanceVariable/e7e6ef4a-8ebc-43ba-beda-573cdfb26b1e",
+        "/InstanceVariable/af6def43-a57f-4cee-a47f-104547820abe",
+        "/InstanceVariable/b464b797-43f4-4f50-ac8c-37a88423cfab",
+        "/InstanceVariable/e978b058-0848-4ea9-9a26-4626b9657b90",
+        "/InstanceVariable/8e7545a6-86a7-40f9-b614-57f570f161f0",
+        "/InstanceVariable/aafd132b-e0a8-4655-83cb-6a90748b9630",
+        "/InstanceVariable/d6d0c7f4-5ecb-48bc-85fb-9c4ca0c43210",
+        "/InstanceVariable/2327970d-50fa-487b-9179-aba883e9534a",
+        "/InstanceVariable/8d487bd0-61db-428c-b816-c74ccfb62287"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP"

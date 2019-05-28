@@ -1,5 +1,5 @@
 {
-    "id": "d7d4afc9-238f-42b5-8e30-b23abdba5c4b",
+    "id": "313a2861-2e1f-4409-9147-3b1de00fafb0",
     "name": [
         {
             "languageCode": "nb",
@@ -9,18 +9,19 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) verdi for annet privat innbo og loesoere"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) verdi for annet privat innbo og loesoere"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:42.000Z",
-    "validFrom": "2019-05-24T16:03:42.000Z",
-    "createdDate": "2019-05-24T16:03:42.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1b62c1a0-6ca6-4dcd-99ee-805141bec7ce",
-        "/InstanceVariable/20d95926-2b49-49b4-8388-542e9298b0bd",
-        "/InstanceVariable/24deba97-2241-415e-b93c-c9df96587ee4"
+        "/InstanceVariable/1775fe30-0358-4acb-9e65-dc75a3a7add2",
+        "/InstanceVariable/70ceee83-d6ae-42dd-8d46-dc36afcec4cb",
+        "/InstanceVariable/30b34931-b49a-4fbf-b323-ee4f7e6ad3be",
+        "/InstanceVariable/dc0e2bb9-3b48-43a6-bf9c-450d308dcee5"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE"

@@ -1,6 +1,6 @@
 {
-    "id": "e53e9a91-ad78-4a3d-9c97-35ea44b8e915",
+    "id": "fd0f4487-0983-44fa-b6ae-4648977bb5b5",
     "sourceName": "godtgjoerelseForKostVedArbeidsforholdUtenforHjemmet",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsoppholdUtenforHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/bef41aa5-830c-4b51-85b9-9f98fdb8ea71"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsoppholdUtenforHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/b2c922c8-4c28-49d1-aac0-16b8f97d3cb8"
 }

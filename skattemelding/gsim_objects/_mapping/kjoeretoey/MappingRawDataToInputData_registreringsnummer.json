@@ -1,6 +1,6 @@
 {
-    "id": "ece4fc13-9533-4d4f-b0dc-9acda8359beb",
+    "id": "0a3d409b-bea4-4ff1-9d4a-8d0f15c2b07c",
     "sourceName": "registreringsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/kjoeretoey/",
-    "targetInstanceVariable": "/InstanceVariable/7cd1d59f-190c-4ac1-b521-2c50596e6dc3"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kjoeretoey/",
+    "targetInstanceVariable": "/InstanceVariable/745b21b7-cefb-4c96-a4c0-cec32152e4c2"
 }

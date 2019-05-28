@@ -1,5 +1,5 @@
 {
-    "id": "b72b8291-2ab8-45a1-ae13-604280efdeb5",
+    "id": "20346d17-8fcb-4811-bd39-2773f50c5c48",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett barn som gir rett til foreldrefradrag"
+            "languageText": "UttrekkSkattemelding datasett barn som gir rett til foreldrefradrag"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/33265eb6-cd0b-4021-92bc-c57d386e3a51",
+    "unitDataStructure": "/UnitDataStructure/f866668c-b7be-4d95-bd53-c6d3cd52fec4",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

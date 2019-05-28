@@ -1,6 +1,6 @@
 {
-    "id": "56c5dad4-5998-4113-8a11-52c66f4bd9b3",
+    "id": "9fa4632e-11c6-4cb0-8365-c1335be259c5",
     "sourceName": "organisasjonsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/2e1e2115-9b92-4007-9ba2-681cede62576"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/4b789a0a-ea02-4602-bf3f-668ee6291812"
 }

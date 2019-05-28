@@ -1,5 +1,5 @@
 {
-    "id": "d239de2e-7792-4346-b735-aa8b343282f8",
+    "id": "6e730cd1-4eaf-42b6-934d-350e8c76c426",
     "name": [
         {
             "languageCode": "nb",
@@ -9,20 +9,21 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) besoeksreise til hjemmet"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) besoeksreise til hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/d64efa1e-8d98-47b1-a34e-1e0e981085cc",
-        "/InstanceVariable/909d5fa7-0444-41c8-8b25-f92ca351eb17",
-        "/InstanceVariable/590a70f1-3699-4572-a062-a5f20a3b287f",
-        "/InstanceVariable/88dbd9f2-f9b8-4811-a81d-6f6885c74811",
-        "/InstanceVariable/a31be6c7-5526-4ba4-9092-628d3c4c7f05"
+        "/InstanceVariable/65ec368f-a78b-4eb3-b24e-998c5f024532",
+        "/InstanceVariable/16cb68e9-bf3a-4351-82dc-772462ea3bae",
+        "/InstanceVariable/43c9b73d-890f-4aa8-995e-cbeea616c8a3",
+        "/InstanceVariable/2f77298a-0f50-4693-a4c2-0c8cfe5be9b8",
+        "/InstanceVariable/3c9d3a26-3a7d-4592-a136-1a44c4153a32",
+        "/InstanceVariable/5cbcd4ee-54af-4b00-91ed-8fcfda38b693"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "BESOEKSREISETILHJEMMET"

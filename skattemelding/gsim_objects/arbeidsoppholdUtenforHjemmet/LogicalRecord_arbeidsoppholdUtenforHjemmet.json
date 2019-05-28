@@ -1,5 +1,5 @@
 {
-    "id": "916b93d4-0c31-4b13-988f-160221c82629",
+    "id": "baa3a105-99e2-40ae-b24f-356c0227295f",
     "name": [
         {
             "languageCode": "nb",
@@ -9,25 +9,26 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) arbeidsopphold utenfor hjemmet"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) arbeidsopphold utenfor hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/733db342-73cc-4655-b048-0b6a028fe526",
-        "/InstanceVariable/729c5998-43a8-4621-8db5-89d4cea61ac4",
-        "/InstanceVariable/5e8238d1-5748-4ed9-bd2e-67df0c25c942",
-        "/InstanceVariable/498cc234-823d-4fd8-b945-29d6079418ba",
-        "/InstanceVariable/bef41aa5-830c-4b51-85b9-9f98fdb8ea71",
-        "/InstanceVariable/08b78cb3-8e68-47b2-919f-cdab30c371e4",
-        "/InstanceVariable/37714d83-2909-4833-bfea-83c32eb47b19",
-        "/InstanceVariable/b95a8d7a-78ff-470c-8dcc-4d895c0c2e7c",
-        "/InstanceVariable/9ec66143-3390-4006-b51d-48dece80a6b6",
-        "/InstanceVariable/92572dfd-070e-4243-94ba-4e43d41ad0a0"
+        "/InstanceVariable/a8f922c5-8f01-4224-b654-eebe63cf6dae",
+        "/InstanceVariable/9e797bef-adf2-408d-abf4-14a8ad32f120",
+        "/InstanceVariable/40f24634-e7b9-4c11-ae4b-debbb3d28edb",
+        "/InstanceVariable/cb9b023a-9b4a-43ea-8bb2-1f8608a1f092",
+        "/InstanceVariable/b2c922c8-4c28-49d1-aac0-16b8f97d3cb8",
+        "/InstanceVariable/101af4b2-7a87-4028-bd71-e22d12040639",
+        "/InstanceVariable/401fd8af-18d8-49cc-8dcb-6f1b8f55b057",
+        "/InstanceVariable/a01e6f5c-38e1-4e09-b1b6-5d4159ea1407",
+        "/InstanceVariable/0c0a2370-e2e8-4f7d-8301-2cef951300d2",
+        "/InstanceVariable/4f5a44ec-d914-4cbc-9483-66f480e69e60",
+        "/InstanceVariable/0a1a5e70-f881-42fd-8b8e-4d591a3672f4"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET"

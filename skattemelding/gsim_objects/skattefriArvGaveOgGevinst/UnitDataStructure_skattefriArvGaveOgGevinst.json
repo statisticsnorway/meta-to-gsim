@@ -1,5 +1,5 @@
 {
-    "id": "c354dbe6-5bb2-42ee-8dd9-915d1a7db1b5",
+    "id": "dee254f7-6453-407b-8416-c2ab6f2549ec",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur skattefri arv gave og gevinst"
+            "languageText": "UttrekkSkattemelding datastruktur skattefri arv gave og gevinst"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/b97e37b9-8883-46ed-a7d1-eb39ae39d68f"
+        "/LogicalRecord/05ae171f-a327-40f9-bdfa-816c203b6a31"
     ]
 }

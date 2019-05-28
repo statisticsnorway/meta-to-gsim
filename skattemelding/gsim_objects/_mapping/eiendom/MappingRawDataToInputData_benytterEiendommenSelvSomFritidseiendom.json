@@ -1,6 +1,6 @@
 {
-    "id": "946f5aea-d9fc-4c15-9a68-28f42f32f305",
+    "id": "fdf519cd-08b6-47de-8a35-300ad35499fa",
     "sourceName": "benytterEiendommenSelvSomFritidseiendom",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/9da8fc6d-d1af-4848-a6d4-c0d1ff881683"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/14715964-ddf0-4f2f-aa55-dca8b8c18c42"
 }

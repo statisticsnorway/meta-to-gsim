@@ -1,6 +1,6 @@
 {
-    "id": "e11579b8-4d11-47cc-8862-69772c734ca2",
+    "id": "1d94ac75-3662-4970-990a-9e7985c88f04",
     "sourceName": "paaloepteRenter",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/c7567903-c2bd-419a-99c6-f79f2927b3ec"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/5cb57d41-c181-47fd-9c19-46ab8e96aeb9"
 }

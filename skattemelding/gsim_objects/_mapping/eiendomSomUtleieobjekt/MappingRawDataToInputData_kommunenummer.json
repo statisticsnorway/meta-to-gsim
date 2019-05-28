@@ -1,6 +1,6 @@
 {
-    "id": "0ed36c92-c186-4c25-b201-b9515aecfa5a",
+    "id": "ce1693dd-d128-41c4-ba1f-6b3c7cb721ab",
     "sourceName": "kommunenummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/ecb98b9e-dd90-4a1e-b6a9-3d9c75fd4183"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/79999e29-2120-4192-bbac-f68a97711038"
 }

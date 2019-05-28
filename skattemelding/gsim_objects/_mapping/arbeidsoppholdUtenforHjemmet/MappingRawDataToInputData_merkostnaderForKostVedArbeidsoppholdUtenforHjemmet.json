@@ -1,6 +1,6 @@
 {
-    "id": "3bb268e6-87fe-4a49-8e00-b8ea053a59db",
+    "id": "fd73a18f-3e87-4b35-ad13-2d92baa2350b",
     "sourceName": "merkostnaderForKostVedArbeidsoppholdUtenforHjemmet",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsoppholdUtenforHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/729c5998-43a8-4621-8db5-89d4cea61ac4"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsoppholdUtenforHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/9e797bef-adf2-408d-abf4-14a8ad32f120"
 }

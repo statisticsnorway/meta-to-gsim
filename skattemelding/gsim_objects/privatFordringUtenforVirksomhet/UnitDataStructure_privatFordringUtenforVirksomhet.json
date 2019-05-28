@@ -1,5 +1,5 @@
 {
-    "id": "c28ac2d3-5e89-4ef9-999d-9242a59a3f3e",
+    "id": "96d91f41-5d3c-495b-a776-0a619c4b8008",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur privat fordring utenfor virksomhet"
+            "languageText": "UttrekkSkattemelding datastruktur privat fordring utenfor virksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:40.000Z",
-    "validFrom": "2019-05-24T16:03:40.000Z",
-    "createdDate": "2019-05-24T16:03:40.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/db2bd5ea-3979-4f35-82fc-1dff82d9977f"
+        "/LogicalRecord/9e5ca59b-8dc1-4e35-898d-1c477fad5101"
     ]
 }

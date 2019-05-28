@@ -1,5 +1,5 @@
 {
-    "id": "2b7384a5-8119-4a8f-8761-e37e4a777082",
+    "id": "39556119-b24c-4ef7-92f0-f392624f3e0d",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, navn"
+            "languageText": "UttrekkSkattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, navn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:43.000Z",
-    "validFrom": "2019-05-24T16:03:43.000Z",
-    "createdDate": "2019-05-24T16:03:43.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP_NAVN"

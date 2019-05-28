@@ -1,5 +1,5 @@
 {
-    "id": "8077930d-85cd-47f5-9f9d-c50d7d176102",
+    "id": "2d4bd378-46e3-4142-a8da-19563c3821d7",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - privat gjeldsforhold utenfor virksomhet, organisasjonsnummer"
+            "languageText": "UttrekkSkattemelding - privat gjeldsforhold utenfor virksomhet, organisasjonsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET_ORGANISASJONSNUMMER"

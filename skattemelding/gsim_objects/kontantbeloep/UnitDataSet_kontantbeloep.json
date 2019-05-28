@@ -1,5 +1,5 @@
 {
-    "id": "806043e6-b6ef-4952-81ed-e0ab6bdcdd05",
+    "id": "0dd49d2c-b4f4-4f76-ab0d-ef0e5cdbaabd",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett kontantbeloep"
+            "languageText": "UttrekkSkattemelding datasett kontantbeloep"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:38.000Z",
-    "validFrom": "2019-05-24T16:03:38.000Z",
-    "createdDate": "2019-05-24T16:03:38.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/78f817d4-07f2-4a0a-b5bb-5ff577921949",
+    "unitDataStructure": "/UnitDataStructure/99816327-d151-4496-98b6-7b8701746717",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "5bb34b9d-53c1-403e-864a-a4efea9c29c1",
+    "id": "26ea2185-6785-4dec-b119-b96801604e0e",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur eiendom"
+            "languageText": "UttrekkSkattemelding datastruktur eiendom"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/83cf78d3-4607-4a14-8a52-4db89b9f4718"
+        "/LogicalRecord/b41c0ff4-d5cf-447d-b1f4-e1f2d941544d"
     ]
 }

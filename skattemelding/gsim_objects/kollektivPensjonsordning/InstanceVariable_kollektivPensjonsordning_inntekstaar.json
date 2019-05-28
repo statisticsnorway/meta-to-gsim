@@ -1,0 +1,25 @@
+{
+    "id": "9a749a2b-76c1-42d2-a249-0319a15d7a4d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - kollektiv pensjonsordning, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "KOLLEKTIVPENSJONSORDNING_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

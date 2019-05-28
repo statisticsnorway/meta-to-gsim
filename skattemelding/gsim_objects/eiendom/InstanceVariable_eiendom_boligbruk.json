@@ -1,5 +1,5 @@
 {
-    "id": "a66d8568-4570-4cab-a6eb-45e5a559422b",
+    "id": "4bb11f7a-570b-4343-a096-6a3492d7db50",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom, boligbruk"
+            "languageText": "UttrekkSkattemelding - eiendom, boligbruk"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_BOLIGBRUK"

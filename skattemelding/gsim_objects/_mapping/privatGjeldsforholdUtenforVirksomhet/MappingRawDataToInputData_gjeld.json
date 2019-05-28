@@ -1,6 +1,6 @@
 {
-    "id": "f9948177-6d6f-406a-ad17-10f57d470a1b",
+    "id": "7b78c4fa-4274-4a27-84bd-c79d474613b2",
     "sourceName": "gjeld",
-    "sourcePath": "/SkattemeldingUtflatet/privatGjeldsforholdUtenforVirksomhet/",
-    "targetInstanceVariable": "/InstanceVariable/6c0cd25b-4858-4995-89f2-4c73913b4449"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/privatGjeldsforholdUtenforVirksomhet/",
+    "targetInstanceVariable": "/InstanceVariable/cafddbd6-3549-401e-95bf-3e46db960e5d"
 }

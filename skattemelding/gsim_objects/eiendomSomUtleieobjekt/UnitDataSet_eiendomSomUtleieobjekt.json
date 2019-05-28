@@ -1,5 +1,5 @@
 {
-    "id": "7b1633f0-a656-45b9-99d3-d55edd817596",
+    "id": "5adedeac-57cc-40f2-a0f7-0823b1afe08f",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett eiendom som utleieobjekt"
+            "languageText": "UttrekkSkattemelding datasett eiendom som utleieobjekt"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/f7c7ab3a-15ed-489e-b12a-913b8cc9b0d1",
+    "unitDataStructure": "/UnitDataStructure/125c221f-7afd-43ac-964f-0b5940bc7893",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

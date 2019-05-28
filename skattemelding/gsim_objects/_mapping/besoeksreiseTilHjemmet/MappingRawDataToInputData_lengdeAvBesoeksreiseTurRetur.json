@@ -1,6 +1,6 @@
 {
-    "id": "5698b5a1-3c4f-47e8-8548-40d74cf1f0a8",
+    "id": "cfd0a7ce-977e-4b3b-8d2f-44f8ecfc1e7e",
     "sourceName": "lengdeAvBesoeksreiseTurRetur",
-    "sourcePath": "/SkattemeldingUtflatet/besoeksreiseTilHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/590a70f1-3699-4572-a062-a5f20a3b287f"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/besoeksreiseTilHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/43c9b73d-890f-4aa8-995e-cbeea616c8a3"
 }

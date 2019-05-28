@@ -1,6 +1,6 @@
 {
-    "id": "e046db92-dd7e-49e6-a1fd-57d8c4de8ced",
+    "id": "dc2de20b-4e2e-473a-a4a6-eccf97984d89",
     "sourceName": "andelAvInntektIBoligsameie",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/a8a9e6f0-681e-4c90-9e28-a22ae7a939eb"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/b464b797-43f4-4f50-ac8c-37a88423cfab"
 }

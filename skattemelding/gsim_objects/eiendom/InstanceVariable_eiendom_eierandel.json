@@ -1,5 +1,5 @@
 {
-    "id": "ed7e6d0a-ee73-41c6-a702-e2625c630046",
+    "id": "442e7fca-e016-45cb-bdab-e403381fa629",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom, eierandel"
+            "languageText": "UttrekkSkattemelding - eiendom, eierandel"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_EIERANDEL"

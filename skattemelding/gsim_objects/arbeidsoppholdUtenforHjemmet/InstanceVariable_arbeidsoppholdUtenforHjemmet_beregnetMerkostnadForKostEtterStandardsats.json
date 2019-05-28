@@ -1,5 +1,5 @@
 {
-    "id": "9ec66143-3390-4006-b51d-48dece80a6b6",
+    "id": "0c0a2370-e2e8-4f7d-8301-2cef951300d2",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - arbeidsopphold utenfor hjemmet, beregnet merkostnad for kost etter standardsats"
+            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, beregnet merkostnad for kost etter standardsats"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_BEREGNETMERKOSTNADFORKOSTETTERSTANDARDSATS"

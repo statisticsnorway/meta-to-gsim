@@ -1,6 +1,6 @@
 {
-    "id": "035c8e47-6b1c-496f-acae-572013994ffb",
+    "id": "c74330ff-f7cd-4dea-9654-f65886a17b4a",
     "sourceName": "losjitype",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsoppholdUtenforHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/37714d83-2909-4833-bfea-83c32eb47b19"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsoppholdUtenforHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/401fd8af-18d8-49cc-8dcb-6f1b8f55b057"
 }

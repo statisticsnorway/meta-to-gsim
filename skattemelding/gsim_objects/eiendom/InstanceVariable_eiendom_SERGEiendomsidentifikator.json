@@ -1,5 +1,5 @@
 {
-    "id": "afac1acc-4097-4b04-9d02-485b55f00648",
+    "id": "42e05e09-494e-4d62-bed9-32c571984af8",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom,  s e r g eiendomsidentifikator"
+            "languageText": "UttrekkSkattemelding - eiendom,  s e r g eiendomsidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_SERGEIENDOMSIDENTIFIKATOR"

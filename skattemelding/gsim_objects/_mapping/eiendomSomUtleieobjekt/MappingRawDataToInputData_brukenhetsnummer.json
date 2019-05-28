@@ -1,6 +1,6 @@
 {
-    "id": "dbe85d95-5f9c-450d-a631-748232fea276",
+    "id": "40966329-9b9b-403f-ba30-4fd7394b9382",
     "sourceName": "brukenhetsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/644da10b-ff5d-4744-bccd-c37dd5ade62b"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/2ffa9cfb-bddb-45f1-af35-50d06a968b9c"
 }

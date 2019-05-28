@@ -1,5 +1,5 @@
 {
-    "id": "e5041b9c-a54e-401e-b662-373f2a15d837",
+    "id": "f909d056-2584-46eb-a2b8-b1e0d540f7f0",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - loenn og tilsvarende ytelser, overfoert fra barn"
+            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, overfoert fra barn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LOENNOGTILSVARENDEYTELSER_OVERFOERTFRABARN"

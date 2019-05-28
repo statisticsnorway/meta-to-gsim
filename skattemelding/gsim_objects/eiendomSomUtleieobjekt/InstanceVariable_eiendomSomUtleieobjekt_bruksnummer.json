@@ -1,5 +1,5 @@
 {
-    "id": "419636c8-3855-477c-bb2e-b697f76918f4",
+    "id": "d4dd90dd-24a1-488e-b42a-b05b8995b350",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom som utleieobjekt, bruksnummer"
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, bruksnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:33.000Z",
-    "validFrom": "2019-05-24T16:03:33.000Z",
-    "createdDate": "2019-05-24T16:03:33.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOMSOMUTLEIEOBJEKT_BRUKSNUMMER"

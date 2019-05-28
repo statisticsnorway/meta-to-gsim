@@ -1,5 +1,5 @@
 {
-    "id": "bd1d1c9b-d17f-4b9b-b4e3-d453d59b82de",
+    "id": "4b62f410-8049-4601-adb2-7fc09758d377",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur gave til frivillig organisasjon"
+            "languageText": "UttrekkSkattemelding datastruktur gave til frivillig organisasjon"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:36.000Z",
-    "validFrom": "2019-05-24T16:03:36.000Z",
-    "createdDate": "2019-05-24T16:03:36.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/a6528abb-4cdf-4373-b224-c24ae1377c3a"
+        "/LogicalRecord/f266f1d9-249c-44bd-bc8b-e0dd3b87011e"
     ]
 }

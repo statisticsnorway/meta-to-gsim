@@ -1,6 +1,6 @@
 {
-    "id": "60c58ec7-64e1-452a-9c5d-cac613d6fb04",
+    "id": "7db0293c-3310-4187-ae42-1230c6673a02",
     "sourceName": "opptjenteRenter",
-    "sourcePath": "/SkattemeldingUtflatet/privatFordringUtenforVirksomhet/",
-    "targetInstanceVariable": "/InstanceVariable/413bc3b1-3c1b-4b03-b661-69f60eab2c6e"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/privatFordringUtenforVirksomhet/",
+    "targetInstanceVariable": "/InstanceVariable/815dcba4-686a-49aa-b478-4368a48f1a78"
 }

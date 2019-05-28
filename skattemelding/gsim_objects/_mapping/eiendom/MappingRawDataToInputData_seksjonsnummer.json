@@ -1,6 +1,6 @@
 {
-    "id": "e63c5740-0621-416b-9360-57eb1b1d9310",
+    "id": "e46d12e7-39f2-4831-9ff1-1d726703752e",
     "sourceName": "seksjonsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/d43688a1-48c7-4dca-bb35-7d3e50c6d778"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/32c0c494-9aa5-4fdf-8d52-fc7e988ccb23"
 }

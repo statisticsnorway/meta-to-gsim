@@ -1,6 +1,6 @@
 {
-    "id": "b81ddad0-4d37-47ac-b866-81b38daf0fce",
+    "id": "29c7ebd8-62f6-4596-a14b-50451ea117bc",
     "sourceName": "tilbakefoerteRenter",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/24ba08ff-7991-4b65-8a4c-7352c7205a16"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/dce827f2-61f5-46c9-b293-677f41e6b5db"
 }

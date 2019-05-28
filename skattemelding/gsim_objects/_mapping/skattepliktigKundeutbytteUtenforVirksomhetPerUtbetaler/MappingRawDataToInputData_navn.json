@@ -1,6 +1,6 @@
 {
-    "id": "3cb0f931-cf81-45b7-b3d1-1eae6e524ab1",
+    "id": "afa2829f-28ff-4586-9a64-e3c7b6eca618",
     "sourceName": "navn",
-    "sourcePath": "/SkattemeldingUtflatet/skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler/",
-    "targetInstanceVariable": "/InstanceVariable/234b5097-424f-4f37-a46b-46a3505bda7b"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler/",
+    "targetInstanceVariable": "/InstanceVariable/a3da8a38-fcee-40b6-97e8-bfe1d0b9f226"
 }

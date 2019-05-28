@@ -1,5 +1,5 @@
 {
-    "id": "f0945d3e-d7aa-49d5-abb8-ca44fbb165a6",
+    "id": "e18f6fa5-c58e-47e3-a283-8a470b7b82f8",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom, husbokstav"
+            "languageText": "UttrekkSkattemelding - eiendom, husbokstav"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_HUSBOKSTAV"

@@ -1,5 +1,5 @@
 {
-    "id": "ed48ca0e-f9a4-430a-a566-37f0c4369aae",
+    "id": "a587bd18-21be-422d-b20e-80a349f5659a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,19 +9,20 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) oppholdskostnader ved pass og stell av barn"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) oppholdskostnader ved pass og stell av barn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:40.000Z",
-    "validFrom": "2019-05-24T16:03:40.000Z",
-    "createdDate": "2019-05-24T16:03:40.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/613da5c1-d4aa-4415-b69a-3917aa71a0fd",
-        "/InstanceVariable/e7d2b251-79e8-4430-a750-21a0ed853a91",
-        "/InstanceVariable/7ca6f6a5-e4dd-4e22-ae3c-7db6f2bcf8cd",
-        "/InstanceVariable/fdc70f3b-755f-4370-8de3-3515b4c88f18"
+        "/InstanceVariable/f977f59b-a6ce-4cc2-bc8c-b95c1868ec91",
+        "/InstanceVariable/6a0bc816-c060-4e81-b92d-f3ae33b7a2a8",
+        "/InstanceVariable/183c49de-b82c-4eb3-b3e3-4d7b7cb4e846",
+        "/InstanceVariable/b268bf35-04f7-4258-a03e-a91a96ad0e26",
+        "/InstanceVariable/06a164a9-1afe-4290-aac3-2fbc34594bcd"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OPPHOLDSKOSTNADERVEDPASSOGSTELLAVBARN"

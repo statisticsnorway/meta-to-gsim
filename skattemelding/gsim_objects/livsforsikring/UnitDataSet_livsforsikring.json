@@ -1,5 +1,5 @@
 {
-    "id": "a23a0f19-688b-424e-9fd4-a7ef6e7ef690",
+    "id": "05d50ac1-39e3-4bb2-85aa-79d90ce5737d",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett livsforsikring"
+            "languageText": "UttrekkSkattemelding datasett livsforsikring"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/a2a30622-e2f0-43b9-abd3-2a8f4d016715",
+    "unitDataStructure": "/UnitDataStructure/a61c5e91-6cf6-4c43-bdd8-4a37249baafd",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

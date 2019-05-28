@@ -1,5 +1,5 @@
 {
-    "id": "0f8ecba1-3a50-4beb-8014-01afec9f66b7",
+    "id": "9aa29efc-09b7-4541-ad7d-9e7b3f9b6b3e",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - skyldig restskatt, betalte forsinkelsesrenter for samlet skyldig restskatt"
+            "languageText": "UttrekkSkattemelding - skyldig restskatt, betalte forsinkelsesrenter for samlet skyldig restskatt"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:42.000Z",
-    "validFrom": "2019-05-24T16:03:42.000Z",
-    "createdDate": "2019-05-24T16:03:42.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "SKYLDIGRESTSKATT_BETALTEFORSINKELSESRENTERFORSAMLETSKYLDIGRESTSKATT"

@@ -1,6 +1,6 @@
 {
-    "id": "41fcf2cf-edbe-4840-aaf2-b07abd2f3130",
+    "id": "81379c1c-4ec0-4716-a75e-39e6486ff19b",
     "sourceName": "baatmerke",
-    "sourcePath": "/SkattemeldingUtflatet/fritidsbaatMedSalgsverdiOverSalgsverdigrense/",
-    "targetInstanceVariable": "/InstanceVariable/5be37152-9a8c-49d8-9c60-0e5483fd1b72"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/fritidsbaatMedSalgsverdiOverSalgsverdigrense/",
+    "targetInstanceVariable": "/InstanceVariable/f3b5aa7d-99b6-4c31-8c7f-dfe4b38b1db5"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "aa5d474d-8503-4f5d-b2e4-0d0a7c2f9569",
+    "id": "b1c4bb60-d821-46b9-9c2f-e5ba49712e13",
     "sourceName": "antallDagerMedArbeidsreise",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsreise/",
-    "targetInstanceVariable": "/InstanceVariable/0563ab4c-306d-473e-a11a-54dbc169c054"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsreise/",
+    "targetInstanceVariable": "/InstanceVariable/4829abe3-aa29-45c0-b3e3-a78f2796e79f"
 }

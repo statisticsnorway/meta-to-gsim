@@ -1,6 +1,6 @@
 {
-    "id": "95452712-b683-4dda-92ed-64e3b2392b55",
+    "id": "17fad41c-685a-4f22-b24d-eec42bac42e3",
     "sourceName": "beloep",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/ace562b1-d790-40f0-bc19-022ee0fa455e"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/c27931f0-0892-40b9-bb54-f77c6c130444"
 }

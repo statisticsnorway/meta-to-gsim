@@ -1,5 +1,5 @@
 {
-    "id": "729c5998-43a8-4621-8db5-89d4cea61ac4",
+    "id": "9e797bef-adf2-408d-abf4-14a8ad32f120",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - arbeidsopphold utenfor hjemmet, merkostnader for kost ved arbeidsopphold utenfor hjemmet"
+            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, merkostnader for kost ved arbeidsopphold utenfor hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_MERKOSTNADERFORKOSTVEDARBEIDSOPPHOLDUTENFORHJEMMET"

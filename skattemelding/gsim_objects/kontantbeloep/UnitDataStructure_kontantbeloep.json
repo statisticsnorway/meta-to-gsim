@@ -1,5 +1,5 @@
 {
-    "id": "78f817d4-07f2-4a0a-b5bb-5ff577921949",
+    "id": "99816327-d151-4496-98b6-7b8701746717",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur kontantbeloep"
+            "languageText": "UttrekkSkattemelding datastruktur kontantbeloep"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:38.000Z",
-    "validFrom": "2019-05-24T16:03:38.000Z",
-    "createdDate": "2019-05-24T16:03:38.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/e0c7c9e7-1da2-444d-a257-65d6499eb9e5"
+        "/LogicalRecord/4961c268-e66e-433c-be23-531632e95062"
     ]
 }

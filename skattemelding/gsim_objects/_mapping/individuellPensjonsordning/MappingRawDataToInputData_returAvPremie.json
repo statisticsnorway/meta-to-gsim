@@ -1,6 +1,6 @@
 {
-    "id": "be2520bd-075f-4f00-8caa-a41bd8f533d0",
+    "id": "0236cba3-0df6-4847-b115-681b2da22d79",
     "sourceName": "returAvPremie",
-    "sourcePath": "/SkattemeldingUtflatet/individuellPensjonsordning/",
-    "targetInstanceVariable": "/InstanceVariable/7e1fec80-2eb6-48d7-bbfd-b63741cc7dd6"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/individuellPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/e2fbfe1e-81b0-4965-b2a3-aa4dcaa4efc4"
 }

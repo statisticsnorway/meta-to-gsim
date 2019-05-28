@@ -1,5 +1,5 @@
 {
-    "id": "1205174f-b987-4c3f-bd2b-d1106ba2d143",
+    "id": "27e66d4c-84f6-482e-8fba-d14f137d1b7a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur arbeidsopphold utenfor hjemmet"
+            "languageText": "UttrekkSkattemelding datastruktur arbeidsopphold utenfor hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/916b93d4-0c31-4b13-988f-160221c82629"
+        "/LogicalRecord/baa3a105-99e2-40ae-b24f-356c0227295f"
     ]
 }

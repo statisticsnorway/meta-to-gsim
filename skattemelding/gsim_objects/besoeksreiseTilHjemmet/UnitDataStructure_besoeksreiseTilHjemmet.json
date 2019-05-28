@@ -1,5 +1,5 @@
 {
-    "id": "49f81c75-f7cd-4ea0-ab59-1978a618a589",
+    "id": "9ad92a6c-685c-4fab-b20d-60b701f4f837",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur besoeksreise til hjemmet"
+            "languageText": "UttrekkSkattemelding datastruktur besoeksreise til hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/d239de2e-7792-4346-b735-aa8b343282f8"
+        "/LogicalRecord/6e730cd1-4eaf-42b6-934d-350e8c76c426"
     ]
 }

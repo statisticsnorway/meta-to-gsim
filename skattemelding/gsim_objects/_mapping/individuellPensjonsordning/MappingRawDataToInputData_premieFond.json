@@ -1,6 +1,6 @@
 {
-    "id": "4ac0ee17-cad2-4970-82e5-6eb805c5fa21",
+    "id": "d76fddd1-4113-4a8b-a392-55740fcaf28c",
     "sourceName": "premieFond",
-    "sourcePath": "/SkattemeldingUtflatet/individuellPensjonsordning/",
-    "targetInstanceVariable": "/InstanceVariable/f715176e-40a4-42cb-9071-f45cc608b754"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/individuellPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/afa9260b-01fd-4d02-87f8-7fb23316a899"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "14e4d7aa-cf79-47c5-b82b-00917c087199",
+    "id": "5f733d47-babc-46ac-aa8c-8dd669dbce0a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett kjoeretoey"
+            "languageText": "UttrekkSkattemelding datasett kjoeretoey"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:37.000Z",
-    "validFrom": "2019-05-24T16:03:37.000Z",
-    "createdDate": "2019-05-24T16:03:37.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/27104fbc-9696-433b-90c3-4b7cac667625",
+    "unitDataStructure": "/UnitDataStructure/b54d4690-c4da-4007-8298-85a8736dc4fc",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

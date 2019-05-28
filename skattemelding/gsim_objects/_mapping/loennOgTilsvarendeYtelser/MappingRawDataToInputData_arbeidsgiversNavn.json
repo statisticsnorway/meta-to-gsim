@@ -1,6 +1,6 @@
 {
-    "id": "aabb888a-0c1e-47e2-bd53-086c5e247b11",
+    "id": "11b0654e-63f5-4c02-bd9b-0b10d79e9670",
     "sourceName": "arbeidsgiversNavn",
-    "sourcePath": "/SkattemeldingUtflatet/loennOgTilsvarendeYtelser/",
-    "targetInstanceVariable": "/InstanceVariable/c4e83884-5d6a-41af-b0c7-8406dd253f05"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/loennOgTilsvarendeYtelser/",
+    "targetInstanceVariable": "/InstanceVariable/d7f6dd83-0e39-410a-866d-302b25d76a47"
 }

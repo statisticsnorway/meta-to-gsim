@@ -1,6 +1,6 @@
 {
-    "id": "60c2e2db-2dba-4cf5-a603-684acab0f0e2",
+    "id": "a58560fa-2dff-4bc6-8e59-b3580b353789",
     "sourceName": "pensjonstype",
-    "sourcePath": "/SkattemeldingUtflatet/kollektivPensjonsordning/",
-    "targetInstanceVariable": "/InstanceVariable/2a10173f-da48-464a-93a3-49ab5a88762c"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kollektivPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/bae936b5-b0a2-43ee-9586-62c89c9674e4"
 }

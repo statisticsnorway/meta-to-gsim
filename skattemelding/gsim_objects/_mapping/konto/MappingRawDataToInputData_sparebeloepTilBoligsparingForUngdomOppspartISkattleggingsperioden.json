@@ -1,6 +1,6 @@
 {
-    "id": "36f4d100-57e2-4898-9389-1a7e313c68cb",
+    "id": "6755cd52-fe76-496a-a041-e8da5278b7a1",
     "sourceName": "sparebeloepTilBoligsparingForUngdomOppspartISkattleggingsperioden",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/c02602a2-6bc6-48b2-8e32-50300a58423a"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/65b67cbc-143b-4358-80c1-e6ebf98a9e99"
 }

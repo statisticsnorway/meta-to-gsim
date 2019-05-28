@@ -1,6 +1,6 @@
 {
-    "id": "4a6f471d-d8f9-4975-a27e-293e72638120",
+    "id": "3759669b-1a40-447c-ba85-421f8c428297",
     "sourceName": "forsikringssum",
-    "sourcePath": "/SkattemeldingUtflatet/fritidsbaatMedSalgsverdiOverSalgsverdigrense/",
-    "targetInstanceVariable": "/InstanceVariable/c6db07b9-f7a5-4f9f-89d7-e6e85f40542e"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/fritidsbaatMedSalgsverdiOverSalgsverdigrense/",
+    "targetInstanceVariable": "/InstanceVariable/77655f2d-8865-4ac2-81d2-c3dae11f34e8"
 }

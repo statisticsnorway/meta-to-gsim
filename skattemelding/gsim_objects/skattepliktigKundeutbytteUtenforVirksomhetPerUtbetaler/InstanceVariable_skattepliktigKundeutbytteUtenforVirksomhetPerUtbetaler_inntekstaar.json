@@ -1,0 +1,25 @@
+{
+    "id": "012a6446-0f07-4102-8f5d-2d4e1a379836",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

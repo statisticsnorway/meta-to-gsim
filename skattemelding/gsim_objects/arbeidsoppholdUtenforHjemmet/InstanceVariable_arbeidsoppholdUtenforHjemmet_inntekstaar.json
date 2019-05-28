@@ -1,0 +1,25 @@
+{
+    "id": "0a1a5e70-f881-42fd-8b8e-4d591a3672f4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsoppholdUtenforHjemmet inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

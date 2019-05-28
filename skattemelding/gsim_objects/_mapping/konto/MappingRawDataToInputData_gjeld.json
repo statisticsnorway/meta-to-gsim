@@ -1,6 +1,6 @@
 {
-    "id": "052b783f-f0d8-47e1-9157-7fafab82b36a",
+    "id": "7d07c6db-fb7c-44f9-8c65-a1e7dc6c9571",
     "sourceName": "gjeld",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/743c7a1a-902a-4893-bdb3-a28a4bf41dcd"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/26453891-f0da-45c1-a612-9b9fb8638fe9"
 }

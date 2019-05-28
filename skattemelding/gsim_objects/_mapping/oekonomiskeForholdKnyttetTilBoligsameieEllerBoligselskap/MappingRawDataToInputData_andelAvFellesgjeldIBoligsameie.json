@@ -1,6 +1,6 @@
 {
-    "id": "f9235352-2505-4e68-a673-aa776f89e3ef",
+    "id": "da83d72e-9b89-4ae5-8354-e4e4179b3af3",
     "sourceName": "andelAvFellesgjeldIBoligsameie",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/fc3113ef-f4fb-42ba-ae8e-86757dae013d"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/57aa70d2-19d5-42fd-b9d2-d4bbd24f441d"
 }

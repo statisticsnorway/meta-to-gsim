@@ -1,5 +1,5 @@
 {
-    "id": "b6152316-7483-403b-9598-0cb8ea5baebc",
+    "id": "af6def43-a57f-4cee-a47f-104547820abe",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av inntekt i boligselskap"
+            "languageText": "UttrekkSkattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av inntekt i boligselskap"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:43.000Z",
-    "validFrom": "2019-05-24T16:03:43.000Z",
-    "createdDate": "2019-05-24T16:03:43.000Z",
+    "versionValidFrom": "2019-05-28T14:56:56.000Z",
+    "validFrom": "2019-05-28T14:56:56.000Z",
+    "createdDate": "2019-05-28T14:56:56.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP_ANDELAVINNTEKTIBOLIGSELSKAP"

@@ -1,5 +1,5 @@
 {
-    "id": "d362fec4-0921-4d80-8445-ffbeeb817ad3",
+    "id": "8502029b-4ab2-45e6-8a1e-6402d53250fd",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - livsforsikring, forsikringsnummer"
+            "languageText": "UttrekkSkattemelding - livsforsikring, forsikringsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LIVSFORSIKRING_FORSIKRINGSNUMMER"

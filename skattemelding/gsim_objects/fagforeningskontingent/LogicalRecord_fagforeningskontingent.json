@@ -1,5 +1,5 @@
 {
-    "id": "90c0a85a-9ebb-4035-8a3c-d701812b6931",
+    "id": "e48aa8f7-7f17-49c7-8079-aa56e82f3e8f",
     "name": [
         {
             "languageCode": "nb",
@@ -9,17 +9,18 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) fagforeningskontingent"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) fagforeningskontingent"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:35.000Z",
-    "validFrom": "2019-05-24T16:03:35.000Z",
-    "createdDate": "2019-05-24T16:03:35.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/ab296787-6f70-4f2d-99e7-5b3d987b276d",
-        "/InstanceVariable/7ce6f40c-f19e-4797-855f-cb45bf42ab2e"
+        "/InstanceVariable/b2908314-1688-468c-8a8e-fc7d73d39500",
+        "/InstanceVariable/7bc312b8-aa85-4457-b7f0-d05fe4c305a7",
+        "/InstanceVariable/b47f3acf-1f58-490d-9ad7-3f41c08734f1"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FAGFORENINGSKONTINGENT"

@@ -1,5 +1,5 @@
 {
-    "id": "07094a3a-11de-4e23-a84f-b8561f8ae7ce",
+    "id": "a09465d5-4909-42a6-a76c-2e938c9d1522",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur loenn og tilsvarende ytelser"
+            "languageText": "UttrekkSkattemelding datastruktur loenn og tilsvarende ytelser"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/8d9bca27-0a6e-45f3-a972-93e737f66808"
+        "/LogicalRecord/a5f852f8-a427-4552-8d46-769304fb591f"
     ]
 }

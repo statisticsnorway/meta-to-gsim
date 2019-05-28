@@ -1,6 +1,6 @@
 {
-    "id": "5a2d43ce-8396-4dbb-9f21-c08a26a6ce01",
+    "id": "030d29f9-3001-4585-b82f-111aba14b556",
     "sourceName": "betaltBeloep",
-    "sourcePath": "/SkattemeldingUtflatet/oppholdskostnaderVedPassOgStellAvBarn/",
-    "targetInstanceVariable": "/InstanceVariable/613da5c1-d4aa-4415-b69a-3917aa71a0fd"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oppholdskostnaderVedPassOgStellAvBarn/",
+    "targetInstanceVariable": "/InstanceVariable/f977f59b-a6ce-4cc2-bc8c-b95c1868ec91"
 }

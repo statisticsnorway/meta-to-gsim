@@ -1,6 +1,6 @@
 {
-    "id": "de2ef656-f595-4bf2-870c-93ed902c920c",
+    "id": "aeda0036-0a97-4567-bc88-6c10e6b533e7",
     "sourceName": "gaardsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/ad883054-b8f9-4990-a1b5-6cc147227f3d"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/cfeea09b-dc23-4947-b901-57c0aee17ad4"
 }

@@ -1,0 +1,25 @@
+{
+    "id": "06a164a9-1afe-4290-aac3-2fbc34594bcd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdskostnaderVedPassOgStellAvBarn inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - oppholdskostnader ved pass og stell av barn, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "OPPHOLDSKOSTNADERVEDPASSOGSTELLAVBARN_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

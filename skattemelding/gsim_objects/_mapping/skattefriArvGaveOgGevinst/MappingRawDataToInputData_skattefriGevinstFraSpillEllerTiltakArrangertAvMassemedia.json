@@ -1,6 +1,6 @@
 {
-    "id": "20d204d6-3d8a-4585-af35-15f6243635c0",
+    "id": "710c1794-c16a-48e9-99a7-7511e8da403c",
     "sourceName": "skattefriGevinstFraSpillEllerTiltakArrangertAvMassemedia",
-    "sourcePath": "/SkattemeldingUtflatet/skattefriArvGaveOgGevinst/",
-    "targetInstanceVariable": "/InstanceVariable/2ff3fc7d-3f83-4d7a-966d-4388908f91bc"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/skattefriArvGaveOgGevinst/",
+    "targetInstanceVariable": "/InstanceVariable/b1ebdd3c-21ad-4eb4-83b9-d5c5a29060bb"
 }

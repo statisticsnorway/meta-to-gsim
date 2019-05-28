@@ -1,6 +1,6 @@
 {
-    "id": "2e6ba2bd-3dd1-4325-a330-dbc004830693",
+    "id": "cc82230c-96be-42a4-87a4-e3e1eac00904",
     "sourceName": "bruksnummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/d597bf0e-d776-4323-8b85-7e258f749d9e"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/87d2bbec-9c23-4067-a12a-56fb924eeb2d"
 }

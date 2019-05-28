@@ -1,5 +1,5 @@
 {
-    "id": "cd67779c-ce41-4efc-afa7-0550a9940bb1",
+    "id": "708b2966-a13c-4e73-9c1b-9704f59bada5",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - loenn og tilsvarende ytelser, organisasjonsnummer"
+            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, organisasjonsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LOENNOGTILSVARENDEYTELSER_ORGANISASJONSNUMMER"

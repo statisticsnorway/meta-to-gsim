@@ -1,5 +1,5 @@
 {
-    "id": "7e1fec80-2eb6-48d7-bbfd-b63741cc7dd6",
+    "id": "e2fbfe1e-81b0-4965-b2a3-aa4dcaa4efc4",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - individuell pensjonsordning, retur av premie"
+            "languageText": "UttrekkSkattemelding - individuell pensjonsordning, retur av premie"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:36.000Z",
-    "validFrom": "2019-05-24T16:03:36.000Z",
-    "createdDate": "2019-05-24T16:03:36.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "INDIVIDUELLPENSJONSORDNING_RETURAVPREMIE"

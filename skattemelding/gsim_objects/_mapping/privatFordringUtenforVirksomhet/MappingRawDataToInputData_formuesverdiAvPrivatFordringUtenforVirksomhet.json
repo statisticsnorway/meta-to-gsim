@@ -1,6 +1,6 @@
 {
-    "id": "7e6da88f-a592-4713-905b-5b6454a26ae4",
+    "id": "ca918493-58d3-44a6-bef5-32392f09063f",
     "sourceName": "formuesverdiAvPrivatFordringUtenforVirksomhet",
-    "sourcePath": "/SkattemeldingUtflatet/privatFordringUtenforVirksomhet/",
-    "targetInstanceVariable": "/InstanceVariable/ef3bc2f2-2199-4394-9442-143b1072d5ee"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/privatFordringUtenforVirksomhet/",
+    "targetInstanceVariable": "/InstanceVariable/73849bf8-0d68-41df-a755-60a37e2f11e7"
 }

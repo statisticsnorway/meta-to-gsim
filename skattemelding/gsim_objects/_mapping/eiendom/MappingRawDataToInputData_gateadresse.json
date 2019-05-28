@@ -1,6 +1,6 @@
 {
-    "id": "93cf5ae4-34ab-404b-9f73-c8028d6cd950",
+    "id": "f16addd5-ec79-4935-928d-0d6767dc9cf2",
     "sourceName": "gateadresse",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/36a9f6e3-34d6-4b63-a888-ee419a3361a9"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/f56e183d-ef1e-4371-a525-7427c8fb5187"
 }

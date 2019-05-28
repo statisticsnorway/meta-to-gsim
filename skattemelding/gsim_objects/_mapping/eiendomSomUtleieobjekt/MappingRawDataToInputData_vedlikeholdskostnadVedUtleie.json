@@ -1,6 +1,6 @@
 {
-    "id": "e4a8b1fb-0e76-4fa2-9f5a-2edf5596ef82",
+    "id": "8127bf74-8e15-443d-8971-d72d51375883",
     "sourceName": "vedlikeholdskostnadVedUtleie",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/a7c5e3bb-4980-423f-bc8f-ddc9521f7a56"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/525e8d47-1b5a-4923-beb8-b93a22816b89"
 }

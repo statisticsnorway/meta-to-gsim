@@ -1,6 +1,6 @@
 {
-    "id": "02ac6dc7-a71c-45e7-bfd0-639093d08949",
+    "id": "13a371ea-44e9-42d2-b0dd-179f0cc951d5",
     "sourceName": "andelAvFradragsberettigetFelleskostnadBoligselskap",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/5dcd99aa-8bd8-4ae5-bfbe-731767217f7b"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/e978b058-0848-4ea9-9a26-4626b9657b90"
 }

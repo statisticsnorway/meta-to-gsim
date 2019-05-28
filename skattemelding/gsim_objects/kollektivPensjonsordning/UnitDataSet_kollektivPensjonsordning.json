@@ -1,5 +1,5 @@
 {
-    "id": "fd962a43-64c8-497f-91d4-c69c003ca06b",
+    "id": "c9cdd258-fb7a-47b8-a8e3-0705f8b1b8fb",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett kollektiv pensjonsordning"
+            "languageText": "UttrekkSkattemelding datasett kollektiv pensjonsordning"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:37.000Z",
-    "validFrom": "2019-05-24T16:03:37.000Z",
-    "createdDate": "2019-05-24T16:03:37.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/b9cfb9d3-d8a4-4b6c-be39-3661da3e7233",
+    "unitDataStructure": "/UnitDataStructure/998c6a1f-76ef-42cb-a9d8-9375f5b39009",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

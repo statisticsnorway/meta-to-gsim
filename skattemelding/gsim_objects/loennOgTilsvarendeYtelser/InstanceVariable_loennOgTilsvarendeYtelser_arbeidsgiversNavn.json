@@ -1,5 +1,5 @@
 {
-    "id": "c4e83884-5d6a-41af-b0c7-8406dd253f05",
+    "id": "d7f6dd83-0e39-410a-866d-302b25d76a47",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - loenn og tilsvarende ytelser, arbeidsgivers navn"
+            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, arbeidsgivers navn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LOENNOGTILSVARENDEYTELSER_ARBEIDSGIVERSNAVN"

@@ -1,5 +1,5 @@
 {
-    "id": "afae6a35-a451-43e6-b750-ee463341eebd",
+    "id": "eb2d2724-be28-493c-bbe6-5c7eb2a8d98b",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur fagforeningskontingent"
+            "languageText": "UttrekkSkattemelding datastruktur fagforeningskontingent"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:35.000Z",
-    "validFrom": "2019-05-24T16:03:35.000Z",
-    "createdDate": "2019-05-24T16:03:35.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/90c0a85a-9ebb-4035-8a3c-d701812b6931"
+        "/LogicalRecord/e48aa8f7-7f17-49c7-8079-aa56e82f3e8f"
     ]
 }

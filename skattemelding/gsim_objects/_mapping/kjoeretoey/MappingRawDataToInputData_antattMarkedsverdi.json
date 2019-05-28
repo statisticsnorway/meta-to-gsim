@@ -1,6 +1,6 @@
 {
-    "id": "7dda2ab7-d90d-4e87-a893-e7511669e480",
+    "id": "a57f834a-1138-4c60-8f15-4208b341cc04",
     "sourceName": "antattMarkedsverdi",
-    "sourcePath": "/SkattemeldingUtflatet/kjoeretoey/",
-    "targetInstanceVariable": "/InstanceVariable/375a817e-d398-4a61-8bf1-d68600725ef8"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kjoeretoey/",
+    "targetInstanceVariable": "/InstanceVariable/a435be70-959a-44ce-a1d6-ecd82ab869c2"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "ba9e3a92-2ef1-4310-85ad-653d59b9724b",
+    "id": "43572300-5c3e-41a0-94a7-ca9e6c443822",
     "sourceName": "festeavgiftVedUtleie",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/c49836f2-7cac-4722-bde9-7892c2690717"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/b871c798-a26c-4229-a983-e95200ac2c30"
 }

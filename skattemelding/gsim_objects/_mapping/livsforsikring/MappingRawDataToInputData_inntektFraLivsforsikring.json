@@ -1,6 +1,6 @@
 {
-    "id": "e7a48a35-493b-45c6-b3c1-0fb756665b33",
+    "id": "deec247a-5d78-4f70-8581-320dd53494bb",
     "sourceName": "inntektFraLivsforsikring",
-    "sourcePath": "/SkattemeldingUtflatet/livsforsikring/",
-    "targetInstanceVariable": "/InstanceVariable/f9b1805c-7683-49ac-98da-a3d408980520"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/livsforsikring/",
+    "targetInstanceVariable": "/InstanceVariable/3b6641f3-e6e2-4d37-9d4f-7a93fbeb8fdb"
 }

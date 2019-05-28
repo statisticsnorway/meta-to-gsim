@@ -1,0 +1,25 @@
+{
+    "id": "1cc059de-b26d-49b6-a47d-47e98a107d47",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatFordringUtenforVirksomhet personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - privat fordring utenfor virksomhet, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

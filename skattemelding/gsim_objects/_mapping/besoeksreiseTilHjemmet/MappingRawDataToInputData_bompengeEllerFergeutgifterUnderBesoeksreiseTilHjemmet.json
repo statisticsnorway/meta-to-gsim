@@ -1,6 +1,6 @@
 {
-    "id": "1643ffc3-78ad-4bb0-b34a-13dd996572b9",
+    "id": "63643981-a525-4271-b3db-1bbf59c70cdc",
     "sourceName": "bompengeEllerFergeutgifterUnderBesoeksreiseTilHjemmet",
-    "sourcePath": "/SkattemeldingUtflatet/besoeksreiseTilHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/909d5fa7-0444-41c8-8b25-f92ca351eb17"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/besoeksreiseTilHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/16cb68e9-bf3a-4351-82dc-772462ea3bae"
 }

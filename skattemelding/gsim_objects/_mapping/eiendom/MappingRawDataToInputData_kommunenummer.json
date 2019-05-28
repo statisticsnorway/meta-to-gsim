@@ -1,6 +1,6 @@
 {
-    "id": "3f57e4db-854d-4f67-98bd-7af0ab779ba4",
+    "id": "c7869599-ec03-4ec6-ad29-cbdd5a5e65d3",
     "sourceName": "kommunenummer",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/6ea5719c-6a40-4fa9-b6d1-7bf4a0f9f87d"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/e75bd353-d32f-4dc8-a360-becc645b301a"
 }

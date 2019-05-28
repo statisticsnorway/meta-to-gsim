@@ -1,6 +1,6 @@
 {
-    "id": "de2e497b-bb41-48f7-957c-f0c678a36ae4",
+    "id": "18e71f05-0a2e-4253-b249-25263b51eb43",
     "sourceName": "beloep",
-    "sourcePath": "/SkattemeldingUtflatet/gaveTilFrivilligOrganisasjon/",
-    "targetInstanceVariable": "/InstanceVariable/067fa857-110f-4247-b79c-f4f958850a82"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/gaveTilFrivilligOrganisasjon/",
+    "targetInstanceVariable": "/InstanceVariable/dda9a806-3c80-4b3e-90c0-2c2f98ffe6f9"
 }

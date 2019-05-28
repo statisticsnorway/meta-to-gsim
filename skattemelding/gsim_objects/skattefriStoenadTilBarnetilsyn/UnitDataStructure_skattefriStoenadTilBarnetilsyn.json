@@ -1,5 +1,5 @@
 {
-    "id": "d1b0acd3-1efd-482a-a951-510337008321",
+    "id": "80451691-5339-4382-8b04-c03120ad186a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur skattefri stoenad til barnetilsyn"
+            "languageText": "UttrekkSkattemelding datastruktur skattefri stoenad til barnetilsyn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/750f5eef-6fdc-47bf-8596-560578e44cdf"
+        "/LogicalRecord/531da0d8-b37b-4b7d-974e-d450b0fb84b2"
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "id": "5e8238d1-5748-4ed9-bd2e-67df0c25c942",
+    "id": "40f24634-e7b9-4c11-ae4b-debbb3d28edb",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - arbeidsopphold utenfor hjemmet, merkostnad for losji ved arbeidsopphold utenfor hjemmet"
+            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, merkostnad for losji ved arbeidsopphold utenfor hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_MERKOSTNADFORLOSJIVEDARBEIDSOPPHOLDUTENFORHJEMMET"

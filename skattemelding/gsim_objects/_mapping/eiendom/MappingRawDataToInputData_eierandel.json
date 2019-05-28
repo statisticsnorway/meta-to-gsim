@@ -1,6 +1,6 @@
 {
-    "id": "761e646b-1987-4167-a7d6-9d9464509c56",
+    "id": "ab5f12dc-f55e-40cf-89fb-a0203d00c32e",
     "sourceName": "eierandel",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/ed7e6d0a-ee73-41c6-a702-e2625c630046"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/442e7fca-e016-45cb-bdab-e403381fa629"
 }

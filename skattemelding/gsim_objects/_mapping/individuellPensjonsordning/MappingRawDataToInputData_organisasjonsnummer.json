@@ -1,6 +1,6 @@
 {
-    "id": "a5ff9967-df32-4a08-9182-32dc984d9eed",
+    "id": "6dbc7eb7-87c6-470c-ba56-9c22263374d5",
     "sourceName": "organisasjonsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/individuellPensjonsordning/",
-    "targetInstanceVariable": "/InstanceVariable/aee1a276-eab2-44fa-bda4-fdf2156c687a"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/individuellPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/768ff03c-0194-4f22-b454-6e7d13831018"
 }

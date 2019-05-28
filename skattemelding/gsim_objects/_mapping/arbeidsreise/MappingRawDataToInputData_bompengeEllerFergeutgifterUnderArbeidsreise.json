@@ -1,6 +1,6 @@
 {
-    "id": "616a225f-a1e2-414f-b43c-73cefe17f38f",
+    "id": "36e5d655-d6c2-4032-8b5f-a377dbacebd8",
     "sourceName": "bompengeEllerFergeutgifterUnderArbeidsreise",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsreise/",
-    "targetInstanceVariable": "/InstanceVariable/403d9f21-6c5f-4632-9650-6ffe6aec4ddd"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsreise/",
+    "targetInstanceVariable": "/InstanceVariable/4df7cd16-88c6-481c-8fcc-cfbcf5ee9e4d"
 }

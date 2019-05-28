@@ -1,6 +1,6 @@
 {
-    "id": "c1cf20c1-1e7b-4bac-87e3-75e9159adf81",
+    "id": "bb1a6e18-65dd-40bb-8b63-4f5450b9971c",
     "sourceName": "SERGEiendomsidentifikator",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/afac1acc-4097-4b04-9d02-485b55f00648"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/42e05e09-494e-4d62-bed9-32c571984af8"
 }

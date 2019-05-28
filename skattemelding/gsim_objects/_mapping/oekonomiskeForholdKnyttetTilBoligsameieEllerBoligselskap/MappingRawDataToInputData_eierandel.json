@@ -1,6 +1,6 @@
 {
-    "id": "fbb4a67a-9f3b-412e-a2d8-7a516142fcd8",
+    "id": "50825168-8e97-47f1-99a1-5f2fc39665fc",
     "sourceName": "eierandel",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/bb9570db-6df1-4826-a80b-eb8a20b39942"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/fc8c3fe2-8982-4a6f-82a7-a28356bc7416"
 }

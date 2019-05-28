@@ -1,5 +1,5 @@
 {
-    "id": "dde86b04-5faa-48aa-a2f9-76512b3caa8c",
+    "id": "28350e40-22c0-41d6-9ed9-56973947deef",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
+            "languageText": "UttrekkSkattemelding datastruktur skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/7d84babc-b990-4545-a1f7-40ec6f33ca10"
+        "/LogicalRecord/b9e7a96e-58f0-4c21-b6a6-c7c38a1ad547"
     ]
 }

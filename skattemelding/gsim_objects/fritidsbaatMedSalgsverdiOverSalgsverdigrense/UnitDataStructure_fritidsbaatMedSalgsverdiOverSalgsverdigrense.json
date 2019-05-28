@@ -1,5 +1,5 @@
 {
-    "id": "8d35936b-f740-4b98-bb0d-248225e6510f",
+    "id": "2eb5300e-ecae-4470-be90-3401b8cfebfc",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur fritidsbaat med salgsverdi over salgsverdigrense"
+            "languageText": "UttrekkSkattemelding datastruktur fritidsbaat med salgsverdi over salgsverdigrense"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:35.000Z",
-    "validFrom": "2019-05-24T16:03:35.000Z",
-    "createdDate": "2019-05-24T16:03:35.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/ea52df79-c81e-46f4-bab1-fd6f6b936f8e"
+        "/LogicalRecord/404d0af6-a303-4e11-ad13-0d0390953fae"
     ]
 }

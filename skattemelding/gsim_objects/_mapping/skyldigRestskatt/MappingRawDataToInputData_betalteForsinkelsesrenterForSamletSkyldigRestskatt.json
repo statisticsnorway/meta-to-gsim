@@ -1,6 +1,6 @@
 {
-    "id": "8ec218b0-4360-4974-b7bb-6be7bd0deb7b",
+    "id": "bbc4c661-90bc-49f8-ab00-2812574644ee",
     "sourceName": "betalteForsinkelsesrenterForSamletSkyldigRestskatt",
-    "sourcePath": "/SkattemeldingUtflatet/skyldigRestskatt/",
-    "targetInstanceVariable": "/InstanceVariable/0f8ecba1-3a50-4beb-8014-01afec9f66b7"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/skyldigRestskatt/",
+    "targetInstanceVariable": "/InstanceVariable/9aa29efc-09b7-4541-ad7d-9e7b3f9b6b3e"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "b77145dc-0e22-46f1-bac7-2623648ba47f",
+    "id": "22653715-ae9a-4981-ad4f-bca1806da3a9",
     "sourceName": "innskudd",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/21dfe954-783c-4c80-9cfc-3417e1ae1a56"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/451edd43-3d90-4071-8353-f017fc5a8c41"
 }

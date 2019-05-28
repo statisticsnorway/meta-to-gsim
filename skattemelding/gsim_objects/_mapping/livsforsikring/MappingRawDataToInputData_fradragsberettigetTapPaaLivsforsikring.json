@@ -1,6 +1,6 @@
 {
-    "id": "de36841c-f2f8-4f51-937b-756f9d8d132f",
+    "id": "01e6dd37-1eb5-4b53-b611-79f93d5e4505",
     "sourceName": "fradragsberettigetTapPaaLivsforsikring",
-    "sourcePath": "/SkattemeldingUtflatet/livsforsikring/",
-    "targetInstanceVariable": "/InstanceVariable/0af4cecf-65c0-4c00-8a98-d2a9ee30b7b9"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/livsforsikring/",
+    "targetInstanceVariable": "/InstanceVariable/e1cc3802-9f29-45ab-adde-2774059a0365"
 }

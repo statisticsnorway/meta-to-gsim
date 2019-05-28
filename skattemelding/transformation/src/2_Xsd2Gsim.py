@@ -30,6 +30,7 @@ import os
 # TODO: import "cleanXsdFile.py" og kjør dette som første steg her !!!!
 
 # Global variables:
+gsimUnitDataSets = []
 gsimInstanceVariables = []
 numOfInstanceVariables = 0
 sisteSkatteetatenHovedElement = ""
@@ -186,6 +187,18 @@ def addGsimMeasureVariable(gsimInstanceVariable):
     gsimInstanceVariables.append(instVar)
 
 
+def addGsimIdentifierVariables():
+    global gsimInstanceVariables
+    for identifierVar in config.identifierComponents:
+        instVar = {}
+        instVar["id"] = str(uuid.uuid4())  # InstanceVariable.id
+        instVar["dataStructureComponentType"] = "IDENTIFIER"
+        instVar["name"] = identifierVar.get("name")
+        instVar["type"] = identifierVar.get("type")
+        instVar["dataStructureComponentRole"] = identifierVar.get("dataStructureComponentRole")
+        instVar["rawDataSourcePath"] = identifierVar.get("rawDataSourcePath")
+        gsimInstanceVariables.append(instVar)
+
 # TODO TODO TODO TODO:
 #  Det må avklares hva som egentlig er en "primærnøkkel" (Identifiers) innenfor i XSD-ene til Skatteetaten, f.eks. i en FREG-meldingstype!
 #  Skatteetaten eller S320 bør kunne svare på dette?
@@ -194,15 +207,7 @@ def addGsimMeasureVariable(gsimInstanceVariable):
 #  -  sekvensnummer og meldings-identifikator som measure?
 #  se https://wiki.ssb.no/display/MAS2/Eks.+hendelse+FREG
 # Må lage FREG identifer for hver hendelse hvis hver hendelse blir eget UnitDataSet i SSBs inndata.
-def addGsimIdentifierVariables():
-    global gsimInstanceVariables
-    instVar = {}
-    instVar["id"] = str(uuid.uuid4())  # InstanceVariable.id
-    instVar["dataStructureComponentType"] = "IDENTIFIER"
-    instVar["name"] = "foedselsEllerDNummer"
-    instVar["type"] = "xsd:string"
-    instVar["identifierComponentRole"] = "ENTITY"
-    gsimInstanceVariables.append(instVar)
+
 
 
 def getGruppePrefix(instanceVariable):
@@ -269,10 +274,11 @@ def iterateXsd(skatteetatenHovedElement):
 
 # Bygger opp json-struktur for GSIM UnitDataSet. Se eksempel: https://github.com/statisticsnorway/gsim-raml-schema/blob/master/examples/_main/UnitDataSet_Person_1.json
 def gsimCreateUnitDataSet(gsimSource):
+    global gsimUnitDataSets
     js = {}
     js["id"] = gsimSource.get("dataSetId")  # TODO: eventuelt om vi skal bytte til ULID (Universally Unique Lexicographically Sortable Identifier)
     js["name"] = [{"languageCode": "nb", "languageText": gsimSource.get("dataSetName")}]
-    js["description"] = [{"languageCode": "nb", "languageText": config.dataCoverage + " datasett " + splitStringOnUpperCase(gsimSource.get("dataSetName"))}]
+    js["description"] = [{"languageCode": "nb", "languageText": config.dataResource + " datasett " + splitStringOnUpperCase(gsimSource.get("dataSetName"))}]
     js["administrativeStatus"] = "DRAFT"
     js["versionValidFrom"] = getZuluDateTime()
     js["validFrom"] = getZuluDateTime()
@@ -282,6 +288,7 @@ def gsimCreateUnitDataSet(gsimSource):
     js["dataSetState"] = "INPUT_DATA"
     js["temporalityType"] = "EVENT"
     #printDict(ds)
+    gsimUnitDataSets.append(js)
     writeJsonFile(js, gsimSource.get("dataSetName"), 'UnitDataSet_' + gsimSource.get("dataSetName"))
 
 
@@ -289,7 +296,7 @@ def gsimCreateUnitDataStructure(gsimSource):
     js = {}
     js["id"] = gsimSource.get("unitDataStructureId")  # TODO: eventuelt om vi skal bytte til ULID (Universally Unique Lexicographically Sortable Identifier)
     js["name"] = [{"languageCode": "nb", "languageText": gsimSource.get("unitDataStructureName")}]
-    js["description"] = [{"languageCode": "nb", "languageText": config.dataCoverage + " datastruktur " + splitStringOnUpperCase(gsimSource.get("unitDataStructureName"))}]
+    js["description"] = [{"languageCode": "nb", "languageText": config.dataResource + " datastruktur " + splitStringOnUpperCase(gsimSource.get("unitDataStructureName"))}]
     js["administrativeStatus"] = "DRAFT"
     js["versionValidFrom"] = getZuluDateTime()
     js["validFrom"] = getZuluDateTime()
@@ -304,7 +311,7 @@ def gsimCreateLogicalRecord(gsimSource):
     js = {}
     js["id"] = gsimSource.get("logicalRecordId")  # TODO: eventuelt om vi skal bytte til ULID (Universally Unique Lexicographically Sortable Identifier)
     js["name"] = [{"languageCode": "nb", "languageText": gsimSource.get("logicalRecordName")}]
-    js["description"] = [{"languageCode": "nb", "languageText": config.dataCoverage + " record (LogicalRecord) " + splitStringOnUpperCase(gsimSource.get("logicalRecordName"))}]
+    js["description"] = [{"languageCode": "nb", "languageText": config.dataResource + " record (LogicalRecord) " + splitStringOnUpperCase(gsimSource.get("logicalRecordName"))}]
     js["administrativeStatus"] = "DRAFT"
     js["versionValidFrom"] = getZuluDateTime()
     js["validFrom"] = getZuluDateTime()
@@ -320,27 +327,22 @@ def gsimCreateLogicalRecord(gsimSource):
     writeJsonFile(js, gsimSource.get("dataSetName"), 'LogicalRecord_' + gsimSource.get("logicalRecordName"))
 
 
-# TODO:
-#  - ajourholdstidspunkt som identifer (time)?
-#  - sekvensnummer og meldings-identifikator som measure?
-#  se https://wiki.ssb.no/display/MAS2/Eks.+hendelse+FREG
-
 def gsimCreateInstanceVariables(gsimSource):
     js = {}
     for instVar in gsimSource.get("instanceVariables"):
         js["id"] = instVar.get("id")  # TODO: eventuelt om vi skal bytte til ULID (Universally Unique Lexicographically Sortable Identifier)
         js["name"] = [{"languageCode": "nb", "languageText": gsimSource.get("logicalRecordName") + " " + getGruppePrefix(instVar).replace("_", " ") + instVar.get("name")}]
-        js["description"] = [{"languageCode": "nb", "languageText": config.dataCoverage + " - " + splitStringOnUpperCase(gsimSource.get("logicalRecordName")) + ", " + getGruppePrefix(instVar).replace("_", " ") + splitStringOnUpperCase(instVar.get("name"))}]
+        js["description"] = [{"languageCode": "nb", "languageText": config.dataResource + " - " + splitStringOnUpperCase(gsimSource.get("logicalRecordName")) + ", " + getGruppePrefix(instVar).replace("_", " ") + splitStringOnUpperCase(instVar.get("name"))}]
         js["administrativeStatus"] = "DRAFT"
         js["versionValidFrom"] = getZuluDateTime()
         js["validFrom"] = getZuluDateTime()
         js["createdDate"] = getZuluDateTime()
         js["createdBy"] = "BNJ"
-        js["representedVariable"] = "/RepresentedVariable/DRAFT"
+        js["representedVariable"] = "/RepresentedVariable/" + config.representertVariableId
         js["population"] = "/Population/" + gsimSource.get("populationId")
         if instVar.get("dataStructureComponentType") == "IDENTIFIER":
             js["dataStructureComponentType"] = instVar.get("dataStructureComponentType")
-            js["dataStructureComponentRole"] = instVar.get("identifierComponentRole")
+            js["dataStructureComponentRole"] = instVar.get("dataStructureComponentRole")
         elif instVar.get("dataStructureComponentType") == "MEASURE":
             js["dataStructureComponentType"] = instVar.get("dataStructureComponentType")
         elif instVar.get("dataStructureComponentType") == "ATTRIBUTE":
@@ -349,10 +351,28 @@ def gsimCreateInstanceVariables(gsimSource):
         writeJsonFile(js, gsimSource.get("dataSetName"), 'InstanceVariable_' + gsimSource.get("logicalRecordName") + "_" + getGruppePrefix(instVar) + instVar.get("name"))
 
 
+def gsimCreateDataResource():
+    global gsimUnitDataSets
+    js = {}
+    js["id"] = str(uuid.uuid4())
+    js["name"] = [{"languageCode": "nb", "languageText": config.dataResource }]
+    js["description"] = [{"languageCode": "nb", "languageText": config.dataResource + " - " + config.xsdStartingPointElement}]
+    js["administrativeStatus"] = "DRAFT"
+    js["versionValidFrom"] = getZuluDateTime()
+    js["validFrom"] = getZuluDateTime()
+    js["createdDate"] = getZuluDateTime()
+    js["createdBy"] = "BNJ"
+    dataSets = []
+    for unitDataSet in gsimUnitDataSets:
+        dataSets.append("/UnitDataSet/" + unitDataSet.get("id"))
+    js["dataSets"] = dataSets
+    writeJsonFile(js, "", 'DataResource_' + config.dataResource)
+
+
 # TODO: Det er mangel på NameSpace i Xpath for mappingen som genereres her (bør trolig se slik ut? --> eksempel fra lagretHendelse: /feed/entry/content/ns2:lagretHendelse/ns2:hendelse)
 def mappingRawDataToInputData(gsimSource):
     # Oppretter mapping-katalogen hvis denne ikke eksisterer fra før.
-    xsdStartingPoint = config.xsdStartingPointElement
+    xsdStartingPointPath = config.xsdStartingPointPath
     jsonMappingPath = Path(config.jsonMappingObjectFullPath)
     if not jsonMappingPath.exists():
         jsonMappingPath.mkdir()
@@ -360,12 +380,15 @@ def mappingRawDataToInputData(gsimSource):
     for instVar in gsimSource.get("instanceVariables"):
         js["id"] = str(uuid.uuid4())
         js["sourceName"] = instVar.get("name")
-        if instVar.get("gruppePrefix") is None or instVar.get("gruppePrefix").strip() == "":
-            #js["sourcePath"] = "/folkeregisterperson/" + gsimSource.get("dataSetName") + "/"
-            js["sourcePath"] = "/" + xsdStartingPoint + "/" + gsimSource.get("dataSetName") + "/"
+        if instVar.get("dataStructureComponentType") == "IDENTIFIER":
+            js["sourcePath"] = "/" + instVar.get("rawDataSourcePath")
         else:
-            #js["sourcePath"] = "/folkeregisterperson/" + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
-            js["sourcePath"] = "/" + xsdStartingPoint + "/" + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
+            if instVar.get("gruppePrefix") is None or instVar.get("gruppePrefix").strip() == "":
+                #js["sourcePath"] = "/folkeregisterperson/" + gsimSource.get("dataSetName") + "/"
+                js["sourcePath"] = "/" + xsdStartingPointPath + gsimSource.get("dataSetName") + "/"
+            else:
+                #js["sourcePath"] = "/folkeregisterperson/" + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
+                js["sourcePath"] = "/" + xsdStartingPointPath + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
         js["targetInstanceVariable"] = "/InstanceVariable/" + instVar.get("id")
         #writeJsonFile(js, "_mapping//" + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
         writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
@@ -385,6 +408,8 @@ def writeJsonFile(gsimObject, jsonSubPath, fileName):
     with open(fullPath, 'w') as fp:
         json.dump(gsimObject, fp, indent=4)
 
+
+# "skatteetatenHovedElement" er f.eks. "FREG bostedsAdresse" eller "UttrekkSkattemelding Konto"
 def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement):
     global gsimInstanceVariables
     global numOfInstanceVariables
@@ -404,8 +429,8 @@ def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement):
     gsimSource = {}
     gsimSource["dataSetName"] = skatteetatenElement.attrib.get("name")
     gsimSource["dataSetId"] = str(uuid.uuid4())
-    gsimSource["populationId"] = "2aa9ab12-63ca-4458-aa00-95ea287bf2a5" # "Hardkoding" av "FREG Population" som er opprettet manuelt!
-    gsimSource["unitTypeId"] = "51a8dcde-127d-49de-84a4-a0a9c34f666f" # "Hardkoding" av "FREG UnitType" som er opprettet manuelt!
+    gsimSource["populationId"] = config.populationId
+    gsimSource["unitTypeId"] = config.unitTypeId
     gsimSource["unitDataStructureName"] = skatteetatenElement.attrib.get("name")
     gsimSource["unitDataStructureId"] = str(uuid.uuid4())
     gsimSource["logicalRecordName"] = skatteetatenElement.attrib.get("name")
@@ -421,7 +446,7 @@ def generateGsimJsonForSkatteetatenHovedElement(skatteetatenHovedElement):
     print("Antall InstanceVariables:", numOfInstanceVariables)
 
 
-# TODO: Hente begreps-url mv. fra Skatt XSD også¨?
+
 
 # TODO:
 def generateGsimJsonForAllSkatteetatenHovedElementer():
@@ -436,22 +461,18 @@ def generateGsimJsonForAllSkatteetatenHovedElementer():
         else:
             generateGsimJsonForSkatteetatenHovedElement(elem.get("name"))
             i += 1
+    gsimCreateDataResource()
     print("################ Oppsummering av genereringen #################")
     print("Antall UnitDataSet/DataStrucures generert totalt:", i)
     if y > 0:
         print("\nOBS! " + str(y) + " elementer kunne ikke behandles (se logg ovenfor)!\n")
     print("###############################################################")
 
-# RUN SCRIPT (MAIN):
-# Genererer GSIM-metadata (json-objekter) for alle meldingstyper i FREG XSD
-# TODO:
-#   Det må avklares om SSB skal lage inndata av alle de 30+ FREG-meldingstypene og tisvarende for skatte-objektene?
-#   Trolig har ikke SSB tilgang til å lese alle meldingstypene, men dette må avklares med Skatteetaten og S320?
-#
-#   Her forutsetter vi også at det genereres ett GSIM UnitDataSet/LogicalRecord per FREG meldingstype i inndata-tilstand,
-#   men vi må vurdere om dette er fornuftig i en produksjonsløsning?
 
+# RUN SCRIPT (MAIN):
+# Genererer GSIM-metadata (json-objekter) for alle meldingstyper/skatteobjer i Skatteetatens XSD
 generateGsimJsonForAllSkatteetatenHovedElementer()
+
 
 # Kan også kjøre ett og ett skatteobjekt.
 # generateGsimJsonForSkatteetatenHovedElement("arbeidsoppholdUtenforHjemmet")

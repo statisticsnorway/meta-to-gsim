@@ -1,5 +1,5 @@
 {
-    "id": "75d062b4-1c7e-476a-a868-b36b624c5404",
+    "id": "041fbdc0-5037-4cc4-8e37-b59bdc7a4294",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - kontantbeloep, beloep"
+            "languageText": "UttrekkSkattemelding - kontantbeloep, beloep"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:38.000Z",
-    "validFrom": "2019-05-24T16:03:38.000Z",
-    "createdDate": "2019-05-24T16:03:38.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "KONTANTBELOEP_BELOEP"

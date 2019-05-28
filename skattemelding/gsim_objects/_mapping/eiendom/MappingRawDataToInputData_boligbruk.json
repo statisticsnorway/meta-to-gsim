@@ -1,6 +1,6 @@
 {
-    "id": "4546089e-9e94-4126-93fa-8b68dbb58389",
+    "id": "482c8a6e-ed46-4fd0-b636-a401dd817dd4",
     "sourceName": "boligbruk",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/a66d8568-4570-4cab-a6eb-45e5a559422b"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/4bb11f7a-570b-4343-a096-6a3492d7db50"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "295ab91f-7fd3-435f-925e-cb5d48addf5b",
+    "id": "2b98b6d2-cc23-4f48-89bd-f65d4bd04d0d",
     "sourceName": "andelAvFradragsberettigedeRenterIBoligselskap",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/29f7b5d6-fe96-43be-b4ca-866e84d92588"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/aafd132b-e0a8-4655-83cb-6a90748b9630"
 }

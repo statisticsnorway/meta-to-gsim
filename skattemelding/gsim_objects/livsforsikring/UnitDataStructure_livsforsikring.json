@@ -1,5 +1,5 @@
 {
-    "id": "a2a30622-e2f0-43b9-abd3-2a8f4d016715",
+    "id": "a61c5e91-6cf6-4c43-bdd8-4a37249baafd",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datastruktur livsforsikring"
+            "languageText": "UttrekkSkattemelding datastruktur livsforsikring"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/afde9424-09e7-418b-a8ee-01c13f2aacc5"
+        "/LogicalRecord/402c8200-a094-440a-8a41-d3263ed90dff"
     ]
 }

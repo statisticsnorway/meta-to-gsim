@@ -1,5 +1,5 @@
 {
-    "id": "45dfb7d0-7ffc-4c59-8450-d9994817eb3d",
+    "id": "825dfbf7-9090-4f84-874e-089ac4125339",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - livsforsikring, livsforsikringsselskapets navn"
+            "languageText": "UttrekkSkattemelding - livsforsikring, livsforsikringsselskapets navn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LIVSFORSIKRING_LIVSFORSIKRINGSSELSKAPETSNAVN"

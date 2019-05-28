@@ -1,5 +1,5 @@
 {
-    "id": "afde9424-09e7-418b-a8ee-01c13f2aacc5",
+    "id": "402c8200-a094-440a-8a41-d3263ed90dff",
     "name": [
         {
             "languageCode": "nb",
@@ -9,24 +9,25 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) livsforsikring"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) livsforsikring"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/45dfb7d0-7ffc-4c59-8450-d9994817eb3d",
-        "/InstanceVariable/154edd12-a4d5-4e77-83ab-2904c525a0dc",
-        "/InstanceVariable/d362fec4-0921-4d80-8445-ffbeeb817ad3",
-        "/InstanceVariable/0af4cecf-65c0-4c00-8a98-d2a9ee30b7b9",
-        "/InstanceVariable/f9b1805c-7683-49ac-98da-a3d408980520",
-        "/InstanceVariable/3feb7097-9d38-444b-ace8-559664a12053",
-        "/InstanceVariable/a15e0bb2-90a4-451c-9a78-3ba13ab1df3a",
-        "/InstanceVariable/0b53e987-6a59-4f74-a3a2-2ac65890ba75",
-        "/InstanceVariable/9e046142-580e-4d37-afb5-edb2acb36723"
+        "/InstanceVariable/825dfbf7-9090-4f84-874e-089ac4125339",
+        "/InstanceVariable/f276184a-e237-4ea4-8b71-5355928d9669",
+        "/InstanceVariable/8502029b-4ab2-45e6-8a1e-6402d53250fd",
+        "/InstanceVariable/e1cc3802-9f29-45ab-adde-2774059a0365",
+        "/InstanceVariable/3b6641f3-e6e2-4d37-9d4f-7a93fbeb8fdb",
+        "/InstanceVariable/71a54418-7443-4f4f-bb60-1c1f0e67ffe0",
+        "/InstanceVariable/9150377a-9dca-4bcf-bf6a-d9982b6e1595",
+        "/InstanceVariable/7a6b75f7-bb5a-49a3-b78c-1e3c9d56bab9",
+        "/InstanceVariable/bb12238e-4753-40be-b8bf-03fe37367959",
+        "/InstanceVariable/fcb80df5-97a9-4a72-a9cb-89b5e3d8a2a6"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "LIVSFORSIKRING"

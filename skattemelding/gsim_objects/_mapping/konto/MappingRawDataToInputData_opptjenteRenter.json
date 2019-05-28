@@ -1,6 +1,6 @@
 {
-    "id": "4a34df31-239a-4def-9d6b-e75a281e8d02",
+    "id": "394c5c39-0320-4030-b9e3-cd213b347b37",
     "sourceName": "opptjenteRenter",
-    "sourcePath": "/SkattemeldingUtflatet/konto/",
-    "targetInstanceVariable": "/InstanceVariable/9df50b52-b640-4e4a-bc8d-3016b0ad71d4"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/ed5fae71-c960-41dc-8285-73c8cce178ad"
 }

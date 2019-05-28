@@ -1,6 +1,6 @@
 {
-    "id": "789d0ac6-7d04-4ec5-a717-10907a5b3f1d",
+    "id": "854119c7-527b-4637-ba86-3272ad479ae4",
     "sourceName": "behandlingsart",
-    "sourcePath": "/SkattemeldingUtflatet/loennOgTilsvarendeYtelser/",
-    "targetInstanceVariable": "/InstanceVariable/70b06078-9e25-47b9-bc02-dee527956a59"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/loennOgTilsvarendeYtelser/",
+    "targetInstanceVariable": "/InstanceVariable/5b5a3813-07ad-4b0f-bb82-da36aeb22e41"
 }

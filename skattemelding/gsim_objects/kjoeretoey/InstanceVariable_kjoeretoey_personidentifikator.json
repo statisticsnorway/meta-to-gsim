@@ -1,0 +1,25 @@
+{
+    "id": "976f9928-8bd4-4006-9202-75b3505c2358",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - kjoeretoey, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "KJOERETOEY_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

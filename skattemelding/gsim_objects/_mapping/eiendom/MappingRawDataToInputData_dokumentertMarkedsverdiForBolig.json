@@ -1,6 +1,6 @@
 {
-    "id": "a32f77ea-bd05-462f-b7bc-da78b1feb1ce",
+    "id": "9f66297d-b13c-424c-bc52-d246cd68186a",
     "sourceName": "dokumentertMarkedsverdiForBolig",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/05bfa530-a8fc-4f16-88cd-302e2abf777a"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/fa3addb0-743f-4279-910f-97a91a2a0a48"
 }

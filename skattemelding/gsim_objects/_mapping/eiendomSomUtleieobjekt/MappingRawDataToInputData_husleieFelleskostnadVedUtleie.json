@@ -1,6 +1,6 @@
 {
-    "id": "0d2ca5ef-7461-4cea-9feb-4fb7bc079a52",
+    "id": "05d98d5d-bba3-4ba1-a7ee-1887d241134d",
     "sourceName": "husleieFelleskostnadVedUtleie",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/de353997-1505-4c99-b083-4ffb254e7bd7"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/8a9010a1-1b87-4723-ac80-9cc503039488"
 }

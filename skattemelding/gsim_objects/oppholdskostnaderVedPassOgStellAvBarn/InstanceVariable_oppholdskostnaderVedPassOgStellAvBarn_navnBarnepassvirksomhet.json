@@ -1,5 +1,5 @@
 {
-    "id": "e7d2b251-79e8-4430-a750-21a0ed853a91",
+    "id": "6a0bc816-c060-4e81-b92d-f3ae33b7a2a8",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - oppholdskostnader ved pass og stell av barn, navn barnepassvirksomhet"
+            "languageText": "UttrekkSkattemelding - oppholdskostnader ved pass og stell av barn, navn barnepassvirksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:40.000Z",
-    "validFrom": "2019-05-24T16:03:40.000Z",
-    "createdDate": "2019-05-24T16:03:40.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "OPPHOLDSKOSTNADERVEDPASSOGSTELLAVBARN_NAVNBARNEPASSVIRKSOMHET"

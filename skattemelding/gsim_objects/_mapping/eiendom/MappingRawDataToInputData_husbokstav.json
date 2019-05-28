@@ -1,6 +1,6 @@
 {
-    "id": "760956e5-9a8f-4586-a638-8c21f4e203b0",
+    "id": "b3b3764c-c208-4508-a5c4-18692238a299",
     "sourceName": "husbokstav",
-    "sourcePath": "/SkattemeldingUtflatet/eiendom/",
-    "targetInstanceVariable": "/InstanceVariable/f0945d3e-d7aa-49d5-abb8-ca44fbb165a6"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/e18f6fa5-c58e-47e3-a283-8a470b7b82f8"
 }

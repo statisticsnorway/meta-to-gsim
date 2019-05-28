@@ -1,6 +1,6 @@
 {
-    "id": "eb1c617f-b39e-4cd5-8b84-3a3341d13fd8",
+    "id": "7c2b4a1e-8fc3-48a2-ad13-3acaaea17287",
     "sourceName": "navn",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/2b7384a5-8119-4a8f-8761-e37e4a777082"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/39556119-b24c-4ef7-92f0-f392624f3e0d"
 }

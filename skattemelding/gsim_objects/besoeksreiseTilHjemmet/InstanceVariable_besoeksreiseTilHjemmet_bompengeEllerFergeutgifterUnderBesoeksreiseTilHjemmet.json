@@ -1,5 +1,5 @@
 {
-    "id": "909d5fa7-0444-41c8-8b25-f92ca351eb17",
+    "id": "16cb68e9-bf3a-4351-82dc-772462ea3bae",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - besoeksreise til hjemmet, bompenge eller fergeutgifter under besoeksreise til hjemmet"
+            "languageText": "UttrekkSkattemelding - besoeksreise til hjemmet, bompenge eller fergeutgifter under besoeksreise til hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "BESOEKSREISETILHJEMMET_BOMPENGEELLERFERGEUTGIFTERUNDERBESOEKSREISETILHJEMMET"

@@ -1,6 +1,6 @@
 {
-    "id": "2a437b78-6b49-4118-98a5-dd4f80ad805c",
+    "id": "0e7c34b4-8363-453f-a4a2-65706d630a2b",
     "sourceName": "annenKostnadVedUtleie",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/7065e1f1-2a0b-4d99-bdeb-c71fde2b28e4"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/0e0b9ba2-7fe2-4f4e-93fc-b3364f90eba6"
 }

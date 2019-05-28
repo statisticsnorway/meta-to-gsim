@@ -1,5 +1,5 @@
 {
-    "id": "c39666ca-1c21-41ea-a9b0-db79fb07f149",
+    "id": "edff7506-5615-492c-9d76-462c8d98da96",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett arbeidsreise"
+            "languageText": "UttrekkSkattemelding datasett arbeidsreise"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:31.000Z",
-    "validFrom": "2019-05-24T16:03:31.000Z",
-    "createdDate": "2019-05-24T16:03:31.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/17a450c4-8014-44d6-aead-e6bd698cae22",
+    "unitDataStructure": "/UnitDataStructure/0d9e34a6-1e2e-4442-ab49-17242aca04e5",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

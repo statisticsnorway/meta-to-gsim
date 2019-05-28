@@ -1,6 +1,6 @@
 {
-    "id": "0dbd5354-35eb-4017-85a8-b28d55359fb5",
+    "id": "48c585e1-62c9-43c0-843e-3ee555538d5e",
     "sourceName": "lengdeAvArbeidsreiseTurRetur",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsreise/",
-    "targetInstanceVariable": "/InstanceVariable/1ae6a67e-6cbb-43f1-9e1a-fbe82d7f6cf9"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsreise/",
+    "targetInstanceVariable": "/InstanceVariable/b2ce79a6-475d-4a5b-af74-4b17451ebba5"
 }

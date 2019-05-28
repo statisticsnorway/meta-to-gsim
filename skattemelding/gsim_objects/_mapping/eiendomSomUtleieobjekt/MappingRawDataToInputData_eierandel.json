@@ -1,6 +1,6 @@
 {
-    "id": "98ee3f32-d3e2-4594-b36a-d3519172f65a",
+    "id": "cb7ea7c0-ccbd-4839-b6f6-2addbe04f2b1",
     "sourceName": "eierandel",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/f551b384-2537-4640-9311-faba686a418b"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/dcf7a24c-a8fc-4f92-bc09-171913c1e8aa"
 }

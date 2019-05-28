@@ -1,6 +1,6 @@
 {
-    "id": "be65abdb-568e-4814-815c-720bc190644d",
+    "id": "c8fb97bd-f1e3-476a-894a-4ba88209bf6a",
     "sourceName": "beloep",
-    "sourcePath": "/SkattemeldingUtflatet/kontantbeloep/",
-    "targetInstanceVariable": "/InstanceVariable/75d062b4-1c7e-476a-a868-b36b624c5404"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kontantbeloep/",
+    "targetInstanceVariable": "/InstanceVariable/041fbdc0-5037-4cc4-8e37-b59bdc7a4294"
 }

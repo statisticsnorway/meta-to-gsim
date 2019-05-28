@@ -1,5 +1,5 @@
 {
-    "id": "14b15a31-d781-43ea-9e13-7b92573741cd",
+    "id": "ac1b454c-2afa-428f-809c-a879154ed420",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom som utleieobjekt, benytter eiendommen selv som fritidseiendom"
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, benytter eiendommen selv som fritidseiendom"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:33.000Z",
-    "validFrom": "2019-05-24T16:03:33.000Z",
-    "createdDate": "2019-05-24T16:03:33.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOMSOMUTLEIEOBJEKT_BENYTTEREIENDOMMENSELVSOMFRITIDSEIENDOM"

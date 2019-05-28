@@ -1,5 +1,5 @@
 {
-    "id": "e8447dde-6982-47fb-9383-cc4c2c11f677",
+    "id": "b23ffbf5-3ead-46db-a4f6-3d6ad3c0ae47",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - kollektiv pensjonsordning, pensjonsutbetalers navn"
+            "languageText": "UttrekkSkattemelding - kollektiv pensjonsordning, pensjonsutbetalers navn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:37.000Z",
-    "validFrom": "2019-05-24T16:03:37.000Z",
-    "createdDate": "2019-05-24T16:03:37.000Z",
+    "versionValidFrom": "2019-05-28T14:56:53.000Z",
+    "validFrom": "2019-05-28T14:56:53.000Z",
+    "createdDate": "2019-05-28T14:56:53.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "KOLLEKTIVPENSJONSORDNING_PENSJONSUTBETALERSNAVN"

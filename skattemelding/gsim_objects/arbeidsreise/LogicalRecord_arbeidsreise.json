@@ -1,5 +1,5 @@
 {
-    "id": "9a1cdbc6-4c63-4cbf-82da-e2c141afd3da",
+    "id": "230f76ea-a564-460d-a619-0c950e842703",
     "name": [
         {
             "languageCode": "nb",
@@ -9,19 +9,20 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) arbeidsreise"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) arbeidsreise"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:32.000Z",
-    "validFrom": "2019-05-24T16:03:32.000Z",
-    "createdDate": "2019-05-24T16:03:32.000Z",
+    "versionValidFrom": "2019-05-28T14:56:50.000Z",
+    "validFrom": "2019-05-28T14:56:50.000Z",
+    "createdDate": "2019-05-28T14:56:50.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/403d9f21-6c5f-4632-9650-6ffe6aec4ddd",
-        "/InstanceVariable/1ae6a67e-6cbb-43f1-9e1a-fbe82d7f6cf9",
-        "/InstanceVariable/0563ab4c-306d-473e-a11a-54dbc169c054",
-        "/InstanceVariable/deb2fed2-8413-49bd-81b3-347993e0cb69"
+        "/InstanceVariable/4df7cd16-88c6-481c-8fcc-cfbcf5ee9e4d",
+        "/InstanceVariable/b2ce79a6-475d-4a5b-af74-4b17451ebba5",
+        "/InstanceVariable/4829abe3-aa29-45c0-b3e3-a78f2796e79f",
+        "/InstanceVariable/27abfab9-93c0-46cd-bfc3-39a004dcb8a1",
+        "/InstanceVariable/4bfd73f0-8f63-49ed-a123-8de30c566292"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "ARBEIDSREISE"

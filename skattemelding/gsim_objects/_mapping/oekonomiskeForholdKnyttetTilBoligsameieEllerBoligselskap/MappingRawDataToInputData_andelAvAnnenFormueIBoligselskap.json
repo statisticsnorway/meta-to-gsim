@@ -1,6 +1,6 @@
 {
-    "id": "8a39c9c7-bef6-4e4b-af28-bf641ecde005",
+    "id": "1c447f9a-6510-4096-91e4-503e87c819e3",
     "sourceName": "andelAvAnnenFormueIBoligselskap",
-    "sourcePath": "/SkattemeldingUtflatet/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
-    "targetInstanceVariable": "/InstanceVariable/33c592cd-9917-4888-bd3c-05d2112ee732"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap/",
+    "targetInstanceVariable": "/InstanceVariable/98e2a883-e334-462d-8311-9d062aa65126"
 }

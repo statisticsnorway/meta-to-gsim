@@ -1,6 +1,6 @@
 {
-    "id": "c7728950-b4fb-418f-a2c4-0cfb0991a360",
+    "id": "6942a5e2-6916-43b3-87f7-3f38bed03d82",
     "sourceName": "navn",
-    "sourcePath": "/SkattemeldingUtflatet/eiendomSomUtleieobjekt/",
-    "targetInstanceVariable": "/InstanceVariable/262b4e20-075b-497c-84e5-5727b34a5faa"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendomSomUtleieobjekt/",
+    "targetInstanceVariable": "/InstanceVariable/e979ffe1-0a50-46d1-b2ef-f5a4bdbcf0d6"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "ff7e0fa2-378b-40d5-895b-4b0cfd9c0f00",
+    "id": "f6f0a702-48fe-4e22-a8a0-edaf8ff5835c",
     "sourceName": "samletBetaltFagforeningskontingentPrAar",
-    "sourcePath": "/SkattemeldingUtflatet/fagforeningskontingent/",
-    "targetInstanceVariable": "/InstanceVariable/ab296787-6f70-4f2d-99e7-5b3d987b276d"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/fagforeningskontingent/",
+    "targetInstanceVariable": "/InstanceVariable/b2908314-1688-468c-8a8e-fc7d73d39500"
 }

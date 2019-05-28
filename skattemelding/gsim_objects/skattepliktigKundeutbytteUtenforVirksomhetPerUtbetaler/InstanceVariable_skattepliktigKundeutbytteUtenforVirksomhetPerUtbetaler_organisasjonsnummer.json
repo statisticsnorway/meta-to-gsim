@@ -1,5 +1,5 @@
 {
-    "id": "7c7c4833-c4ad-4a17-bc9f-63f36b397128",
+    "id": "6f57b3b6-eb00-4564-a9ca-73d49d82439e",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, organisasjonsnummer"
+            "languageText": "UttrekkSkattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, organisasjonsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:42.000Z",
-    "validFrom": "2019-05-24T16:03:42.000Z",
-    "createdDate": "2019-05-24T16:03:42.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER_ORGANISASJONSNUMMER"

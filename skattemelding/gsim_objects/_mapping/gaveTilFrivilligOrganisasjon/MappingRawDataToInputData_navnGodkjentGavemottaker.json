@@ -1,6 +1,6 @@
 {
-    "id": "a4552ea0-abe6-445a-8470-55302c206aef",
+    "id": "50307f4a-ad97-445d-b917-3002de8b7a64",
     "sourceName": "navnGodkjentGavemottaker",
-    "sourcePath": "/SkattemeldingUtflatet/gaveTilFrivilligOrganisasjon/",
-    "targetInstanceVariable": "/InstanceVariable/80d506f7-3700-40fa-948f-31b84e0ce083"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/gaveTilFrivilligOrganisasjon/",
+    "targetInstanceVariable": "/InstanceVariable/397825ea-2516-4a4f-9754-1c6fd6172255"
 }

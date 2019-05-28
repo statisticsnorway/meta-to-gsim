@@ -1,5 +1,5 @@
 {
-    "id": "8d9bca27-0a6e-45f3-a972-93e737f66808",
+    "id": "a5f852f8-a427-4552-8d46-769304fb591f",
     "name": [
         {
             "languageCode": "nb",
@@ -9,21 +9,22 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) loenn og tilsvarende ytelser"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) loenn og tilsvarende ytelser"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:39.000Z",
-    "validFrom": "2019-05-24T16:03:39.000Z",
-    "createdDate": "2019-05-24T16:03:39.000Z",
+    "versionValidFrom": "2019-05-28T14:56:54.000Z",
+    "validFrom": "2019-05-28T14:56:54.000Z",
+    "createdDate": "2019-05-28T14:56:54.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/c4e83884-5d6a-41af-b0c7-8406dd253f05",
-        "/InstanceVariable/cd67779c-ce41-4efc-afa7-0550a9940bb1",
-        "/InstanceVariable/3b9bfefd-29ea-41a7-9278-9eeedddd3376",
-        "/InstanceVariable/70b06078-9e25-47b9-bc02-dee527956a59",
-        "/InstanceVariable/e5041b9c-a54e-401e-b662-373f2a15d837",
-        "/InstanceVariable/ce7aeed2-2af5-4d77-86c3-c5328949a4f5"
+        "/InstanceVariable/d7f6dd83-0e39-410a-866d-302b25d76a47",
+        "/InstanceVariable/708b2966-a13c-4e73-9c1b-9704f59bada5",
+        "/InstanceVariable/b083808b-3a84-4bb6-a2a2-d22ebe790b9c",
+        "/InstanceVariable/5b5a3813-07ad-4b0f-bb82-da36aeb22e41",
+        "/InstanceVariable/f909d056-2584-46eb-a2b8-b1e0d540f7f0",
+        "/InstanceVariable/8bf6fa4f-8a46-4de9-8f63-81195626b7e5",
+        "/InstanceVariable/3c3ed6fd-154f-4479-9c42-0063f0356964"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "LOENNOGTILSVARENDEYTELSER"

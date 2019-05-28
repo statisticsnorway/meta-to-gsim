@@ -1,0 +1,25 @@
+{
+    "id": "9b088684-b443-4719-a023-0d0d2a5f8a65",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriStoenadTilBarnetilsyn personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skattefri stoenad til barnetilsyn, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "SKATTEFRISTOENADTILBARNETILSYN_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

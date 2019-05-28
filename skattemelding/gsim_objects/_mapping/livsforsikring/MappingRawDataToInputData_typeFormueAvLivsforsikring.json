@@ -1,6 +1,6 @@
 {
-    "id": "98f5d5f3-d2a6-40a2-a4e4-584e9cd634be",
+    "id": "da1a26e6-03b5-4fcf-b331-13702aa4dbf9",
     "sourceName": "typeFormueAvLivsforsikring",
-    "sourcePath": "/SkattemeldingUtflatet/livsforsikring/",
-    "targetInstanceVariable": "/InstanceVariable/0b53e987-6a59-4f74-a3a2-2ac65890ba75"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/livsforsikring/",
+    "targetInstanceVariable": "/InstanceVariable/7a6b75f7-bb5a-49a3-b78c-1e3c9d56bab9"
 }

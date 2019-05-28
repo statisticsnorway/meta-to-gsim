@@ -1,6 +1,6 @@
 {
-    "id": "b6f50f02-5a13-4faa-a9b8-84107e41db3c",
+    "id": "df682be8-da81-48b6-999a-8b08a257b772",
     "sourceName": "navnBarnepassvirksomhet",
-    "sourcePath": "/SkattemeldingUtflatet/oppholdskostnaderVedPassOgStellAvBarn/",
-    "targetInstanceVariable": "/InstanceVariable/e7d2b251-79e8-4430-a750-21a0ed853a91"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oppholdskostnaderVedPassOgStellAvBarn/",
+    "targetInstanceVariable": "/InstanceVariable/6a0bc816-c060-4e81-b92d-f3ae33b7a2a8"
 }

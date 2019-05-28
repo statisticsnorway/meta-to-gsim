@@ -1,5 +1,5 @@
 {
-    "id": "f21b8713-ac18-4932-b534-987eb8dfc969",
+    "id": "857725e0-df43-4ee0-ba34-a3b74c02ae6a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding datasett eiendom"
+            "languageText": "UttrekkSkattemelding datasett eiendom"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:34.000Z",
-    "validFrom": "2019-05-24T16:03:34.000Z",
-    "createdDate": "2019-05-24T16:03:34.000Z",
+    "versionValidFrom": "2019-05-28T14:56:52.000Z",
+    "validFrom": "2019-05-28T14:56:52.000Z",
+    "createdDate": "2019-05-28T14:56:52.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/5bb34b9d-53c1-403e-864a-a4efea9c29c1",
+    "unitDataStructure": "/UnitDataStructure/26ea2185-6785-4dec-b119-b96801604e0e",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

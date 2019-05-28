@@ -1,6 +1,6 @@
 {
-    "id": "4001ba2c-c1c4-4f81-8dc7-c068c3e09977",
+    "id": "89f97219-a0f7-4c8f-aae6-ec82910192bf",
     "sourceName": "godtgjoerelseForLosjiVedArbeidsoppholdUtenforHjemmet",
-    "sourcePath": "/SkattemeldingUtflatet/arbeidsoppholdUtenforHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/498cc234-823d-4fd8-b945-29d6079418ba"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsoppholdUtenforHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/cb9b023a-9b4a-43ea-8bb2-1f8608a1f092"
 }

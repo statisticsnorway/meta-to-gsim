@@ -1,5 +1,5 @@
 {
-    "id": "b97e37b9-8883-46ed-a7d1-eb39ae39d68f",
+    "id": "05ae171f-a327-40f9-bdfa-816c203b6a31",
     "name": [
         {
             "languageCode": "nb",
@@ -9,18 +9,19 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) skattefri arv gave og gevinst"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) skattefri arv gave og gevinst"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/2ff3fc7d-3f83-4d7a-966d-4388908f91bc",
-        "/InstanceVariable/2c178382-1c16-43de-ad57-9b5e1afb0d2a",
-        "/InstanceVariable/d46e7690-d309-4378-84d6-4becd90e51ab"
+        "/InstanceVariable/b1ebdd3c-21ad-4eb4-83b9-d5c5a29060bb",
+        "/InstanceVariable/f7fc58d3-918d-4bae-9554-09cf2c1d8066",
+        "/InstanceVariable/f40fa355-2c2e-4508-90fe-5f66997fb43a",
+        "/InstanceVariable/d7e35183-52f2-4cd2-9229-6b078cbc2e49"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEFRIARVGAVEOGGEVINST"

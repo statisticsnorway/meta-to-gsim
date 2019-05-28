@@ -1,6 +1,6 @@
 {
-    "id": "a5670f66-97b1-4189-8a95-189d68f01b97",
+    "id": "4712edf3-9401-4968-b9cc-79e0c2074261",
     "sourceName": "flybilletterForBesoeksreiseTilHjemmet",
-    "sourcePath": "/SkattemeldingUtflatet/besoeksreiseTilHjemmet/",
-    "targetInstanceVariable": "/InstanceVariable/d64efa1e-8d98-47b1-a34e-1e0e981085cc"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/besoeksreiseTilHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/65ec368f-a78b-4eb3-b24e-998c5f024532"
 }

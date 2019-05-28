@@ -1,5 +1,5 @@
 {
-    "id": "3afb5b45-4880-486d-af17-da0ec3e33f35",
+    "id": "1ccc96e2-70fd-452d-9ee2-2e1f2efcee6f",
     "name": [
         {
             "languageCode": "nb",
@@ -9,20 +9,21 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) privat gjeldsforhold utenfor virksomhet"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) privat gjeldsforhold utenfor virksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:41.000Z",
-    "validFrom": "2019-05-24T16:03:41.000Z",
-    "createdDate": "2019-05-24T16:03:41.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/6f29bd70-5426-4671-895b-d65b687dc9ef",
-        "/InstanceVariable/8077930d-85cd-47f5-9f9d-c50d7d176102",
-        "/InstanceVariable/6c0cd25b-4858-4995-89f2-4c73913b4449",
-        "/InstanceVariable/59dca206-34fd-498d-84e3-85b4dd17ffb7",
-        "/InstanceVariable/07b547ac-d393-457d-9e88-4e8bdbfbed26"
+        "/InstanceVariable/b89374ee-1f07-4912-9069-c6c93e88a693",
+        "/InstanceVariable/2d4bd378-46e3-4142-a8da-19563c3821d7",
+        "/InstanceVariable/cafddbd6-3549-401e-95bf-3e46db960e5d",
+        "/InstanceVariable/fa6e9e7d-0684-45e0-8ae7-2e72aec24f6a",
+        "/InstanceVariable/8d812ec6-f2fa-4ddc-b1b3-c41a01642fd9",
+        "/InstanceVariable/9dc64942-02af-4e8d-b22b-c23b38b589d8"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET"

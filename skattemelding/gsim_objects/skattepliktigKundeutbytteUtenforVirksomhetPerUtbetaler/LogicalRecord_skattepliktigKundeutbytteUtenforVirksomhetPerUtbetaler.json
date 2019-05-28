@@ -1,5 +1,5 @@
 {
-    "id": "7d84babc-b990-4545-a1f7-40ec6f33ca10",
+    "id": "b9e7a96e-58f0-4c21-b6a6-c7c38a1ad547",
     "name": [
         {
             "languageCode": "nb",
@@ -9,19 +9,20 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding record (LogicalRecord) skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:42.000Z",
-    "validFrom": "2019-05-24T16:03:42.000Z",
-    "createdDate": "2019-05-24T16:03:42.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/b1f1d017-c966-4c90-b8e0-6e304ff1b1ac",
-        "/InstanceVariable/234b5097-424f-4f37-a46b-46a3505bda7b",
-        "/InstanceVariable/7c7c4833-c4ad-4a17-bc9f-63f36b397128",
-        "/InstanceVariable/bcc3f30c-0ee5-41e6-a7c4-98fad565bcf9"
+        "/InstanceVariable/155ed60b-2ff5-4355-b4ba-3cfd2e9e860d",
+        "/InstanceVariable/a3da8a38-fcee-40b6-97e8-bfe1d0b9f226",
+        "/InstanceVariable/6f57b3b6-eb00-4564-a9ca-73d49d82439e",
+        "/InstanceVariable/342fdce6-3d6a-4d48-a3a9-1e2606ba3368",
+        "/InstanceVariable/012a6446-0f07-4102-8f5d-2d4e1a379836"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER"

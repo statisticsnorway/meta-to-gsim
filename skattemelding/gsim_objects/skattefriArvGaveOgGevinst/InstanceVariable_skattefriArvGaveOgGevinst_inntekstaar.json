@@ -1,0 +1,25 @@
+{
+    "id": "d7e35183-52f2-4cd2-9229-6b078cbc2e49",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriArvGaveOgGevinst inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skattefri arv gave og gevinst, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "SKATTEFRIARVGAVEOGGEVINST_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

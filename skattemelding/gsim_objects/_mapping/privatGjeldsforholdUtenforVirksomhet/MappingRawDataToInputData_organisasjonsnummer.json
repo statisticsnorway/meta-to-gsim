@@ -1,6 +1,6 @@
 {
-    "id": "4ebbfbf4-3558-4ca2-9fb7-80e93575929e",
+    "id": "15d963f8-6224-43d7-b554-78e7bdf0e43c",
     "sourceName": "organisasjonsnummer",
-    "sourcePath": "/SkattemeldingUtflatet/privatGjeldsforholdUtenforVirksomhet/",
-    "targetInstanceVariable": "/InstanceVariable/8077930d-85cd-47f5-9f9d-c50d7d176102"
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/privatGjeldsforholdUtenforVirksomhet/",
+    "targetInstanceVariable": "/InstanceVariable/2d4bd378-46e3-4142-a8da-19563c3821d7"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "47882d12-3214-475b-8683-d642ac179ffd",
+    "id": "8040828f-9884-4a89-8e78-6d4c7a825278",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - pensjonspremier i arbeidsforhold, all pensjonsinnbetaling til pensjonsordning i arbeidsforhold per skattleggingsperiode"
+            "languageText": "UttrekkSkattemelding - pensjonspremier i arbeidsforhold, all pensjonsinnbetaling til pensjonsordning i arbeidsforhold per skattleggingsperiode"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:40.000Z",
-    "validFrom": "2019-05-24T16:03:40.000Z",
-    "createdDate": "2019-05-24T16:03:40.000Z",
+    "versionValidFrom": "2019-05-28T14:56:55.000Z",
+    "validFrom": "2019-05-28T14:56:55.000Z",
+    "createdDate": "2019-05-28T14:56:55.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "PENSJONSPREMIERIARBEIDSFORHOLD_ALLPENSJONSINNBETALINGTILPENSJONSORDNINGIARBEIDSFORHOLDPERSKATTLEGGINGSPERIODE"

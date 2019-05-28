@@ -1,5 +1,5 @@
 {
-    "id": "e59545b4-2125-4271-b082-2719313c2143",
+    "id": "94043869-9891-4b8e-a35e-4dd78de8c864",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "Skattemelding - eiendom som utleieobjekt,  s e r g eiendomsidentifikator"
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt,  s e r g eiendomsidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-24T16:03:33.000Z",
-    "validFrom": "2019-05-24T16:03:33.000Z",
-    "createdDate": "2019-05-24T16:03:33.000Z",
+    "versionValidFrom": "2019-05-28T14:56:51.000Z",
+    "validFrom": "2019-05-28T14:56:51.000Z",
+    "createdDate": "2019-05-28T14:56:51.000Z",
     "createdBy": "BNJ",
-    "representedVariable": "/RepresentedVariable/DRAFT",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
     "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOMSOMUTLEIEOBJEKT_SERGEIENDOMSIDENTIFIKATOR"
