@@ -1,0 +1,25 @@
+{
+    "id": "f1a455f8-6d66-4568-8c2e-a84e47e59f51",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "EIENDOM_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

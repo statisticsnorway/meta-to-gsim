@@ -1,0 +1,25 @@
+{
+    "id": "df98cc2b-2c8d-4dff-8831-85a9c22901f6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - besoeksreise til hjemmet, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BESOEKSREISETILHJEMMET_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

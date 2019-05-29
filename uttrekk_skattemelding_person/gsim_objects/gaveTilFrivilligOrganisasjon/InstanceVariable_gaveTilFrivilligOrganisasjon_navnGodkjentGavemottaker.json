@@ -1,0 +1,24 @@
+{
+    "id": "1b5999df-35ab-448f-84bc-60ce1d14be37",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "gaveTilFrivilligOrganisasjon navnGodkjentGavemottaker"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - gave til frivillig organisasjon, navn godkjent gavemottaker"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "GAVETILFRIVILLIGORGANISASJON_NAVNGODKJENTGAVEMOTTAKER"
+}

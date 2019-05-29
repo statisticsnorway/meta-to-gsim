@@ -1,0 +1,33 @@
+{
+    "id": "2178ef4f-3f01-4dd0-bb33-c4e2cae7141b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) kjoeretoey"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/da480ca1-9f90-4d73-8141-3d7d5a132f69",
+        "/InstanceVariable/5ef8efa9-b534-4fea-a053-b20b7e688842",
+        "/InstanceVariable/85d47e47-292b-44a1-9a9f-c5ee0115870d",
+        "/InstanceVariable/80f3385a-0a0a-4026-afbd-2609e0f6755a",
+        "/InstanceVariable/7475699a-e8b7-46bc-933d-5962b52b6496",
+        "/InstanceVariable/2cfcf5eb-d0a9-47a4-99a0-4e03daee0e32",
+        "/InstanceVariable/6b539a83-d755-480f-905e-03eb7a5db977",
+        "/InstanceVariable/64328f42-67ef-485d-a718-0eb23054f8b5",
+        "/InstanceVariable/ef5b4c0b-dda6-4eae-92c3-a46af90df6ec"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KJOERETOEY"
+}

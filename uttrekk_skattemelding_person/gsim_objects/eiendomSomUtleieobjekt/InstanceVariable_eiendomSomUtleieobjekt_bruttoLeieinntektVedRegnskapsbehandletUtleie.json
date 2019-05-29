@@ -1,0 +1,24 @@
+{
+    "id": "df16f0d8-0d24-4620-8314-6db3cb5a1b25",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt bruttoLeieinntektVedRegnskapsbehandletUtleie"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, brutto leieinntekt ved regnskapsbehandlet utleie"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_BRUTTOLEIEINNTEKTVEDREGNSKAPSBEHANDLETUTLEIE"
+}

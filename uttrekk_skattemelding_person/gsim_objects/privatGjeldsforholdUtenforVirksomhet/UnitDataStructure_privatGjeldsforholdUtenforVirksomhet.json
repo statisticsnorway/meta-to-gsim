@@ -1,0 +1,23 @@
+{
+    "id": "54240bf4-32ca-48d2-8c48-3b5d78501b04",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatGjeldsforholdUtenforVirksomhet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur privat gjeldsforhold utenfor virksomhet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/886ebbc4-21eb-4742-b514-d41fd845427a"
+    ]
+}

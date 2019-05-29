@@ -1,0 +1,23 @@
+{
+    "id": "10cbe332-ea89-422c-ae03-6b25ad3448f7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur kollektiv pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/737e6b9f-4cf8-486a-85da-281c8a4615ed"
+    ]
+}

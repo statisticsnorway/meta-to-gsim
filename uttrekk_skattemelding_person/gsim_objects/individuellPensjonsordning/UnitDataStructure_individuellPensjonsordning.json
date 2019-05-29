@@ -1,0 +1,23 @@
+{
+    "id": "05536798-9655-488c-bca9-dc0d73d57837",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur individuell pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/d79eee3e-e366-4908-8d97-7dcdf643b024"
+    ]
+}

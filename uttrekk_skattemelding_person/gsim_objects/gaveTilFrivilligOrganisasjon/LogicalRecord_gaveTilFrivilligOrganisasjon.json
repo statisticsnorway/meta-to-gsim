@@ -1,0 +1,29 @@
+{
+    "id": "b36019c5-d1e4-4bd7-839d-216af96c04a4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "gaveTilFrivilligOrganisasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) gave til frivillig organisasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/1b5999df-35ab-448f-84bc-60ce1d14be37",
+        "/InstanceVariable/11796845-c638-4f6d-bf7d-785d835044e2",
+        "/InstanceVariable/2ebbeb5f-6551-4c30-872d-f7bc0be88527",
+        "/InstanceVariable/bcae3099-e01b-4e54-b969-5b28edf16420",
+        "/InstanceVariable/fdda939b-f58c-4342-abe2-2b918d41b3da"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "GAVETILFRIVILLIGORGANISASJON"
+}

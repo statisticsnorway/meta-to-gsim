@@ -1,0 +1,6 @@
+{
+    "id": "daf9bc94-e820-4f13-b6a0-e7cb81b6cf53",
+    "sourceName": "samletSkyldigRestskatt",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/skyldigRestskatt/",
+    "targetInstanceVariable": "/InstanceVariable/cdc9aba1-ad79-4ca0-9fa1-852173c518d5"
+}

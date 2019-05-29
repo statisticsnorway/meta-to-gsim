@@ -1,0 +1,6 @@
+{
+    "id": "9a2fa1f6-5629-49a5-b3c6-0a86daec03cc",
+    "sourceName": "arbeidsgiversOrganisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/arbeidsoppholdUtenforHjemmet/",
+    "targetInstanceVariable": "/InstanceVariable/9558104b-7779-4173-9d48-a666ba33f196"
+}

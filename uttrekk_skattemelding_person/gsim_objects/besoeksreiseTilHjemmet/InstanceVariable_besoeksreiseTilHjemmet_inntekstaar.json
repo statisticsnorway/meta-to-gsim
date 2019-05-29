@@ -1,0 +1,25 @@
+{
+    "id": "6bfafe68-6b81-4f74-8bcd-144ec955e25d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - besoeksreise til hjemmet, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BESOEKSREISETILHJEMMET_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

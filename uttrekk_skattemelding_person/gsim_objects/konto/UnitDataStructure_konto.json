@@ -1,0 +1,23 @@
+{
+    "id": "82d14959-5284-4b8a-ae65-3c60cedbd164",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur konto"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/8c165b22-dc5d-47f8-ac2a-8e9bc160aa2a"
+    ]
+}

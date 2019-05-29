@@ -1,0 +1,23 @@
+{
+    "id": "1e0c27f2-d062-4cfc-83bb-0a39b496d3a1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "fagforeningskontingent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur fagforeningskontingent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/bbfbfe90-4af0-4582-a718-8df42d246a5f"
+    ]
+}

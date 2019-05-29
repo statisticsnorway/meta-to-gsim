@@ -1,0 +1,24 @@
+{
+    "id": "76169a5f-f30c-45be-9271-aa1aa6f4b92d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap andelAvFradragsberettigedeRenterIBoligselskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av fradragsberettigede renter i boligselskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:11.000Z",
+    "validFrom": "2019-05-29T10:18:11.000Z",
+    "createdDate": "2019-05-29T10:18:11.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP_ANDELAVFRADRAGSBERETTIGEDERENTERIBOLIGSELSKAP"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "404ac68d-2882-4202-883f-c714b65d0113",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "loennOgTilsvarendeYtelser overfoertFraBarn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, overfoert fra barn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LOENNOGTILSVARENDEYTELSER_OVERFOERTFRABARN"
+}

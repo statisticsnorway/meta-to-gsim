@@ -1,0 +1,25 @@
+{
+    "id": "b653452f-4bc2-41f6-b16c-6951c3464431",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - arbeidsreise, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ARBEIDSREISE_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

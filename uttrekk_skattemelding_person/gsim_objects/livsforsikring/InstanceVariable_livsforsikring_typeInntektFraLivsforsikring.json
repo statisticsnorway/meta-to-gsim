@@ -1,0 +1,24 @@
+{
+    "id": "f6277c65-6818-4ee5-bcab-2baafab6728c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring typeInntektFraLivsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - livsforsikring, type inntekt fra livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LIVSFORSIKRING_TYPEINNTEKTFRALIVSFORSIKRING"
+}

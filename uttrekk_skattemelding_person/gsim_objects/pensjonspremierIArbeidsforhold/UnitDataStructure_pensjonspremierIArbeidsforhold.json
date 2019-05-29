@@ -1,0 +1,23 @@
+{
+    "id": "82580cbb-54ac-4b17-a0fe-59912a0cbfd1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "pensjonspremierIArbeidsforhold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur pensjonspremier i arbeidsforhold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/2e2c954c-da79-4f3e-b03a-a444df356de2"
+    ]
+}

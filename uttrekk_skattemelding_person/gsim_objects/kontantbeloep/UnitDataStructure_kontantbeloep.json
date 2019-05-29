@@ -1,0 +1,23 @@
+{
+    "id": "3d4c1581-42dd-4223-bf33-643632375f11",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontantbeloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur kontantbeloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/fa73349f-0a51-4f58-938a-e23f76cf323b"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "e1287655-d8f5-4240-babf-978d876049a2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning premieFond"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - individuell pensjonsordning, premie fond"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_PREMIEFOND"
+}
