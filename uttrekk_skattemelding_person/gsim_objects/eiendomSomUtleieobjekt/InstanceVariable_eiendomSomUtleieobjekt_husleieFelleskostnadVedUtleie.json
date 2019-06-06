@@ -1,0 +1,24 @@
+{
+    "id": "129a77e3-1941-4ec0-b586-3538e804de82",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt husleieFelleskostnadVedUtleie"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, husleie felleskostnad ved utleie"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_HUSLEIEFELLESKOSTNADVEDUTLEIE"
+}

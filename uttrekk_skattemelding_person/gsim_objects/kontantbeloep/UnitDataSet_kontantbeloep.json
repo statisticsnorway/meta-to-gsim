@@ -1,0 +1,23 @@
+{
+    "id": "0cb9cb57-848c-4c7a-9bb3-3290c0773fc1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontantbeloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datasett kontantbeloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/3d4c1581-42dd-4223-bf33-643632375f11",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

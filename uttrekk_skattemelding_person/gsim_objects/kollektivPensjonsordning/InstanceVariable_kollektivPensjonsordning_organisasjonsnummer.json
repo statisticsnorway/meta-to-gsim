@@ -1,0 +1,24 @@
+{
+    "id": "7ca90413-ff36-4cf2-805b-bef5f51483f3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning organisasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - kollektiv pensjonsordning, organisasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KOLLEKTIVPENSJONSORDNING_ORGANISASJONSNUMMER"
+}

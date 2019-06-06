@@ -1,0 +1,24 @@
+{
+    "id": "64716cb6-e40d-4f0c-b016-2426d814ee5c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt gateadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, gateadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_GATEADRESSE"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "6a743a9f-bce3-4194-96d6-85122ee87039",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "fritidsbaatMedSalgsverdiOverSalgsverdigrense personidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - fritidsbaat med salgsverdi over salgsverdigrense, personidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FRITIDSBAATMEDSALGSVERDIOVERSALGSVERDIGRENSE_PERSONIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

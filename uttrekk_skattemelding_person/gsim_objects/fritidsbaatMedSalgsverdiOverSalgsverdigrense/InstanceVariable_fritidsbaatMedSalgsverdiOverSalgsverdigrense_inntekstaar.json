@@ -1,0 +1,25 @@
+{
+    "id": "a9e7f8fa-26bb-4fb9-84d6-23dff5f49796",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "fritidsbaatMedSalgsverdiOverSalgsverdigrense inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - fritidsbaat med salgsverdi over salgsverdigrense, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FRITIDSBAATMEDSALGSVERDIOVERSALGSVERDIGRENSE_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

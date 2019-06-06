@@ -1,0 +1,24 @@
+{
+    "id": "da480ca1-9f90-4d73-8141-3d7d5a132f69",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey registreringsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - kjoeretoey, registreringsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOERETOEY_REGISTRERINGSNUMMER"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "2c52e9a0-17ee-4158-a2f7-ab123fb32197",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet antallBesoeksreiserTilHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - besoeksreise til hjemmet, antall besoeksreiser til hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BESOEKSREISETILHJEMMET_ANTALLBESOEKSREISERTILHJEMMET"
+}

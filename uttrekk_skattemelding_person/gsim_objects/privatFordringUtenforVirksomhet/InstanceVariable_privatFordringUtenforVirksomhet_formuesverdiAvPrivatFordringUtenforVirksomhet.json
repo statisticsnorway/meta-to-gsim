@@ -1,0 +1,24 @@
+{
+    "id": "5a425f82-d501-40ae-9e28-eb60f6e328bb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatFordringUtenforVirksomhet formuesverdiAvPrivatFordringUtenforVirksomhet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - privat fordring utenfor virksomhet, formuesverdi av privat fordring utenfor virksomhet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET_FORMUESVERDIAVPRIVATFORDRINGUTENFORVIRKSOMHET"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ecdd88f0-3831-4dd4-bfcd-54aad501ed07",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "loennOgTilsvarendeYtelser"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) loenn og tilsvarende ytelser"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/351743a5-ca6d-4971-8997-790dc3c0fadf",
+        "/InstanceVariable/5ef94549-80ef-4da4-8bd0-189fd1ab1363",
+        "/InstanceVariable/55633eb6-ec89-4f62-a8fc-d4b208455242",
+        "/InstanceVariable/e0bd197a-43c5-40f0-86cf-60f8a8c7b87b",
+        "/InstanceVariable/404ac68d-2882-4202-883f-c714b65d0113",
+        "/InstanceVariable/e8721336-d4c0-40ba-93ae-90aec4cc530e",
+        "/InstanceVariable/af68cbf5-53b2-4e1d-b305-a08dadc8e800"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "LOENNOGTILSVARENDEYTELSER"
+}

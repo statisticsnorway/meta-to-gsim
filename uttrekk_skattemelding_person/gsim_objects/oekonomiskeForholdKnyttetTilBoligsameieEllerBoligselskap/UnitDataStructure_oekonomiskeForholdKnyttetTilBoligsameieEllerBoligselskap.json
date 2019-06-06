@@ -1,0 +1,23 @@
+{
+    "id": "2b9a86f2-c8ca-407c-873d-8ff40ef56c6f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur oekonomiske forhold knyttet til boligsameie eller boligselskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:11.000Z",
+    "validFrom": "2019-05-29T10:18:11.000Z",
+    "createdDate": "2019-05-29T10:18:11.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/bb145396-0d5a-446a-aa9f-93c1707ddd83"
+    ]
+}

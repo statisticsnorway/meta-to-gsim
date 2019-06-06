@@ -1,0 +1,23 @@
+{
+    "id": "08216541-841c-46e0-b838-2b51dfdd603e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "livsforsikring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur livsforsikring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/08016d2a-4bcf-4e81-96c0-c6a7026b4086"
+    ]
+}

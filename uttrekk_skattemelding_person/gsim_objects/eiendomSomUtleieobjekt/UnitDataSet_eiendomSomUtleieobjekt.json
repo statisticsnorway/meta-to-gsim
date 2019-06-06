@@ -1,0 +1,23 @@
+{
+    "id": "fb17b074-b5df-4385-8087-742596fbbe3b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datasett eiendom som utleieobjekt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/76f0d462-510d-42a4-93a3-78381614a71c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

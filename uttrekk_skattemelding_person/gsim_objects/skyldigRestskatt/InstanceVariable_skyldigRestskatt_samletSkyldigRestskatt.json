@@ -1,0 +1,24 @@
+{
+    "id": "cdc9aba1-ad79-4ca0-9fa1-852173c518d5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skyldigRestskatt samletSkyldigRestskatt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skyldig restskatt, samlet skyldig restskatt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:11.000Z",
+    "validFrom": "2019-05-29T10:18:11.000Z",
+    "createdDate": "2019-05-29T10:18:11.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKYLDIGRESTSKATT_SAMLETSKYLDIGRESTSKATT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "10ed4176-8e7a-4edf-9666-341b329a6d13",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "verdiForAnnetPrivatInnboOgLoesoere"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur verdi for annet privat innbo og loesoere"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:11.000Z",
+    "validFrom": "2019-05-29T10:18:11.000Z",
+    "createdDate": "2019-05-29T10:18:11.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/32cdd66a-c792-49e1-83f3-e2ecf9974dcc"
+    ]
+}

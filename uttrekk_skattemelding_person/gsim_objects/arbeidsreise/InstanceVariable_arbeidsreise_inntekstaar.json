@@ -1,0 +1,25 @@
+{
+    "id": "2237a43a-ca1a-4d9e-adcc-98e3ca61b162",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsreise inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - arbeidsreise, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ARBEIDSREISE_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

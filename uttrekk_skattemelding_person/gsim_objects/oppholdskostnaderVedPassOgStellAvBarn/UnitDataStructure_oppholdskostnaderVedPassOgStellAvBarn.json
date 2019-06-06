@@ -1,0 +1,23 @@
+{
+    "id": "2794e14b-a7de-4c2d-9ce1-c0ae79b09015",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdskostnaderVedPassOgStellAvBarn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur oppholdskostnader ved pass og stell av barn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/8e2a258c-1c41-433e-a08c-b861db85c106"
+    ]
+}

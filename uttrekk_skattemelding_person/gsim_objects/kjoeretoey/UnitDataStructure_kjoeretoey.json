@@ -1,0 +1,23 @@
+{
+    "id": "01160fd4-a91c-4e6f-bb44-b58882a87690",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoeretoey"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur kjoeretoey"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/2178ef4f-3f01-4dd0-bb33-c4e2cae7141b"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "aa48b48f-d6d4-4cfe-9d43-f8e1fc232e2b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datasett besoeksreise til hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/db794d95-4767-467f-bbf5-7baae762ccc4",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "b4d2fc86-fd5d-4919-b628-62ba1e626094",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "arbeidsoppholdUtenforHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datastruktur arbeidsopphold utenfor hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:06.000Z",
+    "validFrom": "2019-05-29T10:18:06.000Z",
+    "createdDate": "2019-05-29T10:18:06.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/9da7d992-6541-4cc8-9883-c3ec627fb7d9"
+    ]
+}

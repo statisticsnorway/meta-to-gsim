@@ -1,0 +1,24 @@
+{
+    "id": "72bdd4ff-bd5e-479d-96b0-a48428e24c2f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "privatGjeldsforholdUtenforVirksomhet paaloepteRenter"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - privat gjeldsforhold utenfor virksomhet, paaloepte renter"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET_PAALOEPTERENTER"
+}

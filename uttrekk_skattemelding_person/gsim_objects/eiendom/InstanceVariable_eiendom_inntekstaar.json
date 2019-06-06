@@ -1,0 +1,25 @@
+{
+    "id": "70dd48dd-b55d-40c7-8c3c-76ebf03e115b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "EIENDOM_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

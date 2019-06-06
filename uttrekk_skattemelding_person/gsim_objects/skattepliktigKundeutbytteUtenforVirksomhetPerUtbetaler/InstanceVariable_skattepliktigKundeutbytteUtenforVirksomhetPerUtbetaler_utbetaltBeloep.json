@@ -1,0 +1,24 @@
+{
+    "id": "d5b37ce9-b8bc-4d9b-af79-5daf002a7a1a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler utbetaltBeloep"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, utbetalt beloep"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:11.000Z",
+    "validFrom": "2019-05-29T10:18:11.000Z",
+    "createdDate": "2019-05-29T10:18:11.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER_UTBETALTBELOEP"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "0f537949-5065-406d-ad05-986d74528623",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kollektivPensjonsordning"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding datasett kollektiv pensjonsordning"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/10cbe332-ea89-422c-ae03-6b25ad3448f7",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

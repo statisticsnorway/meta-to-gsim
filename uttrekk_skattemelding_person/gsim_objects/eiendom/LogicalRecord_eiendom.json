@@ -1,0 +1,52 @@
+{
+    "id": "b4d3e0e3-12ba-436a-a131-5786ac71d2c3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendom"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) eiendom"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/b8fb8c64-a505-45ea-a3ab-5a5bbfed0a63",
+        "/InstanceVariable/eddecef0-f2f3-4058-b333-d0c21aee26dc",
+        "/InstanceVariable/562646a4-3bef-4234-9b57-983d519a64e4",
+        "/InstanceVariable/dc43f060-284f-47c8-bdce-8296e562f9e1",
+        "/InstanceVariable/90fe2415-0fd2-4e87-ac57-86204cf14f1b",
+        "/InstanceVariable/5e306a06-cb2a-4a1a-92ed-c300619a8beb",
+        "/InstanceVariable/afd6f740-4265-4f30-9518-1e7912580233",
+        "/InstanceVariable/8c663294-ad2b-4f8f-abd1-5f7e5c6edf3d",
+        "/InstanceVariable/8403d2b3-05b9-473f-b3c3-f55873f989be",
+        "/InstanceVariable/c6407019-be0d-44a0-aa0c-a641c648a56e",
+        "/InstanceVariable/71297c14-10db-472f-bb20-9d6c33d8dd8f",
+        "/InstanceVariable/4f324437-f4b3-40e2-a543-cf10e028e323",
+        "/InstanceVariable/a38d4901-0a9c-4aa0-86b6-3c5d29742d63",
+        "/InstanceVariable/af951544-1c17-4d09-9f23-06303b7441c0",
+        "/InstanceVariable/543cf928-adc5-4d63-a268-2b623081d770",
+        "/InstanceVariable/d4a6c4fe-782f-47aa-9567-078cc9cad54e",
+        "/InstanceVariable/d24a9730-700e-4b48-8fbd-9fcb2e505326",
+        "/InstanceVariable/42518ece-6263-4f6d-a2f2-c4007770cce1",
+        "/InstanceVariable/13689148-1ac2-4b65-9623-da547a52931d",
+        "/InstanceVariable/cb0f18bf-d36e-4eef-b172-c1e18b9c0320",
+        "/InstanceVariable/80e8ccd3-a9bf-4d4a-95aa-2bb51843855e",
+        "/InstanceVariable/e8268c2d-f866-4211-8808-6738de452ac2",
+        "/InstanceVariable/1021ba9f-3064-47f3-b337-580171438155",
+        "/InstanceVariable/a3b6ed27-e5ff-4fbd-aba7-544a2b8be8bf",
+        "/InstanceVariable/80a47678-288a-4c81-bedf-2c2d74dec377",
+        "/InstanceVariable/75a70a15-e0bd-4cda-89fd-b52799a470ab",
+        "/InstanceVariable/f1a455f8-6d66-4568-8c2e-a84e47e59f51",
+        "/InstanceVariable/70dd48dd-b55d-40c7-8c3c-76ebf03e115b"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "EIENDOM"
+}

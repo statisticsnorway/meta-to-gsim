@@ -1,0 +1,25 @@
+{
+    "id": "5964d4e9-474d-4efd-a929-1f1d2ce85fb2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "eiendomSomUtleieobjekt inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - eiendom som utleieobjekt, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "EIENDOMSOMUTLEIEOBJEKT_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

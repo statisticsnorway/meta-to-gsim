@@ -1,0 +1,25 @@
+{
+    "id": "3115c609-2fbf-477d-b5d3-b1fa482a7e27",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "skattefriStoenadTilBarnetilsyn inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - skattefri stoenad til barnetilsyn, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "SKATTEFRISTOENADTILBARNETILSYN_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "af68cbf5-53b2-4e1d-b305-a08dadc8e800",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "loennOgTilsvarendeYtelser inntekstaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, inntekstaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:10.000Z",
+    "validFrom": "2019-05-29T10:18:10.000Z",
+    "createdDate": "2019-05-29T10:18:10.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "LOENNOGTILSVARENDEYTELSER_INNTEKSTAAR",
+    "dataStructureComponentRole": "TIME"
+}

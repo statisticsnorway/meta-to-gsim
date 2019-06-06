@@ -1,0 +1,24 @@
+{
+    "id": "b9abc052-1e0c-4c95-818b-3d7052d662a3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "individuellPensjonsordning utbetalingFraIndividuellPensjonsordningPerSkattleggingsperiode"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - individuell pensjonsordning, utbetaling fra individuell pensjonsordning per skattleggingsperiode"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:08.000Z",
+    "validFrom": "2019-05-29T10:18:08.000Z",
+    "createdDate": "2019-05-29T10:18:08.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INDIVIDUELLPENSJONSORDNING_UTBETALINGFRAINDIVIDUELLPENSJONSORDNINGPERSKATTLEGGINGSPERIODE"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "d0b8dc7a-62de-429b-82a0-855120582739",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "besoeksreiseTilHjemmet flybilletterForBesoeksreiseTilHjemmet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding - besoeksreise til hjemmet, flybilletter for besoeksreise til hjemmet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:07.000Z",
+    "validFrom": "2019-05-29T10:18:07.000Z",
+    "createdDate": "2019-05-29T10:18:07.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BESOEKSREISETILHJEMMET_FLYBILLETTERFORBESOEKSREISETILHJEMMET"
+}

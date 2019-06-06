@@ -1,0 +1,38 @@
+{
+    "id": "8c165b22-dc5d-47f8-ac2a-8e9bc160aa2a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "konto"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding record (LogicalRecord) konto"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-05-29T10:18:09.000Z",
+    "validFrom": "2019-05-29T10:18:09.000Z",
+    "createdDate": "2019-05-29T10:18:09.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/f95825f6-e8c0-4986-ae6a-9d9f8047f4fc",
+        "/InstanceVariable/c7b6c43a-c340-4c0b-b69d-fc8ad202984e",
+        "/InstanceVariable/42d73b50-64bd-4eb9-950c-476aa040933d",
+        "/InstanceVariable/71bbe797-e6b7-46c4-81dd-a6cfcf36b779",
+        "/InstanceVariable/2eaf731b-ad1b-41e7-a154-9cd0a613214c",
+        "/InstanceVariable/683a5ae1-0393-4a77-bcf9-e271388f80d1",
+        "/InstanceVariable/4793dd59-a26e-4f7c-8647-ddfa156e7636",
+        "/InstanceVariable/722f95c3-f201-44e7-b3d9-88d97c318f9d",
+        "/InstanceVariable/c55325dc-a460-4def-bf46-88d86057c832",
+        "/InstanceVariable/d998f097-cbf9-48d6-a8ac-24ce0ae7639b",
+        "/InstanceVariable/66d66ab5-05ff-426c-a8bf-8414220a0a4a",
+        "/InstanceVariable/27776073-00e6-41cd-9552-70a8e5d0ab5f",
+        "/InstanceVariable/e4bc84d5-82e8-4387-8a98-e9ef6044a88e",
+        "/InstanceVariable/ad45fee3-c435-4feb-9668-1828977f2e96"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KONTO"
+}
