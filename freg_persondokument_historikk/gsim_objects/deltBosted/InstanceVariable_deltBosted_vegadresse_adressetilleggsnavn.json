@@ -1,0 +1,24 @@
+{
+    "id": "16ac36b1-0883-4d0a-b26d-459a7f68ab49",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse adressetilleggsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - delt bosted, vegadresse adressetilleggsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:30.000Z",
+    "validFrom": "2019-06-06T16:40:30.000Z",
+    "createdDate": "2019-06-06T16:40:30.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_ADRESSETILLEGGSNAVN"
+}

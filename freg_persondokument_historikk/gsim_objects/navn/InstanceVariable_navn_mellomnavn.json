@@ -1,0 +1,24 @@
+{
+    "id": "d3126561-dc8c-4f1c-877a-29b9dfc2b48d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn mellomnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - navn, mellomnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_MELLOMNAVN"
+}

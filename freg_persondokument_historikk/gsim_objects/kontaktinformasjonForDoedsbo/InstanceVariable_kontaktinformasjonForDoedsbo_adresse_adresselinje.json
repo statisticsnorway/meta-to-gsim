@@ -1,0 +1,24 @@
+{
+    "id": "c201bf42-8e20-4924-802f-1c936e5039b5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo adresse adresselinje"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - kontaktinformasjon for doedsbo, adresse adresselinje"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ADRESSE_ADRESSELINJE"
+}

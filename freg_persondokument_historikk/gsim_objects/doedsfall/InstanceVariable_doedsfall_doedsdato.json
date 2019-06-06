@@ -1,0 +1,24 @@
+{
+    "id": "358477c0-a0c0-4066-b4b2-ea7a34682b76",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall doedsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - doedsfall, doedsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DOEDSFALL_DOEDSDATO"
+}

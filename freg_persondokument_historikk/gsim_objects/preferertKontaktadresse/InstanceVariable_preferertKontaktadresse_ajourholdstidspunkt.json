@@ -1,0 +1,24 @@
+{
+    "id": "a7fa1e25-9ee8-47ec-908a-59a18f56661b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - preferert kontaktadresse, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PREFERERTKONTAKTADRESSE_AJOURHOLDSTIDSPUNKT"
+}

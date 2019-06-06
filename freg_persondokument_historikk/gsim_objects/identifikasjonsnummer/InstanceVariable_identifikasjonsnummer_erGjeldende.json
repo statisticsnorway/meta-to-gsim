@@ -1,0 +1,24 @@
+{
+    "id": "97e68409-d09a-4d39-a8f9-2dd09a4e1f7f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - identifikasjonsnummer, er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTIFIKASJONSNUMMER_ERGJELDENDE"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "9c34f7eb-95db-4a42-a792-73d7add685c8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold oppholdstillatelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - opphold, oppholdstillatelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLD_OPPHOLDSTILLATELSE"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "b0be7767-d8da-46d8-b927-4a0eb7f6f94f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand kommune"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - sivilstand, kommune"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_KOMMUNE"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "0adca4be-e1c1-4cff-94fe-81b127a4e5ab",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - foedsel i norge, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FOEDSELINORGE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

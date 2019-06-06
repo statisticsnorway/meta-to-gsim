@@ -1,0 +1,39 @@
+{
+    "id": "a059b5b4-0365-43e7-8f92-dacfc701e68d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/081263db-fc78-44ab-8719-4b97ab1a5456",
+        "/InstanceVariable/4ac0d77b-9e93-440c-b9b6-8a5895e9b670",
+        "/InstanceVariable/4d0f2d76-0f42-4ab0-99aa-856e4c5dceb9",
+        "/InstanceVariable/5ab4c017-7bc4-489c-8949-eec55ce25510",
+        "/InstanceVariable/10c55f04-789a-4e88-91c4-74e5a78a4724",
+        "/InstanceVariable/9e35a46d-1a0e-44e4-8bb4-7760f7318a7f",
+        "/InstanceVariable/b04c930d-53d5-42a7-8596-7903ffbffe73",
+        "/InstanceVariable/c08e53fb-a378-49fb-8033-d8cdb06fe6c8",
+        "/InstanceVariable/d0f5fadc-f24a-48a9-9507-808c8478a84a",
+        "/InstanceVariable/5f997453-b4ab-40fc-99c3-f9456d5899d2",
+        "/InstanceVariable/5b278474-c7bb-4bac-8567-d21755792682",
+        "/InstanceVariable/ba3da46d-01b6-4091-8c99-65859cc4596e",
+        "/InstanceVariable/acf2e586-6c97-4dc6-b625-70afcac99066",
+        "/InstanceVariable/a6323da6-6c90-4cfa-be8f-5db6c2c6fa02",
+        "/InstanceVariable/900d5a42-2a99-4618-9764-ef3c7c6b2c9e"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FAMILIERELASJON"
+}

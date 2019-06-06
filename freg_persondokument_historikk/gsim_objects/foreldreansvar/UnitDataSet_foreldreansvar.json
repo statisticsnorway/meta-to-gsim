@@ -1,0 +1,23 @@
+{
+    "id": "afca8306-4616-4f43-a078-b403b98b0ed9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett foreldreansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:34.000Z",
+    "validFrom": "2019-06-06T16:40:34.000Z",
+    "createdDate": "2019-06-06T16:40:34.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/d457c010-9d87-47d2-9561-27b26460394c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

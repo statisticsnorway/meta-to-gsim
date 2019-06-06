@@ -1,0 +1,23 @@
+{
+    "id": "0285160c-4f58-41e0-aa82-ffe0f4edba38",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur foedsel"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:34.000Z",
+    "validFrom": "2019-06-06T16:40:34.000Z",
+    "createdDate": "2019-06-06T16:40:34.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/db2b7f50-d02c-40fd-81e3-be7cda60ea4c"
+    ]
+}

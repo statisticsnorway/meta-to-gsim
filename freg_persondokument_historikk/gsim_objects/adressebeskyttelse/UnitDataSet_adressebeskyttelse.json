@@ -1,0 +1,23 @@
+{
+    "id": "b8e50c70-4b66-4a61-9ea6-eb6023e445ed",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/80619622-b9e0-4c90-82c5-1bda2ccc1b80",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

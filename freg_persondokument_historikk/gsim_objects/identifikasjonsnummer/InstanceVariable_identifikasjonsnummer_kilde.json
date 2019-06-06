@@ -1,0 +1,24 @@
+{
+    "id": "ebce5d71-3876-41b4-8f8c-3cecb000aedc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - identifikasjonsnummer, kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTIFIKASJONSNUMMER_KILDE"
+}

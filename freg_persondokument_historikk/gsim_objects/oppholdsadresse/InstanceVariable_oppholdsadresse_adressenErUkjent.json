@@ -1,0 +1,24 @@
+{
+    "id": "913e5138-3d83-44e1-abf8-c61aab18af9d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse adressenErUkjent"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, adressen er ukjent"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:31.000Z",
+    "validFrom": "2019-06-06T16:40:31.000Z",
+    "createdDate": "2019-06-06T16:40:31.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_ADRESSENERUKJENT"
+}

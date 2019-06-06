@@ -1,0 +1,24 @@
+{
+    "id": "db96a311-5e16-4e06-b090-acc61188c7e9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - kjoenn, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KJOENN_AJOURHOLDSTIDSPUNKT"
+}

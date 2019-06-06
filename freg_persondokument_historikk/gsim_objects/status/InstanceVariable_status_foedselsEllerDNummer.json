@@ -1,0 +1,25 @@
+{
+    "id": "6a5e5745-378b-4498-9b59-1a4abb746597",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - status, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:28.000Z",
+    "validFrom": "2019-06-06T16:40:28.000Z",
+    "createdDate": "2019-06-06T16:40:28.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "STATUS_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "3a76eb18-d487-41e2-9fd0-9d3fa9e995b8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:31.000Z",
+    "validFrom": "2019-06-06T16:40:31.000Z",
+    "createdDate": "2019-06-06T16:40:31.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_ERGJELDENDE"
+}

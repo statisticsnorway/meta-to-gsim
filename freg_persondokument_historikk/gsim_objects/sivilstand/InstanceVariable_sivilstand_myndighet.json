@@ -1,0 +1,24 @@
+{
+    "id": "d583a66c-e789-4f42-a229-53ad555dbda1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand myndighet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - sivilstand, myndighet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_MYNDIGHET"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "f51521c3-32a4-4ae4-ae14-1d7aaac4f525",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - forhold til sametingets valgmanntall, opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_OPPHOERSTIDSPUNKT"
+}

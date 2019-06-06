@@ -1,0 +1,25 @@
+{
+    "id": "301c4a56-c6dc-4794-b492-5a0a1794ea9a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - doedsfall, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DOEDSFALL_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

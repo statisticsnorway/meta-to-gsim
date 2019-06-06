@@ -1,0 +1,24 @@
+{
+    "id": "7b7ac35c-37ad-48bc-a419-f7567e5e900c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - forhold til sametingets valgmanntall, gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL_GYLDIGHETSTIDSPUNKT"
+}

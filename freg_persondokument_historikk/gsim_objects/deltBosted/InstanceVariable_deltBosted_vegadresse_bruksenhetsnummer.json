@@ -1,0 +1,24 @@
+{
+    "id": "2dc34a95-1308-4960-92e6-4467b3ff70f7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse bruksenhetsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - delt bosted, vegadresse bruksenhetsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:30.000Z",
+    "validFrom": "2019-06-06T16:40:30.000Z",
+    "createdDate": "2019-06-06T16:40:30.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_BRUKSENHETSNUMMER"
+}

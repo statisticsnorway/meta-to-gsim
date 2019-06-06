@@ -1,0 +1,23 @@
+{
+    "id": "1f430de9-1779-425b-8b93-c4cd64479b17",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett bruk av samisk spraak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:36.000Z",
+    "validFrom": "2019-06-06T16:40:36.000Z",
+    "createdDate": "2019-06-06T16:40:36.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/56a3ed30-97e0-4fa9-b3c6-9ed22bcd82bf",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

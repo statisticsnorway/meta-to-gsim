@@ -1,0 +1,62 @@
+{
+    "id": "2f6d3b3b-304a-4351-bc9c-d82b0d7acac7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/72ac578c-123c-42a5-b7a6-e18ab125d2da",
+        "/InstanceVariable/85c2b821-7397-45cb-b8b8-9e7f38e51fb4",
+        "/InstanceVariable/39779f26-e7bd-462f-b543-42eb3f67ace6",
+        "/InstanceVariable/57dfcba8-fa18-43e0-afa0-e0ab8b21b090",
+        "/InstanceVariable/0b79a011-56ec-4f7f-8ad7-f0df45dd2b3c",
+        "/InstanceVariable/8e9fee61-ce55-4f65-accd-8370636c333d",
+        "/InstanceVariable/771e03b8-9e09-4713-8ff9-a8047a908fd1",
+        "/InstanceVariable/bdf9e099-096e-4a63-b151-f96065fde8d8",
+        "/InstanceVariable/351902d7-aa23-4e7a-9c0c-962d43825bde",
+        "/InstanceVariable/a655052b-bdc0-42cf-bc6b-03d827bf178f",
+        "/InstanceVariable/6c19abfe-ec0a-4076-866c-6979bea4419d",
+        "/InstanceVariable/51e2759e-ac0c-474e-9650-23b0ea7da511",
+        "/InstanceVariable/90359e03-c313-4ae3-936a-61beb5c573f3",
+        "/InstanceVariable/f3a1aedd-3082-4804-b8b9-fc8c62d13616",
+        "/InstanceVariable/79e784de-915b-4417-b063-5d83b46dc733",
+        "/InstanceVariable/7749cdfd-8d20-49b7-9627-a3c964add5d1",
+        "/InstanceVariable/617c73f3-d083-4cd6-877e-f8f5e8d7a7ce",
+        "/InstanceVariable/bd90cec6-ed74-463c-ace4-bb707cee9608",
+        "/InstanceVariable/5821fb4f-8595-4b32-bc10-ed8a22b89e08",
+        "/InstanceVariable/c750d511-c37e-4e52-9d97-f4b529372d4b",
+        "/InstanceVariable/afaf5f44-a5d7-490d-a397-e5bc055018a7",
+        "/InstanceVariable/e6ba15c0-1d32-4090-bf26-9198cb4ad747",
+        "/InstanceVariable/4c0a4854-7f57-4ebc-80c1-24be7fd4f762",
+        "/InstanceVariable/de10da05-7cb4-4946-bd86-d5922d962b08",
+        "/InstanceVariable/6e88c9fb-10ed-45ed-9e59-2dc62e50928d",
+        "/InstanceVariable/662a3a96-09bd-4f6b-af0d-5a680af81d0e",
+        "/InstanceVariable/7749cdfd-8d20-49b7-9627-a3c964add5d1",
+        "/InstanceVariable/617c73f3-d083-4cd6-877e-f8f5e8d7a7ce",
+        "/InstanceVariable/45ac10e5-a99a-410c-ae5c-db118bc4bf3d",
+        "/InstanceVariable/9a016d31-5225-45ce-b73c-7e9262d573df",
+        "/InstanceVariable/afecafe3-c3bb-45ab-89ec-391308acce63",
+        "/InstanceVariable/99c47471-7f53-4038-aad3-fcc3fe942dbe",
+        "/InstanceVariable/0eef4768-9c0a-40e2-a6d2-91be3319f262",
+        "/InstanceVariable/369679e7-d575-45fb-acb3-1024022e8726",
+        "/InstanceVariable/06cf1f10-98ae-4e5e-a368-32a8658e8bcb",
+        "/InstanceVariable/9aba922b-c335-4b51-938f-06319e3fb854",
+        "/InstanceVariable/d8d1ca34-e3f6-4f39-84e8-bd3132ba9296",
+        "/InstanceVariable/ff4cff97-6fce-4e17-b6d0-c97bfceff71d"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BOSTEDSADRESSE"
+}

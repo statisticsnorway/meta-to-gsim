@@ -1,0 +1,6 @@
+{
+    "id": "53d65e37-98c0-4ea0-b752-f5d5b129ff70",
+    "sourceName": "bruksenhetsnummer",
+    "sourcePath": "/folkeregisterperson/postadresse/vegadresse/",
+    "targetInstanceVariable": "/InstanceVariable/911fee55-efac-474a-97c6-61849a2715c2"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "41b71856-8a01-4ad1-8ade-c17c8ddae035",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - identitetsgrunnlag, aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTITETSGRUNNLAG_AARSAK"
+}

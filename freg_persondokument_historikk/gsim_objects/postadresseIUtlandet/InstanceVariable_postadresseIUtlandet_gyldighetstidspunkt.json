@@ -1,0 +1,24 @@
+{
+    "id": "05ffbd2c-559a-4c90-9cbc-4fca876593a4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse i utlandet, gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSEIUTLANDET_GYLDIGHETSTIDSPUNKT"
+}

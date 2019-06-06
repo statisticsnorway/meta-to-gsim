@@ -1,0 +1,24 @@
+{
+    "id": "d713b073-72c7-4b88-9e81-fa26b20f8ff0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - status, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:28.000Z",
+    "validFrom": "2019-06-06T16:40:28.000Z",
+    "createdDate": "2019-06-06T16:40:28.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATUS_AJOURHOLDSTIDSPUNKT"
+}

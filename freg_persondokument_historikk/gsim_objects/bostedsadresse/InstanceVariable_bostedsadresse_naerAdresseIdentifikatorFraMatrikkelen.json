@@ -1,0 +1,24 @@
+{
+    "id": "afecafe3-c3bb-45ab-89ec-391308acce63",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse naerAdresseIdentifikatorFraMatrikkelen"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, naer adresse identifikator fra matrikkelen"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:30.000Z",
+    "validFrom": "2019-06-06T16:40:30.000Z",
+    "createdDate": "2019-06-06T16:40:30.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_NAERADRESSEIDENTIFIKATORFRAMATRIKKELEN"
+}

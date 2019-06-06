@@ -1,0 +1,24 @@
+{
+    "id": "6d39f080-1de8-4192-9364-9d4cb54310e8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bruk av samisk spraak, aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:36.000Z",
+    "validFrom": "2019-06-06T16:40:36.000Z",
+    "createdDate": "2019-06-06T16:40:36.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BRUKAVSAMISKSPRAAK_AARSAK"
+}

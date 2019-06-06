@@ -1,0 +1,39 @@
+{
+    "id": "1d7a174d-08a3-42fc-adda-9bc57d367c06",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:26.000Z",
+    "validFrom": "2019-06-06T16:40:26.000Z",
+    "createdDate": "2019-06-06T16:40:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/27ae9589-ffee-435f-94c0-20711047b12d",
+        "/InstanceVariable/f5cdc8a9-d2d3-40e1-a4b5-13bacca5c2dd",
+        "/InstanceVariable/a1be9b6f-af25-40d3-9b98-b032adf7eaf4",
+        "/InstanceVariable/2bfcfcc6-b2e9-4caf-b07f-1f26841c93f2",
+        "/InstanceVariable/623849bd-9ce1-45f0-a24a-c1d2091116fb",
+        "/InstanceVariable/0a244601-e939-4478-b4f3-5f7ac4936419",
+        "/InstanceVariable/18fd5941-0bcd-42a1-91a9-62d64392c61a",
+        "/InstanceVariable/aeb176bf-3b1e-4571-8dc6-0b86f65fa1f2",
+        "/InstanceVariable/0d6177c2-58a8-4057-80ef-dbd73c9ae8f7",
+        "/InstanceVariable/822694b4-b985-4b6d-9676-e5eeb49bdb10",
+        "/InstanceVariable/8f3d2b19-4208-480f-ba24-5d888fea89f8",
+        "/InstanceVariable/61af9c36-cd3e-4be7-a296-c92efe62f14b",
+        "/InstanceVariable/d046b132-212d-4d2a-8d7b-a51de2eb5f31",
+        "/InstanceVariable/19a462e2-ce79-4d05-b5ed-9d79fc92ba7f",
+        "/InstanceVariable/3da7ea27-4e1c-43d2-985c-9e38e424527d"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FALSKIDENTITET"
+}

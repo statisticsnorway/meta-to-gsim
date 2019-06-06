@@ -1,0 +1,23 @@
+{
+    "id": "d16781ec-2338-4462-aaec-22f17025faa1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur utflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/76dc25b6-c6ec-4155-85c4-5ffbc4407991"
+    ]
+}

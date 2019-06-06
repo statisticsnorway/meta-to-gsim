@@ -1,0 +1,24 @@
+{
+    "id": "2d347209-1923-4067-981c-a35431df848d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse postadresseIFrittFormat poststed poststedsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, postadresseIFrittFormat poststed poststedsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_POSTADRESSEIFRITTFORMAT_POSTSTED_POSTSTEDSNAVN"
+}

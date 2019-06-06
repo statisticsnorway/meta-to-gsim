@@ -1,0 +1,35 @@
+{
+    "id": "db2b7f50-d02c-40fd-81e3-be7cda60ea4c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) foedsel"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:34.000Z",
+    "validFrom": "2019-06-06T16:40:34.000Z",
+    "createdDate": "2019-06-06T16:40:34.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/0e1e794d-c968-478d-b6a0-45475c45cf72",
+        "/InstanceVariable/8a7e3d9d-67bb-481e-a6b7-95935cf91fe7",
+        "/InstanceVariable/d77b2276-92c6-4448-882c-ec346f70e500",
+        "/InstanceVariable/e30da410-ba46-41f8-8ddf-884c4bc04d92",
+        "/InstanceVariable/603608c1-5bff-42ac-836d-a4cde9016635",
+        "/InstanceVariable/693543aa-ec72-415b-b998-6905e8ee4c46",
+        "/InstanceVariable/694c2b52-85b0-44a7-b7de-5ea4b4a50bd6",
+        "/InstanceVariable/fb4ef83d-b63d-456f-826d-c7b8de580f10",
+        "/InstanceVariable/87f3c2a3-d9a0-4a10-90bf-78f156003c92",
+        "/InstanceVariable/c177c302-a10f-40c1-979a-4b34f0b736bb",
+        "/InstanceVariable/de2cb301-cfe3-446f-99d6-9b069cc8a1e0"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FOEDSEL"
+}

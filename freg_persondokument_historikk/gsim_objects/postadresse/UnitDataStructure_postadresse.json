@@ -1,0 +1,23 @@
+{
+    "id": "c482c659-124f-43c3-82dc-d64c98ae126e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur postadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/29c3385a-d1b3-4e86-b2cf-6ba17a18c8dd"
+    ]
+}

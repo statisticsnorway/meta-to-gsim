@@ -1,0 +1,24 @@
+{
+    "id": "1c19ef59-0260-4eeb-80f8-296d0245876f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer identifikasjonsnummertype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - utlendingsmyndighetenes identifikasjonsnummer, identifikasjonsnummertype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:28.000Z",
+    "validFrom": "2019-06-06T16:40:28.000Z",
+    "createdDate": "2019-06-06T16:40:28.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_IDENTIFIKASJONSNUMMERTYPE"
+}

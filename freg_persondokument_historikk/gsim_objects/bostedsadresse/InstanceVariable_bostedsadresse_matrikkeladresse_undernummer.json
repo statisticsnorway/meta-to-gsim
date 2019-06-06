@@ -1,0 +1,24 @@
+{
+    "id": "6e88c9fb-10ed-45ed-9e59-2dc62e50928d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse undernummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, matrikkeladresse undernummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:30.000Z",
+    "validFrom": "2019-06-06T16:40:30.000Z",
+    "createdDate": "2019-06-06T16:40:30.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_UNDERNUMMER"
+}

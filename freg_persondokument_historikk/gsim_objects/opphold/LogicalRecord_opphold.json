@@ -1,0 +1,34 @@
+{
+    "id": "2f69453a-541c-46fa-9bd2-c27990a29842",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/9a468aca-7e11-4387-a1ff-3cfe0dd54492",
+        "/InstanceVariable/79366789-9479-44b3-a8da-9ff0c38bdb56",
+        "/InstanceVariable/d3aa2b35-6d20-4571-a126-7a269608b57f",
+        "/InstanceVariable/e3472988-d71e-48d7-a17f-3259c4264fe5",
+        "/InstanceVariable/e6e0fec7-d2ac-4565-a9e9-e7a9a1495c6d",
+        "/InstanceVariable/26e940fd-83f1-47aa-a8de-1fa7884cfe83",
+        "/InstanceVariable/9c34f7eb-95db-4a42-a792-73d7add685c8",
+        "/InstanceVariable/50fd0539-e4c7-41ab-a40a-711741fe2ca3",
+        "/InstanceVariable/fe2e6540-9cb2-4b0c-87ab-17e2bd1cb8e7",
+        "/InstanceVariable/50ed9132-8183-414a-9e56-db476ac386a1"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "OPPHOLD"
+}

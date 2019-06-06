@@ -1,0 +1,38 @@
+{
+    "id": "51a72ebc-6291-4975-99b8-4f7e74d8e37a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) vergemaal eller fremtidsfullmakt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/f5b854d2-e6c8-4127-866f-df5ed1433d21",
+        "/InstanceVariable/d8115e1a-27cd-42c9-8a4a-6f3fc8d6fd29",
+        "/InstanceVariable/7ce193cd-09b4-403f-b577-ca91f4c1381d",
+        "/InstanceVariable/463be00b-1f8f-4509-bfcd-28da07393b9f",
+        "/InstanceVariable/dc019f07-d533-455d-8b3f-3daed48545c1",
+        "/InstanceVariable/9df2e818-c665-4e5c-9702-4ac6eef96a34",
+        "/InstanceVariable/7ae80f0b-d6f2-4df8-b842-f472b95df7a3",
+        "/InstanceVariable/7c247165-455c-4cb2-b953-2654185cd0e9",
+        "/InstanceVariable/374542f9-bb36-4a7f-b2d2-21baebb31cae",
+        "/InstanceVariable/605b019b-137e-4cdc-b146-8817e9d8b624",
+        "/InstanceVariable/aa633ee1-f5b2-4c5d-b78b-c45c7cebac23",
+        "/InstanceVariable/804c13a0-e819-4f89-9bd7-1db2653da7de",
+        "/InstanceVariable/e49a6329-432c-4400-b9b8-5c6394421058",
+        "/InstanceVariable/a9be9397-2c9e-47bf-8a9b-87a63ccc31ec"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT"
+}

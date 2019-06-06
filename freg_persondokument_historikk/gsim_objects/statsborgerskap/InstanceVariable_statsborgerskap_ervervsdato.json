@@ -1,0 +1,24 @@
+{
+    "id": "a6e62f88-84b6-482b-892f-a1203684eb8b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap ervervsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - statsborgerskap, ervervsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:34.000Z",
+    "validFrom": "2019-06-06T16:40:34.000Z",
+    "createdDate": "2019-06-06T16:40:34.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "STATSBORGERSKAP_ERVERVSDATO"
+}

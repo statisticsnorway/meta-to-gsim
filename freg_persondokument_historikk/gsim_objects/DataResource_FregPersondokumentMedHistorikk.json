@@ -1,0 +1,53 @@
+{
+    "id": "7661f5bd-3949-4587-b69b-5dc96b1037f9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - Folkeregisterperson"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:36.000Z",
+    "validFrom": "2019-06-06T16:40:36.000Z",
+    "createdDate": "2019-06-06T16:40:36.000Z",
+    "createdBy": "BNJ",
+    "dataSets": [
+        "/UnitDataSet/8f353a4a-d2a0-45ae-9c20-d341c6d39666",
+        "/UnitDataSet/6051aa45-6de7-4072-95d9-fc44ad23b0a2",
+        "/UnitDataSet/2e33b792-08f8-424d-9736-c11dccd14203",
+        "/UnitDataSet/279291d8-4ad9-4aff-9983-f6309fa72497",
+        "/UnitDataSet/a4099b71-3bec-417b-b521-a5e0e9ef24eb",
+        "/UnitDataSet/35561888-98cb-4397-abec-6980e94e23d0",
+        "/UnitDataSet/c556498f-d765-4640-b25a-a72577a57b40",
+        "/UnitDataSet/22899c16-8b69-4214-92f4-874fe98f10f2",
+        "/UnitDataSet/1df5cb6e-3ba8-427f-a6ec-aed05868ffeb",
+        "/UnitDataSet/7d5c462c-2147-415a-9af9-e083ee982f6e",
+        "/UnitDataSet/bfa928d9-85d0-49e3-9eb9-159e3a70599f",
+        "/UnitDataSet/7613de99-879c-4b11-babd-dbab6fa52a51",
+        "/UnitDataSet/c5746715-4c0d-4640-bcd5-a5c98e8693e1",
+        "/UnitDataSet/569271fd-f339-4a25-a833-e37e3be81c02",
+        "/UnitDataSet/b9cfce57-a8e6-4a08-890e-986027102d3b",
+        "/UnitDataSet/793b34a2-646d-490e-8038-cf0021da902e",
+        "/UnitDataSet/b8e50c70-4b66-4a61-9ea6-eb6023e445ed",
+        "/UnitDataSet/0d5ebd34-007e-4422-bdee-012a3788e5cd",
+        "/UnitDataSet/9328e7d5-aa2a-4ecf-b726-7b0664b8dea5",
+        "/UnitDataSet/4732e63b-a407-4aaf-9092-c27328bdc76b",
+        "/UnitDataSet/2ccd531f-c0af-4d44-aec0-52227070b051",
+        "/UnitDataSet/39b29582-79f3-4799-a7cc-0bdad1c73c3a",
+        "/UnitDataSet/01a7841e-94a5-4ea7-a2cb-ea03400167e4",
+        "/UnitDataSet/afca8306-4616-4f43-a078-b403b98b0ed9",
+        "/UnitDataSet/e5dbff3d-af49-4159-8410-a1e708ea204e",
+        "/UnitDataSet/6f5fe411-60be-43ce-9197-648b116d6387",
+        "/UnitDataSet/5a20d30a-8ef7-445d-af18-e1e28563692a",
+        "/UnitDataSet/c218856d-1b1c-458e-830c-35694ca95c93",
+        "/UnitDataSet/617b0e2e-0742-433f-917f-f11b6740b8a0",
+        "/UnitDataSet/b8b7cb3f-626e-47a1-ab45-116f233343f7",
+        "/UnitDataSet/1f430de9-1779-425b-8b93-c4cd64479b17"
+    ]
+}

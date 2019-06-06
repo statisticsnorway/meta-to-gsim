@@ -1,0 +1,23 @@
+{
+    "id": "6051aa45-6de7-4072-95d9-fc44ad23b0a2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/68f958dd-ca1e-41f4-b7ea-bb416b199b2c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

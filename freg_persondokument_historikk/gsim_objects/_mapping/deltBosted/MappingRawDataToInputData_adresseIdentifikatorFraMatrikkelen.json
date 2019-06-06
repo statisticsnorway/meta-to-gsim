@@ -1,0 +1,6 @@
+{
+    "id": "db17101d-2d26-48af-8dd7-6c98c5c1b064",
+    "sourceName": "adresseIdentifikatorFraMatrikkelen",
+    "sourcePath": "/folkeregisterperson/deltBosted/",
+    "targetInstanceVariable": "/InstanceVariable/93047483-2a59-4350-878b-e5860f48f1be"
+}

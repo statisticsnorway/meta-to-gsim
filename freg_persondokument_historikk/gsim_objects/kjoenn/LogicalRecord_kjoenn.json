@@ -1,0 +1,32 @@
+{
+    "id": "41555901-ff21-4df5-a196-fbd7678c1ded",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:33.000Z",
+    "validFrom": "2019-06-06T16:40:33.000Z",
+    "createdDate": "2019-06-06T16:40:33.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/db96a311-5e16-4e06-b090-acc61188c7e9",
+        "/InstanceVariable/52b80d41-314a-471c-8443-d4fec6279aab",
+        "/InstanceVariable/b6ba5e3a-8d67-454b-9e08-82b77c0b3a39",
+        "/InstanceVariable/7d651bdc-c06c-4d9f-ae42-37ec88402a2a",
+        "/InstanceVariable/1cfb7181-b5ea-4747-a9ce-79f4c92677a2",
+        "/InstanceVariable/638abab9-fd1e-4a2c-b9d0-35eff56982c8",
+        "/InstanceVariable/d3e33aaa-d497-4114-be45-e0d54f3718d5",
+        "/InstanceVariable/33930183-6afb-431d-92a5-103735542136"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KJOENN"
+}

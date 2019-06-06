@@ -1,0 +1,6 @@
+{
+    "id": "e896f406-c8e4-49b1-bc05-d1e3b5769311",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/identifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/301c4a56-c6dc-4794-b492-5a0a1794ea9a"
+}

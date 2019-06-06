@@ -1,0 +1,24 @@
+{
+    "id": "623849bd-9ce1-45f0-a24a-c1d2091116fb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - falsk identitet, gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:26.000Z",
+    "validFrom": "2019-06-06T16:40:26.000Z",
+    "createdDate": "2019-06-06T16:40:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_GYLDIGHETSTIDSPUNKT"
+}

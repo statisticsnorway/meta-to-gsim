@@ -1,0 +1,25 @@
+{
+    "id": "02aeb6fd-73b6-4d29-b7df-2a96b7743d7b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - foreldreansvar, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:34.000Z",
+    "validFrom": "2019-06-06T16:40:34.000Z",
+    "createdDate": "2019-06-06T16:40:34.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FORELDREANSVAR_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

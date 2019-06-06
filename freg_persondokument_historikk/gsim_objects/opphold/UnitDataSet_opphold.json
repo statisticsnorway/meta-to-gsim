@@ -1,0 +1,23 @@
+{
+    "id": "617b0e2e-0742-433f-917f-f11b6740b8a0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:35.000Z",
+    "validFrom": "2019-06-06T16:40:35.000Z",
+    "createdDate": "2019-06-06T16:40:35.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/34e7736a-b4ed-49b2-bf5c-b0124a2b3d6f",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

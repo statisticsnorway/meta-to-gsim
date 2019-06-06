@@ -1,0 +1,25 @@
+{
+    "id": "a4f7da03-08b3-492d-95ae-c420b7edc727",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "POSTADRESSE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

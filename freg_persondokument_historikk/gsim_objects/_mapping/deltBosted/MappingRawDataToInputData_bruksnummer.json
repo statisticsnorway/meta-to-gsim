@@ -1,0 +1,6 @@
+{
+    "id": "78a1485d-1f6a-4180-b1e3-3d88dd1f60d3",
+    "sourceName": "bruksnummer",
+    "sourcePath": "/folkeregisterperson/deltBosted/matrikkeladresse/matrikkelnummer/",
+    "targetInstanceVariable": "/InstanceVariable/77661b1a-c231-443a-80e6-53f4254a6d93"
+}

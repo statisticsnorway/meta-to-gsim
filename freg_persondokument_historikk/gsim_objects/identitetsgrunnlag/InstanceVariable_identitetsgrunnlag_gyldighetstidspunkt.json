@@ -1,0 +1,24 @@
+{
+    "id": "2eb8d8e3-917f-4c1d-a2ce-fbd43c5a5e08",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - identitetsgrunnlag, gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:27.000Z",
+    "validFrom": "2019-06-06T16:40:27.000Z",
+    "createdDate": "2019-06-06T16:40:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "IDENTITETSGRUNNLAG_GYLDIGHETSTIDSPUNKT"
+}

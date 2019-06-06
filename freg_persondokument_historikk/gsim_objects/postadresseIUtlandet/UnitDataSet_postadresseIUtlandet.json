@@ -1,0 +1,23 @@
+{
+    "id": "793b34a2-646d-490e-8038-cf0021da902e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett postadresse i utlandet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:32.000Z",
+    "validFrom": "2019-06-06T16:40:32.000Z",
+    "createdDate": "2019-06-06T16:40:32.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/12412fba-240d-4ba0-bfd2-ac0bd49fc9d4",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "d3a060d9-ecf5-42a4-81c8-1fca91db8e07",
+    "sourceName": "postnummer",
+    "sourcePath": "/folkeregisterperson/deltBosted/matrikkeladresse/poststed/",
+    "targetInstanceVariable": "/InstanceVariable/10171f8f-0ff8-4dc1-ad3c-3602c2e9062f"
+}

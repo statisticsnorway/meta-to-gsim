@@ -1,0 +1,23 @@
+{
+    "id": "bfa928d9-85d0-49e3-9eb9-159e3a70599f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-06T16:40:29.000Z",
+    "validFrom": "2019-06-06T16:40:29.000Z",
+    "createdDate": "2019-06-06T16:40:29.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/6f67c604-24d5-46b2-9690-80a7f226fa3f",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}
