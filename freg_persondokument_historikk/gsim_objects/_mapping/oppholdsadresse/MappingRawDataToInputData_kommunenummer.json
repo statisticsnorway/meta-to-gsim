@@ -1,6 +1,0 @@
-{
-    "id": "bd865747-3a7b-4362-b853-66080d811628",
-    "sourceName": "kommunenummer",
-    "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/matrikkelnummer/",
-    "targetInstanceVariable": "/InstanceVariable/51c11fcc-b5be-4df5-abcb-b8772067f0c6"
-}

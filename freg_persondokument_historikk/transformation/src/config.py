@@ -14,7 +14,7 @@ xsdSourceFile = 'PersondokumentMedHistorikk_v1BETA2.xsd'
 xsdCleanedFile = 'CLEANED_' + xsdSourceFile
 
 
-# "innslagspunktet" i XSD (ønsket "start-punkt-element" i XSD hvor det skal leses rekursivt fra), eksempel "SkattemeldingUtflatet" og "folkeregisterperson"
+# "innslagspunktet" i XSD (ønsket "start-punkt-element" i XSD hvor det skal leses rekursivt fra), eksempel "SkattemeldingUtflatet" og "Folkeregisterperson"
 xsdStartingPointElement = "Folkeregisterperson"
 # .. og xsd-path til "innslagspunktet" for "xsdStartingPointElement"
 xsdStartingPointPath = "folkeregisterperson/"
@@ -35,7 +35,7 @@ jsonMappingObjectFullPath = jsonGsimTargetPath + mappingObjectSubPath
 identifierComponents = [
     {"name": "foedselsEllerDNummer",
      "type": "xsd:string",
-     "rawDataSourcePath": "identifikasjonsnummer/",
+     "rawDataSourcePath": "/folkeregisterperson/identifikasjonsnummer/",
      "dataStructureComponentRole": "ENTITY"
     }
     # TODO: Eventuelt om det er flere "InstanceVariables" som skal inngå som "Identifier" i FREG?
