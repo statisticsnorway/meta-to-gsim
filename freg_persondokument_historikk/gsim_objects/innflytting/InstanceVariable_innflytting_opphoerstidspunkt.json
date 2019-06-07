@@ -1,0 +1,24 @@
+{
+    "id": "56f94fa3-282a-4f28-a044-75de083ef4d3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - innflytting, opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INNFLYTTING_OPPHOERSTIDSPUNKT"
+}

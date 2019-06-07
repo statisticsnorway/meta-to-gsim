@@ -1,0 +1,23 @@
+{
+    "id": "e3ffdd24-fd41-4d0d-b2b3-a59cd0b3e7e3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/e8f94df0-5603-41a4-ac43-ff2c011c23ea",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

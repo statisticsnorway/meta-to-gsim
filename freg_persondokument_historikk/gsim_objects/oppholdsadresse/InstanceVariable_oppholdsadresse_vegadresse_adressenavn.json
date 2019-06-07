@@ -1,0 +1,24 @@
+{
+    "id": "105b36f1-e092-492f-becc-7e458458cfd7",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse vegadresse adressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, vegadresse adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_VEGADRESSE_ADRESSENAVN"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "13974aef-cdac-430a-b02b-dca32a6c2b33",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett preferert kontaktadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/56b8d8a1-126e-4da4-91fb-d868491b1691",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

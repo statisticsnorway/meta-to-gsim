@@ -1,0 +1,24 @@
+{
+    "id": "8e3a1780-6a94-4677-a829-ef5cf2271481",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse vegadresse kommunenummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, vegadresse kommunenummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_VEGADRESSE_KOMMUNENUMMER"
+}

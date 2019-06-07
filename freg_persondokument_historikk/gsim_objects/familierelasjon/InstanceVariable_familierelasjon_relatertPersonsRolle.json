@@ -1,0 +1,24 @@
+{
+    "id": "0dfb5a81-9370-4cff-8323-d231caf49d29",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPersonsRolle"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - familierelasjon, relatert persons rolle"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_RELATERTPERSONSROLLE"
+}

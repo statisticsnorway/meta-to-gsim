@@ -1,0 +1,6 @@
+{
+    "id": "e70146ec-45e0-43da-8af7-6a815d560ea8",
+    "sourceName": "adresseIdentifikatorFraMatrikkelen",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/",
+    "targetInstanceVariable": "/InstanceVariable/feb1eaf7-06a9-43c1-a581-0042cdcc546b"
+}

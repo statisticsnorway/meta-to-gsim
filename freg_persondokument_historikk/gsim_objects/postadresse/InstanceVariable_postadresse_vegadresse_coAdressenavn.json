@@ -1,0 +1,24 @@
+{
+    "id": "04f7ed3f-12d4-4255-b61a-7d1a6d2d191b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse vegadresse coAdressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, vegadresse co adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_VEGADRESSE_COADRESSENAVN"
+}

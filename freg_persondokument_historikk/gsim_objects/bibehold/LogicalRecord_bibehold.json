@@ -1,0 +1,33 @@
+{
+    "id": "02e5903b-3898-44e5-b27b-b2dbee4ba7e4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) bibehold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/19919fcd-0b9f-4042-a30a-27b6b279a122",
+        "/InstanceVariable/b2b2eefe-a44b-4641-aafe-497c79652ff8",
+        "/InstanceVariable/6db09d63-9356-4443-bbc4-06ffe2c2c0cd",
+        "/InstanceVariable/82f40871-8d0e-4f43-82f4-1df7171583f9",
+        "/InstanceVariable/687d638c-380a-4eb3-9cb3-e19dcf5c5d07",
+        "/InstanceVariable/dd8d3032-7c3c-4f12-a701-63ae0cefab74",
+        "/InstanceVariable/68e9af22-8a62-4810-a016-f780b75103d9",
+        "/InstanceVariable/0d020676-a5f8-4e12-885e-4b06d26315fd",
+        "/InstanceVariable/ecc28f62-514f-47a2-b94f-8304357e2858"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BIBEHOLD"
+}

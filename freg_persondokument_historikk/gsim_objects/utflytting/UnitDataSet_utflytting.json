@@ -1,0 +1,23 @@
+{
+    "id": "5cd63d90-b590-4a62-b1f3-840720fd4117",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett utflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/e0a2bcc7-a9f9-4f2f-a87b-de1ba644bb14",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

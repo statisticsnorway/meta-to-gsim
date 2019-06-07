@@ -1,0 +1,24 @@
+{
+    "id": "5a951ff6-4089-427f-9e3e-8e408679dcd5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - innflytting, er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "INNFLYTTING_ERGJELDENDE"
+}

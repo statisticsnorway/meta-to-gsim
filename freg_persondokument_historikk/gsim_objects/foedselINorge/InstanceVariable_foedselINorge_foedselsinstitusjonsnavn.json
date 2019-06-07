@@ -1,0 +1,24 @@
+{
+    "id": "ba0f2dba-7098-4527-8435-6d8aa1500984",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge foedselsinstitusjonsnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - foedsel i norge, foedselsinstitusjonsnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_FOEDSELSINSTITUSJONSNAVN"
+}

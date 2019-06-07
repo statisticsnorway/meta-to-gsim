@@ -1,0 +1,23 @@
+{
+    "id": "0cd02d2c-14a4-4e4a-8b2a-c755f250d2b1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/4e24e71d-19f6-482f-8431-4bd8c4b41252"
+    ]
+}

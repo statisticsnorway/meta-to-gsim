@@ -1,0 +1,32 @@
+{
+    "id": "8f71d2f9-d28d-4308-963f-66d3ab8b04a1",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/e7fdeec8-1529-497e-9bab-14a0d16211be",
+        "/InstanceVariable/e03226a4-b97d-4337-9589-ebde1a05b6ef",
+        "/InstanceVariable/b1c3c1cc-a12d-4812-9346-6af4a5ee6dd1",
+        "/InstanceVariable/4c43ea24-71d6-4ce9-8dcd-bbcb4cc607a2",
+        "/InstanceVariable/0b8340a8-8d1c-4d1a-babc-e653ba0ac335",
+        "/InstanceVariable/27bfba94-f259-43f4-8892-5b64eca44f0c",
+        "/InstanceVariable/3bd540b6-fc7b-4e5a-bbbc-59ef74936e44",
+        "/InstanceVariable/123eec1a-3ad8-4918-8906-6154a101aa92"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ADRESSEBESKYTTELSE"
+}

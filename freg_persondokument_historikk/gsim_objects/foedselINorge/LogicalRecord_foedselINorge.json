@@ -1,0 +1,33 @@
+{
+    "id": "f540587e-8ec1-4c77-9cb6-f8096f7402ac",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) foedsel i norge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/74fb4567-2bbf-440e-9f39-61458af22c53",
+        "/InstanceVariable/3927e683-cc52-4a88-908a-49c455029188",
+        "/InstanceVariable/f5d9b6c3-04eb-4ddb-a7a2-2d940b82dc63",
+        "/InstanceVariable/0fe2a4ff-94f7-41a4-bf36-5b20e105d73e",
+        "/InstanceVariable/70652aa7-600e-4341-abaf-4070ad763de1",
+        "/InstanceVariable/e6046a97-5d4c-4ac4-86b9-9f9f11f525a3",
+        "/InstanceVariable/ba0f2dba-7098-4527-8435-6d8aa1500984",
+        "/InstanceVariable/e5155d58-4e01-4cc7-a6a3-ea43e6910742",
+        "/InstanceVariable/7db4331b-23c6-435f-9a09-92a8b7acf692"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FOEDSELINORGE"
+}

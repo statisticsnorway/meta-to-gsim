@@ -1,0 +1,6 @@
+{
+    "id": "c31d3f00-ead1-4f71-8ac6-035e507d8cd9",
+    "sourceName": "fornavn",
+    "sourcePath": "/folkeregisterperson/navn/originaltNavn/",
+    "targetInstanceVariable": "/InstanceVariable/764c0bb8-948f-40c9-9cda-ef4a52c944cc"
+}

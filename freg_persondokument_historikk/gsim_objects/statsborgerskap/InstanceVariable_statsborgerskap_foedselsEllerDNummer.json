@@ -1,0 +1,25 @@
+{
+    "id": "4fab6321-70d7-4994-9f8e-9c744d265349",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - statsborgerskap, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "STATSBORGERSKAP_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

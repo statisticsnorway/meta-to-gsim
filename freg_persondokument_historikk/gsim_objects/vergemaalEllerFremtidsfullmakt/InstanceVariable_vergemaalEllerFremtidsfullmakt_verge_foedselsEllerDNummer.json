@@ -1,0 +1,24 @@
+{
+    "id": "e55c3fa8-c2b7-4496-a4cd-acd9972b0296",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt verge foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - vergemaal eller fremtidsfullmakt, verge foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_VERGE_FOEDSELSELLERDNUMMER"
+}

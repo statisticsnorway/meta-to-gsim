@@ -1,0 +1,24 @@
+{
+    "id": "69e24356-b39c-4671-aa1f-7458affb712c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_OPPHOERSTIDSPUNKT"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "e5cb48b0-1084-48e4-bb6d-bc53f27098f2",
+    "sourceName": "postnummer",
+    "sourcePath": "/folkeregisterperson/bostedsadresse/matrikkeladresse/poststed/",
+    "targetInstanceVariable": "/InstanceVariable/1d33d527-df56-42b4-9aa5-b9ec796b8db6"
+}

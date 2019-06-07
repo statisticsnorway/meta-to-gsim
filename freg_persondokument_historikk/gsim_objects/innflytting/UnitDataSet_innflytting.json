@@ -1,0 +1,23 @@
+{
+    "id": "463dff64-f157-46a9-a551-61894b0f0270",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett innflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/ea77541e-f799-471a-a530-b9e842a0257b",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

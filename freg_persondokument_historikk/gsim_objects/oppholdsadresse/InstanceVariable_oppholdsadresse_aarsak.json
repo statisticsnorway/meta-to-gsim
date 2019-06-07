@@ -1,0 +1,24 @@
+{
+    "id": "6f0ef165-9e01-45b5-bf8d-02f54fdee6b4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_AARSAK"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "b5c5bdf3-53a8-4257-9f0c-fb17906d1bb4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/f16fa7df-e1af-4e42-a64a-403a73e2e445"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "bb39a4d1-eb0b-499a-bd53-1d9eb3bfc11c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) postadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/059f0238-5b30-4725-b331-7e8fd1e35efb",
+        "/InstanceVariable/ed13aed0-407b-4966-8365-28c8d2d23a8b",
+        "/InstanceVariable/784191ac-dae9-4ee3-b01c-f0175b8d874b",
+        "/InstanceVariable/933dc7b5-fc42-4d3b-aeb3-de594f711011",
+        "/InstanceVariable/87c5289b-1e48-46a6-a7c7-e8e693047ceb",
+        "/InstanceVariable/87f022db-ace5-442d-bb4a-860b990362cd",
+        "/InstanceVariable/2ebcebbd-1a42-4a00-8d5c-5f2c564a4454",
+        "/InstanceVariable/32a065ee-2eb4-4685-943d-1632260d0389",
+        "/InstanceVariable/d8b8b4df-2856-423c-987b-a5d6c082291f",
+        "/InstanceVariable/3517efd7-f010-47d6-9c76-c36601d90279",
+        "/InstanceVariable/b0f69f36-757d-4a45-9a25-709d6970e6ab",
+        "/InstanceVariable/04f7ed3f-12d4-4255-b61a-7d1a6d2d191b",
+        "/InstanceVariable/d9c3cb27-01b8-4497-8d06-fccd721fb2d2",
+        "/InstanceVariable/ad2400ca-7fe2-4e4c-aa8b-35c06765d384",
+        "/InstanceVariable/db944c07-ec8f-464a-b75c-6029cc8a4805",
+        "/InstanceVariable/3517efd7-f010-47d6-9c76-c36601d90279",
+        "/InstanceVariable/b0f69f36-757d-4a45-9a25-709d6970e6ab",
+        "/InstanceVariable/3a10bf56-52f8-41b8-bea3-fd5b2e289b5c",
+        "/InstanceVariable/82b10a2f-beaf-4837-bb77-eb77c2230a69",
+        "/InstanceVariable/98a3c860-7b7c-4d03-ac45-d665f4a32a10",
+        "/InstanceVariable/fc746e2f-2f66-4e70-9ffc-05f4a66fd9d6",
+        "/InstanceVariable/3517efd7-f010-47d6-9c76-c36601d90279",
+        "/InstanceVariable/b0f69f36-757d-4a45-9a25-709d6970e6ab",
+        "/InstanceVariable/ce4426cd-49c8-4fd1-ba5b-1b9d70bcd707"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "POSTADRESSE"
+}

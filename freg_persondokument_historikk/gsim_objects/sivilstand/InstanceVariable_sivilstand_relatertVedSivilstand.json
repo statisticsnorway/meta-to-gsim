@@ -1,0 +1,24 @@
+{
+    "id": "f77f7465-2567-4814-b531-0830be83e3ce",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand relatertVedSivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - sivilstand, relatert ved sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_RELATERTVEDSIVILSTAND"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dda1f99b-84f3-4ae4-a45f-0066422bf4bf",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/eead1df0-963d-47ed-a2c3-614b2ec60677"
+    ]
+}

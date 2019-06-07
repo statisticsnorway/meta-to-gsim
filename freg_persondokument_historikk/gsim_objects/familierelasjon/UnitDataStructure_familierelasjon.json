@@ -1,0 +1,23 @@
+{
+    "id": "da541a97-4356-406f-8674-d31645db7ea3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/6228eb01-8a00-4335-830e-72d2ed2fb864"
+    ]
+}

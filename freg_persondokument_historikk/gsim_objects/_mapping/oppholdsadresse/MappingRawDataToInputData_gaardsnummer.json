@@ -1,0 +1,6 @@
+{
+    "id": "c172f0db-5760-42a8-8025-37300c838668",
+    "sourceName": "gaardsnummer",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/matrikkelnummer/",
+    "targetInstanceVariable": "/InstanceVariable/1ccf5374-6605-4955-ada7-26488e631cb9"
+}

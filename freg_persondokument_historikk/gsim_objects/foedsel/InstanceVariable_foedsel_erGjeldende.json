@@ -1,0 +1,24 @@
+{
+    "id": "7ad7a530-29dc-4a4a-9fb5-fe3051c5614b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - foedsel, er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_ERGJELDENDE"
+}

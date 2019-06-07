@@ -1,0 +1,23 @@
+{
+    "id": "6bd81170-5537-4dd5-b328-20b35e293fd2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur foreldreansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/1d668481-be42-4172-9ba2-d39d99fa1a7a"
+    ]
+}

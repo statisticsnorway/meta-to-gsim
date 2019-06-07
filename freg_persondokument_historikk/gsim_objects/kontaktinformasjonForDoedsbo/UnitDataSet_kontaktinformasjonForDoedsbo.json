@@ -1,0 +1,23 @@
+{
+    "id": "5e28f193-de8c-472a-abdc-98dc705b82ac",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett kontaktinformasjon for doedsbo"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/fd88e5e9-4c4f-4240-af53-2507cf031fb3",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "6db09d63-9356-4443-bbc4-06ffe2c2c0cd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bibehold, kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BIBEHOLD_KILDE"
+}

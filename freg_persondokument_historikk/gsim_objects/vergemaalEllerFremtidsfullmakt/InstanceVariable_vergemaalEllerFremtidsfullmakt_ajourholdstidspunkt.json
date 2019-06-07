@@ -1,0 +1,24 @@
+{
+    "id": "42f31476-24a0-4028-9de5-8746d647bf01",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - vergemaal eller fremtidsfullmakt, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_AJOURHOLDSTIDSPUNKT"
+}

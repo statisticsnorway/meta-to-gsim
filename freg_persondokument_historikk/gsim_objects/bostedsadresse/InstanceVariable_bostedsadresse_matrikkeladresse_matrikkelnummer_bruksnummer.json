@@ -1,0 +1,24 @@
+{
+    "id": "e275764d-7170-4a10-a89e-d17376203e22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse matrikkeladresse matrikkelnummer bruksnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, matrikkeladresse matrikkelnummer bruksnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_MATRIKKELADRESSE_MATRIKKELNUMMER_BRUKSNUMMER"
+}

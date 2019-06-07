@@ -1,0 +1,24 @@
+{
+    "id": "5dd47359-7779-4e5a-9407-415a153bdaf4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt embete"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - vergemaal eller fremtidsfullmakt, embete"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "VERGEMAALELLERFREMTIDSFULLMAKT_EMBETE"
+}

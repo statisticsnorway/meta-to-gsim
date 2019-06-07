@@ -1,0 +1,23 @@
+{
+    "id": "01b8bcba-7912-497c-b084-609b5d102a52",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/4e71788b-255b-4f18-8917-05889ca09b27"
+    ]
+}

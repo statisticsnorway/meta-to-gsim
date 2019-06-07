@@ -1,0 +1,25 @@
+{
+    "id": "9ebf2509-f5ef-4242-8e82-1be520cc3ad4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - delt bosted, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DELTBOSTED_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

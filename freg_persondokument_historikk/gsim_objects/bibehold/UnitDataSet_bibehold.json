@@ -1,0 +1,23 @@
+{
+    "id": "3095def9-ad9c-4e9d-81c2-3f7fb231c0e9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett bibehold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/0f7943fd-e41f-4a63-8cec-ed729cfd5c2c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ed13aed0-407b-4966-8365-28c8d2d23a8b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse erGjeldende"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, er gjeldende"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_ERGJELDENDE"
+}

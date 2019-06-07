@@ -1,0 +1,24 @@
+{
+    "id": "1ccf5374-6605-4955-ada7-26488e631cb9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse matrikkeladresse matrikkelnummer gaardsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, matrikkeladresse matrikkelnummer gaardsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_MATRIKKELADRESSE_MATRIKKELNUMMER_GAARDSNUMMER"
+}

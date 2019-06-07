@@ -1,0 +1,23 @@
+{
+    "id": "0bd20b72-1da0-44dd-8f48-c9a315339a43",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett utlendingsmyndighetenes identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/1554097b-2215-457b-9726-15f2b98d81d2",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

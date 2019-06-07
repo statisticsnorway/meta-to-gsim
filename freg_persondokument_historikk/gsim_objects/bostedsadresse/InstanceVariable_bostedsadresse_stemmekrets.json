@@ -1,0 +1,24 @@
+{
+    "id": "f8240669-608d-4521-96cc-df250af17a58",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse stemmekrets"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bostedsadresse, stemmekrets"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BOSTEDSADRESSE_STEMMEKRETS"
+}

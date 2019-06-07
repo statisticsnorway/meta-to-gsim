@@ -1,0 +1,25 @@
+{
+    "id": "988dd8ef-41e2-4eb0-a218-689a0b37a11c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - familierelasjon, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FAMILIERELASJON_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

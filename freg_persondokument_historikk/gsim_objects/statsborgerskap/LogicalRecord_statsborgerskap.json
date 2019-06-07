@@ -1,0 +1,32 @@
+{
+    "id": "eead1df0-963d-47ed-a2c3-614b2ec60677",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/121e4dcb-8c40-4f63-b14e-4399fc36e2eb",
+        "/InstanceVariable/22ab1c25-9ebc-4a74-b721-3cb1967a8dd1",
+        "/InstanceVariable/5e9adc37-13f8-460e-892c-d1e5d5a4cb6c",
+        "/InstanceVariable/c81bb1b9-7d89-4deb-bd01-3fc4159524e4",
+        "/InstanceVariable/30fa1362-101e-4aa2-9961-1587f2d11cae",
+        "/InstanceVariable/7e511d6c-b803-4539-aa6d-8f9db254402c",
+        "/InstanceVariable/46e618d9-917a-455a-860e-2bf6013655a0",
+        "/InstanceVariable/4fab6321-70d7-4994-9f8e-9c744d265349"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "STATSBORGERSKAP"
+}

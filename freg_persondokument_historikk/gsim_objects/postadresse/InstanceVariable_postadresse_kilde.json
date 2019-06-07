@@ -1,0 +1,24 @@
+{
+    "id": "784191ac-dae9-4ee3-b01c-f0175b8d874b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_KILDE"
+}

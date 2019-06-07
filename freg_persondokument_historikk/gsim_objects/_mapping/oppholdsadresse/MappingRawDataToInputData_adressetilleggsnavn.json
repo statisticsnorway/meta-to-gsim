@@ -1,0 +1,6 @@
+{
+    "id": "332adaf1-1213-4980-9e56-103df3594c44",
+    "sourceName": "adressetilleggsnavn",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/matrikkeladresse/",
+    "targetInstanceVariable": "/InstanceVariable/8b5d5a7a-84ca-4970-b7be-db44e2731ce9"
+}

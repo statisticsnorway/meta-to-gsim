@@ -1,0 +1,32 @@
+{
+    "id": "772710c4-9316-44a5-9a9f-06ec7a9fbb87",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "brukAvSamiskSpraak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) bruk av samisk spraak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/6c9590bb-d6d4-4ae4-8740-d28d86888da4",
+        "/InstanceVariable/d4c24301-af37-4d76-a1ee-e4739dd85f14",
+        "/InstanceVariable/380b70bd-4391-4af5-864b-88f83b9f3290",
+        "/InstanceVariable/9ef3bd12-8795-461f-a3c7-a8b1bf4fd851",
+        "/InstanceVariable/c6a63f7b-64b1-4985-9b39-66b9ec12f698",
+        "/InstanceVariable/9c1fb46e-1dd6-49dc-b405-4396e6a3bc11",
+        "/InstanceVariable/3608e557-84aa-4311-9d1b-dd15354d10da",
+        "/InstanceVariable/7c7c67e3-472f-4c94-bf53-7a1cc25acdf1"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "BRUKAVSAMISKSPRAAK"
+}

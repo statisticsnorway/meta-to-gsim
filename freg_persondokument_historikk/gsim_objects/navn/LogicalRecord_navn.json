@@ -1,0 +1,38 @@
+{
+    "id": "3c44a6a6-d0c9-4c89-a264-615c40c1a27a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/f7c0f4dc-57e3-4f8b-a569-a2e281ec5225",
+        "/InstanceVariable/69440a44-5de6-414a-bd39-db73ba279aa6",
+        "/InstanceVariable/88bcf0b4-9fa7-436e-80d6-b824dce08a65",
+        "/InstanceVariable/fc8796ac-001c-4dfe-b485-a53e3800c850",
+        "/InstanceVariable/9bb1e328-ac1f-4b6d-83f7-25251dfb067e",
+        "/InstanceVariable/9e15f4cd-d3b8-4b8e-9138-9a776a121bc4",
+        "/InstanceVariable/9a26dd11-8b63-4f7e-9a50-6db6e3d561db",
+        "/InstanceVariable/12f03e13-8a0d-4c2b-8cc2-fb8d0f5f2125",
+        "/InstanceVariable/3a83149e-07a5-4a25-9101-248af65be7b3",
+        "/InstanceVariable/d45fbb89-946c-4a40-97f3-6978e68ff45e",
+        "/InstanceVariable/764c0bb8-948f-40c9-9cda-ef4a52c944cc",
+        "/InstanceVariable/af4672c3-9c1d-44c4-ab35-474e4c88f1e8",
+        "/InstanceVariable/43d078c5-bb0c-4ca7-9053-34dbcf625c7d",
+        "/InstanceVariable/2daeccc4-cda8-4c60-8576-2b82fc570f57"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "NAVN"
+}

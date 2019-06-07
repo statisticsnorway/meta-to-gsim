@@ -1,0 +1,6 @@
+{
+    "id": "0e7b2c90-cb50-4335-84c8-0bf631c5416c",
+    "sourceName": "adressetilleggsnavn",
+    "sourcePath": "/folkeregisterperson/postadresse/vegadresse/",
+    "targetInstanceVariable": "/InstanceVariable/82b10a2f-beaf-4837-bb77-eb77c2230a69"
+}

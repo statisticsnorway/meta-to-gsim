@@ -1,0 +1,23 @@
+{
+    "id": "560d1339-d9ce-40b4-8456-66d734591e2b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett postadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/ad0da046-5fd6-4c54-a610-a9d7d6bca184",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

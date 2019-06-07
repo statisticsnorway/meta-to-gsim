@@ -1,0 +1,24 @@
+{
+    "id": "eb2a94cd-af88-4c6a-a436-96894b7f7c5b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse matrikkeladresse bruksenhetsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - oppholdsadresse, matrikkeladresse bruksenhetsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OPPHOLDSADRESSE_MATRIKKELADRESSE_BRUKSENHETSNUMMER"
+}

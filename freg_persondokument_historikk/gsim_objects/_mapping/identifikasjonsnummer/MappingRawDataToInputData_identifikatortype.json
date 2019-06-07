@@ -1,0 +1,6 @@
+{
+    "id": "dc8c00d0-e373-4540-8980-4c7002a83ce9",
+    "sourceName": "identifikatortype",
+    "sourcePath": "/folkeregisterperson/identifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/e579aa76-dd9b-4756-8fbe-ea6edfdae853"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "68e9af22-8a62-4810-a016-f780b75103d9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold bibeholdstatus"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bibehold, bibeholdstatus"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "BIBEHOLD_BIBEHOLDSTATUS"
+}

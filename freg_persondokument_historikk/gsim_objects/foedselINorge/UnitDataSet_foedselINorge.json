@@ -1,0 +1,23 @@
+{
+    "id": "2abc9376-97b5-4523-9a0e-6974895158fe",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett foedsel i norge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/cdc45638-3d11-4e9d-987d-d8704704d005",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

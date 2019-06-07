@@ -1,0 +1,23 @@
+{
+    "id": "abd3a0f0-bca7-49dc-bfac-fcc919e6025d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "opphold"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur opphold"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/d938ad9f-ee2d-4400-be4f-05d89797b891"
+    ]
+}

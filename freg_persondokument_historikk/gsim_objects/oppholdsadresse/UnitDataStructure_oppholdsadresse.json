@@ -1,0 +1,23 @@
+{
+    "id": "47c8e23f-2740-4968-a26c-c84c2f4f32fc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur oppholdsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/8784f0fb-7d42-4063-866e-c0d7a95a6556"
+    ]
+}

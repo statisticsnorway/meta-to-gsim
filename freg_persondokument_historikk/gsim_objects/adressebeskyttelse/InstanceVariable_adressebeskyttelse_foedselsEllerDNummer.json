@@ -1,0 +1,25 @@
+{
+    "id": "123eec1a-3ad8-4918-8906-6154a101aa92",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - adressebeskyttelse, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ADRESSEBESKYTTELSE_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

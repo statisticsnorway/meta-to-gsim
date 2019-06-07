@@ -1,0 +1,6 @@
+{
+    "id": "2b2f7fca-e4c2-4317-8728-f90e25e524ee",
+    "sourceName": "adressekode",
+    "sourcePath": "/folkeregisterperson/postadresse/vegadresse/",
+    "targetInstanceVariable": "/InstanceVariable/3a10bf56-52f8-41b8-bea3-fd5b2e289b5c"
+}

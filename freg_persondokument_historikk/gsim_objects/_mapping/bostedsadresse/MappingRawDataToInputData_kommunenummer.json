@@ -1,0 +1,6 @@
+{
+    "id": "6a17ccdf-71ad-49d5-b389-db3ca6e99dd8",
+    "sourceName": "kommunenummer",
+    "sourcePath": "/folkeregisterperson/bostedsadresse/matrikkeladresse/matrikkelnummer/",
+    "targetInstanceVariable": "/InstanceVariable/ee41ded4-13d8-4885-ac80-23fcf0b28231"
+}

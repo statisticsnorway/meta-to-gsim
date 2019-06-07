@@ -1,0 +1,33 @@
+{
+    "id": "1ef78d67-2b59-416d-8946-64489fe3b75c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/a2ab9640-c8ab-4034-a10a-3d700e9542d3",
+        "/InstanceVariable/83e4c3df-f742-4498-b358-b49e8f5074b9",
+        "/InstanceVariable/de042c39-9b18-407c-8a9b-5250d8558ff3",
+        "/InstanceVariable/a9a01c85-3923-476d-8094-e5a89f631c66",
+        "/InstanceVariable/f5096f7c-7e2a-43b6-93ba-5d3fea566ef5",
+        "/InstanceVariable/5db2071a-d1c0-43a1-8bcd-11be9d160361",
+        "/InstanceVariable/13e5c943-c036-4596-82a2-2d9da88cee35",
+        "/InstanceVariable/15620a93-ae30-405b-af1d-a821e90c5a68",
+        "/InstanceVariable/b5187da4-4b7e-4bf0-8da9-fc67771b8a2d"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON"
+}

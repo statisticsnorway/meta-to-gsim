@@ -1,0 +1,6 @@
+{
+    "id": "5f655f2c-433d-4b43-a2f0-fd489e032d35",
+    "sourceName": "etasjenummer",
+    "sourcePath": "/folkeregisterperson/oppholdsadresse/utenlandskAdresse/",
+    "targetInstanceVariable": "/InstanceVariable/b015d37c-7041-445b-b3f2-4d2be018e135"
+}

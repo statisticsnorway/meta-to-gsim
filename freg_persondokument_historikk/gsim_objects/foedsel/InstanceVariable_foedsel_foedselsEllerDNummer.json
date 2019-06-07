@@ -1,0 +1,25 @@
+{
+    "id": "554bae46-89d3-41fd-9a33-e8a097e98ac3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - foedsel, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FOEDSEL_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

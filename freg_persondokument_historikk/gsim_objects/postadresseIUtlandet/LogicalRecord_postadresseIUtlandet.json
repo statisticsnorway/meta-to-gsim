@@ -1,0 +1,45 @@
+{
+    "id": "8365aec6-45d1-4d83-9d15-3a80b2262b8b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) postadresse i utlandet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/a131319a-c4c6-4e5e-aea0-7c03ff9cd571",
+        "/InstanceVariable/73bdd045-4765-4524-9ea5-f0864833288f",
+        "/InstanceVariable/959ee603-3152-47dd-93d0-86932287909d",
+        "/InstanceVariable/18c14fc0-6f7f-4cb3-82a0-8264dc83f160",
+        "/InstanceVariable/e1e10b14-4148-4d18-97dc-e93415a895d7",
+        "/InstanceVariable/1d7bed83-2e7a-45ab-90b3-1020f230f8fa",
+        "/InstanceVariable/3b83808d-4830-41d4-9c00-d37063230455",
+        "/InstanceVariable/a4082bc4-6332-437e-8ec1-c54c48992a2a",
+        "/InstanceVariable/5342d26c-72f0-4de5-8112-dfa4fd0d1a7d",
+        "/InstanceVariable/231b9e70-6e06-42fe-8406-b55532923260",
+        "/InstanceVariable/fa11556a-e0d3-4a4b-ae7f-2751aaa0ff3f",
+        "/InstanceVariable/3edd856e-f2c5-4dab-bead-6b3efd61f6a1",
+        "/InstanceVariable/d2a573a9-dd7a-4c5a-854d-5db680198ae9",
+        "/InstanceVariable/68849f19-8667-413f-9550-e4cd6ca31377",
+        "/InstanceVariable/8a839e70-5bdc-42d1-9d78-b29f7326a8ab",
+        "/InstanceVariable/49ae0e32-6ca1-49b4-92cd-40acef295863",
+        "/InstanceVariable/a482051f-90ac-4a2a-be64-07657c0126a6",
+        "/InstanceVariable/60a07ce8-408b-4264-82af-39fe64d97726",
+        "/InstanceVariable/e242a362-6da0-44ee-8855-a84c0a528df4",
+        "/InstanceVariable/5a05f498-948d-4318-b46b-9ef3e07ad89c",
+        "/InstanceVariable/0eb2d4c2-6540-49d0-8c73-b5a6f5b527e4"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "POSTADRESSEIUTLANDET"
+}

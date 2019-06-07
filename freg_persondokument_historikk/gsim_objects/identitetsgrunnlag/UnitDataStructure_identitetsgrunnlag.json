@@ -1,0 +1,23 @@
+{
+    "id": "ceb27f37-7822-4e6f-9937-e44c4d7a8a7c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur identitetsgrunnlag"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/1ceb9c90-6dfe-49df-b599-625388cdb4cd"
+    ]
+}

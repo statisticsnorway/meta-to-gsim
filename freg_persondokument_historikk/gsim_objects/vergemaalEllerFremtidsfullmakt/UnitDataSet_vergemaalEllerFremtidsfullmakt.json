@@ -1,0 +1,23 @@
+{
+    "id": "894ab929-7c3c-4613-acae-9967d29155ba",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "vergemaalEllerFremtidsfullmakt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett vergemaal eller fremtidsfullmakt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:04.000Z",
+    "validFrom": "2019-06-07T08:34:04.000Z",
+    "createdDate": "2019-06-07T08:34:04.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/682e4877-970e-44f3-917a-8cd411e523f7",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

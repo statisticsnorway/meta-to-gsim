@@ -1,0 +1,51 @@
+{
+    "id": "b893eaa9-5c26-4789-a50d-b738e67fb37f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) kontaktinformasjon for doedsbo"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/6c056bc0-b7a6-4906-81b2-1389a428e0e7",
+        "/InstanceVariable/b9bbbd0f-00f7-40e6-947a-c4463cece958",
+        "/InstanceVariable/b929ec7a-6730-4991-b5e7-e0112da02384",
+        "/InstanceVariable/428fa6b7-a36a-4944-8d54-310ba202ae26",
+        "/InstanceVariable/0d34ac54-c7da-497f-9d53-5ea69d2fb4de",
+        "/InstanceVariable/cf3004a0-3ec5-4c73-a887-ff96c78020cb",
+        "/InstanceVariable/0eb31916-aaf7-467c-9680-06c399773e5a",
+        "/InstanceVariable/95449e49-9208-4df2-ab1d-e5c4867948ce",
+        "/InstanceVariable/e803ae33-2c51-48a4-991c-e8d0367aea93",
+        "/InstanceVariable/5ad76221-4cd6-46b7-9ede-26292f2890aa",
+        "/InstanceVariable/20541fea-2b48-4e52-bd92-71ed2b773224",
+        "/InstanceVariable/95449e49-9208-4df2-ab1d-e5c4867948ce",
+        "/InstanceVariable/e803ae33-2c51-48a4-991c-e8d0367aea93",
+        "/InstanceVariable/5ad76221-4cd6-46b7-9ede-26292f2890aa",
+        "/InstanceVariable/4d519174-bc16-44e1-8118-9fbe7e216d50",
+        "/InstanceVariable/b64b35d5-4ce5-4457-b617-be023884f1d4",
+        "/InstanceVariable/8574a735-b965-4a23-b7d5-0cc774910ac6",
+        "/InstanceVariable/ccc136a3-e148-4cac-a570-773ea6f239c4",
+        "/InstanceVariable/95449e49-9208-4df2-ab1d-e5c4867948ce",
+        "/InstanceVariable/e803ae33-2c51-48a4-991c-e8d0367aea93",
+        "/InstanceVariable/5ad76221-4cd6-46b7-9ede-26292f2890aa",
+        "/InstanceVariable/a23f05e6-6011-471b-a2bb-759828ca17fa",
+        "/InstanceVariable/53b8d303-55cc-4ed2-adf2-d38ab8afef15",
+        "/InstanceVariable/c68a418e-9706-45f5-ac67-b36d6a66c700",
+        "/InstanceVariable/38bbb7f9-0edd-47ca-8f34-4b847a855312",
+        "/InstanceVariable/f077704b-3a9b-4c40-b204-071673e37053",
+        "/InstanceVariable/9e9d0638-6263-4f57-977f-ec63e4ede2c3"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO"
+}

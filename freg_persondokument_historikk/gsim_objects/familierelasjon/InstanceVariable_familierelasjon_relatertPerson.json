@@ -1,0 +1,24 @@
+{
+    "id": "a3079fa2-5e74-4078-9143-f7c9d0852776",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPerson"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - familierelasjon, relatert person"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_RELATERTPERSON"
+}

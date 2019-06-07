@@ -1,0 +1,23 @@
+{
+    "id": "dda39543-83fb-45aa-9f72-f775eaf682be",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bostedsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett bostedsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:59.000Z",
+    "validFrom": "2019-06-07T08:33:59.000Z",
+    "createdDate": "2019-06-07T08:33:59.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/b5c5bdf3-53a8-4257-9f0c-fb17906d1bb4",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

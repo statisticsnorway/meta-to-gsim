@@ -1,0 +1,6 @@
+{
+    "id": "8f08b64d-1c41-4859-aa9d-53c486616e85",
+    "sourceName": "bruksnummer",
+    "sourcePath": "/folkeregisterperson/bostedsadresse/matrikkeladresse/matrikkelnummer/",
+    "targetInstanceVariable": "/InstanceVariable/e275764d-7170-4a10-a89e-d17376203e22"
+}
