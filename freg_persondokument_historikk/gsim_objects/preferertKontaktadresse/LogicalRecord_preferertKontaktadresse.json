@@ -1,0 +1,34 @@
+{
+    "id": "780ae70d-0fd8-4fb1-8660-99beeffe7f2d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) preferert kontaktadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/562e1a77-b148-4ac2-8b1e-259b819d7256",
+        "/InstanceVariable/96289cbb-aa14-43e9-b2e7-d00ef9f1062f",
+        "/InstanceVariable/d7ec727d-7285-48a0-9b06-09db460ced83",
+        "/InstanceVariable/dfa0ef84-6bf1-48c2-8a11-72ba0ddd6d2a",
+        "/InstanceVariable/9503d0bf-b2cb-41c4-baee-030bbf46fa5b",
+        "/InstanceVariable/9f279540-e583-4805-8ed8-74849c184d46",
+        "/InstanceVariable/fc60cadd-8775-48d9-8acc-80c752bb1736",
+        "/InstanceVariable/7ed13036-26e4-4ebf-a66d-2b61d9184517",
+        "/InstanceVariable/9369344b-d1d6-444e-8d06-caf0ed960df8",
+        "/InstanceVariable/d21f56cf-0ff2-4226-8300-9fec01429621"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "PREFERERTKONTAKTADRESSE"
+}

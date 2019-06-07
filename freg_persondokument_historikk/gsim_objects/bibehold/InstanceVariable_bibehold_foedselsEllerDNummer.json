@@ -1,0 +1,25 @@
+{
+    "id": "ecc28f62-514f-47a2-b94f-8304357e2858",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "bibehold foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - bibehold, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:05.000Z",
+    "validFrom": "2019-06-07T08:34:05.000Z",
+    "createdDate": "2019-06-07T08:34:05.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "BIBEHOLD_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

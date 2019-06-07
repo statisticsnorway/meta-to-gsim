@@ -1,0 +1,23 @@
+{
+    "id": "9363692d-2699-41f2-90ff-b82ce8bbcaac",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/95fd0270-83c3-4feb-a360-6f0f626ddfde"
+    ]
+}

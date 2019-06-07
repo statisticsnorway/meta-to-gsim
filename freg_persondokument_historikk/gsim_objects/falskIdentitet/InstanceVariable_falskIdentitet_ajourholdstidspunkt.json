@@ -1,0 +1,24 @@
+{
+    "id": "7471fce0-d081-49e3-8f44-5d9a866551d6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - falsk identitet, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:56.000Z",
+    "validFrom": "2019-06-07T08:33:56.000Z",
+    "createdDate": "2019-06-07T08:33:56.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_AJOURHOLDSTIDSPUNKT"
+}

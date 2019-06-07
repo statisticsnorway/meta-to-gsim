@@ -1,0 +1,23 @@
+{
+    "id": "d4f5817a-61d6-4b77-ab6f-290514ed60e6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/ff2c6468-40c3-4dfc-81b0-623be5e38a72",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

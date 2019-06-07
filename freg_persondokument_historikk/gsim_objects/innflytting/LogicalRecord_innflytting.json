@@ -1,0 +1,32 @@
+{
+    "id": "c9cba421-0aa7-44ae-abe8-2861d99057cf",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) innflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/519b6919-ff3d-4baf-a2bd-608424199d54",
+        "/InstanceVariable/5a951ff6-4089-427f-9e3e-8e408679dcd5",
+        "/InstanceVariable/5589604d-5a1f-4dda-ac62-a5d42fd309b3",
+        "/InstanceVariable/c70c82b1-80dd-46e8-be70-683375759f20",
+        "/InstanceVariable/0689c781-6063-41bf-b185-4cc963db3599",
+        "/InstanceVariable/56f94fa3-282a-4f28-a044-75de083ef4d3",
+        "/InstanceVariable/50709bbd-842c-46cd-a234-bd6cb9202bec",
+        "/InstanceVariable/d59453e2-ff2a-43af-8b6e-25cdf068a237"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "INNFLYTTING"
+}

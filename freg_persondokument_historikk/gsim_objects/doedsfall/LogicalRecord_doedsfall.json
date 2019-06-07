@@ -1,0 +1,32 @@
+{
+    "id": "47b8b943-3fda-4afd-a740-4e20624b38ad",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/532bbbb0-8322-43ad-9ac3-85b1f32af305",
+        "/InstanceVariable/797d1416-ed93-424f-84d9-2c70bb80b599",
+        "/InstanceVariable/90bfcf7d-3929-4c06-b002-e22fcfcacfb2",
+        "/InstanceVariable/9e240ff7-df95-4580-bd05-2f5507d3fb3a",
+        "/InstanceVariable/e46651ae-4733-4017-bba1-5dde0ba37fee",
+        "/InstanceVariable/800926e0-c844-4e61-8ab0-a7eb70e506ca",
+        "/InstanceVariable/a99e35ea-6240-4ed2-b961-e07e53f31d38",
+        "/InstanceVariable/9169f5f7-77f5-490d-9a05-46f68577cfa9"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DOEDSFALL"
+}

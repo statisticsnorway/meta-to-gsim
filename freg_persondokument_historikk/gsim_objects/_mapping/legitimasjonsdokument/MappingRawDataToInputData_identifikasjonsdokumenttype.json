@@ -1,0 +1,6 @@
+{
+    "id": "05074bf9-2a06-4bdf-8758-54c5bcb9e3ae",
+    "sourceName": "identifikasjonsdokumenttype",
+    "sourcePath": "/folkeregisterperson/legitimasjonsdokument/",
+    "targetInstanceVariable": "/InstanceVariable/d661ac86-8f3b-42ec-8bd9-a55a84e3816b"
+}

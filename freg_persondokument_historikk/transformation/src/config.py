@@ -35,7 +35,7 @@ jsonMappingObjectFullPath = jsonGsimTargetPath + mappingObjectSubPath
 identifierComponents = [
     {"name": "foedselsEllerDNummer",
      "type": "xsd:string",
-     "rawDataSourcePath": "/folkeregisterperson/identifikasjonsnummer/",
+     "rawDataSourcePath": "folkeregisterperson/identifikasjonsnummer/",
      "dataStructureComponentRole": "ENTITY"
     }
     # TODO: Eventuelt om det er flere "InstanceVariables" som skal inngå som "Identifier" i FREG?

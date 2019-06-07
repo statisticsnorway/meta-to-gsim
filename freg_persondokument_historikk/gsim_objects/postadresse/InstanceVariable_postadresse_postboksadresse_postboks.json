@@ -1,0 +1,24 @@
+{
+    "id": "d8b8b4df-2856-423c-987b-a5d6c082291f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresse postboksadresse postboks"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse, postboksadresse postboks"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:01.000Z",
+    "validFrom": "2019-06-07T08:34:01.000Z",
+    "createdDate": "2019-06-07T08:34:01.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "POSTADRESSE_POSTBOKSADRESSE_POSTBOKS"
+}

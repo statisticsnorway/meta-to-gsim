@@ -1,0 +1,23 @@
+{
+    "id": "638e43cd-34de-4701-8e49-85b5665bf4ff",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/9363692d-2699-41f2-90ff-b82ce8bbcaac",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

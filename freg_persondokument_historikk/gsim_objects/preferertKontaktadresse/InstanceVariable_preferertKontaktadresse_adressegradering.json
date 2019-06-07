@@ -1,0 +1,24 @@
+{
+    "id": "7ed13036-26e4-4ebf-a66d-2b61d9184517",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "preferertKontaktadresse adressegradering"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - preferert kontaktadresse, adressegradering"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "PREFERERTKONTAKTADRESSE_ADRESSEGRADERING"
+}

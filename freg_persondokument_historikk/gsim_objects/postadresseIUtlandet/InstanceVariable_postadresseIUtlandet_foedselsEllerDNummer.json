@@ -1,0 +1,25 @@
+{
+    "id": "0eb2d4c2-6540-49d0-8c73-b5a6f5b527e4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "postadresseIUtlandet foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - postadresse i utlandet, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "POSTADRESSEIUTLANDET_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

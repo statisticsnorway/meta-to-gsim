@@ -1,0 +1,32 @@
+{
+    "id": "a434e33d-91dd-403e-bf15-137fa5dd00eb",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utflytting"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) utflytting"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/d22ecb85-7d76-456c-a727-4b9d9ce5bbed",
+        "/InstanceVariable/20d05663-e8ef-4b7f-ad0a-05ca73ff3c81",
+        "/InstanceVariable/4e7e20d7-6f54-4e1b-b74c-2f2728a0c1c4",
+        "/InstanceVariable/fd839e54-1933-4283-aceb-b02111ba8225",
+        "/InstanceVariable/0e2b96e2-4afd-4ab3-bee7-5eb578287690",
+        "/InstanceVariable/102eb094-5185-4e1b-81ff-0a794adb4476",
+        "/InstanceVariable/66336ab3-3b08-407c-8150-1b1db3dc60ca",
+        "/InstanceVariable/7a609044-d598-4f83-9239-2af8d63b7fba"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTFLYTTING"
+}

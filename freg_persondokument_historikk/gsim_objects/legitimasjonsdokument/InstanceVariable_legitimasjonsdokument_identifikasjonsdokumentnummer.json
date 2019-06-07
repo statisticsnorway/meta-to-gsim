@@ -1,0 +1,24 @@
+{
+    "id": "769dfa07-f446-4960-a46b-5fa4852e1ccc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument identifikasjonsdokumentnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - legitimasjonsdokument, identifikasjonsdokumentnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_IDENTIFIKASJONSDOKUMENTNUMMER"
+}

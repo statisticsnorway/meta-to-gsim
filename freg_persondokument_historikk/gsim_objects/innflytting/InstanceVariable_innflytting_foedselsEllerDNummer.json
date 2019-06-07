@@ -1,0 +1,25 @@
+{
+    "id": "d59453e2-ff2a-43af-8b6e-25cdf068a237",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "innflytting foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - innflytting, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:02.000Z",
+    "validFrom": "2019-06-07T08:34:02.000Z",
+    "createdDate": "2019-06-07T08:34:02.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "INNFLYTTING_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

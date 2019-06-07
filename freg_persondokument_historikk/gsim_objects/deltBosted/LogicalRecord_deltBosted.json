@@ -1,0 +1,59 @@
+{
+    "id": "4530d1ac-c77a-4f61-8136-594a03c0b884",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/c1e97f96-0e03-4f08-879d-1c9b6a8885ab",
+        "/InstanceVariable/60eb9380-1625-4a8b-bef3-ee0293009190",
+        "/InstanceVariable/ddf30f05-d1e8-4902-8ba6-50ca2237500e",
+        "/InstanceVariable/4b4cf684-32bc-40cc-9b9a-51efadb3d48f",
+        "/InstanceVariable/9f1cb7de-1e7c-43a9-9afa-ffe2be3d0a52",
+        "/InstanceVariable/7efffacd-1d04-49ca-b836-edcb8485fd2d",
+        "/InstanceVariable/3ce8d07b-c49e-4c7e-9f64-de81d57396d2",
+        "/InstanceVariable/8acdec33-e323-4e2d-944a-5ca2c21161fa",
+        "/InstanceVariable/379bb4e0-5fb8-4eef-a667-fdf8512c98e0",
+        "/InstanceVariable/acee7d8e-465a-4d8a-8cb3-ad4db1e6afea",
+        "/InstanceVariable/87030390-b4f0-464c-8f37-18db88468a91",
+        "/InstanceVariable/debdfb11-e052-426d-b191-4eb06589d872",
+        "/InstanceVariable/6304cf13-481d-4fdf-a597-435e64ed271c",
+        "/InstanceVariable/b820ed00-9000-4b88-9e0a-4aa935c90a4f",
+        "/InstanceVariable/d2446174-08db-4c05-8c1c-bca5e853d5ae",
+        "/InstanceVariable/80c4bdcf-2bb4-4bf9-a925-1fcf986fa0e3",
+        "/InstanceVariable/a66a4a2d-e18c-41c2-95a8-d60792d4b834",
+        "/InstanceVariable/d76ee715-ea6e-4feb-ae49-7811e2d979d4",
+        "/InstanceVariable/f3586292-f1dd-4658-b3e1-6948c5ad7e9c",
+        "/InstanceVariable/85e8a0af-2a13-487e-86a4-69ea674e4e99",
+        "/InstanceVariable/f39b78f0-3c61-4f99-8d17-7a8febc8d450",
+        "/InstanceVariable/4bea96e2-b7e2-4402-8c5f-23ea2d1bdf1d",
+        "/InstanceVariable/d91cde89-16d8-4929-a521-b30ae661983d",
+        "/InstanceVariable/c0ce25f8-01a2-4e20-87d6-694a0079f9a3",
+        "/InstanceVariable/4c049e98-90ed-43fa-b40e-159a647f56f7",
+        "/InstanceVariable/d2446174-08db-4c05-8c1c-bca5e853d5ae",
+        "/InstanceVariable/80c4bdcf-2bb4-4bf9-a925-1fcf986fa0e3",
+        "/InstanceVariable/a9308a01-4214-4778-bfdc-a9a50f6b21e6",
+        "/InstanceVariable/aceb8290-4950-44c9-af19-db3993ff4ab9",
+        "/InstanceVariable/6948f219-bd55-413d-b364-2cbc89b45eca",
+        "/InstanceVariable/a32291cf-198e-47b0-8c8a-121183e0f430",
+        "/InstanceVariable/ee714d5c-de8b-4478-b8da-09c8a4005b63",
+        "/InstanceVariable/42735d3b-f31b-4b82-bd21-50a29e3e2474",
+        "/InstanceVariable/da1bad20-4e7d-49e7-8bb7-ff65a0eb5bd8",
+        "/InstanceVariable/9ebf2509-f5ef-4242-8e82-1be520cc3ad4"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DELTBOSTED"
+}

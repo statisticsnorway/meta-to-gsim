@@ -1,0 +1,23 @@
+{
+    "id": "c4706c2b-3a3c-43c3-a66e-aeba5bbf789c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datastruktur falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:56.000Z",
+    "validFrom": "2019-06-07T08:33:56.000Z",
+    "createdDate": "2019-06-07T08:33:56.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/ac6607e0-0dcf-4dc5-a6e3-0a515b7d9c3f"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "id": "3108cc62-1b5d-4cbc-a17a-517e29ee5e3a",
+    "sourceName": "coAdressenavn",
+    "sourcePath": "/folkeregisterperson/postadresse/vegadresse/",
+    "targetInstanceVariable": "/InstanceVariable/04f7ed3f-12d4-4255-b61a-7d1a6d2d191b"
+}

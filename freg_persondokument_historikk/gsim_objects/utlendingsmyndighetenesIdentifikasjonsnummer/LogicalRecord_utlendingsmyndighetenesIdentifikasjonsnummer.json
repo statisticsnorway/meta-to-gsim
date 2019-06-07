@@ -1,0 +1,33 @@
+{
+    "id": "73de3a43-aa7e-4765-b617-cb94bd857841",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) utlendingsmyndighetenes identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:58.000Z",
+    "validFrom": "2019-06-07T08:33:58.000Z",
+    "createdDate": "2019-06-07T08:33:58.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/1d5e7c1d-52f4-4808-8a03-17c42a1a0e8f",
+        "/InstanceVariable/709914c4-c075-42a0-916f-aa9f0b57d845",
+        "/InstanceVariable/e609cd6a-c9fb-49e5-a2f5-02db03a3681f",
+        "/InstanceVariable/d81acb5a-ca40-4dd4-9cb3-e336310a98f0",
+        "/InstanceVariable/5a984a8d-2127-4784-aac5-a148124d3cd1",
+        "/InstanceVariable/17f8007f-ea7d-4189-aa3e-763871fffaea",
+        "/InstanceVariable/8c68106a-d1ea-4adb-9fad-425a3f554138",
+        "/InstanceVariable/82380a96-a246-4fdc-b88b-e5a578cf34d3",
+        "/InstanceVariable/e0b387ff-c258-42c4-9256-62f6b714700b"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER"
+}

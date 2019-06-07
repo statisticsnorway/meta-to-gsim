@@ -1,0 +1,24 @@
+{
+    "id": "d90e8f57-b043-424c-9425-1c9ad98da097",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument dokumentkontroll dokumentkontrollstatus"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - legitimasjonsdokument, dokumentkontroll dokumentkontrollstatus"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_DOKUMENTKONTROLL_DOKUMENTKONTROLLSTATUS"
+}

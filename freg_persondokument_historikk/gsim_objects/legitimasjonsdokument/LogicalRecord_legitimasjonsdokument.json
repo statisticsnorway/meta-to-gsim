@@ -1,0 +1,38 @@
+{
+    "id": "4e71788b-255b-4f18-8917-05889ca09b27",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/84e88c73-1338-442e-afd8-f0f7d27fd140",
+        "/InstanceVariable/c147fa2c-cde3-4ef0-b15e-6df954ee1ba7",
+        "/InstanceVariable/326d0721-6a14-4c8b-a7b8-18f2a30cb93e",
+        "/InstanceVariable/5c3fb468-afcf-4309-910d-84eaec66d636",
+        "/InstanceVariable/cdd3d497-468a-415d-af81-f52b57906904",
+        "/InstanceVariable/9cf9997f-a1ba-43aa-bf4f-4ebb164773bc",
+        "/InstanceVariable/769dfa07-f446-4960-a46b-5fa4852e1ccc",
+        "/InstanceVariable/d661ac86-8f3b-42ec-8bd9-a55a84e3816b",
+        "/InstanceVariable/83e78b48-5c23-48e5-b38d-f04c8327f7fd",
+        "/InstanceVariable/73a044b2-0c37-4401-9bc5-c4370d646a78",
+        "/InstanceVariable/4b5552fc-84db-45e3-8841-cf8d15832604",
+        "/InstanceVariable/d90e8f57-b043-424c-9425-1c9ad98da097",
+        "/InstanceVariable/c852240c-09d0-4b55-81e0-8cd9b5b4b57f",
+        "/InstanceVariable/ac0305ed-a411-4c0f-8232-dfa2b8100319"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "LEGITIMASJONSDOKUMENT"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "b5ef6b9f-76bf-450e-8a78-716e8a47e390",
+    "sourceName": "identifikasjonsnummer",
+    "sourcePath": "/folkeregisterperson/utenlandskPersonidentifikasjon/",
+    "targetInstanceVariable": "/InstanceVariable/13e5c943-c036-4596-82a2-2d9da88cee35"
+}

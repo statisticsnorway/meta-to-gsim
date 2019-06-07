@@ -1,0 +1,23 @@
+{
+    "id": "c9b743f5-0feb-492b-97a1-d0069a61fd26",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/dda1f99b-84f3-4ae4-a45f-0066422bf4bf",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

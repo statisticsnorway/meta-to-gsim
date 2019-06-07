@@ -1,0 +1,45 @@
+{
+    "id": "1d668481-be42-4172-9ba2-d39d99fa1a7a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foreldreansvar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) foreldreansvar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/5920e427-f80e-4726-a9b4-51fb2ca05097",
+        "/InstanceVariable/a035780e-9cbb-4840-8398-5fe69f7cd54c",
+        "/InstanceVariable/c7b1026a-79dd-41a3-886d-e847dced194f",
+        "/InstanceVariable/c8b24593-78a8-4dfb-9fc5-6eea9ba47347",
+        "/InstanceVariable/a56c286f-7ada-4fd2-92ad-5ba854bc84e6",
+        "/InstanceVariable/d6196471-ddab-44b3-bbb2-08b1a637d376",
+        "/InstanceVariable/7987dece-0d3c-4218-a1fb-7dd6d92f4d48",
+        "/InstanceVariable/9c753e19-6de6-400d-b565-0bd19374e3f3",
+        "/InstanceVariable/fbe6609a-a4db-48d0-80ad-c3c238d59764",
+        "/InstanceVariable/33b1c814-2e50-47f6-8239-a099e6c049ae",
+        "/InstanceVariable/6398954a-8b16-48de-b8ee-7c3572c0c70a",
+        "/InstanceVariable/2df3ccab-0b1f-43cf-97b1-bd441818aa58",
+        "/InstanceVariable/e51a3605-96bf-40f5-8402-038d91c3d674",
+        "/InstanceVariable/d1aaa616-0b58-4740-b8b9-484fb2165276",
+        "/InstanceVariable/3b4a23a0-e893-4dfe-a036-561bb4db12f1",
+        "/InstanceVariable/6398954a-8b16-48de-b8ee-7c3572c0c70a",
+        "/InstanceVariable/2df3ccab-0b1f-43cf-97b1-bd441818aa58",
+        "/InstanceVariable/e51a3605-96bf-40f5-8402-038d91c3d674",
+        "/InstanceVariable/d1aaa616-0b58-4740-b8b9-484fb2165276",
+        "/InstanceVariable/3b4a23a0-e893-4dfe-a036-561bb4db12f1",
+        "/InstanceVariable/3afa7e41-b349-476e-9736-f076041154d1"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FORELDREANSVAR"
+}

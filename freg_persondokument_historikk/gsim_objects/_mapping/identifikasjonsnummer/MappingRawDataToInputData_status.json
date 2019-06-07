@@ -1,0 +1,6 @@
+{
+    "id": "4c10db96-9e73-4a9c-bc5d-3590c8eba238",
+    "sourceName": "status",
+    "sourcePath": "/folkeregisterperson/identifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/b85987a2-7a79-4645-b9cc-3f3930d5c95f"
+}

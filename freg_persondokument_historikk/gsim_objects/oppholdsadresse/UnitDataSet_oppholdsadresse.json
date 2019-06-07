@@ -1,0 +1,23 @@
+{
+    "id": "3c2be25a-b03b-49fd-80ff-dec5e8799e5d",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oppholdsadresse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk datasett oppholdsadresse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:00.000Z",
+    "validFrom": "2019-06-07T08:34:00.000Z",
+    "createdDate": "2019-06-07T08:34:00.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/47c8e23f-2740-4968-a26c-c84c2f4f32fc",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

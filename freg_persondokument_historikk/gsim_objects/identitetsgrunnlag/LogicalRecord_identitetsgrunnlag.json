@@ -1,0 +1,32 @@
+{
+    "id": "1ceb9c90-6dfe-49df-b599-625388cdb4cd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) identitetsgrunnlag"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:57.000Z",
+    "validFrom": "2019-06-07T08:33:57.000Z",
+    "createdDate": "2019-06-07T08:33:57.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/f7b45a81-f9d0-4d96-8a40-9de6adea86ec",
+        "/InstanceVariable/4f9eff9d-775a-465d-9f11-b2e6454e9915",
+        "/InstanceVariable/74b0f214-5b0b-4875-81d2-1998ee9aad2d",
+        "/InstanceVariable/b278497b-546e-443e-8874-337b1463ce71",
+        "/InstanceVariable/a55557b8-3d1c-489e-99ee-49bed937cf96",
+        "/InstanceVariable/838b86c0-d0c0-4257-bce7-0a150251682c",
+        "/InstanceVariable/1a4bab04-f6ec-4350-bf8b-18bac3f2c2ec",
+        "/InstanceVariable/44017d1f-de6d-44ce-9bf9-f8b260f4ab47"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "IDENTITETSGRUNNLAG"
+}

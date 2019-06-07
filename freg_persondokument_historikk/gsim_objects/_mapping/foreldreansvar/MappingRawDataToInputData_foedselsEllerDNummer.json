@@ -1,0 +1,6 @@
+{
+    "id": "f0eef72f-6c41-43de-acf1-6e65200097a1",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/folkeregisterperson/identifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/3afa7e41-b349-476e-9736-f076041154d1"
+}

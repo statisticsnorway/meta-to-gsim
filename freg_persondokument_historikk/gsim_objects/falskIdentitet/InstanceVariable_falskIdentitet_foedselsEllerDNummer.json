@@ -1,0 +1,25 @@
+{
+    "id": "e7be5cdc-a245-47c7-aca8-2b1a3ed99040",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet foedselsEllerDNummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk - falsk identitet, foedsels eller d nummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:33:56.000Z",
+    "validFrom": "2019-06-07T08:33:56.000Z",
+    "createdDate": "2019-06-07T08:33:56.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FALSKIDENTITET_FOEDSELSELLERDNUMMER",
+    "dataStructureComponentRole": "ENTITY"
+}

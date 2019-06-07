@@ -1,0 +1,32 @@
+{
+    "id": "77d02ffc-5109-410a-b7be-53569dc6d4ca",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "forholdTilSametingetsValgmanntall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "FregPersondokumentMedHistorikk record (LogicalRecord) forhold til sametingets valgmanntall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-07T08:34:03.000Z",
+    "validFrom": "2019-06-07T08:34:03.000Z",
+    "createdDate": "2019-06-07T08:34:03.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/cc8889cc-4da0-4c55-94e1-28effefc6f31",
+        "/InstanceVariable/e05b60e1-5f52-4f41-b758-a40a210f35a4",
+        "/InstanceVariable/5d34c9f1-aca1-4eaa-b9dd-c0f315af4b3c",
+        "/InstanceVariable/5a0b2373-bd78-48df-99b1-92f5e43214b2",
+        "/InstanceVariable/31710f68-07c0-4518-ac2d-e26c0ac95a89",
+        "/InstanceVariable/a4710005-d768-4064-b282-b9878507d185",
+        "/InstanceVariable/634fc9ba-3261-4fc2-a61b-0ec01edc23f8",
+        "/InstanceVariable/f4612c8a-30de-4c3a-8921-ff2eeb361e43"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FORHOLDTILSAMETINGETSVALGMANNTALL"
+}

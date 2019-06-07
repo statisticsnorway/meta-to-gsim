@@ -1,0 +1,6 @@
+{
+    "id": "e2380d06-5a13-4739-9ac1-a3bb23aeb1ab",
+    "sourceName": "rettIdentitetVedIdentifikasjonsnummer",
+    "sourcePath": "/folkeregisterperson/falskIdentitet/",
+    "targetInstanceVariable": "/InstanceVariable/675bca45-9142-4f34-8771-6ec6ad293db1"
+}
