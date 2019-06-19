@@ -55,6 +55,10 @@ unitTypeId = "51a8dcde-127d-49de-84a4-a0a9c34f666f"
 universeId = "Universe_DUMMY"
 variableId = "Variable_DUMMY"
 
+#OHV: Liste av identifierNames for ikke å lage measures av disse(Benyttes i 2_Xsd2Gsim.py
+idNames = []
+for dict in identifierComponents:
+   idNames.append(dict['name'])
 
 # TODO: Hente begreps-url mv. fra Skatt XSD også (eksempel: https://data.skatteetaten.no/begrep/b57408db-d96a-11e6-8d9b-005056821322)?
 
