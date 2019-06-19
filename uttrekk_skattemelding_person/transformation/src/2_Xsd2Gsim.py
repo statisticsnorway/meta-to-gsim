@@ -1,4 +1,5 @@
 #################################################################################################
+# OHV, 2019-06-19 Enkle fiks. Se OHV: kommentarer
 # BnJ, 2019-05-01
 # Dette er et Python-script som er benyttet til prototyping ifm. "metadatafangst" av Skatteetatens
 # XSD (XML-schema).
@@ -21,11 +22,11 @@ import xml.etree.ElementTree as ET
 import pprint
 import json
 import uuid
-import datetime
+import datetime 
 from pathlib import Path
-import re
 import os
-
+#OHV Lagt til
+import copy
 
 # TODO: import "cleanXsdFile.py" og kjør dette som første steg her !!!!
 
@@ -172,22 +173,30 @@ def findXsdObjectByName(xsdObjectName):
 
 def findElementsInObject(xsdObjectName):
     xsdObject = root.find(".//*[@name='" + xsdObjectName + "']")
-    #printETree(xsdObject)
+    printETree(xsdObject)
     elements = xsdObject.findall(".//"+getNs()+"element")
+    #print(elements)
     if elements is not None:
         return elements
     else:
         return None
 
 def addGsimMeasureVariable(gsimInstanceVariable):
+    global numOfInstanceVariables #OHV
     global gsimInstanceVariables
-    instVar = gsimInstanceVariable
+    #OHV Endret: copy.deepcopy lager nytt objekt. Gjør at vi ikke overskriver verdier når vi har variabler med samme name   
+    instVar = copy.deepcopy(gsimInstanceVariable)
+
     instVar["id"] = str(uuid.uuid4())  # InstanceVariable.id
     instVar["dataStructureComponentType"] = "MEASURE"
+    numOfInstanceVariables +=1
+    #OHV flyttet telleren da det ble en for mye. Kan nok settes til bake nå
+    #print(str(numOfInstanceVariables) + instVar["name"])
     gsimInstanceVariables.append(instVar)
 
 
 def addGsimIdentifierVariables():
+    global numOfInstanceVariables #OHV
     global gsimInstanceVariables
     for identifierVar in config.identifierComponents:
         instVar = {}
@@ -197,6 +206,9 @@ def addGsimIdentifierVariables():
         instVar["type"] = identifierVar.get("type")
         instVar["dataStructureComponentRole"] = identifierVar.get("dataStructureComponentRole")
         instVar["rawDataSourcePath"] = identifierVar.get("rawDataSourcePath")
+        #OHV flyttet telleren da det ble en for mye.Kan nok settes til bake nå
+        numOfInstanceVariables +=1
+        #print(str(numOfInstanceVariables) + instVar["name"])
         gsimInstanceVariables.append(instVar)
 
 # TODO TODO TODO TODO:
@@ -220,38 +232,63 @@ def getGruppePrefix(instanceVariable):
 
 # Leser igjennom hele XSD (rekursivt)
 def iterateXsd(skatteetatenHovedElement):
-    global numOfInstanceVariables
+    #OHV:global numOfInstanceVariables
     global sisteSkatteetatenHovedElement
     global gruppePrefix
     global sisteObject
+     
+      
     if gruppePrefix == "":
         #print("#### LogicalRecord: " + skatteetatenHovedElement + " ####")
         print(" (Type: " + skatteetatenHovedElement + ") ####")
     baseExtensionName = getBaseExtensionName(skatteetatenHovedElement)
     if baseExtensionName is not None:
+        
         if skatteetatenHovedElement != sisteSkatteetatenHovedElement: # "if" for å unngå evig løkke for noen "selv-refererende objekter", f.eks. "Folkeregisterpersonnavn.originaltNavn"
             sisteSkatteetatenHovedElement = skatteetatenHovedElement
             baseExtensionElements = getBaseExtensionElements(baseExtensionName)
             for baseE in baseExtensionElements:
-                #print("  InstanceVariable: " + str(baseE.attrib))
-                numOfInstanceVariables +=1
+            #print("  InstanceVariable: " + str(baseE.attrib))
+            #OHV flyttet telleren da det ble en for mye.Kan nok settes til bake nå
+            #numOfInstanceVariables +=1
+              #OHV: Skal ikke lage instanseVariabel hvis name er benyttet som Identifikator. Finnes sikkert en bedre måte å løse dette på. 
+              if not baseE.attrib.get("name") in config.idNames:
+                #print("Base: "+ str(baseE.attrib.get("name")), end='')  
                 addGsimMeasureVariable(baseE.attrib)
+ 
     elements_1 = findElementsInObject(skatteetatenHovedElement)
-    if elements_1 is None:
+    #print("elements_1" +str(elements_1))
+    #OHV: Ser ut som denne må endres
+    #if elements_1 is None:
+    if not elements_1:
+      if   isCodeList(skatteetatenHovedElement):
+         print("Er kodeliste, ikke element")
+      else:   
         print("ERROR - UKJENT TYPE: " + skatteetatenHovedElement)
     else:
+        #print("Nådaaaa: ")
         for elem1 in elements_1:
-            if isSimpleElementType(elem1.attrib.get("type")):
-                #print("  InstanceVariable: ", end='')
-                numOfInstanceVariables +=1
-                #if gruppePrefix != "":
+          #print("Nå: ")   
+        #print(config.identifierComponents[1].get("name"))
+        #printDict(config.identifierComponents)
+          #OHV: Skal ikke lage instanseVariabel hvis name er benyttet som Identifikator. Finnes sikkert en bedre måte å løse dette på.
+          if not elem1.attrib.get("name") in config.idNames:
+            
+            if isSimpleElementType(elem1.attrib.get("type")):  
+                    #print("Simple: "+ str(elem1.attrib.get("name")), end='')
+                    #and elem1.attrib.get("name") not in identifierComponents.get("name"):
+                    #print("  InstanceVariable: ", end='')
+                    #OHV flyttet telleren da det ble en for mye.Kan nok settes til bake nå
+                    #numOfInstanceVariables +=1
+                    #if gruppePrefix != "":
                     #print(gruppePrefix, end='')
-                elem1.attrib["gruppePrefix"] = gruppePrefix
-                addGsimMeasureVariable(elem1.attrib)
+                    elem1.attrib["gruppePrefix"] = gruppePrefix
+                    addGsimMeasureVariable(elem1.attrib)
                 #print(str(elem1.attrib))
             elif isCodeList(elem1.attrib.get("type")):
-                #print("  InstanceVariable: ", end='')
-                numOfInstanceVariables +=1
+                #print("Kode: "+ str(elem1.attrib.get("name")), end='')
+                #OHV flyttet telleren da det ble en for mye.Kan nok settes til bake nå
+                #numOfInstanceVariables +=1
                 #if gruppePrefix != "":
                     #print(gruppePrefix, end='')
                 elem1.attrib["gruppePrefix"] = gruppePrefix
@@ -265,12 +302,14 @@ def iterateXsd(skatteetatenHovedElement):
                 addGsimMeasureVariable(elem1.attrib)
                 #print("")
             else:
+                #print("Else: "+ str(elem1.attrib.get("name")), end='')
                 if sisteObject != elem1.attrib.get("type"):  # "if" for å unngå evig løkke for noen "selv-refererende objekter" (griseøre), f.eks. "Folkeregisterpersonnavn.originaltNavn"
                     sisteObject = elem1.attrib.get("type")
                     gruppePrefix += elem1.attrib.get("name") + "."
                     iterateXsd(elem1.attrib.get("type"))  # Rekursivt kall fordi dette er en sub-type (ComplexType)
                     gruppePrefix = gruppePrefix.replace(elem1.attrib.get("name")+".", "")
-
+                
+                    
 
 # Bygger opp json-struktur for GSIM UnitDataSet. Se eksempel: https://github.com/statisticsnorway/gsim-raml-schema/blob/master/examples/_main/UnitDataSet_Person_1.json
 def gsimCreateUnitDataSet(gsimSource):
@@ -391,7 +430,9 @@ def mappingRawDataToInputData(gsimSource):
                 js["sourcePath"] = "/" + xsdStartingPointPath + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
         js["targetInstanceVariable"] = "/InstanceVariable/" + instVar.get("id")
         #writeJsonFile(js, "_mapping//" + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
-        writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
+        #OHV Endret: Lagt til id for å få unike mappingnavn da vi kan ha flere som heter det samme, eks.postnummer
+        writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name") + instVar.get("id"))
+        #writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
 
 
 # Skriver JSON-filer med GSIM-metadata
