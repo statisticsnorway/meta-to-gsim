@@ -1,5 +1,5 @@
 {
-    "id": "bb145396-0d5a-446a-aa9f-93c1707ddd83",
+    "id": "633a9e80-f422-4681-bf81-5a871ed38461",
     "name": [
         {
             "languageCode": "nb",
@@ -13,26 +13,26 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-06-19T23:42:38.000Z",
+    "validFrom": "2019-06-19T23:42:38.000Z",
+    "createdDate": "2019-06-19T23:42:38.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/df94df54-1b4d-4ae8-8734-b6e2b83b08d7",
-        "/InstanceVariable/2704b9f6-f78b-41e5-911b-f9c8101be360",
-        "/InstanceVariable/5774ce77-c794-4c0f-ba9a-f5d43361b156",
-        "/InstanceVariable/f80e5cc2-deb5-445a-896d-3a0a2e09efe1",
-        "/InstanceVariable/110a8342-d20c-4387-88ea-a001ac0cae17",
-        "/InstanceVariable/e4d80776-cbed-44d7-acbb-3dc26cc56d4c",
-        "/InstanceVariable/502890cb-b781-406a-bae1-f28ff458afd4",
-        "/InstanceVariable/37942229-be65-4175-9cdc-8991bea356f0",
-        "/InstanceVariable/46217990-6663-4d3a-8a8b-6538874af994",
-        "/InstanceVariable/40fb23da-d42b-424f-b8fb-d80f2025a76e",
-        "/InstanceVariable/d389e28c-8b97-40de-a371-cede7bbebed1",
-        "/InstanceVariable/76169a5f-f30c-45be-9271-aa1aa6f4b92d",
-        "/InstanceVariable/b1afea25-6cb4-4e46-b249-2adae601e09b",
-        "/InstanceVariable/6d1c5d19-f95e-4915-bfbf-6f95a81b98fa",
-        "/InstanceVariable/e68e2d42-8131-4dff-a902-f5018d275ff2"
+        "/InstanceVariable/5b5ab07d-e63d-4a9e-a6a3-f90dcaa0c7e8",
+        "/InstanceVariable/a7123609-b606-4105-b89e-8d9666dbccc7",
+        "/InstanceVariable/3b95612c-1de4-43cc-b8f8-2566b3ef1714",
+        "/InstanceVariable/c575f64d-b857-4d4e-b737-c1cfb2dc981e",
+        "/InstanceVariable/b02f2604-7dc4-451a-bb8a-6e50b6d28441",
+        "/InstanceVariable/c9c35c5d-aa15-4cc1-a26c-bc920ea68926",
+        "/InstanceVariable/2a7a6d72-0fe9-4702-bb5e-c284694efdc2",
+        "/InstanceVariable/d7625ca2-38ae-4d73-b4d6-fafed1998b2b",
+        "/InstanceVariable/9dafce33-1874-4a7f-bb68-d13a31a63eaf",
+        "/InstanceVariable/27694c72-fdbe-4b99-b9be-1efc407596cd",
+        "/InstanceVariable/30aae98f-907a-4482-9af4-2911fb816613",
+        "/InstanceVariable/20f2dc21-6afb-48b3-86c3-083ce601766e",
+        "/InstanceVariable/dce49126-6a37-48fc-ba58-38919ebca84d",
+        "/InstanceVariable/64babc31-5165-4a04-b1d0-3cb79292b12c",
+        "/InstanceVariable/2978a430-1cda-401f-bd8b-bf3494f168bd"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP"

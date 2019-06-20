@@ -1,0 +1,6 @@
+{
+    "id": "bdb63b17-2457-4eba-8658-39a7f238ad99",
+    "sourceName": "pensjonsutbetalersNavn",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kollektivPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/602d51c9-62c7-471f-9646-628a0ac12d87"
+}

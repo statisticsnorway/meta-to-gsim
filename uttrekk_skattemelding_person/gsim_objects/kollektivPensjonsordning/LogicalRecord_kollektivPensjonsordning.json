@@ -1,5 +1,5 @@
 {
-    "id": "737e6b9f-4cf8-486a-85da-281c8a4615ed",
+    "id": "4ba4f54b-4413-410e-9edf-90072c2f1e0a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,17 +13,17 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/d7ce1f6d-daab-42f4-ba61-614fa7a2f5ad",
-        "/InstanceVariable/7ca90413-ff36-4cf2-805b-bef5f51483f3",
-        "/InstanceVariable/2a5217a4-402a-44d2-b797-8b3bbdea2fa8",
-        "/InstanceVariable/4cc82b05-00a6-4fbb-b50b-327726d7dfc7",
-        "/InstanceVariable/885b7413-0eea-4fb5-b93b-073065f77fd0",
-        "/InstanceVariable/26eb03e0-8db6-4b1d-84bb-a49c09e22d87"
+        "/InstanceVariable/f9cd6c4d-9436-4525-974f-0631bb45c974",
+        "/InstanceVariable/bf0e6e99-3b1b-4538-9aa3-70f4af5a9b31",
+        "/InstanceVariable/c57f9f6e-95d1-4c70-870b-177fb9f969b2",
+        "/InstanceVariable/7a3b6e1f-d72b-46cb-967a-d063038db2e1",
+        "/InstanceVariable/813a01fa-e0f7-44e0-b74c-460f12eb31cd",
+        "/InstanceVariable/642d01f4-8a99-42de-a416-c9d7345d2a81"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "KOLLEKTIVPENSJONSORDNING"

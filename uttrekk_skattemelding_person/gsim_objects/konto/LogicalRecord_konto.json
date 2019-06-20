@@ -1,5 +1,5 @@
 {
-    "id": "8c165b22-dc5d-47f8-ac2a-8e9bc160aa2a",
+    "id": "3801e19f-0ee0-4dc7-9cbc-14d976de11f5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,25 +13,25 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/f95825f6-e8c0-4986-ae6a-9d9f8047f4fc",
-        "/InstanceVariable/c7b6c43a-c340-4c0b-b69d-fc8ad202984e",
-        "/InstanceVariable/42d73b50-64bd-4eb9-950c-476aa040933d",
-        "/InstanceVariable/71bbe797-e6b7-46c4-81dd-a6cfcf36b779",
-        "/InstanceVariable/2eaf731b-ad1b-41e7-a154-9cd0a613214c",
-        "/InstanceVariable/683a5ae1-0393-4a77-bcf9-e271388f80d1",
-        "/InstanceVariable/4793dd59-a26e-4f7c-8647-ddfa156e7636",
-        "/InstanceVariable/722f95c3-f201-44e7-b3d9-88d97c318f9d",
-        "/InstanceVariable/c55325dc-a460-4def-bf46-88d86057c832",
-        "/InstanceVariable/d998f097-cbf9-48d6-a8ac-24ce0ae7639b",
-        "/InstanceVariable/66d66ab5-05ff-426c-a8bf-8414220a0a4a",
-        "/InstanceVariable/27776073-00e6-41cd-9552-70a8e5d0ab5f",
-        "/InstanceVariable/e4bc84d5-82e8-4387-8a98-e9ef6044a88e",
-        "/InstanceVariable/ad45fee3-c435-4feb-9668-1828977f2e96"
+        "/InstanceVariable/de0bc679-ffc1-421f-a5fa-c30862ea0166",
+        "/InstanceVariable/5141f015-2111-43eb-a526-8694bea0ac9b",
+        "/InstanceVariable/31fd465d-d1b6-4f9e-8d5b-772daba81801",
+        "/InstanceVariable/ffb908c6-22e9-47f4-88f6-15ec9b88db04",
+        "/InstanceVariable/23ae5628-ad9c-418e-bc0c-6cdb41b5cdd6",
+        "/InstanceVariable/28edbda0-e32c-4dbb-bb96-d1f20045118d",
+        "/InstanceVariable/c3190ada-ece1-4063-a97e-69574c566ed7",
+        "/InstanceVariable/cbee236f-c6ee-4bea-bcfd-bdd06a678a09",
+        "/InstanceVariable/dcca974e-4f33-428a-96e0-ce01d4166269",
+        "/InstanceVariable/6cc7cccf-a09b-409d-97d8-baefe8c6e303",
+        "/InstanceVariable/5296861f-2d9a-4e9e-84b6-49bc3c93a079",
+        "/InstanceVariable/df5ac713-b3b5-495f-864c-2f99f7247395",
+        "/InstanceVariable/04c584b0-1109-42eb-9d4c-5d8cb7c823a7",
+        "/InstanceVariable/2aa4a277-2ef0-4e43-b6f3-17ac57474cd1"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "KONTO"

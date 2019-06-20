@@ -1,0 +1,6 @@
+{
+    "id": "0a898e2c-5f19-4434-9cc1-f8c089c24ca0",
+    "sourceName": "bruksenhetsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/5c2f65a0-dad5-40b0-b585-899a86898981"
+}

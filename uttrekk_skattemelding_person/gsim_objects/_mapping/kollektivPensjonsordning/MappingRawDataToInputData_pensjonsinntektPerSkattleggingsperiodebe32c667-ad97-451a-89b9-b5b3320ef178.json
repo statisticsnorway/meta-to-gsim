@@ -1,0 +1,6 @@
+{
+    "id": "c7fe431a-f427-4ed7-b59e-103a0f82e080",
+    "sourceName": "pensjonsinntektPerSkattleggingsperiode",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/kollektivPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/be32c667-ad97-451a-89b9-b5b3320ef178"
+}

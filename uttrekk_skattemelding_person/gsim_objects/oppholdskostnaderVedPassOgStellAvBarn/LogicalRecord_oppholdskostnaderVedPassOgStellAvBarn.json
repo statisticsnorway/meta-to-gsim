@@ -1,5 +1,5 @@
 {
-    "id": "8e2a258c-1c41-433e-a08c-b861db85c106",
+    "id": "0b2c88bd-b2e4-48a3-9695-93dd39f60126",
     "name": [
         {
             "languageCode": "nb",
@@ -13,16 +13,16 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/7750d2b3-569d-4394-af5e-9219afc5f3f8",
-        "/InstanceVariable/43a4db41-20e7-43fe-bbc8-e275a624b254",
-        "/InstanceVariable/2906c4bf-ee35-4bf2-9b93-9d0cd3ec8275",
-        "/InstanceVariable/9c05bad2-2b6d-4a9e-b1db-d82c8aeaed3d",
-        "/InstanceVariable/eab6fde0-3543-4f5e-bac3-c59913ae5b05"
+        "/InstanceVariable/65e2fdd2-4f35-4840-82fe-c43f4625905b",
+        "/InstanceVariable/42bfe938-1808-4efc-a99c-6b14f0e04c20",
+        "/InstanceVariable/7ba159fd-fa77-4253-a1ad-82982b844b90",
+        "/InstanceVariable/4fee317d-2f03-491f-96e4-4fd4c3212932",
+        "/InstanceVariable/0a1fd5c2-9190-45fe-bec3-ab7fdaa9b743"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "OPPHOLDSKOSTNADERVEDPASSOGSTELLAVBARN"

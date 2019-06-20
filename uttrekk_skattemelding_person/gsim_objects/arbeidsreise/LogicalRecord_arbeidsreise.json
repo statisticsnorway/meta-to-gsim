@@ -1,5 +1,5 @@
 {
-    "id": "59e5eeb2-b6ce-4d22-a8b1-c01c7ce8a830",
+    "id": "a80a6e99-52b2-4301-869d-babcd11c03cf",
     "name": [
         {
             "languageCode": "nb",
@@ -13,16 +13,16 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-06-19T23:42:36.000Z",
+    "validFrom": "2019-06-19T23:42:36.000Z",
+    "createdDate": "2019-06-19T23:42:36.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/0f136283-5173-43fb-8ee1-87a89f2bd7b4",
-        "/InstanceVariable/6e8c2c81-4f77-42fc-8561-914c0b2cacfe",
-        "/InstanceVariable/5c3e8bb3-f53e-4f1a-a250-432224ce93ad",
-        "/InstanceVariable/b653452f-4bc2-41f6-b16c-6951c3464431",
-        "/InstanceVariable/2237a43a-ca1a-4d9e-adcc-98e3ca61b162"
+        "/InstanceVariable/b572d0c0-9294-455a-9abd-51949aaf6e3a",
+        "/InstanceVariable/d8dda578-96f9-4e5f-97a5-dd8148c71741",
+        "/InstanceVariable/d6523c14-5bfe-49d7-89a9-507c8ce435ef",
+        "/InstanceVariable/25e464d2-9509-416e-a781-adcd8dcd1197",
+        "/InstanceVariable/a09ddd68-23a1-4077-871d-cf8877afd5e2"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "ARBEIDSREISE"

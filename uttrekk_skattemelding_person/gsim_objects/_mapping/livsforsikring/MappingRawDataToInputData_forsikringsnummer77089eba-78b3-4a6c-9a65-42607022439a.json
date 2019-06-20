@@ -1,0 +1,6 @@
+{
+    "id": "2708d8fc-62e6-4f5a-8a09-a34cf0f23601",
+    "sourceName": "forsikringsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/livsforsikring/",
+    "targetInstanceVariable": "/InstanceVariable/77089eba-78b3-4a6c-9a65-42607022439a"
+}

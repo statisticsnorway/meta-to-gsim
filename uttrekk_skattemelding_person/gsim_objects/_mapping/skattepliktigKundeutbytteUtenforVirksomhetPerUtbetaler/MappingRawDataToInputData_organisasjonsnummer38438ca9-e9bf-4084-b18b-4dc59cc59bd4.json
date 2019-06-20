@@ -1,0 +1,6 @@
+{
+    "id": "b98c5f91-375b-4583-9a1e-66ff32ed9f33",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/skattepliktigKundeutbytteUtenforVirksomhetPerUtbetaler/",
+    "targetInstanceVariable": "/InstanceVariable/38438ca9-e9bf-4084-b18b-4dc59cc59bd4"
+}

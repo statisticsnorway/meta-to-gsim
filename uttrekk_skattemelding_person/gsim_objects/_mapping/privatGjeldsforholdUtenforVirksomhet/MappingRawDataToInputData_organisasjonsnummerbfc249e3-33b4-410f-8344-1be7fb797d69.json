@@ -1,0 +1,6 @@
+{
+    "id": "b345800d-1838-4fae-9dcb-2d2f4855edb5",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/privatGjeldsforholdUtenforVirksomhet/",
+    "targetInstanceVariable": "/InstanceVariable/bfc249e3-33b4-410f-8344-1be7fb797d69"
+}

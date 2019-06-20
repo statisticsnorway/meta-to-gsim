@@ -1,5 +1,5 @@
 {
-    "id": "b1ea9d3e-4c17-4e62-9e94-4293ae053aa6",
+    "id": "38be1ab0-b25b-4707-9780-c2e517fff288",
     "name": [
         {
             "languageCode": "nb",
@@ -13,16 +13,16 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/d5b37ce9-b8bc-4d9b-af79-5daf002a7a1a",
-        "/InstanceVariable/3c36a101-8158-48a7-87a5-dbb1bc3153f9",
-        "/InstanceVariable/3657390e-4c70-422d-b98a-539d31bfb62a",
-        "/InstanceVariable/3ecad9b9-3daa-401c-be3e-9cdc3348d0ef",
-        "/InstanceVariable/1f6c389c-839f-4cb9-b5fa-2df552cfd16f"
+        "/InstanceVariable/796e216d-e4b2-48a3-9d41-9d1851eb0547",
+        "/InstanceVariable/9d6d5cdb-e769-4cf0-98fb-a3a9e1402005",
+        "/InstanceVariable/38438ca9-e9bf-4084-b18b-4dc59cc59bd4",
+        "/InstanceVariable/33230791-c9b8-46b3-9e38-863a272a3237",
+        "/InstanceVariable/a955a718-2032-41e4-a7a1-ead2f1cce484"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER"

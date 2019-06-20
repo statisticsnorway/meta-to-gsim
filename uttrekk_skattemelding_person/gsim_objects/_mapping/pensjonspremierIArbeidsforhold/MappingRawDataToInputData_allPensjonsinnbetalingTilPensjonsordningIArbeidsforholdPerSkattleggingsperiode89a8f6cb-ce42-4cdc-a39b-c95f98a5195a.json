@@ -1,0 +1,6 @@
+{
+    "id": "554c2032-b203-4423-be71-6719e32e4071",
+    "sourceName": "allPensjonsinnbetalingTilPensjonsordningIArbeidsforholdPerSkattleggingsperiode",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/pensjonspremierIArbeidsforhold/",
+    "targetInstanceVariable": "/InstanceVariable/89a8f6cb-ce42-4cdc-a39b-c95f98a5195a"
+}

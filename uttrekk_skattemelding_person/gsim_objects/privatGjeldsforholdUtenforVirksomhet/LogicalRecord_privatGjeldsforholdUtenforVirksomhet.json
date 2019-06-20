@@ -1,5 +1,5 @@
 {
-    "id": "886ebbc4-21eb-4742-b514-d41fd845427a",
+    "id": "c8344260-d123-42c1-bc48-ef87b7e6e868",
     "name": [
         {
             "languageCode": "nb",
@@ -13,17 +13,17 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/69e9b030-aae9-4c46-bc58-ca4cd3644f59",
-        "/InstanceVariable/9e09836a-5967-4bd4-bc04-f4acd08ac77f",
-        "/InstanceVariable/a498e359-e313-49f0-b5b9-284abb664f43",
-        "/InstanceVariable/72bdd4ff-bd5e-479d-96b0-a48428e24c2f",
-        "/InstanceVariable/d4ef63f8-4ab0-47d2-bcdf-79e04d68f56c",
-        "/InstanceVariable/91ddc879-a03d-4233-b2df-05f2792c8bb9"
+        "/InstanceVariable/384381fb-bbfd-47ad-abf9-a6d1034bb7cd",
+        "/InstanceVariable/bfc249e3-33b4-410f-8344-1be7fb797d69",
+        "/InstanceVariable/12bf4050-da0b-4c57-8261-67e76755ab1b",
+        "/InstanceVariable/b172849f-9d4b-43b2-a04f-20fa4d076bb9",
+        "/InstanceVariable/dc19828b-6962-41ab-ace2-0480e0c84ce8",
+        "/InstanceVariable/22b256c6-2238-45e2-8598-cdfb657ad1d6"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET"

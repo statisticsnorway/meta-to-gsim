@@ -1,0 +1,6 @@
+{
+    "id": "c11d543a-167f-43e4-bd14-c8581e873d74",
+    "sourceName": "organisasjonsnummerGodkjentGavemottaker",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/gaveTilFrivilligOrganisasjon/",
+    "targetInstanceVariable": "/InstanceVariable/83a3068c-02d9-477b-9736-9bc372828337"
+}

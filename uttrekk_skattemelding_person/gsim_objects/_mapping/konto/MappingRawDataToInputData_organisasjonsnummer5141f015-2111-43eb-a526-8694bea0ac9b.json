@@ -1,0 +1,6 @@
+{
+    "id": "f4563154-6b2e-46ef-a782-9fc51a96a586",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/5141f015-2111-43eb-a526-8694bea0ac9b"
+}

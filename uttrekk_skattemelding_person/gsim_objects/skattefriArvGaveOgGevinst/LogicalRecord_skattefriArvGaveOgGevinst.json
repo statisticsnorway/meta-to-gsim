@@ -1,5 +1,5 @@
 {
-    "id": "9a2c6180-c2f7-43c5-b1a7-9b4b42fbef6d",
+    "id": "92627292-38c6-4e65-8cbe-54b89cf93442",
     "name": [
         {
             "languageCode": "nb",
@@ -13,15 +13,15 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/4fc8efe6-4178-4296-b52f-81670d3c539f",
-        "/InstanceVariable/2fc12a3f-99b4-441c-85c0-95bfb9db5538",
-        "/InstanceVariable/bff43aed-e2f3-4fdd-87ca-a3ec835a2284",
-        "/InstanceVariable/69e6e5c4-535b-4f77-91aa-24a6f1672136"
+        "/InstanceVariable/8a3e4e53-21a4-409e-bb36-f2e3bec25f67",
+        "/InstanceVariable/b69eaade-413e-43d6-86fd-f70efea62c49",
+        "/InstanceVariable/47dda5c5-3c07-4aa4-b897-ee01b0cdadf4",
+        "/InstanceVariable/fe47c93a-e199-449a-b678-3c286612fffa"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEFRIARVGAVEOGGEVINST"

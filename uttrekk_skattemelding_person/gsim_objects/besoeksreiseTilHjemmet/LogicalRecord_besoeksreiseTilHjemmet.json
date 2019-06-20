@@ -1,5 +1,5 @@
 {
-    "id": "cc3005de-5463-4e61-9526-a8aa774f3fff",
+    "id": "75e472da-cf2b-4f36-98ef-3bedbeef3989",
     "name": [
         {
             "languageCode": "nb",
@@ -13,17 +13,17 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-06-19T23:42:36.000Z",
+    "validFrom": "2019-06-19T23:42:36.000Z",
+    "createdDate": "2019-06-19T23:42:36.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/d0b8dc7a-62de-429b-82a0-855120582739",
-        "/InstanceVariable/e458ba1c-881d-49a7-a7d0-873aa5c72f23",
-        "/InstanceVariable/e49d43c1-9a7c-421f-a676-32ac12273767",
-        "/InstanceVariable/2c52e9a0-17ee-4158-a2f7-ab123fb32197",
-        "/InstanceVariable/df98cc2b-2c8d-4dff-8831-85a9c22901f6",
-        "/InstanceVariable/6bfafe68-6b81-4f74-8bcd-144ec955e25d"
+        "/InstanceVariable/b1d12214-3707-4b01-8251-151469cafa8e",
+        "/InstanceVariable/089cbc8f-0e9a-4413-ab3a-40ce51fd2f62",
+        "/InstanceVariable/b8e3fab1-f428-4f44-8f70-5381f7e562e0",
+        "/InstanceVariable/94ed5230-4453-420b-a674-50006e4ac212",
+        "/InstanceVariable/d0bdf780-42e7-47ea-a42b-b6dfcd92ffef",
+        "/InstanceVariable/25112493-aa1f-437e-a55a-49689b875d84"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "BESOEKSREISETILHJEMMET"

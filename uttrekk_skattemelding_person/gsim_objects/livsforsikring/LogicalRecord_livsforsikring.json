@@ -1,5 +1,5 @@
 {
-    "id": "08016d2a-4bcf-4e81-96c0-c6a7026b4086",
+    "id": "b13850e1-7269-4206-a493-a4788cfa29e6",
     "name": [
         {
             "languageCode": "nb",
@@ -13,21 +13,21 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/a6653a9a-996d-40be-b21b-2de234470053",
-        "/InstanceVariable/1e989bbd-1036-4b4e-9fe9-65d7466b5773",
-        "/InstanceVariable/7a7d6de9-6dd3-4462-a0f5-45ab7ad49e64",
-        "/InstanceVariable/4236c4dd-cabd-49f5-986d-4480158cc141",
-        "/InstanceVariable/e6b9f7a9-c156-4c92-bc99-5b910b0661c9",
-        "/InstanceVariable/f6277c65-6818-4ee5-bcab-2baafab6728c",
-        "/InstanceVariable/a2ac529b-c492-46b4-86b2-5fd66c865c05",
-        "/InstanceVariable/a705de2f-2f76-4d04-ba86-f625257c3a27",
-        "/InstanceVariable/591d4645-ec75-4c14-b807-96f41ba96676",
-        "/InstanceVariable/31cb32e8-1109-4368-8d2f-a0a86f5805af"
+        "/InstanceVariable/83620542-e21c-4fe2-9b7d-2dd264029137",
+        "/InstanceVariable/a1384cfa-4e1a-4666-a66d-efdd46049cdd",
+        "/InstanceVariable/652f8a53-6d87-448e-b176-ad6df1ca0e13",
+        "/InstanceVariable/c99b3f07-7fb5-420d-9b54-98388fa96de4",
+        "/InstanceVariable/64a2af42-ca24-499e-a827-b6ebeb3a9843",
+        "/InstanceVariable/19ae9c13-76a9-47e3-9047-36935210da96",
+        "/InstanceVariable/2b44a9a7-b997-4214-ba97-bb809e240818",
+        "/InstanceVariable/2ddd8d0f-ce7c-4a96-b5e5-6f312b12f643",
+        "/InstanceVariable/3e48cef0-7090-4153-b52f-0546cce95e44",
+        "/InstanceVariable/50392a24-1dea-4db2-92e8-b9bc1ac43848"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "LIVSFORSIKRING"

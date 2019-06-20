@@ -1,0 +1,6 @@
+{
+    "id": "ec2e17e9-9847-4c56-87a8-c83f1458d767",
+    "sourceName": "personidentifikator",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/",
+    "targetInstanceVariable": "/InstanceVariable/877548f2-cf7d-43d3-ba2a-d0daeb175b81"
+}

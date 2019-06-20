@@ -1,5 +1,5 @@
 {
-    "id": "fa73349f-0a51-4f58-938a-e23f76cf323b",
+    "id": "4201ff34-19c7-4afe-ac24-6727913d2b30",
     "name": [
         {
             "languageCode": "nb",
@@ -13,14 +13,14 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/ba978674-a94e-4cf4-827f-6654bc0b0f6b",
-        "/InstanceVariable/c52ccedf-c51c-413e-a7e3-07534e7f8577",
-        "/InstanceVariable/17fea4e7-2ceb-4071-b2eb-ccac128a104e"
+        "/InstanceVariable/ab824d43-bbf6-475f-b8d1-331852d9c839",
+        "/InstanceVariable/8a7d4160-aa9b-4926-8c85-c7d21bb6101f",
+        "/InstanceVariable/ba23dc56-82fe-46f0-8b5e-b02192e57417"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "KONTANTBELOEP"

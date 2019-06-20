@@ -1,5 +1,5 @@
 {
-    "id": "bbfbfe90-4af0-4582-a718-8df42d246a5f",
+    "id": "790c5c50-782e-4225-849f-1c80eca1410a",
     "name": [
         {
             "languageCode": "nb",
@@ -13,14 +13,14 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-06-19T23:42:36.000Z",
+    "validFrom": "2019-06-19T23:42:36.000Z",
+    "createdDate": "2019-06-19T23:42:36.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/87125b96-da67-4f66-9b3c-5c17cbb991c0",
-        "/InstanceVariable/9552271c-9f74-49d7-b9bd-1800aede91eb",
-        "/InstanceVariable/2a117ea9-8ad0-447e-9fbb-50dca8cccd8f"
+        "/InstanceVariable/ffb0436e-6ddf-4516-bf76-6d73eea2866b",
+        "/InstanceVariable/62405d24-9794-40fc-95a3-b7d28631ac55",
+        "/InstanceVariable/66c7ff0d-dcf1-42e7-a071-4e6b60a4154d"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FAGFORENINGSKONTINGENT"

@@ -1,5 +1,5 @@
 {
-    "id": "15968c8f-b2fd-494f-84ee-9530391b4ab3",
+    "id": "9a6826db-66bd-4370-a633-55c002ce5dd1",
     "name": [
         {
             "languageCode": "nb",
@@ -13,15 +13,15 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1941d7b6-d0a9-4754-8891-2f75c1443f4c",
-        "/InstanceVariable/5a425f82-d501-40ae-9e28-eb60f6e328bb",
-        "/InstanceVariable/68a86367-c57f-4e6c-b01f-c7b01230b702",
-        "/InstanceVariable/ca3c5060-e7ce-4998-a31a-467f7f6fbf0f"
+        "/InstanceVariable/8abb52a9-56e1-47d6-8131-e66caa4781b6",
+        "/InstanceVariable/99d2ddfd-2280-4ab5-a72e-33148f83d122",
+        "/InstanceVariable/c7a2f486-ddaa-4df1-a0ea-dc9d0e0ec541",
+        "/InstanceVariable/e8772f8f-ec93-451a-a542-9e04e281d686"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET"

@@ -1,5 +1,5 @@
 {
-    "id": "b36019c5-d1e4-4bd7-839d-216af96c04a4",
+    "id": "f98d1100-ae07-4886-8f7a-ae20dfac4bf0",
     "name": [
         {
             "languageCode": "nb",
@@ -13,16 +13,16 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1b5999df-35ab-448f-84bc-60ce1d14be37",
-        "/InstanceVariable/11796845-c638-4f6d-bf7d-785d835044e2",
-        "/InstanceVariable/2ebbeb5f-6551-4c30-872d-f7bc0be88527",
-        "/InstanceVariable/bcae3099-e01b-4e54-b969-5b28edf16420",
-        "/InstanceVariable/fdda939b-f58c-4342-abe2-2b918d41b3da"
+        "/InstanceVariable/2d8ea8d8-f80a-4b5d-8c3c-f01dc95aaf1c",
+        "/InstanceVariable/af12fa62-f3d6-4fbb-812b-c08ac1d5d79d",
+        "/InstanceVariable/fd9a9f46-15a4-4bf1-b384-af7f1723dd46",
+        "/InstanceVariable/40ff6274-2b22-4359-b582-ace5e55ac42e",
+        "/InstanceVariable/71337fa3-2120-461d-9922-dddf0be0b3e1"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "GAVETILFRIVILLIGORGANISASJON"

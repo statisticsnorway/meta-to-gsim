@@ -1,0 +1,6 @@
+{
+    "id": "5c49ab2a-3894-432b-a5e8-be74780ecf65",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/oppholdskostnaderVedPassOgStellAvBarn/",
+    "targetInstanceVariable": "/InstanceVariable/dc647659-d0dc-4789-9b36-08dd320fc0c8"
+}

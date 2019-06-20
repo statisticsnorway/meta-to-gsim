@@ -1,5 +1,5 @@
 {
-    "id": "32cdd66a-c792-49e1-83f3-e2ecf9974dcc",
+    "id": "b185b126-2eb9-4e45-9f29-371cf8c6593f",
     "name": [
         {
             "languageCode": "nb",
@@ -13,15 +13,15 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-06-19T23:42:38.000Z",
+    "validFrom": "2019-06-19T23:42:38.000Z",
+    "createdDate": "2019-06-19T23:42:38.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/01dfbcf1-6e34-4364-9833-308b7d5398cd",
-        "/InstanceVariable/bf897b76-7465-4624-9067-512f190ae024",
-        "/InstanceVariable/8ce44d7a-b41e-4b6a-b2af-ef34e13708c3",
-        "/InstanceVariable/895ad4eb-8cfd-48c1-a696-e4e3d10ca9c5"
+        "/InstanceVariable/6fbc2ef1-059e-4299-8688-b47bab726080",
+        "/InstanceVariable/36406f0c-6f2c-44f7-9319-d92f1b20f53c",
+        "/InstanceVariable/f793e546-1738-4477-9b2a-f1a08699102d",
+        "/InstanceVariable/6b603059-a583-4005-b86b-8d337007969b"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE"

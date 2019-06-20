@@ -1,0 +1,6 @@
+{
+    "id": "b3b1efc2-88be-471f-8918-7ed6b487d8dc",
+    "sourceName": "innbetalingTilIndividuellPensjonsordningPerSkattleggingsperiode",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/individuellPensjonsordning/",
+    "targetInstanceVariable": "/InstanceVariable/44b82103-53db-4db2-bc56-aaf602791e94"
+}

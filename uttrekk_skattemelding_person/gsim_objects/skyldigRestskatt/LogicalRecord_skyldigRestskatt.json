@@ -1,5 +1,5 @@
 {
-    "id": "b5475df0-57a7-4ce1-92aa-a953497063aa",
+    "id": "255f7a55-588b-49ce-9b55-8a88a4e9cc04",
     "name": [
         {
             "languageCode": "nb",
@@ -13,15 +13,15 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-06-19T23:42:38.000Z",
+    "validFrom": "2019-06-19T23:42:38.000Z",
+    "createdDate": "2019-06-19T23:42:38.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/a99dd4a3-8add-434c-ba2a-66bdc57f63c7",
-        "/InstanceVariable/cdc9aba1-ad79-4ca0-9fa1-852173c518d5",
-        "/InstanceVariable/b4e55e8e-a2e7-44ed-aca1-4f6354954c19",
-        "/InstanceVariable/d52e2884-5843-4c8d-8a40-cca3868c4f12"
+        "/InstanceVariable/a9c405a3-a825-4a9a-a476-bc0117ddb4aa",
+        "/InstanceVariable/92edbe7a-2a9a-4736-a9f9-6910bdc44297",
+        "/InstanceVariable/9358610c-67af-42e5-9778-920725f5a48c",
+        "/InstanceVariable/4705d2aa-6cec-4d28-9a60-7b32aaea59cd"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKYLDIGRESTSKATT"

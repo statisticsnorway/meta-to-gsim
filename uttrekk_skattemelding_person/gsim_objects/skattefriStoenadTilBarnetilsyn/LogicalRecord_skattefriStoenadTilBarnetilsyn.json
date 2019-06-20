@@ -1,5 +1,5 @@
 {
-    "id": "3fd18fe3-c38b-4120-93bf-0301dc6d9a4d",
+    "id": "0c1af6d1-7f00-4d81-9903-9372d0a9d31c",
     "name": [
         {
             "languageCode": "nb",
@@ -13,14 +13,14 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/32967394-0157-4366-8b60-6fffa21ae228",
-        "/InstanceVariable/bf603ea0-2c9d-46d0-89a8-d9de01089128",
-        "/InstanceVariable/3115c609-2fbf-477d-b5d3-b1fa482a7e27"
+        "/InstanceVariable/8fcfd347-bb6e-4636-a893-7503e186eb68",
+        "/InstanceVariable/05594487-be72-439e-a384-093dc1ce0720",
+        "/InstanceVariable/4db57fc8-7ac5-45de-9904-c4401054ab82"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEFRISTOENADTILBARNETILSYN"

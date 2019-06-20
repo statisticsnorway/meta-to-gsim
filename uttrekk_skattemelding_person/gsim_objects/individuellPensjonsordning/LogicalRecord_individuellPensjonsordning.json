@@ -1,5 +1,5 @@
 {
-    "id": "d79eee3e-e366-4908-8d97-7dcdf643b024",
+    "id": "38cfdfd8-3042-4b41-a7b9-38b8cb34a9d8",
     "name": [
         {
             "languageCode": "nb",
@@ -13,20 +13,20 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-06-19T23:42:37.000Z",
+    "validFrom": "2019-06-19T23:42:37.000Z",
+    "createdDate": "2019-06-19T23:42:37.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/c9bca230-e799-4012-b986-b0e06a3d7a91",
-        "/InstanceVariable/16456613-96c3-48a8-95f1-c7190dca2caa",
-        "/InstanceVariable/5b5a5861-b3a3-4c8b-8cf7-dfd171b8a9f3",
-        "/InstanceVariable/1a49c964-4a95-47fc-b4fd-bb8455285b5f",
-        "/InstanceVariable/b9abc052-1e0c-4c95-818b-3d7052d662a3",
-        "/InstanceVariable/c593c096-2201-4d3e-b33e-eadcc2181714",
-        "/InstanceVariable/e1287655-d8f5-4240-babf-978d876049a2",
-        "/InstanceVariable/4874e026-75f2-4d68-b2bd-e12a52d29bff",
-        "/InstanceVariable/7d3fbf83-0f7f-4260-9eb4-9d64f60bf8b9"
+        "/InstanceVariable/fe78b041-728f-4e00-ba7c-8785128f5cee",
+        "/InstanceVariable/01313cd4-36a8-4135-8a24-4989756a5270",
+        "/InstanceVariable/5aee0536-2046-419b-93c8-4bceba994927",
+        "/InstanceVariable/44b82103-53db-4db2-bc56-aaf602791e94",
+        "/InstanceVariable/7a48a92a-c8ef-40b6-8aeb-82329694ff31",
+        "/InstanceVariable/35cf865c-1350-4c00-8111-e98667bcfd24",
+        "/InstanceVariable/f080f6c1-dc95-4698-a7f6-8749d101dd6f",
+        "/InstanceVariable/e7bcae51-c56a-40b2-ac95-f1c9df5a1f1e",
+        "/InstanceVariable/876b3fb7-184d-499e-9015-b1f7f881fe94"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "INDIVIDUELLPENSJONSORDNING"

@@ -1,5 +1,5 @@
 {
-    "id": "463ef652-c0b6-42ca-bca7-4de2e0bf6544",
+    "id": "311ccbf0-dcc3-4c1c-9b65-78e64037c9f5",
     "name": [
         {
             "languageCode": "nb",
@@ -13,15 +13,14 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-06-19T23:42:36.000Z",
+    "validFrom": "2019-06-19T23:42:36.000Z",
+    "createdDate": "2019-06-19T23:42:36.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1bb05dec-8654-4ded-88f6-047e9fa5295c",
-        "/InstanceVariable/1db96257-7797-4562-ab21-1b36f3a274bb",
-        "/InstanceVariable/efe38723-08c4-4b6f-a394-f4e6018d252f",
-        "/InstanceVariable/273381cc-6168-4282-8ddf-40fe9d5b3622"
+        "/InstanceVariable/3942e4ba-8746-470f-a025-51810babec29",
+        "/InstanceVariable/516e9223-5c66-484b-b8e7-c3c9c9def4f5",
+        "/InstanceVariable/25ea702b-4100-4a90-ad53-4677e32ea0ef"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "BARNSOMGIRRETTTILFORELDREFRADRAG"

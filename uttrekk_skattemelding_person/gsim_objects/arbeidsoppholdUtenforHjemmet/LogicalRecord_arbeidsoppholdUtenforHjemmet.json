@@ -1,5 +1,5 @@
 {
-    "id": "9da7d992-6541-4cc8-9883-c3ec627fb7d9",
+    "id": "08b4e212-cbfb-4105-8b92-a6e2d3193da4",
     "name": [
         {
             "languageCode": "nb",
@@ -13,22 +13,22 @@
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-06-19T23:42:36.000Z",
+    "validFrom": "2019-06-19T23:42:36.000Z",
+    "createdDate": "2019-06-19T23:42:36.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/9558104b-7779-4173-9d48-a666ba33f196",
-        "/InstanceVariable/7f7ecd54-fbdc-48c6-a3bf-f49500ab9b54",
-        "/InstanceVariable/dca2d314-1452-4483-b002-51c62fe28d20",
-        "/InstanceVariable/a2f2217b-cf4f-4e45-9e99-218e55e8ad2b",
-        "/InstanceVariable/44c94190-5ceb-40d2-87e4-e4e29f4c58c7",
-        "/InstanceVariable/fd60b73e-ed48-4c46-b85b-9134ea259b1e",
-        "/InstanceVariable/b5bb2046-ce3a-4f78-acad-3c535217790a",
-        "/InstanceVariable/b871fe84-1641-4144-822a-3fb89afb14f5",
-        "/InstanceVariable/3d4bf20f-2315-470f-a262-303bd78b72eb",
-        "/InstanceVariable/6f40ba80-0828-4f30-8f40-fa6f02a74400",
-        "/InstanceVariable/fd2389df-445a-4a15-96b8-f0496a9dceeb"
+        "/InstanceVariable/e998dc17-5a15-4dcd-b93c-77ebdb1da513",
+        "/InstanceVariable/f562f9e7-4cee-4263-87c3-b9d11eea9e1e",
+        "/InstanceVariable/31588c11-bd12-490f-a07e-4b9f8f3ac00f",
+        "/InstanceVariable/cd9214f0-4a4a-4907-be91-d4c6da4b8062",
+        "/InstanceVariable/8585e7c7-dd03-42a8-91ac-808f2fd1c049",
+        "/InstanceVariable/970813a6-57c4-4089-a83b-463890bcffdf",
+        "/InstanceVariable/fd0228ce-a898-4eb4-84f0-c0b13d90920a",
+        "/InstanceVariable/58091b89-e689-412f-8a3a-6a97e2b64302",
+        "/InstanceVariable/1ab40b76-14de-43e3-96d4-d734ada8dd55",
+        "/InstanceVariable/43e59414-e9c9-4997-81d6-38b2065c78bd",
+        "/InstanceVariable/1c735880-4708-4313-aea7-2ba738d135ef"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET"

@@ -1,0 +1,6 @@
+{
+    "id": "78c1ad25-49c8-4077-93aa-6f1e5d60f421",
+    "sourceName": "betalteMisligholdteRenter",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/c61b7141-8aa7-4bf2-9122-88c4e7c06139"
+}
