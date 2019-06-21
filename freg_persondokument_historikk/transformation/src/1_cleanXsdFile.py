@@ -29,7 +29,7 @@ xsdElementTypesMappedToString = [
     "Foedselsnummer",
     "Kommunenummer",
     "Navn",
-    "Landkode"
+    "Landkode",
     "LandkodeIsoAlfa3",
     "Husnummer",
     "Postnummer",
