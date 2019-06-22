@@ -1,0 +1,34 @@
+{
+    "id": "b116f39f-3d64-4b26-9eea-83572e62cd4e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) foedsel i norge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/337fe295-cee1-45c6-9877-1e13225d1eb7",
+        "/InstanceVariable/9a60860c-b61f-4313-b542-fc2ccedeb39c",
+        "/InstanceVariable/fd0fa30d-4549-48e6-9648-5f46a7df571b",
+        "/InstanceVariable/63f2ec13-e7be-47b4-b975-c2020dd05f43",
+        "/InstanceVariable/752a8f98-4520-4388-83e6-c407467fca9c",
+        "/InstanceVariable/9307fe38-e66d-4979-9e6b-f640e83f633c",
+        "/InstanceVariable/265c70dd-d3a5-478a-bee4-195d528dbd0e",
+        "/InstanceVariable/adc163dc-7106-4333-b48b-a8cddd73189b",
+        "/InstanceVariable/a0d2f147-39eb-4eed-ab86-bc46fbaa0973",
+        "/InstanceVariable/7e940fd2-93b4-4409-ba33-3924c8c7672e"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FOEDSELINORGE"
+}

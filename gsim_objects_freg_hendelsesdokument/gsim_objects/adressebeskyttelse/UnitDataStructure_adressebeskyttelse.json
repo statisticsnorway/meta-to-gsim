@@ -1,0 +1,23 @@
+{
+    "id": "1bc5fb37-8994-4922-bd58-b27d1fd21d37",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/d00b5e03-a7bf-4ec0-b948-37f983739980"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "d6fba2be-5e9b-484a-836c-c2ab22f3a554",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett entitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/199c616f-ba1a-415f-8588-855bf48664d8",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

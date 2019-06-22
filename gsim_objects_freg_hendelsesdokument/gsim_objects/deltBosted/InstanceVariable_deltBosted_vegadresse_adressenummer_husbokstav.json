@@ -1,0 +1,24 @@
+{
+    "id": "9f03de88-56ac-4640-ab46-8a969597e878",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse adressenummer husbokstav"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, vegadresse adressenummer husbokstav"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_ADRESSENUMMER_HUSBOKSTAV"
+}

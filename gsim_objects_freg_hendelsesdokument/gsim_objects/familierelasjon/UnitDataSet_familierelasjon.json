@@ -1,0 +1,23 @@
+{
+    "id": "9b755236-a213-403c-9974-23567716e439",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/75a53e9a-ee50-4a2b-9d6d-927940a14456",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

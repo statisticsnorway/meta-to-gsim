@@ -1,0 +1,23 @@
+{
+    "id": "fddf9352-7348-4129-ae0c-fe4aef92bbd3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/056a3fe8-517b-44cb-8325-e1e7098d8155",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

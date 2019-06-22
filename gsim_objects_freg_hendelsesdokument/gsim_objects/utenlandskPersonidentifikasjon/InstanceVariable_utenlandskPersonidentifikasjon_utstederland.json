@@ -1,0 +1,24 @@
+{
+    "id": "faf6166b-1bc4-4d27-9bd9-be658722fc13",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon utstederland"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - utenlandsk personidentifikasjon, utstederland"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_UTSTEDERLAND"
+}

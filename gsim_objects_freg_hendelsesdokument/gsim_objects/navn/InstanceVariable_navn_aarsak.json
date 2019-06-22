@@ -1,0 +1,24 @@
+{
+    "id": "8ec94759-db84-4e0c-847e-784b6830fca3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - navn, aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_AARSAK"
+}

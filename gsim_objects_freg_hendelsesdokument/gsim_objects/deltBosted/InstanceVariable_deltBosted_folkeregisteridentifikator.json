@@ -1,0 +1,25 @@
+{
+    "id": "9d82abdc-caea-4528-b5d7-76998e3a5024",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DELTBOSTED_FOLKEREGISTERIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

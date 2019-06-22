@@ -1,0 +1,23 @@
+{
+    "id": "93dbaf11-ebcb-468f-879f-fd8dd60f35bc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "LagretHendelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "OverordnetHendelseiFolkeregisteret"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-21T12:46:50.000Z",
+    "validFrom": "2019-06-21T12:46:50.000Z",
+    "createdDate": "2019-06-21T12:46:50.000Z",
+    "createdBy": "OHV",
+    "dataSets": [
+        "/UnitDataSet/7123ad6e-0db6-480e-9c7c-c9bdacbf329c"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "54f54d88-ebd4-4148-9345-f6d380828e22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet rettIdentitetVedOpplysninger statsborgerskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - falsk identitet, rettIdentitetVedOpplysninger statsborgerskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FALSKIDENTITET_RETTIDENTITETVEDOPPLYSNINGER_STATSBORGERSKAP"
+}

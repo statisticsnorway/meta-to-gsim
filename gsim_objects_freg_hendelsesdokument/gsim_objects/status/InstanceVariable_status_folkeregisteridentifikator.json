@@ -1,0 +1,25 @@
+{
+    "id": "8720a5f2-55e3-4b62-9952-3d49f409e775",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - status, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "STATUS_FOLKEREGISTERIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

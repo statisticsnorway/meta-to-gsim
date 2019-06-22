@@ -1,0 +1,25 @@
+{
+    "id": "a0d2f147-39eb-4eed-ab86-bc46fbaa0973",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - foedsel i norge, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FOEDSELINORGE_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

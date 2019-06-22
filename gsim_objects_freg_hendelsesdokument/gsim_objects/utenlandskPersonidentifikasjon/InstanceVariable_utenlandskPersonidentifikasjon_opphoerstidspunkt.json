@@ -1,0 +1,24 @@
+{
+    "id": "e49c804c-294d-4115-b43a-e282f2453a1c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - utenlandsk personidentifikasjon, opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_OPPHOERSTIDSPUNKT"
+}

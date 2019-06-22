@@ -1,0 +1,24 @@
+{
+    "id": "e9ea2f3a-c688-461d-9b07-0a750f487eaa",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - sivilstand, sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "SIVILSTAND_SIVILSTAND"
+}

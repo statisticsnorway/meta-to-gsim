@@ -1,0 +1,24 @@
+{
+    "id": "42bcb1fe-cb5f-40a6-9562-e82e9b22f7ee",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse coAdressenavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, vegadresse co adressenavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_COADRESSENAVN"
+}

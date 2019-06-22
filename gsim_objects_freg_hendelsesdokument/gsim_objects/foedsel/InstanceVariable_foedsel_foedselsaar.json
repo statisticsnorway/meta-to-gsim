@@ -1,0 +1,24 @@
+{
+    "id": "a7540db1-9e62-46b3-a30c-b2078326c65b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel foedselsaar"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - foedsel, foedselsaar"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSEL_FOEDSELSAAR"
+}

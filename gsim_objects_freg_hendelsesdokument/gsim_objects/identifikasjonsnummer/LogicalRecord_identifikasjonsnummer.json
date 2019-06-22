@@ -1,0 +1,35 @@
+{
+    "id": "dae994ac-083c-4d97-bef2-c2fa62f1b2ae",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/4da19c93-532a-49bd-9470-825fdbd8fef9",
+        "/InstanceVariable/2886429e-a2e6-4a93-a462-26178db9e401",
+        "/InstanceVariable/cdcdee5c-80ce-43db-8c5a-5723b1e257ce",
+        "/InstanceVariable/009abf1d-8cf5-44fb-9166-190e83f08ab7",
+        "/InstanceVariable/e64bae97-73a5-48d7-a92d-e12a93b3722c",
+        "/InstanceVariable/7bf249d3-5304-480f-be39-e27e86a93444",
+        "/InstanceVariable/dfcd4d6f-58e1-432b-aebf-897cec3a35cd",
+        "/InstanceVariable/0898a0f0-e5fd-4e5e-b2a0-ccbe56e3cfff",
+        "/InstanceVariable/5ad2e3d1-4771-4d53-825c-a52b3dcb5895",
+        "/InstanceVariable/bba4f1ff-d1ba-492a-a266-14a2ad583301",
+        "/InstanceVariable/dea3e208-f747-4062-a941-76d127674235"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "IDENTIFIKASJONSNUMMER"
+}

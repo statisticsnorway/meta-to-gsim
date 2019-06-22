@@ -1,0 +1,23 @@
+{
+    "id": "3dd53b3a-4ff9-48b0-8cbf-e73523b06a9c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/cb6a7822-eb13-4ac4-bde1-372b3b9b42e2"
+    ]
+}

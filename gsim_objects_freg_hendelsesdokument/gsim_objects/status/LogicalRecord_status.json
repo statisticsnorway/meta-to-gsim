@@ -1,0 +1,33 @@
+{
+    "id": "1d1fd8dc-6d5d-4480-bf7d-5481b426fb7e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/196e304a-90fa-4c8e-a93f-035f4fe48db5",
+        "/InstanceVariable/c1773687-54a1-4180-a80d-b9ed6c12ebdd",
+        "/InstanceVariable/30af69f4-681c-4919-a443-91cbcc579604",
+        "/InstanceVariable/f7e7682b-65c9-400a-a99e-5847d8b8915b",
+        "/InstanceVariable/d52e021b-62e0-4c3f-ab17-ed1910b72eef",
+        "/InstanceVariable/7c7fac05-ad38-4fca-9bbd-4170b74d892b",
+        "/InstanceVariable/8720a5f2-55e3-4b62-9952-3d49f409e775",
+        "/InstanceVariable/9e49c506-6f5b-448d-a816-e29f01bfacc9",
+        "/InstanceVariable/be2262bf-3b76-4023-a9c7-fdb471d5573b"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "STATUS"
+}

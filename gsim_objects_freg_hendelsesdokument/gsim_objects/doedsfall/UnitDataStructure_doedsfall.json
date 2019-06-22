@@ -1,0 +1,23 @@
+{
+    "id": "afdd662b-2a49-46c6-a795-9264855f002a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/d5b04f8f-4e82-4e71-8047-e488c2ad6b04"
+    ]
+}

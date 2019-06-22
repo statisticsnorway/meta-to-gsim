@@ -1,0 +1,23 @@
+{
+    "id": "0be4ec7f-0092-4d84-8166-7a44110f85f5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett utlendingsmyndighetenes identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/832ef8d3-ec24-47a2-8531-2184ea5e0c9c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

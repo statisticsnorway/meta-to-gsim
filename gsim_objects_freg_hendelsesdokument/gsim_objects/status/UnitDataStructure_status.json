@@ -1,0 +1,23 @@
+{
+    "id": "063bb6a3-1728-43df-aa32-1c22a35287a8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/1d1fd8dc-6d5d-4480-bf7d-5481b426fb7e"
+    ]
+}

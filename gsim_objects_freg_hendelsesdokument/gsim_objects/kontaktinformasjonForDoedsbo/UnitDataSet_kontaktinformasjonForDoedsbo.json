@@ -1,0 +1,23 @@
+{
+    "id": "7424a3a8-4216-4283-9a98-ec9d911b29c4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett kontaktinformasjon for doedsbo"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/68dcf3ec-2fcc-4831-bf8f-c65cfd3c95b9",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

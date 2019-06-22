@@ -1,0 +1,25 @@
+{
+    "id": "0e08c622-8c72-4478-8e1f-29cd7809ca6e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - identitetsgrunnlag, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "IDENTITETSGRUNNLAG_AJOURHOLDSTIDSPUNKT",
+    "dataStructureComponentRole": "TIME"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "4df5af55-43eb-4f7f-8775-b65c7d005df2",
+    "sourceName": "foedselsEllerDNummer",
+    "sourcePath": "/dokumentForHendelse/hendelse/egenskapshendelse/identifikasjonsnummer/",
+    "targetInstanceVariable": "/InstanceVariable/7bf249d3-5304-480f-be39-e27e86a93444"
+}

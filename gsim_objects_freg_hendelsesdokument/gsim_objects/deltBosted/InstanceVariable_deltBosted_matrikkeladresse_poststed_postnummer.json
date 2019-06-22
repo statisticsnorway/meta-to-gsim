@@ -1,0 +1,24 @@
+{
+    "id": "dbd6f564-3d79-4bc7-8d27-d7934ef3e75f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted matrikkeladresse poststed postnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, matrikkeladresse poststed postnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_MATRIKKELADRESSE_POSTSTED_POSTNUMMER"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "7e54d288-fea8-4e78-9b8a-4b2c2bc2fe2b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/24a2df52-0609-4164-8a47-e3f3c7002a34"
+    ]
+}

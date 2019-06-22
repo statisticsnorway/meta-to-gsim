@@ -1,0 +1,25 @@
+{
+    "id": "52cf1fb0-6d59-402c-8f2a-6102bb6693ae",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - utenlandsk personidentifikasjon, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON_FOLKEREGISTERIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

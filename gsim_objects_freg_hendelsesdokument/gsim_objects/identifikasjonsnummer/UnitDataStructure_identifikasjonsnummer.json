@@ -1,0 +1,23 @@
+{
+    "id": "ef15781e-d1cd-45e3-bc33-1f24f546b744",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/dae994ac-083c-4d97-bef2-c2fa62f1b2ae"
+    ]
+}

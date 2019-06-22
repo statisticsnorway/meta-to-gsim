@@ -1,0 +1,25 @@
+{
+    "id": "6a92431b-6b44-43af-a9a1-aea96cc53dc0",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - legitimasjonsdokument, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "LEGITIMASJONSDOKUMENT_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "662e40a1-ec51-40e6-b673-48afac127ed4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo organisasjon kontaktpersonnavn mellomnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - kontaktinformasjon for doedsbo, organisasjon kontaktpersonnavn mellomnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_ORGANISASJON_KONTAKTPERSONNAVN_MELLOMNAVN"
+}

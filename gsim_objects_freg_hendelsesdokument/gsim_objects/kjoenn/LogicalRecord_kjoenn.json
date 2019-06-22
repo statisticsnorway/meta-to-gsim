@@ -1,0 +1,33 @@
+{
+    "id": "ae849d8e-ec87-4014-ab10-e55e2c1e0625",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/89e8987a-7756-432b-8531-bbb02ca47459",
+        "/InstanceVariable/12ebbf1a-b72d-4d8f-b512-e13e7dc61f22",
+        "/InstanceVariable/b257db5d-0280-4a91-9094-fc03143f7061",
+        "/InstanceVariable/f7b7b012-3c31-4264-b017-0bd9634626e4",
+        "/InstanceVariable/f22a25a9-d4c2-4230-8146-bd3f41a3e2c9",
+        "/InstanceVariable/1c8698be-c2bc-4a0a-aa0d-0a1a04c2e707",
+        "/InstanceVariable/39ffa106-9d51-4719-98c8-db702c1911fe",
+        "/InstanceVariable/8823e3c1-b4d7-45f6-9bab-86687c8eead1",
+        "/InstanceVariable/6bf7be65-c936-4e2b-bd3e-0900c2e1a59c"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KJOENN"
+}

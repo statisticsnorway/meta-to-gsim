@@ -1,0 +1,53 @@
+{
+    "id": "c9ba1a57-4904-41da-a5a8-a37a3a8c56f4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) kontaktinformasjon for doedsbo"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/73acecce-501f-4089-94ab-8a99806ff136",
+        "/InstanceVariable/f02445a0-4d8d-409c-9641-6b1fb13b6a6e",
+        "/InstanceVariable/e135e45d-3aa4-4b12-80ad-3f0304c34dc7",
+        "/InstanceVariable/8dfb0306-00b3-4b07-b9b8-02621635db1c",
+        "/InstanceVariable/049cd8f6-d93e-4132-b1e4-78eb3370eccf",
+        "/InstanceVariable/a293f24b-baa2-44aa-be1f-2d3208c794e1",
+        "/InstanceVariable/f42362e9-f283-4644-9655-be1b823e4ac8",
+        "/InstanceVariable/e4797385-c735-45c0-8fff-473c2a1e19d8",
+        "/InstanceVariable/d64dbbf1-4d32-4f75-9f92-12b7faf88ed4",
+        "/InstanceVariable/c2a2654a-a53d-4e74-9acf-bb0f47a8e241",
+        "/InstanceVariable/351d38bc-b1b5-4308-a75d-055147f2fa84",
+        "/InstanceVariable/ca8a22c0-eb9e-4f25-a718-d7cda527a67e",
+        "/InstanceVariable/3d2932ec-a3f9-47b4-ab71-20838c69081c",
+        "/InstanceVariable/c7212a35-d02b-46f9-9d4d-8e03ff408b27",
+        "/InstanceVariable/fea3d766-96eb-4cc0-9d2e-730f513d7b27",
+        "/InstanceVariable/f6fe5c89-a77f-4ae5-b85e-a23de20705f8",
+        "/InstanceVariable/fa13d503-5459-4947-b3e3-35c49271801b",
+        "/InstanceVariable/662e40a1-ec51-40e6-b673-48afac127ed4",
+        "/InstanceVariable/7b7e76f5-2cca-4a4e-a6ea-3019bc3a379e",
+        "/InstanceVariable/8c41a166-839d-466f-a03b-9e0ef86b50ac",
+        "/InstanceVariable/66f1a300-ebb0-4594-b651-72b0cb78a9aa",
+        "/InstanceVariable/cf599517-666b-4827-bbca-66178e714f3b",
+        "/InstanceVariable/00707008-8705-4774-979c-e5e401a3ce27",
+        "/InstanceVariable/d3f4ac69-9e1d-4d50-8530-edda2423a3c4",
+        "/InstanceVariable/9b13fa04-1d10-4d0e-898c-eaf4f77c1786",
+        "/InstanceVariable/027f1f97-7f00-45dd-ab52-bb540b395995",
+        "/InstanceVariable/993979a4-c19b-4061-a1ed-fd569b92aa51",
+        "/InstanceVariable/6367523f-29e1-42e7-9129-9c74afaf3ea8",
+        "/InstanceVariable/5cdfca2f-abf0-4cd7-9771-4a58db340f03"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO"
+}

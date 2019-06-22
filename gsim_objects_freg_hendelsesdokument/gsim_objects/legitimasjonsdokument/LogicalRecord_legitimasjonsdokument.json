@@ -1,0 +1,38 @@
+{
+    "id": "51e32fc7-590d-4236-bf6e-7ca0cddbea36",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/ecf6bb83-f6f4-49e4-ba8f-0a11bde17830",
+        "/InstanceVariable/48dc63a3-a7db-4020-bdb1-b6ddd50f3f1d",
+        "/InstanceVariable/cecfeedf-d622-4a13-aed6-dbd3fe0eab22",
+        "/InstanceVariable/f2f1e87e-9679-4ded-9665-6a918d94fc22",
+        "/InstanceVariable/6f8d6232-a06b-4fbd-bd76-30fa3d4fcb1e",
+        "/InstanceVariable/6076539a-3ce8-4017-9f28-0c087182509b",
+        "/InstanceVariable/480d4ac5-748f-448b-a181-98e52c6abc23",
+        "/InstanceVariable/f82653f2-96d4-4f37-a364-5c62f4f947f3",
+        "/InstanceVariable/0cc75a39-cd9b-4933-bb01-451037f2e9d2",
+        "/InstanceVariable/ac0ba6a5-726a-4c70-ac92-cda12d00cd14",
+        "/InstanceVariable/3a197033-4fe3-4478-91a1-25c979e10613",
+        "/InstanceVariable/c969e768-8e30-490c-bdda-a54c2da442dc",
+        "/InstanceVariable/6a92431b-6b44-43af-a9a1-aea96cc53dc0",
+        "/InstanceVariable/3bf03f33-216c-4812-a0ba-d8fac7cc479a"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "LEGITIMASJONSDOKUMENT"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "740e2e98-9e3a-45c4-938d-403b6f4aa7f6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) entitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/730deddd-6932-46aa-b470-72b937642cb8",
+        "/InstanceVariable/57a20217-704a-4672-87a5-7629c9b48742",
+        "/InstanceVariable/7a1e88ee-cc93-4c9c-aa8d-af9accd9abca",
+        "/InstanceVariable/5e838692-d4fb-4178-b8dd-b88fe45a8e66"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ENTITET"
+}

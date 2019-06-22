@@ -1,0 +1,25 @@
+{
+    "id": "6a790c7a-2845-4c86-ba4f-d27fb2e9e088",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitetsendring ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - entitetsendring, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "dataStructureComponentRole": "TIME",
+    "shortName": "ENTITETSENDRING_AJOURHOLDSTIDSPUNKT"
+}

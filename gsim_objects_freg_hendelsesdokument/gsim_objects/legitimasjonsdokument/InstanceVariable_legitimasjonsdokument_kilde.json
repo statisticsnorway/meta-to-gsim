@@ -1,0 +1,24 @@
+{
+    "id": "ecf6bb83-f6f4-49e4-ba8f-0a11bde17830",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument kilde"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - legitimasjonsdokument, kilde"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "LEGITIMASJONSDOKUMENT_KILDE"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "9578e1ef-4e11-40f1-a137-b3a58c39008b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/6fcd6c25-fad3-470b-9196-e9b648571c46",
+        "/InstanceVariable/50afbdc2-3d34-4f69-86cc-74c0d86d0192",
+        "/InstanceVariable/68640ed1-afd7-4d50-940d-8186f1f50308",
+        "/InstanceVariable/de2c23e4-564a-46c8-be8c-c9a76ca46f20",
+        "/InstanceVariable/f2c76f1b-a9bc-46b0-99ed-9f08c30f8f01",
+        "/InstanceVariable/577fa024-3112-4578-bf15-53470a256760",
+        "/InstanceVariable/54f54d88-ebd4-4148-9345-f6d380828e22",
+        "/InstanceVariable/059aa37d-24bb-40ca-a465-d35637721531",
+        "/InstanceVariable/244f4fd7-c59b-46cd-b64e-ac306063a4cd",
+        "/InstanceVariable/c5d07591-3f4e-45b3-87c3-1ba9cb6c7cb1",
+        "/InstanceVariable/f113ef77-812f-466f-9aa0-330c54ba6fa2",
+        "/InstanceVariable/305aaad4-9c1b-4109-8e74-b5362850eb84",
+        "/InstanceVariable/d21c41d7-f26e-4068-b4cd-6e12935e1665",
+        "/InstanceVariable/88d88c5f-ff3f-4b4f-9469-16c632afda34",
+        "/InstanceVariable/7f847453-90a8-4e69-b473-23b9b3666763"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FALSKIDENTITET"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "f10369bf-50e7-4b74-8ad9-286a77725cb4",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "identitetsgrunnlag"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) identitetsgrunnlag"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/3a581824-3c85-4f89-a5a7-6430f4b1cbe0",
+        "/InstanceVariable/9fb76180-fa0e-42fa-9816-c9efc29140c9",
+        "/InstanceVariable/fe61327d-9a1b-4728-adb3-401cd7e4d60e",
+        "/InstanceVariable/1f9b8d00-94f6-4c0a-967b-2d25c8292fde",
+        "/InstanceVariable/dd2bbd50-36c6-4716-a79b-a9f15914aacb",
+        "/InstanceVariable/824133f3-0201-4c0d-8e41-8c5183407927",
+        "/InstanceVariable/0808afe3-eeb4-466e-99b4-ba570c1f61b6",
+        "/InstanceVariable/4b576006-049e-4680-b95f-dd3d55d204ec",
+        "/InstanceVariable/0e08c622-8c72-4478-8e1f-29cd7809ca6e"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "IDENTITETSGRUNNLAG"
+}

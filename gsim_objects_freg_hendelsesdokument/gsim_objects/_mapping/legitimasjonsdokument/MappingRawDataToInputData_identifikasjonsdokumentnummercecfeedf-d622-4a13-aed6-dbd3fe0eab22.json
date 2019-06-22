@@ -1,0 +1,6 @@
+{
+    "id": "5876e627-e768-45fa-8f0b-13f8b390a962",
+    "sourceName": "identifikasjonsdokumentnummer",
+    "sourcePath": "/dokumentForHendelse/hendelse/egenskapshendelse/legitimasjonsdokument/",
+    "targetInstanceVariable": "/InstanceVariable/cecfeedf-d622-4a13-aed6-dbd3fe0eab22"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "048d728c-41ca-49de-bfc1-180878528440",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - Registerdata"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "dataSets": [
+        "/UnitDataSet/ead98dd4-a9e1-4354-9dd9-945b2ed2a03c",
+        "/UnitDataSet/7c460fc7-856e-4320-bd6e-68a4ab30f1df",
+        "/UnitDataSet/5c97a031-3055-46b6-a54d-d06ffc5e53c6",
+        "/UnitDataSet/7424a3a8-4216-4283-9a98-ec9d911b29c4",
+        "/UnitDataSet/605508c8-042b-4db9-a1ea-99e9f236e841",
+        "/UnitDataSet/0be4ec7f-0092-4d84-8166-7a44110f85f5",
+        "/UnitDataSet/4915ea68-c515-424e-87b1-8be157e5f1e2",
+        "/UnitDataSet/199a4864-62d6-4eca-97cf-90a07527b494",
+        "/UnitDataSet/e5a23c83-ae12-4781-9510-56b7e7515926",
+        "/UnitDataSet/0a833b81-8a7e-411c-b53f-a5db4ca5e7b5",
+        "/UnitDataSet/b8b9ddc2-c921-4c95-8d33-b790e8e5d8fe",
+        "/UnitDataSet/c719aab2-25f1-47ee-95b8-6406b1c608bd",
+        "/UnitDataSet/9b755236-a213-403c-9974-23567716e439",
+        "/UnitDataSet/6ba1c222-7c1b-43bb-8218-ee45c0b8bcf8",
+        "/UnitDataSet/1ffb005b-61ce-4946-8884-952ae7f4a434",
+        "/UnitDataSet/fddf9352-7348-4129-ae0c-fe4aef92bbd3",
+        "/UnitDataSet/1733313a-8009-4127-bf53-500ea5bec5e7",
+        "/UnitDataSet/d6fba2be-5e9b-484a-836c-c2ab22f3a554",
+        "/UnitDataSet/272e6742-049c-4d51-aafc-30a4844ab7dc"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "9a60860c-b61f-4313-b542-fc2ccedeb39c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge opphoerstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - foedsel i norge, opphoerstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FOEDSELINORGE_OPPHOERSTIDSPUNKT"
+}

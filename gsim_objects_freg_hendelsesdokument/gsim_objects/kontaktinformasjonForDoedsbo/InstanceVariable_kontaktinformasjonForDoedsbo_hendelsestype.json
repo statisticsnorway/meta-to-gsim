@@ -1,0 +1,25 @@
+{
+    "id": "6367523f-29e1-42e7-9129-9c74afaf3ea8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kontaktinformasjonForDoedsbo hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - kontaktinformasjon for doedsbo, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "KONTAKTINFORMASJONFORDOEDSBO_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

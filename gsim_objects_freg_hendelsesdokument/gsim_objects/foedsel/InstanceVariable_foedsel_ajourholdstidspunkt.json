@@ -1,0 +1,25 @@
+{
+    "id": "7e756c2e-e2aa-4981-86e0-418fc032d3a6",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - foedsel, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FOEDSEL_AJOURHOLDSTIDSPUNKT",
+    "dataStructureComponentRole": "TIME"
+}

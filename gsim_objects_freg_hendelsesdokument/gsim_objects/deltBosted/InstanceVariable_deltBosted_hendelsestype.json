@@ -1,0 +1,25 @@
+{
+    "id": "caddd7cf-9cff-4d9b-9b62-c759a6c13caf",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DELTBOSTED_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

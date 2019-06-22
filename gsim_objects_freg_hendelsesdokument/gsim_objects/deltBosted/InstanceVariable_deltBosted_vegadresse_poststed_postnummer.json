@@ -1,0 +1,24 @@
+{
+    "id": "03e15eb8-669c-4f5d-b5ce-7d069d073077",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted vegadresse poststed postnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, vegadresse poststed postnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DELTBOSTED_VEGADRESSE_POSTSTED_POSTNUMMER"
+}

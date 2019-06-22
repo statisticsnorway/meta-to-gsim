@@ -1,0 +1,25 @@
+{
+    "id": "b6d67495-ef6e-4185-9a80-fd02b434307b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - adressebeskyttelse, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "ADRESSEBESKYTTELSE_AJOURHOLDSTIDSPUNKT",
+    "dataStructureComponentRole": "TIME"
+}

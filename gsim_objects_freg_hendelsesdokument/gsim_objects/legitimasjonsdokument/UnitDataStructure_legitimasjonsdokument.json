@@ -1,0 +1,23 @@
+{
+    "id": "18111954-be19-4a4e-ab1f-b94b79ab820c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/51e32fc7-590d-4236-bf6e-7ca0cddbea36"
+    ]
+}

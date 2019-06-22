@@ -1,0 +1,6 @@
+{
+    "id": "00502363-8706-4fa3-84a8-ab9fd63f3966",
+    "sourceName": "bruksnummer",
+    "sourcePath": "/dokumentForHendelse/hendelse/egenskapshendelse/deltBosted/matrikkeladresse/matrikkelnummer/",
+    "targetInstanceVariable": "/InstanceVariable/dfca583a-6662-4b91-bef8-fe24a117a361"
+}

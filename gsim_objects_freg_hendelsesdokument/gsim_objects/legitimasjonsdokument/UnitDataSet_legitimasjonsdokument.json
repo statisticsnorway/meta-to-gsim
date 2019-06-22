@@ -1,0 +1,23 @@
+{
+    "id": "605508c8-042b-4db9-a1ea-99e9f236e841",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett legitimasjonsdokument"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/18111954-be19-4a4e-ab1f-b94b79ab820c",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

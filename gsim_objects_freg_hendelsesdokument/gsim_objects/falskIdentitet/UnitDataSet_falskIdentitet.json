@@ -1,0 +1,23 @@
+{
+    "id": "ead98dd4-a9e1-4354-9dd9-945b2ed2a03c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/76ad3edd-0954-4c81-970b-a3df970a8229",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

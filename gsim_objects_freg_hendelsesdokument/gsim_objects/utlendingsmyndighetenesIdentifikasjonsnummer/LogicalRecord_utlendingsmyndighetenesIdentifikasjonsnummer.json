@@ -1,0 +1,35 @@
+{
+    "id": "d9ad453a-0c51-422e-b7aa-f8110f3c2a1b",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) utlendingsmyndighetenes identifikasjonsnummer"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/26515e99-ffb0-45b3-bda4-67da94baaafa",
+        "/InstanceVariable/daca62f2-db03-4d1f-bd00-a87c909ffe65",
+        "/InstanceVariable/12b03a4a-4df6-4af5-9917-06e3e157b351",
+        "/InstanceVariable/56dc8e6e-c0d1-4df5-ab7a-ce0c68cdb7ad",
+        "/InstanceVariable/b4f11877-2d22-4379-ba48-bb64db317888",
+        "/InstanceVariable/d956195b-2bfc-447f-acf0-531d78dc8614",
+        "/InstanceVariable/15986201-38c8-4280-81b3-ffdcc8b0e9d8",
+        "/InstanceVariable/08a9f26f-a345-492e-9d0b-64c3cfbd90c7",
+        "/InstanceVariable/292bca62-29dd-4556-afbe-40a220a5616a",
+        "/InstanceVariable/27c0330b-8629-4eed-8f64-2bfbac71138c",
+        "/InstanceVariable/05c0e6a0-9c9e-46f8-b7c6-a5327a218bf5"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER"
+}

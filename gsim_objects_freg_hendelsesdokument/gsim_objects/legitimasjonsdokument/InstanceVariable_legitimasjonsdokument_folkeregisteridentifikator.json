@@ -1,0 +1,25 @@
+{
+    "id": "c969e768-8e30-490c-bdda-a54c2da442dc",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "legitimasjonsdokument folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - legitimasjonsdokument, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "LEGITIMASJONSDOKUMENT_FOLKEREGISTERIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

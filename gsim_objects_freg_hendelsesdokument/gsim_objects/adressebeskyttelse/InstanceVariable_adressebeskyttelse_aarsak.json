@@ -1,0 +1,24 @@
+{
+    "id": "d2bc9d63-5710-4a7a-aa61-1b530a9abb49",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse aarsak"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - adressebeskyttelse, aarsak"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "ADRESSEBESKYTTELSE_AARSAK"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "db689374-9c47-42e9-9438-8d57e249b855",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedsel"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur foedsel"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/9606a1c3-ee52-4258-a680-058f421d149f"
+    ]
+}

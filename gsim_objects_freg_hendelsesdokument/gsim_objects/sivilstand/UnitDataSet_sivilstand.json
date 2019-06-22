@@ -1,0 +1,23 @@
+{
+    "id": "6ba1c222-7c1b-43bb-8218-ee45c0b8bcf8",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "sivilstand"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett sivilstand"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/8027584b-5bce-4d0f-8f3c-ff300daf47d2",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

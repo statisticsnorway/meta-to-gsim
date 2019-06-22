@@ -1,0 +1,6 @@
+{
+    "id": "2ac8f75b-4c44-416c-b974-985f3fb60ed3",
+    "sourceName": "postnummer",
+    "sourcePath": "/dokumentForHendelse/hendelse/egenskapshendelse/deltBosted/matrikkeladresse/poststed/",
+    "targetInstanceVariable": "/InstanceVariable/dbd6f564-3d79-4bc7-8d27-d7934ef3e75f"
+}

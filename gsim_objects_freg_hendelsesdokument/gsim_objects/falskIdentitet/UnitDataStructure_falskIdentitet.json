@@ -1,0 +1,23 @@
+{
+    "id": "76ad3edd-0954-4c81-970b-a3df970a8229",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "falskIdentitet"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur falsk identitet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:24.000Z",
+    "validFrom": "2019-06-22T20:30:24.000Z",
+    "createdDate": "2019-06-22T20:30:24.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/9578e1ef-4e11-40f1-a137-b3a58c39008b"
+    ]
+}

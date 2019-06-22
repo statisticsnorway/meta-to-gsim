@@ -1,0 +1,23 @@
+{
+    "id": "056a3fe8-517b-44cb-8325-e1e7098d8155",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur navn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/7a6ee464-d683-4f51-bb37-f355ee2156ab"
+    ]
+}

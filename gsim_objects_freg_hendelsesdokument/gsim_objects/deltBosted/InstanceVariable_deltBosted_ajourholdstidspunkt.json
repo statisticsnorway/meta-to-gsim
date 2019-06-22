@@ -1,0 +1,25 @@
+{
+    "id": "f775c74c-6974-42ac-a2b7-288293f5f564",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - delt bosted, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DELTBOSTED_AJOURHOLDSTIDSPUNKT",
+    "dataStructureComponentRole": "TIME"
+}

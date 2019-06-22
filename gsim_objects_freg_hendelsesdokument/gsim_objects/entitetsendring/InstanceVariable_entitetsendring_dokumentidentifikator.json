@@ -1,0 +1,25 @@
+{
+    "id": "1ca56e03-e367-40ee-acca-e36b85b2cd22",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitetsendring dokumentidentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - entitetsendring, dokumentidentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "dataStructureComponentRole": "ENTITY",
+    "shortName": "ENTITETSENDRING_DOKUMENTIDENTIFIKATOR"
+}

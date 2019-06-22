@@ -1,0 +1,25 @@
+{
+    "id": "7e940fd2-93b4-4409-ba33-3924c8c7672e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge ajourholdstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - foedsel i norge, ajourholdstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FOEDSELINORGE_AJOURHOLDSTIDSPUNKT",
+    "dataStructureComponentRole": "TIME"
+}

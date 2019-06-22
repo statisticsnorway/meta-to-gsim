@@ -1,0 +1,35 @@
+{
+    "id": "24a2df52-0609-4164-8a47-e3f3c7002a34",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/f268cab2-0ab9-4a6e-afda-641eda4e008f",
+        "/InstanceVariable/e49c804c-294d-4115-b43a-e282f2453a1c",
+        "/InstanceVariable/7537b57a-be83-4dcb-a980-1973e8392046",
+        "/InstanceVariable/fbe9eeca-1ec7-4f73-9ad7-886f6adce153",
+        "/InstanceVariable/15f19259-03c8-4982-b4f8-27610c4b8496",
+        "/InstanceVariable/dfdce6d6-0448-4ca2-8f8c-c83abde32671",
+        "/InstanceVariable/faf6166b-1bc4-4d27-9bd9-be658722fc13",
+        "/InstanceVariable/c0f92366-f2b7-470b-bb42-0d8384459e91",
+        "/InstanceVariable/52cf1fb0-6d59-402c-8f2a-6102bb6693ae",
+        "/InstanceVariable/657e59d4-f562-480b-b39b-c4d26262fdd2",
+        "/InstanceVariable/ab05b7ed-9b94-4fda-9970-b776bfb51b79"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "UTENLANDSKPERSONIDENTIFIKASJON"
+}

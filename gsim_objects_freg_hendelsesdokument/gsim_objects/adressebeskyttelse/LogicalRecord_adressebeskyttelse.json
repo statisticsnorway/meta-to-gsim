@@ -1,0 +1,33 @@
+{
+    "id": "d00b5e03-a7bf-4ec0-b948-37f983739980",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "adressebeskyttelse"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) adressebeskyttelse"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/d6fbcdae-98a8-4bfd-86b3-4dd0d1fe7b08",
+        "/InstanceVariable/079f6f39-c18c-4cd5-a552-a960b4fb2ed4",
+        "/InstanceVariable/700d9684-883b-4109-be11-5ab8be07a66a",
+        "/InstanceVariable/d2bc9d63-5710-4a7a-aa61-1b530a9abb49",
+        "/InstanceVariable/8f4f475a-9859-41cf-a814-6341068a8018",
+        "/InstanceVariable/73ca5445-3fd7-40f2-882f-a74427eccf11",
+        "/InstanceVariable/c436e535-7278-454f-85c9-00b8046632e0",
+        "/InstanceVariable/c0df2080-6742-4362-a650-625a5c28c042",
+        "/InstanceVariable/b6d67495-ef6e-4185-9a80-fd02b434307b"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ADRESSEBESKYTTELSE"
+}

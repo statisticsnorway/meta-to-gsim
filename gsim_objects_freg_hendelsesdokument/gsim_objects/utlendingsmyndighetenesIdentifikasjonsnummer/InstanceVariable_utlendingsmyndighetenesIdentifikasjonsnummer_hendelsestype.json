@@ -1,0 +1,25 @@
+{
+    "id": "27c0330b-8629-4eed-8f64-2bfbac71138c",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utlendingsmyndighetenesIdentifikasjonsnummer hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - utlendingsmyndighetenes identifikasjonsnummer, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "UTLENDINGSMYNDIGHETENESIDENTIFIKASJONSNUMMER_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "199a4864-62d6-4eca-97cf-90a07527b494",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "status"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett status"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/063bb6a3-1728-43df-aa32-1c22a35287a8",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

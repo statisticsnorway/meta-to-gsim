@@ -1,0 +1,24 @@
+{
+    "id": "51129a03-aff0-4714-820a-c60e3e237f04",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "navn originaltNavn fornavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - navn, originaltNavn fornavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "NAVN_ORIGINALTNAVN_FORNAVN"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "3efd9f6c-00b6-4f5a-acf1-b8390714a893",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitetsendring"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) entitetsendring"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/1ca56e03-e367-40ee-acca-e36b85b2cd22",
+        "/InstanceVariable/c0e1bd6d-4f15-4a87-841e-e786a27cae99",
+        "/InstanceVariable/d0c56c1a-7fbc-4597-b4b8-ca1efa1420ec",
+        "/InstanceVariable/6a790c7a-2845-4c86-ba4f-d27fb2e9e088"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "ENTITETSENDRING"
+}

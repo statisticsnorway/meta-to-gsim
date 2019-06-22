@@ -1,0 +1,25 @@
+{
+    "id": "bee78fcc-8f07-47f7-ad0a-4b56792daaa9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall hendelsestype"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - doedsfall, hendelsestype"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "DOEDSFALL_HENDELSESTYPE",
+    "dataStructureComponentRole": "ENTITY"
+}

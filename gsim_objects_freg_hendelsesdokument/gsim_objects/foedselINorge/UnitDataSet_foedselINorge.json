@@ -1,0 +1,23 @@
+{
+    "id": "c719aab2-25f1-47ee-95b8-6406b1c608bd",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "foedselINorge"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett foedsel i norge"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/a682bc30-7ddd-46c8-8e32-5ef54aaced24",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

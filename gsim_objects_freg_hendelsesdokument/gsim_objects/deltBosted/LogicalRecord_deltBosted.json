@@ -1,0 +1,60 @@
+{
+    "id": "cb6a7822-eb13-4ac4-bde1-372b3b9b42e2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "deltBosted"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) delt bosted"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/151ade97-2370-46dd-89b5-34c14b7787ea",
+        "/InstanceVariable/4ea85e96-12e5-464d-b554-12acede5a0d9",
+        "/InstanceVariable/1abecfa0-ae1d-4cff-ae38-43721c3eff75",
+        "/InstanceVariable/d37b87ef-c9c5-4227-9d35-3dad9b2aa6cc",
+        "/InstanceVariable/8cdb79ff-cb7d-44cc-99d5-a94a761ac5db",
+        "/InstanceVariable/151e8fde-32f3-491c-b921-e3e502495c11",
+        "/InstanceVariable/0a5abd2d-aaf6-40a0-be29-9586f03ee203",
+        "/InstanceVariable/cc95a8b0-30dc-4f64-8936-2ed410968803",
+        "/InstanceVariable/d0c1a096-a136-4037-8962-21f2ffeb8bb1",
+        "/InstanceVariable/9f03de88-56ac-4640-ab46-8a969597e878",
+        "/InstanceVariable/c240a75a-a89f-4f41-bfee-41dbb92cdf15",
+        "/InstanceVariable/5e997ebf-4093-47bb-a2f6-82a95b36b785",
+        "/InstanceVariable/2972379a-3afa-44e3-8320-2cd4d80cd737",
+        "/InstanceVariable/03e15eb8-669c-4f5d-b5ce-7d069d073077",
+        "/InstanceVariable/42bcb1fe-cb5f-40a6-9562-e82e9b22f7ee",
+        "/InstanceVariable/adae8433-b70b-4016-9bf3-2ea3f54eae7c",
+        "/InstanceVariable/2c0374bd-ff15-417e-a940-98ee91b190a6",
+        "/InstanceVariable/c615bfb1-6e7e-4cb4-96d9-1f1408ccb2c7",
+        "/InstanceVariable/c404a273-416e-46cd-8b46-b290a3e332a2",
+        "/InstanceVariable/dfca583a-6662-4b91-bef8-fe24a117a361",
+        "/InstanceVariable/171981b4-58b6-4845-9b85-4815193ba09f",
+        "/InstanceVariable/84703065-fe4c-469f-b180-749d956711c4",
+        "/InstanceVariable/ee8f46f3-9bb0-47d0-a97f-fcae5147c8e4",
+        "/InstanceVariable/5c42ad1c-6638-4e88-84cb-1829e42a3c22",
+        "/InstanceVariable/dbd6f564-3d79-4bc7-8d27-d7934ef3e75f",
+        "/InstanceVariable/41691a23-51db-4c02-ae18-48eda5cd8b44",
+        "/InstanceVariable/21ed663b-30c5-42a9-a036-239ddc33d4af",
+        "/InstanceVariable/406452ef-7010-4da0-83f4-ca8734ff6969",
+        "/InstanceVariable/d9c66efb-4ad7-4767-9e02-5f0fe2f61460",
+        "/InstanceVariable/e48d9aa6-f175-4508-8a50-90fb449c150f",
+        "/InstanceVariable/1d2c8dab-1067-4e70-9186-a9481ea46555",
+        "/InstanceVariable/a755769f-9fa6-4411-bcb5-cf17b8121474",
+        "/InstanceVariable/dc4c868b-ea83-4e85-9aa4-3f42b0829d42",
+        "/InstanceVariable/9d82abdc-caea-4528-b5d7-76998e3a5024",
+        "/InstanceVariable/caddd7cf-9cff-4d9b-9b62-c759a6c13caf",
+        "/InstanceVariable/f775c74c-6974-42ac-a2b7-288293f5f564"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DELTBOSTED"
+}

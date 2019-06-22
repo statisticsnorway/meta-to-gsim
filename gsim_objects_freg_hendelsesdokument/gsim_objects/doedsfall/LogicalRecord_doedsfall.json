@@ -1,0 +1,33 @@
+{
+    "id": "d5b04f8f-4e82-4e71-8047-e488c2ad6b04",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) doedsfall"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/29d3e67f-c262-4f48-9dce-b3a56c2eb129",
+        "/InstanceVariable/d1f8849e-5f8a-4745-a277-d326340b409e",
+        "/InstanceVariable/d7a55a2b-9173-47f7-9121-6ba914e590a9",
+        "/InstanceVariable/918ce557-5c0e-4939-83ed-ca5574b566e6",
+        "/InstanceVariable/6a92449d-8d98-42aa-9dd5-d5cb36edceac",
+        "/InstanceVariable/6ae9c3f3-95ec-4b8f-a869-e177f4002b29",
+        "/InstanceVariable/20b9f183-5fcb-4656-b7eb-603f2a072e0b",
+        "/InstanceVariable/bee78fcc-8f07-47f7-ad0a-4b56792daaa9",
+        "/InstanceVariable/ec934acd-e2d3-48bf-8efa-6cbf1d25e92b"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "DOEDSFALL"
+}

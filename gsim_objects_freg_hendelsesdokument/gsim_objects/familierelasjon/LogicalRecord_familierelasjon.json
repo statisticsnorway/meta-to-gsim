@@ -1,0 +1,41 @@
+{
+    "id": "fe7053ed-ba6e-4b30-b117-705f50002aa9",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse record (LogicalRecord) familierelasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "instanceVariables": [
+        "/InstanceVariable/2b25b124-68f0-492e-b3db-bcffd7f19f45",
+        "/InstanceVariable/5a184f82-838f-41a0-93e4-489378bec1ed",
+        "/InstanceVariable/85284f72-c114-48e9-9aed-984e5187ba39",
+        "/InstanceVariable/af709d53-d03c-41c5-a276-973d3db541c8",
+        "/InstanceVariable/698118c9-ff47-4621-9d13-3aecd9188271",
+        "/InstanceVariable/fba9efe2-b4ef-47cd-b74d-0257df3c83a3",
+        "/InstanceVariable/2d2b662e-d12b-40e3-8c38-cc14309253c3",
+        "/InstanceVariable/bfca80dc-2251-4230-bdb7-14883f69de18",
+        "/InstanceVariable/09cde993-826a-42e0-b8c0-50e6d33e1f0a",
+        "/InstanceVariable/23fc3449-e09c-46b7-89aa-de670b8d3088",
+        "/InstanceVariable/3577c8da-3bc5-4bb5-874a-8e41973cf588",
+        "/InstanceVariable/0accafe8-a4c6-4bbf-a603-75eb434871ee",
+        "/InstanceVariable/d70199d7-24ef-4053-9202-d214cd06a6bd",
+        "/InstanceVariable/46412b4d-bfde-4280-8c8e-9b8d7bc6937a",
+        "/InstanceVariable/478d8615-8b32-41fa-83e6-c19bf94d3083",
+        "/InstanceVariable/85987a34-19c2-41ad-91d9-82e34dda3898",
+        "/InstanceVariable/34c2b47c-b53e-4518-a8f3-eb3b9c88c730"
+    ],
+    "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
+    "shortName": "FAMILIERELASJON"
+}

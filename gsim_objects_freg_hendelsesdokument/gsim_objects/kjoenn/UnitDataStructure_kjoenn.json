@@ -1,0 +1,23 @@
+{
+    "id": "85f83859-2e8e-40be-8351-63477f1cea8e",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datastruktur kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "logicalRecords": [
+        "/LogicalRecord/ae849d8e-ec87-4014-ab10-e55e2c1e0625"
+    ]
+}

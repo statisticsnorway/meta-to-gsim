@@ -1,0 +1,24 @@
+{
+    "id": "2b25b124-68f0-492e-b3db-bcffd7f19f45",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon gyldighetstidspunkt"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - familierelasjon, gyldighetstidspunkt"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_GYLDIGHETSTIDSPUNKT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "4915ea68-c515-424e-87b1-8be157e5f1e2",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "utenlandskPersonidentifikasjon"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett utenlandsk personidentifikasjon"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:25.000Z",
+    "validFrom": "2019-06-22T20:30:25.000Z",
+    "createdDate": "2019-06-22T20:30:25.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/7e54d288-fea8-4e78-9b8a-4b2c2bc2fe2b",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

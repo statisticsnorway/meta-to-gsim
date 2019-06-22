@@ -1,0 +1,23 @@
+{
+    "id": "0a833b81-8a7e-411c-b53f-a5db4ca5e7b5",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "kjoenn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse datasett kjoenn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "unitDataStructure": "/UnitDataStructure/85f83859-2e8e-40be-8351-63477f1cea8e",
+    "dataSetState": "INPUT_DATA",
+    "temporalityType": "EVENT"
+}

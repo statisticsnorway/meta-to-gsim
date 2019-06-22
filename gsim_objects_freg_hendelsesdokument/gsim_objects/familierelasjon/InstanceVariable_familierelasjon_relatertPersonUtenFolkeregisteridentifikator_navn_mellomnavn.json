@@ -1,0 +1,24 @@
+{
+    "id": "2d2b662e-d12b-40e3-8c38-cc14309253c3",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon relatertPersonUtenFolkeregisteridentifikator navn mellomnavn"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - familierelasjon, relatertPersonUtenFolkeregisteridentifikator navn mellomnavn"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "FAMILIERELASJON_RELATERTPERSONUTENFOLKEREGISTERIDENTIFIKATOR_NAVN_MELLOMNAVN"
+}

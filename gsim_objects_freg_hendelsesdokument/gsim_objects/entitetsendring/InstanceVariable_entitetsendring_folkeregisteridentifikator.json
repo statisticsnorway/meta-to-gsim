@@ -1,0 +1,25 @@
+{
+    "id": "c0e1bd6d-4f15-4a87-841e-e786a27cae99",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "entitetsendring folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - entitetsendring, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:27.000Z",
+    "validFrom": "2019-06-22T20:30:27.000Z",
+    "createdDate": "2019-06-22T20:30:27.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "dataStructureComponentRole": "ENTITY",
+    "shortName": "ENTITETSENDRING_FOLKEREGISTERIDENTIFIKATOR"
+}

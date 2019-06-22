@@ -1,0 +1,25 @@
+{
+    "id": "478d8615-8b32-41fa-83e6-c19bf94d3083",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "familierelasjon folkeregisteridentifikator"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - familierelasjon, folkeregisteridentifikator"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "IDENTIFIER",
+    "shortName": "FAMILIERELASJON_FOLKEREGISTERIDENTIFIKATOR",
+    "dataStructureComponentRole": "ENTITY"
+}

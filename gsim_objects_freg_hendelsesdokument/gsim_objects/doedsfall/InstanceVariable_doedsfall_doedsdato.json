@@ -1,0 +1,24 @@
+{
+    "id": "6a92449d-8d98-42aa-9dd5-d5cb36edceac",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "doedsfall doedsdato"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "DokumentForHendelse - doedsfall, doedsdato"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-06-22T20:30:26.000Z",
+    "validFrom": "2019-06-22T20:30:26.000Z",
+    "createdDate": "2019-06-22T20:30:26.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "DOEDSFALL_DOEDSDATO"
+}
