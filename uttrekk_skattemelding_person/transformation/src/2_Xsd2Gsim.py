@@ -391,13 +391,17 @@ def mappingRawDataToInputData(gsimSource):
                 js["sourcePath"] = "/" + xsdStartingPointPath + gsimSource.get("dataSetName") + "/" + instVar.get("gruppePrefix").replace(".", "/")
         js["targetInstanceVariable"] = "/InstanceVariable/" + instVar.get("id")
         #writeJsonFile(js, "_mapping//" + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
-        writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
+        #writeJsonFile(js, config.mappingObjectSubPath + gsimSource.get("dataSetName"), 'MappingRawDataToInputData_' + instVar.get("name"))
+        writeJsonFile(js, config.mappingObjectSubPath, 'MappingRawDataToInputData_' + gsimSource.get("dataSetName") + '_' + instVar.get("name"))
 
 
 # Skriver JSON-filer med GSIM-metadata
 def writeJsonFile(gsimObject, jsonSubPath, fileName):
     #targetPath = './/gsim_json//'
     targetPath = config.jsonGsimTargetPath
+    jsonPath = Path(targetPath)
+    if not jsonPath.exists():
+        jsonPath.mkdir()
     jsonPath = Path(targetPath + jsonSubPath)
     if not jsonPath.exists():
         jsonPath.mkdir()
