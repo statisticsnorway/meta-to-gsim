@@ -1,5 +1,5 @@
 {
-    "id": "4236c4dd-cabd-49f5-986d-4480158cc141",
+    "id": "0f90ccf1-97c6-4b1f-b899-ef0608f872c0",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - livsforsikring, fradragsberettiget tap paa livsforsikring"
+            "languageText": "UttrekkSkattemelding v0_18 - livsforsikring, fradragsberettiget tap paa livsforsikring"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LIVSFORSIKRING_FRADRAGSBERETTIGETTAPPAALIVSFORSIKRING"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "42d73b50-64bd-4eb9-950c-476aa040933d",
+    "id": "f430dde6-f2f0-40fe-b958-bf338ce6ed98",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - konto, bankens navn"
+            "languageText": "UttrekkSkattemelding v0_18 - konto, bankens navn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "KONTO_BANKENSNAVN"
 }

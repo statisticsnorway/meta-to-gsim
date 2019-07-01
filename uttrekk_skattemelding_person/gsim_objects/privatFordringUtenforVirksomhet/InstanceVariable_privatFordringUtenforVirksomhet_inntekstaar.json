@@ -1,5 +1,5 @@
 {
-    "id": "ca3c5060-e7ce-4998-a31a-467f7f6fbf0f",
+    "id": "f718bc4c-07f6-434c-8c59-f8623acf9bd5",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - privat fordring utenfor virksomhet, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - privat fordring utenfor virksomhet, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

@@ -1,5 +1,5 @@
 {
-    "id": "a38d4901-0a9c-4aa0-86b6-3c5d29742d63",
+    "id": "5025caf9-e788-4abf-9cf1-6ce794fc90b1",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - eiendom, eiendomstype"
+            "languageText": "UttrekkSkattemelding v0_18 - eiendom, eiendomstype"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_EIENDOMSTYPE"
 }

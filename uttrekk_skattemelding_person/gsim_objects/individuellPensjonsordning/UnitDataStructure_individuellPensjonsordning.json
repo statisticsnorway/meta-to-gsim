@@ -1,5 +1,5 @@
 {
-    "id": "05536798-9655-488c-bca9-dc0d73d57837",
+    "id": "38856711-bb66-4faf-90ba-e46552537682",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur individuell pensjonsordning"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur individuell pensjonsordning"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/d79eee3e-e366-4908-8d97-7dcdf643b024"
+        "/LogicalRecord/790100ff-89bb-4b9f-b536-de1ca6a1eb45"
     ]
 }

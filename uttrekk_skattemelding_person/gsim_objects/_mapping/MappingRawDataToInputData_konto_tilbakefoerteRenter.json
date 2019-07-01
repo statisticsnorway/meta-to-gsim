@@ -1,0 +1,6 @@
+{
+    "id": "94fd35b9-23f9-4546-929a-5ff284febe26",
+    "sourceName": "tilbakefoerteRenter",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/konto/",
+    "targetInstanceVariable": "/InstanceVariable/fd3e1bdd-ce5b-40a2-9d3b-4f30a934fb31"
+}

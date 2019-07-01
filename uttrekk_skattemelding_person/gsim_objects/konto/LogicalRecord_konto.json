@@ -1,5 +1,5 @@
 {
-    "id": "8c165b22-dc5d-47f8-ac2a-8e9bc160aa2a",
+    "id": "da2d2174-b0d3-406d-ae99-68f1921d9f13",
     "name": [
         {
             "languageCode": "nb",
@@ -9,29 +9,30 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) konto"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) konto"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/f95825f6-e8c0-4986-ae6a-9d9f8047f4fc",
-        "/InstanceVariable/c7b6c43a-c340-4c0b-b69d-fc8ad202984e",
-        "/InstanceVariable/42d73b50-64bd-4eb9-950c-476aa040933d",
-        "/InstanceVariable/71bbe797-e6b7-46c4-81dd-a6cfcf36b779",
-        "/InstanceVariable/2eaf731b-ad1b-41e7-a154-9cd0a613214c",
-        "/InstanceVariable/683a5ae1-0393-4a77-bcf9-e271388f80d1",
-        "/InstanceVariable/4793dd59-a26e-4f7c-8647-ddfa156e7636",
-        "/InstanceVariable/722f95c3-f201-44e7-b3d9-88d97c318f9d",
-        "/InstanceVariable/c55325dc-a460-4def-bf46-88d86057c832",
-        "/InstanceVariable/d998f097-cbf9-48d6-a8ac-24ce0ae7639b",
-        "/InstanceVariable/66d66ab5-05ff-426c-a8bf-8414220a0a4a",
-        "/InstanceVariable/27776073-00e6-41cd-9552-70a8e5d0ab5f",
-        "/InstanceVariable/e4bc84d5-82e8-4387-8a98-e9ef6044a88e",
-        "/InstanceVariable/ad45fee3-c435-4feb-9668-1828977f2e96"
+        "/InstanceVariable/267c6ca7-daf4-488c-863d-7fd9b058efb3",
+        "/InstanceVariable/5e591945-e97f-4aa8-83cb-0996aed626c1",
+        "/InstanceVariable/f430dde6-f2f0-40fe-b958-bf338ce6ed98",
+        "/InstanceVariable/ee9fde46-f75a-4d75-8353-476a2e9a01dd",
+        "/InstanceVariable/3e923fbe-585a-4b6a-9866-a37ed7ffb29d",
+        "/InstanceVariable/1ebd93d2-d924-485e-bd49-d285f9cb2355",
+        "/InstanceVariable/ce599044-ee66-46ec-8563-ac995d750edd",
+        "/InstanceVariable/fd3e1bdd-ce5b-40a2-9d3b-4f30a934fb31",
+        "/InstanceVariable/391a174f-07c4-4cac-9d6b-c52bd679aed4",
+        "/InstanceVariable/c3669b78-09e8-4e3e-bdb7-1e4e4e02a32e",
+        "/InstanceVariable/516f8173-d893-49fc-8034-47762d9e475c",
+        "/InstanceVariable/457bd069-5d42-415a-802e-b14740bcc124",
+        "/InstanceVariable/cefe143f-ac1c-4793-ab7c-7af26020e7c6",
+        "/InstanceVariable/ea62e8ce-1a70-4a9f-9ce3-8f0077e518b3",
+        "/InstanceVariable/fdd8b041-2f19-4e03-a6f5-0aee820e61aa"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "KONTO"

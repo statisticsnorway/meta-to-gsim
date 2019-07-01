@@ -1,5 +1,5 @@
 {
-    "id": "82d14959-5284-4b8a-ae65-3c60cedbd164",
+    "id": "50cfcaa3-e544-4a65-baa8-209740ac7d2c",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur konto"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur konto"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/8c165b22-dc5d-47f8-ac2a-8e9bc160aa2a"
+        "/LogicalRecord/da2d2174-b0d3-406d-ae99-68f1921d9f13"
     ]
 }

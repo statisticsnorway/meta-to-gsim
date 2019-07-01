@@ -1,5 +1,5 @@
 {
-    "id": "10cbe332-ea89-422c-ae03-6b25ad3448f7",
+    "id": "cf5a3d6a-b0c1-4dc2-a83e-de25a304689c",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur kollektiv pensjonsordning"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur kollektiv pensjonsordning"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/737e6b9f-4cf8-486a-85da-281c8a4615ed"
+        "/LogicalRecord/f126b8d9-ca80-4e9a-962f-0cb03b78b0f4"
     ]
 }

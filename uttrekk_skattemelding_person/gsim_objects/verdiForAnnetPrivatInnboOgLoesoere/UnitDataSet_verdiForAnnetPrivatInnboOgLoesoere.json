@@ -1,5 +1,5 @@
 {
-    "id": "bfabcc9c-8fe9-4d8a-b7ac-d4c6856ee3b8",
+    "id": "c0d542dc-32e6-4bdc-a296-71f8b3bff729",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett verdi for annet privat innbo og loesoere"
+            "languageText": "UttrekkSkattemelding v0_18 datasett verdi for annet privat innbo og loesoere"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/10ed4176-8e7a-4edf-9666-341b329a6d13",
+    "unitDataStructure": "/UnitDataStructure/c042eceb-0b48-44db-abfc-b74f0e831dac",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "101f529f-8713-4533-83c8-b0d632858669",
+    "id": "645e08c9-9426-4faa-87a8-3ecf5f299504",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur arbeidsreise"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur arbeidsreise"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/59e5eeb2-b6ce-4d22-a8b1-c01c7ce8a830"
+        "/LogicalRecord/63a8d956-d7a9-48b7-9938-8465d78bbb69"
     ]
 }

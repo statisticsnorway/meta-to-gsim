@@ -1,5 +1,5 @@
 {
-    "id": "2cfcf5eb-d0a9-47a4-99a0-4e03daee0e32",
+    "id": "0e04c015-a251-4d86-a6c6-d699fe2137e1",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - kjoeretoey, antatt markedsverdi"
+            "languageText": "UttrekkSkattemelding v0_18 - kjoeretoey, antatt markedsverdi"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "KJOERETOEY_ANTATTMARKEDSVERDI"
 }

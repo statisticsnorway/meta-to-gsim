@@ -1,5 +1,5 @@
 {
-    "id": "e5866bbb-2bd6-4f42-b811-8859b0a69297",
+    "id": "5bbdad4b-bf34-4b39-9cd6-f6d546cd0903",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - pensjonspremier i arbeidsforhold, personidentifikator"
+            "languageText": "UttrekkSkattemelding v0_18 - pensjonspremier i arbeidsforhold, personidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "PENSJONSPREMIERIARBEIDSFORHOLD_PERSONIDENTIFIKATOR",
     "dataStructureComponentRole": "ENTITY"

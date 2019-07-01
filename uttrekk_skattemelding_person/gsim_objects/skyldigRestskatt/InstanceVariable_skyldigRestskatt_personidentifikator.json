@@ -1,5 +1,5 @@
 {
-    "id": "b4e55e8e-a2e7-44ed-aca1-4f6354954c19",
+    "id": "49bb61a0-d443-4934-a9dd-41bfeeea1d82",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - skyldig restskatt, personidentifikator"
+            "languageText": "UttrekkSkattemelding v0_18 - skyldig restskatt, personidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "SKYLDIGRESTSKATT_PERSONIDENTIFIKATOR",
     "dataStructureComponentRole": "ENTITY"

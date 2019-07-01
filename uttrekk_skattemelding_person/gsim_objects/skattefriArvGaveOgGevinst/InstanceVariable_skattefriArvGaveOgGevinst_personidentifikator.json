@@ -1,5 +1,5 @@
 {
-    "id": "bff43aed-e2f3-4fdd-87ca-a3ec835a2284",
+    "id": "57fd9c15-3dec-400c-a467-e93c9495e04c",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - skattefri arv gave og gevinst, personidentifikator"
+            "languageText": "UttrekkSkattemelding v0_18 - skattefri arv gave og gevinst, personidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "SKATTEFRIARVGAVEOGGEVINST_PERSONIDENTIFIKATOR",
     "dataStructureComponentRole": "ENTITY"

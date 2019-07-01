@@ -1,5 +1,5 @@
 {
-    "id": "aaf21d91-624d-4a1b-a0b2-b94cca74650b",
+    "id": "b441a3c6-17e8-448d-b0d6-ec68a6e5a5eb",
     "name": [
         {
             "languageCode": "nb",
@@ -9,20 +9,20 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) fritidsbaat med salgsverdi over salgsverdigrense"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) fritidsbaat med salgsverdi over salgsverdigrense"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/ac7c5514-3aa3-436d-89cb-82f030d6d110",
-        "/InstanceVariable/547e8b20-8bc8-4fde-b08a-c8aff054b4d2",
-        "/InstanceVariable/42bb8033-5979-4f44-9f9b-2b6b437197e4",
-        "/InstanceVariable/6a743a9f-bce3-4194-96d6-85122ee87039",
-        "/InstanceVariable/a9e7f8fa-26bb-4fb9-84d6-23dff5f49796"
+        "/InstanceVariable/e999cc66-30f9-47a7-8b71-233590c5b3e7",
+        "/InstanceVariable/bd7eb38b-25aa-492e-af01-51162cc0c64d",
+        "/InstanceVariable/85398a08-e2dc-47aa-ae74-5f12d71780bf",
+        "/InstanceVariable/07e391ff-3ede-413e-82fd-d1af861d3009",
+        "/InstanceVariable/c6d5f7e9-1c66-46b3-8e30-0377533f4448"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "FRITIDSBAATMEDSALGSVERDIOVERSALGSVERDIGRENSE"

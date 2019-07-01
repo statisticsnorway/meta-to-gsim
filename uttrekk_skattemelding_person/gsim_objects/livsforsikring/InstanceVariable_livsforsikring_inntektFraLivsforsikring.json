@@ -1,5 +1,5 @@
 {
-    "id": "e6b9f7a9-c156-4c92-bc99-5b910b0661c9",
+    "id": "93efc79e-4ba7-4a80-9de6-cd7646f62530",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - livsforsikring, inntekt fra livsforsikring"
+            "languageText": "UttrekkSkattemelding v0_18 - livsforsikring, inntekt fra livsforsikring"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LIVSFORSIKRING_INNTEKTFRALIVSFORSIKRING"
 }

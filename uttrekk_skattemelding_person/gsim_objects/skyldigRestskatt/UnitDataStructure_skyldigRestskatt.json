@@ -1,5 +1,5 @@
 {
-    "id": "c3fab9d8-7833-4896-aa29-f8fa4782de3e",
+    "id": "727a3394-1add-494c-b733-489b387c72fa",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur skyldig restskatt"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur skyldig restskatt"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/b5475df0-57a7-4ce1-92aa-a953497063aa"
+        "/LogicalRecord/1f0446e6-4d68-42dd-9556-819004a0c89d"
     ]
 }

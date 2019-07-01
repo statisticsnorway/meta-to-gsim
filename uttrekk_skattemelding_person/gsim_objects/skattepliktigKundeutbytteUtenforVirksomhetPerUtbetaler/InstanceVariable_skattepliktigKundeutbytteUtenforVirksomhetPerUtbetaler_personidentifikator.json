@@ -1,5 +1,5 @@
 {
-    "id": "3ecad9b9-3daa-401c-be3e-9cdc3348d0ef",
+    "id": "460aad33-bb0a-4408-bd6f-f6f5920a9640",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, personidentifikator"
+            "languageText": "UttrekkSkattemelding v0_18 - skattepliktig kundeutbytte utenfor virksomhet per utbetaler, personidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "SKATTEPLIKTIGKUNDEUTBYTTEUTENFORVIRKSOMHETPERUTBETALER_PERSONIDENTIFIKATOR",
     "dataStructureComponentRole": "ENTITY"

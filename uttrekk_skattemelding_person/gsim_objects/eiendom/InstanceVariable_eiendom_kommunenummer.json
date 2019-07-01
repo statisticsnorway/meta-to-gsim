@@ -1,5 +1,5 @@
 {
-    "id": "562646a4-3bef-4234-9b57-983d519a64e4",
+    "id": "182aa75d-c5da-46d7-95b2-cb9b8005f10a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - eiendom, kommunenummer"
+            "languageText": "UttrekkSkattemelding v0_18 - eiendom, kommunenummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "EIENDOM_KOMMUNENUMMER"
 }

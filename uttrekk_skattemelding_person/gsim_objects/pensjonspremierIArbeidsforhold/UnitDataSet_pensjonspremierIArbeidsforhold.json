@@ -1,5 +1,5 @@
 {
-    "id": "35106b28-b976-4359-995d-183dac265fdd",
+    "id": "23a7b2cf-9f4c-4ce0-879d-2819dfbea77b",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett pensjonspremier i arbeidsforhold"
+            "languageText": "UttrekkSkattemelding v0_18 datasett pensjonspremier i arbeidsforhold"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/82580cbb-54ac-4b17-a0fe-59912a0cbfd1",
+    "unitDataStructure": "/UnitDataStructure/725130a7-595d-41d3-96ca-eaa696047b3b",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

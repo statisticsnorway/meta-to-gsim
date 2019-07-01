@@ -1,5 +1,5 @@
 {
-    "id": "9558104b-7779-4173-9d48-a666ba33f196",
+    "id": "69265a4e-8937-4df4-ae77-1cff4bfc35f2",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, arbeidsgivers organisasjonsnummer"
+            "languageText": "UttrekkSkattemelding v0_18 - arbeidsopphold utenfor hjemmet, arbeidsgivers organisasjonsnummer"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_ARBEIDSGIVERSORGANISASJONSNUMMER"
 }

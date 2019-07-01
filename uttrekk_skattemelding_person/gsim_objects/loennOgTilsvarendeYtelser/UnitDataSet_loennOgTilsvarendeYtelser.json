@@ -1,5 +1,5 @@
 {
-    "id": "8fb75411-1a4c-477d-8df3-bea2c44d05b2",
+    "id": "8b2eb385-74b7-44d6-94bd-6f2b5125fd9a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett loenn og tilsvarende ytelser"
+            "languageText": "UttrekkSkattemelding v0_18 datasett loenn og tilsvarende ytelser"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/25bd5893-2c52-41a1-8cee-e123f932e2fc",
+    "unitDataStructure": "/UnitDataStructure/59c5cdec-dde7-4275-885e-5c3ebd2ab1e2",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

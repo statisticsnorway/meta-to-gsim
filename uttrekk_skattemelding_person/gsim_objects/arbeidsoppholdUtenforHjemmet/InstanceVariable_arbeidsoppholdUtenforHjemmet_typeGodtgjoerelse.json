@@ -1,5 +1,5 @@
 {
-    "id": "fd60b73e-ed48-4c46-b85b-9134ea259b1e",
+    "id": "420cdb85-84d3-42bd-92cf-f11fee2e9d34",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, type godtgjoerelse"
+            "languageText": "UttrekkSkattemelding v0_18 - arbeidsopphold utenfor hjemmet, type godtgjoerelse"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_TYPEGODTGJOERELSE"
 }

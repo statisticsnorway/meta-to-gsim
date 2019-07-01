@@ -1,0 +1,6 @@
+{
+    "id": "e84b8eff-838e-4d5e-8fba-d4a1b34b088d",
+    "sourceName": "organisasjonsnummer",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/c3fbfc05-f519-4c84-9e6d-f5fce20c2c2d"
+}

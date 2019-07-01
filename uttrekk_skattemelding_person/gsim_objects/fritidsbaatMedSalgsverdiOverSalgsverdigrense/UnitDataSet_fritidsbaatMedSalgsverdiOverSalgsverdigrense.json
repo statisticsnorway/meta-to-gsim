@@ -1,5 +1,5 @@
 {
-    "id": "2144ecaf-367e-4105-a787-4cfb4e1bccf4",
+    "id": "4e576d89-d5a0-43da-a019-8e53e9a91430",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett fritidsbaat med salgsverdi over salgsverdigrense"
+            "languageText": "UttrekkSkattemelding v0_18 datasett fritidsbaat med salgsverdi over salgsverdigrense"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/03f1d6af-bbaf-4c40-a146-01b73163e0eb",
+    "unitDataStructure": "/UnitDataStructure/ce9a26ed-ad09-4920-a253-33578f085863",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

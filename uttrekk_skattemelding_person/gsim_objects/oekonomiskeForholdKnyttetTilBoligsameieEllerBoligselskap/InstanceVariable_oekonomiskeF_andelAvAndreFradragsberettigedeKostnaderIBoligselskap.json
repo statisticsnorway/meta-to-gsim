@@ -1,0 +1,24 @@
+{
+    "id": "2ba38a02-4e8d-4f7b-b8e1-2a9abe282559",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "oekonomiskeForholdKnyttetTilBoligsameieEllerBoligselskap andelAvAndreFradragsberettigedeKostnaderIBoligselskap"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding v0_18 - oekonomiske forhold knyttet til boligsameie eller boligselskap, andel av andre fradragsberettigede kostnader i boligselskap"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
+    "createdBy": "BNJ",
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "population": "/Population/Population_DUMMY",
+    "dataStructureComponentType": "MEASURE",
+    "shortName": "OEKONOMISKEFORHOLDKNYTTETTILBOLIGSAMEIEELLERBOLIGSELSKAP_ANDELAVANDREFRADRAGSBERETTIGEDEKOSTNADERIBOLIGSELSKAP"
+}

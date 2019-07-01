@@ -1,5 +1,5 @@
 {
-    "id": "15968c8f-b2fd-494f-84ee-9530391b4ab3",
+    "id": "f97a59ab-a853-432c-9f9f-f1b0aa14ad66",
     "name": [
         {
             "languageCode": "nb",
@@ -9,19 +9,19 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) privat fordring utenfor virksomhet"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) privat fordring utenfor virksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1941d7b6-d0a9-4754-8891-2f75c1443f4c",
-        "/InstanceVariable/5a425f82-d501-40ae-9e28-eb60f6e328bb",
-        "/InstanceVariable/68a86367-c57f-4e6c-b01f-c7b01230b702",
-        "/InstanceVariable/ca3c5060-e7ce-4998-a31a-467f7f6fbf0f"
+        "/InstanceVariable/b1c9cefe-597a-4708-8e0d-3d3b67ba26aa",
+        "/InstanceVariable/dfc9d42b-8167-4bc2-bcc0-4ec662c1d856",
+        "/InstanceVariable/0a396baf-2858-44f0-8cc5-4510daca4246",
+        "/InstanceVariable/f718bc4c-07f6-434c-8c59-f8623acf9bd5"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "PRIVATFORDRINGUTENFORVIRKSOMHET"

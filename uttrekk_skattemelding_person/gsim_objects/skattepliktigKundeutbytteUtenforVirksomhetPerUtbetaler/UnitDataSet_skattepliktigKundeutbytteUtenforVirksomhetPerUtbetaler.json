@@ -1,5 +1,5 @@
 {
-    "id": "76e1688b-b450-4d8e-ba56-2e9cd5e9a941",
+    "id": "71e359db-ff38-40fb-9785-32744a973147",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
+            "languageText": "UttrekkSkattemelding v0_18 datasett skattepliktig kundeutbytte utenfor virksomhet per utbetaler"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/f64a0918-b757-4f8e-ae80-8e00e4a283b3",
+    "unitDataStructure": "/UnitDataStructure/e322f937-3089-4de4-a5c7-7b7f4e826a27",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

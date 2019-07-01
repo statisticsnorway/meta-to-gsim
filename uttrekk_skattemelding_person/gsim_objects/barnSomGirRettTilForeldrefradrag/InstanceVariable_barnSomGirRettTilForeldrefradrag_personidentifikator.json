@@ -1,5 +1,5 @@
 {
-    "id": "efe38723-08c4-4b6f-a394-f4e6018d252f",
+    "id": "439e7a22-394f-468a-b507-0be0432ed7cc",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - barn som gir rett til foreldrefradrag, personidentifikator"
+            "languageText": "UttrekkSkattemelding v0_18 - barn som gir rett til foreldrefradrag, personidentifikator"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "BARNSOMGIRRETTTILFORELDREFRADRAG_PERSONIDENTIFIKATOR",
     "dataStructureComponentRole": "ENTITY"

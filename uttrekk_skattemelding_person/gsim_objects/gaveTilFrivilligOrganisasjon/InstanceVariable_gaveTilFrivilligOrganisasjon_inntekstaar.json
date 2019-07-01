@@ -1,5 +1,5 @@
 {
-    "id": "fdda939b-f58c-4342-abe2-2b918d41b3da",
+    "id": "28991032-1c3e-42be-99d9-eeb476b753eb",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - gave til frivillig organisasjon, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - gave til frivillig organisasjon, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "GAVETILFRIVILLIGORGANISASJON_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

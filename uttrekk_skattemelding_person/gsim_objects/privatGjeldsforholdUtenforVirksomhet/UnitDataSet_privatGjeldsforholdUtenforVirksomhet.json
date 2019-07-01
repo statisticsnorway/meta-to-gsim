@@ -1,5 +1,5 @@
 {
-    "id": "3320fe90-b51b-403b-a598-0306d6b8c804",
+    "id": "dde6b5e7-4b58-413b-9d89-b0b3e4e71ee3",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett privat gjeldsforhold utenfor virksomhet"
+            "languageText": "UttrekkSkattemelding v0_18 datasett privat gjeldsforhold utenfor virksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/54240bf4-32ca-48d2-8c48-3b5d78501b04",
+    "unitDataStructure": "/UnitDataStructure/0405d1c0-7c0e-4455-bd78-d0b426c832c9",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "2a117ea9-8ad0-447e-9fbb-50dca8cccd8f",
+    "id": "f00c44f4-7e05-4df3-92bd-3541a4fbda48",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - fagforeningskontingent, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - fagforeningskontingent, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "FAGFORENINGSKONTINGENT_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

@@ -1,5 +1,5 @@
 {
-    "id": "a2f2217b-cf4f-4e45-9e99-218e55e8ad2b",
+    "id": "4ccb4b90-a8f8-4e75-b453-b584b3da69b6",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - arbeidsopphold utenfor hjemmet, godtgjoerelse for losji ved arbeidsopphold utenfor hjemmet"
+            "languageText": "UttrekkSkattemelding v0_18 - arbeidsopphold utenfor hjemmet, godtgjoerelse for losji ved arbeidsopphold utenfor hjemmet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:06.000Z",
-    "validFrom": "2019-05-29T10:18:06.000Z",
-    "createdDate": "2019-05-29T10:18:06.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSOPPHOLDUTENFORHJEMMET_GODTGJOERELSEFORLOSJIVEDARBEIDSOPPHOLDUTENFORHJEMMET"
 }

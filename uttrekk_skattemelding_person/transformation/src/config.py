@@ -4,12 +4,13 @@
 
 # "Key-word" for data/metadata-området som XSD-en fra Skatteetaten dekker, f.eks. "FREG", "Folkeregisteret", "Skattemelding", osv.
 # Brukes bl.a. ved generering av "GSIM DataResource"-objektet og til "tagging" og i description-felter i andre GSIM-objekter.
-dataResource = "UttrekkSkattemelding"
+dataResource = "UttrekkSkattemelding v0_18"
 
 # Sti og navn til XSD-filen fra Skatteetaten:
 #xsdSourcePath = '..//..//..//skattemelding//source_metadata//'
-xsdSourcePath = 'C:\\BNJ\\prosjektutvikling\\MOD\\GitHub\\meta-to-gsim\\uttrekk_skattemelding_person\\source_metadata\\'
-xsdSourceFile = 'UttrekkSkattemelding_v0.12_574259384.xsd'
+xsdSourcePath = 'c:\\gitrepo\\modp2\\meta-to-gsim\\uttrekk_skattemelding_person\\source_metadata\\'
+#xsdSourceFile = 'UttrekkSkattemelding_v0.12_574259384.xsd'
+xsdSourceFile = 'UttrekkSkattemelding_v0.18.xsd'
 # .. og navn på ryddet/forenklet XSD-fil (output fra scriptet "cleanXsdFile.py")
 xsdCleanedFile = 'CLEANED_' + xsdSourceFile
 
@@ -22,7 +23,7 @@ xsdStartingPointPath = "uttrekkSkattemelding/skattepliktig/"
 
 # Sti til katalogen de genererte JSON-filene med GSIM-struktur skal lagres i (output fra scriptet "Xsd2Gsim.py")
 #jsonGsimTargetPath = '..//..//..//skattemelding//gsim_objects//'
-jsonGsimTargetPath = 'C:\\BNJ\\prosjektutvikling\\MOD\\GitHub\\meta-to-gsim\\uttrekk_skattemelding_person\\gsim_objects\\'
+jsonGsimTargetPath = 'c:\\gitrepo\\modp2\\meta-to-gsim\\uttrekk_skattemelding_person\\gsim_objects\\'
 
 
 # Sti til katalogen mapping-json-objektene fra rådata til inndata skal lagres (output fra scriptet "Xsd2Gsim.py")
@@ -47,8 +48,8 @@ identifierComponents = [
 
 # Peke på DEFAULT (eksisterende) eller DUMMY GSIM-objekt:
 describedValueDomainId = "DescribedValueDomain_DUMMY"
-#populationId = "Population_DUMMY"
-populationId = "2aa9ab12-63ca-4458-aa00-95ea287bf2a5"
+populationId = "Population_DUMMY"
+#populationId = "2aa9ab12-63ca-4458-aa00-95ea287bf2a5"
 representertVariableId = "RepresentertVariable_DUMMY"
 #unitTypeId = "UnitType_DUMMY"
 unitTypeId = "51a8dcde-127d-49de-84a4-a0a9c34f666f"

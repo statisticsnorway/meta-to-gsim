@@ -1,5 +1,5 @@
 {
-    "id": "7d3fbf83-0f7f-4260-9eb4-9d64f60bf8b9",
+    "id": "95d8bd8f-ba23-4b5a-a089-b37e1a7069fc",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - individuell pensjonsordning, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - individuell pensjonsordning, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "INDIVIDUELLPENSJONSORDNING_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

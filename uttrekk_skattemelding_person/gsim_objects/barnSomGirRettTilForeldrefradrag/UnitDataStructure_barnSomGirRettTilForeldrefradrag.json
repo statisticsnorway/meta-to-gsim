@@ -1,5 +1,5 @@
 {
-    "id": "8471f6ff-8f6d-4fc1-8d42-1c717fc03335",
+    "id": "aebb8c2c-b833-4a56-a992-de14d0255c68",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur barn som gir rett til foreldrefradrag"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur barn som gir rett til foreldrefradrag"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/463ef652-c0b6-42ca-bca7-4de2e0bf6544"
+        "/LogicalRecord/1fdf4aff-22f3-4dc2-abec-b1fce78ab607"
     ]
 }

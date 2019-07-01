@@ -1,5 +1,5 @@
 {
-    "id": "ef5b4c0b-dda6-4eae-92c3-a46af90df6ec",
+    "id": "f83b2b44-96b5-4dd3-ba01-6d2d6a6a9143",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - kjoeretoey, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - kjoeretoey, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "KJOERETOEY_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

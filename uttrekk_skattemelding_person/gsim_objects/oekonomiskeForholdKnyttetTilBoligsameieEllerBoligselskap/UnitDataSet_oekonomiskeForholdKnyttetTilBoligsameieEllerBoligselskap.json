@@ -1,5 +1,5 @@
 {
-    "id": "dae8e34d-c1dc-4337-8603-e5e9ae0ed5aa",
+    "id": "5f35dd43-0b3e-4a4f-81e6-1f36bfd33654",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett oekonomiske forhold knyttet til boligsameie eller boligselskap"
+            "languageText": "UttrekkSkattemelding v0_18 datasett oekonomiske forhold knyttet til boligsameie eller boligselskap"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/2b9a86f2-c8ca-407c-873d-8ff40ef56c6f",
+    "unitDataStructure": "/UnitDataStructure/1348cc00-bc74-4805-a708-93f81801ad2c",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

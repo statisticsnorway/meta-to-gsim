@@ -1,5 +1,5 @@
 {
-    "id": "43e5ae4b-05cb-4362-92e4-f386240662ae",
+    "id": "6527c8b6-69a0-4b56-8baa-8c3d6888dbce",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett skyldig restskatt"
+            "languageText": "UttrekkSkattemelding v0_18 datasett skyldig restskatt"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/c3fab9d8-7833-4896-aa29-f8fa4782de3e",
+    "unitDataStructure": "/UnitDataStructure/727a3394-1add-494c-b733-489b387c72fa",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

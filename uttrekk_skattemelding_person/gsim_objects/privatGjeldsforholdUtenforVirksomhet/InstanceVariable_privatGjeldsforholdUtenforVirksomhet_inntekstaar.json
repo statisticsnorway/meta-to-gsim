@@ -1,5 +1,5 @@
 {
-    "id": "91ddc879-a03d-4233-b2df-05f2792c8bb9",
+    "id": "8393c790-545e-49e2-a3a0-d4f26061f7a2",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - privat gjeldsforhold utenfor virksomhet, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - privat gjeldsforhold utenfor virksomhet, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "PRIVATGJELDSFORHOLDUTENFORVIRKSOMHET_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

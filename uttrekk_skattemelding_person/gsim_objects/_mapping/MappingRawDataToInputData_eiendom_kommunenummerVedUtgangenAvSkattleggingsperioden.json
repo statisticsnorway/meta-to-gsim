@@ -1,0 +1,6 @@
+{
+    "id": "fb0fb459-1bd0-4af9-b57c-94780e0a0b62",
+    "sourceName": "kommunenummerVedUtgangenAvSkattleggingsperioden",
+    "sourcePath": "/uttrekkSkattemelding/skattepliktig/eiendom/",
+    "targetInstanceVariable": "/InstanceVariable/60b7308c-c65b-4a71-9e76-73dd93982fd4"
+}

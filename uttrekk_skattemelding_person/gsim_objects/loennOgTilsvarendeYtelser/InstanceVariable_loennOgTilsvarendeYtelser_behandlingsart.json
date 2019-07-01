@@ -1,5 +1,5 @@
 {
-    "id": "e0bd197a-43c5-40f0-86cf-60f8a8c7b87b",
+    "id": "f2b1a1d3-38ce-4197-9221-23b4925d3482",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, behandlingsart"
+            "languageText": "UttrekkSkattemelding v0_18 - loenn og tilsvarende ytelser, behandlingsart"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "LOENNOGTILSVARENDEYTELSER_BEHANDLINGSART"
 }

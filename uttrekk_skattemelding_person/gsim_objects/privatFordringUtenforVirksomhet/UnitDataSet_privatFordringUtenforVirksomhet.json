@@ -1,5 +1,5 @@
 {
-    "id": "f422693c-9b9a-4893-8176-18c5a024915c",
+    "id": "596b12c2-7425-4563-84e3-1b7ec2a64083",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett privat fordring utenfor virksomhet"
+            "languageText": "UttrekkSkattemelding v0_18 datasett privat fordring utenfor virksomhet"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/da818867-03cf-4833-8fd9-91f4c036f1d1",
+    "unitDataStructure": "/UnitDataStructure/1cb3cf31-7fcd-49e6-9e6c-3847bf097830",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

@@ -1,5 +1,5 @@
 {
-    "id": "01dfbcf1-6e34-4364-9833-308b7d5398cd",
+    "id": "c878b3f6-838a-4f6f-8217-83bb42206141",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - verdi for annet privat innbo og loesoere, beloep"
+            "languageText": "UttrekkSkattemelding v0_18 - verdi for annet privat innbo og loesoere, beloep"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE_BELOEP"
 }

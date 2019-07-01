@@ -1,5 +1,5 @@
 {
-    "id": "463ef652-c0b6-42ca-bca7-4de2e0bf6544",
+    "id": "1fdf4aff-22f3-4dc2-abec-b1fce78ab607",
     "name": [
         {
             "languageCode": "nb",
@@ -9,19 +9,19 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) barn som gir rett til foreldrefradrag"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) barn som gir rett til foreldrefradrag"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1bb05dec-8654-4ded-88f6-047e9fa5295c",
-        "/InstanceVariable/1db96257-7797-4562-ab21-1b36f3a274bb",
-        "/InstanceVariable/efe38723-08c4-4b6f-a394-f4e6018d252f",
-        "/InstanceVariable/273381cc-6168-4282-8ddf-40fe9d5b3622"
+        "/InstanceVariable/23260690-b53a-491b-aae1-d222e3f44870",
+        "/InstanceVariable/5f8b6b36-e579-421c-afd6-2b6dc20df533",
+        "/InstanceVariable/439e7a22-394f-468a-b507-0be0432ed7cc",
+        "/InstanceVariable/046f83c0-8b43-4714-afea-95ac15f614a7"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "BARNSOMGIRRETTTILFORELDREFRADRAG"

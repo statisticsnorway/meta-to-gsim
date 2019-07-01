@@ -1,5 +1,5 @@
 {
-    "id": "54212adc-1ba2-4ade-b63b-39b958c60bd1",
+    "id": "69104f80-2482-476d-9b76-d4b62a0f2b6a",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett gave til frivillig organisasjon"
+            "languageText": "UttrekkSkattemelding v0_18 datasett gave til frivillig organisasjon"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/e3884d5b-5026-4533-ade8-4618791b86e8",
+    "unitDataStructure": "/UnitDataStructure/1385b08b-1523-4d44-9246-2997de5dafb1",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

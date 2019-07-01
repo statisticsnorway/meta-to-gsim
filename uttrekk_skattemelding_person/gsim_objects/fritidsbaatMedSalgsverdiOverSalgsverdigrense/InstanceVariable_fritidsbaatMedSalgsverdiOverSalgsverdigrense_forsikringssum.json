@@ -1,5 +1,5 @@
 {
-    "id": "42bb8033-5979-4f44-9f9b-2b6b437197e4",
+    "id": "85398a08-e2dc-47aa-ae74-5f12d71780bf",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - fritidsbaat med salgsverdi over salgsverdigrense, forsikringssum"
+            "languageText": "UttrekkSkattemelding v0_18 - fritidsbaat med salgsverdi over salgsverdigrense, forsikringssum"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "FRITIDSBAATMEDSALGSVERDIOVERSALGSVERDIGRENSE_FORSIKRINGSSUM"
 }

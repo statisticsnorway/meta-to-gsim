@@ -1,5 +1,5 @@
 {
-    "id": "e37ee686-6249-439a-9116-86284d6594e8",
+    "id": "23c38bf7-b82c-4c00-9c9f-1b7d62087bee",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett konto"
+            "languageText": "UttrekkSkattemelding v0_18 datasett konto"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:09.000Z",
-    "validFrom": "2019-05-29T10:18:09.000Z",
-    "createdDate": "2019-05-29T10:18:09.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/82d14959-5284-4b8a-ae65-3c60cedbd164",
+    "unitDataStructure": "/UnitDataStructure/50cfcaa3-e544-4a65-baa8-209740ac7d2c",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

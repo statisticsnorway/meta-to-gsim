@@ -1,5 +1,5 @@
 {
-    "id": "5c3e8bb3-f53e-4f1a-a250-432224ce93ad",
+    "id": "2dcd4009-8167-4deb-a01e-d6e0862231e4",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - arbeidsreise, antall dager med arbeidsreise"
+            "languageText": "UttrekkSkattemelding v0_18 - arbeidsreise, antall dager med arbeidsreise"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "MEASURE",
     "shortName": "ARBEIDSREISE_ANTALLDAGERMEDARBEIDSREISE"
 }

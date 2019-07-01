@@ -1,5 +1,5 @@
 {
-    "id": "e801adbe-44cb-4500-a688-5d9cfa01fa23",
+    "id": "3f19d593-fbd4-4619-a044-91311e66d249",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett skattefri stoenad til barnetilsyn"
+            "languageText": "UttrekkSkattemelding v0_18 datasett skattefri stoenad til barnetilsyn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/09ec9826-9f80-4e2c-95a8-79ccea1f09f4",
+    "unitDataStructure": "/UnitDataStructure/0b08e0c2-7e34-469e-aaf6-6492245cdbc3",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

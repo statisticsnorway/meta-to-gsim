@@ -1,5 +1,5 @@
 {
-    "id": "3fd18fe3-c38b-4120-93bf-0301dc6d9a4d",
+    "id": "c537bb0b-310c-4c45-b90c-667d782c6d50",
     "name": [
         {
             "languageCode": "nb",
@@ -9,18 +9,18 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) skattefri stoenad til barnetilsyn"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) skattefri stoenad til barnetilsyn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/32967394-0157-4366-8b60-6fffa21ae228",
-        "/InstanceVariable/bf603ea0-2c9d-46d0-89a8-d9de01089128",
-        "/InstanceVariable/3115c609-2fbf-477d-b5d3-b1fa482a7e27"
+        "/InstanceVariable/b889e5c3-eb6b-4ae6-a806-af978d83f958",
+        "/InstanceVariable/1146c35b-ae53-4c1a-bf23-973b2a7acee5",
+        "/InstanceVariable/0da1cb75-7847-4fdb-9ca3-aeea9a2c9d69"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "SKATTEFRISTOENADTILBARNETILSYN"

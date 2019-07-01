@@ -1,5 +1,5 @@
 {
-    "id": "45d546b4-d2cd-4f0a-a184-a84ce867e181",
+    "id": "e50057b8-f1e1-45a7-956b-8d8ec048fddd",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett oppholdskostnader ved pass og stell av barn"
+            "languageText": "UttrekkSkattemelding v0_18 datasett oppholdskostnader ved pass og stell av barn"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/2794e14b-a7de-4c2d-9ce1-c0ae79b09015",
+    "unitDataStructure": "/UnitDataStructure/4e27b561-8322-46a9-8783-9320438a7151",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

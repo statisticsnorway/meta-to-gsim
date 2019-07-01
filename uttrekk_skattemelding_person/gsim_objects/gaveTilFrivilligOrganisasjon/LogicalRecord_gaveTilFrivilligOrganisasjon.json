@@ -1,5 +1,5 @@
 {
-    "id": "b36019c5-d1e4-4bd7-839d-216af96c04a4",
+    "id": "f843eab1-2d50-461d-b8b6-f60c11253537",
     "name": [
         {
             "languageCode": "nb",
@@ -9,20 +9,20 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding record (LogicalRecord) gave til frivillig organisasjon"
+            "languageText": "UttrekkSkattemelding v0_18 record (LogicalRecord) gave til frivillig organisasjon"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
     "instanceVariables": [
-        "/InstanceVariable/1b5999df-35ab-448f-84bc-60ce1d14be37",
-        "/InstanceVariable/11796845-c638-4f6d-bf7d-785d835044e2",
-        "/InstanceVariable/2ebbeb5f-6551-4c30-872d-f7bc0be88527",
-        "/InstanceVariable/bcae3099-e01b-4e54-b969-5b28edf16420",
-        "/InstanceVariable/fdda939b-f58c-4342-abe2-2b918d41b3da"
+        "/InstanceVariable/9fc12538-3edc-4819-aabc-12e544073e52",
+        "/InstanceVariable/8677f3a3-a846-49d1-9b3f-877e3e9dfc96",
+        "/InstanceVariable/8c58045b-6099-4d41-bcc4-778f5315c810",
+        "/InstanceVariable/3567643a-8e7c-4bec-b5eb-50d95b30115d",
+        "/InstanceVariable/28991032-1c3e-42be-99d9-eeb476b753eb"
     ],
     "unitType": "/UnitType/51a8dcde-127d-49de-84a4-a0a9c34f666f",
     "shortName": "GAVETILFRIVILLIGORGANISASJON"

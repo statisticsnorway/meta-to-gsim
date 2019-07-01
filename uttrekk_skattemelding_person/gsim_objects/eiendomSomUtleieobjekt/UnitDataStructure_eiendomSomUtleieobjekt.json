@@ -1,5 +1,5 @@
 {
-    "id": "76f0d462-510d-42a4-93a3-78381614a71c",
+    "id": "5894d1b4-2d9b-460d-bf50-f0129a2d2915",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datastruktur eiendom som utleieobjekt"
+            "languageText": "UttrekkSkattemelding v0_18 datastruktur eiendom som utleieobjekt"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:07.000Z",
-    "validFrom": "2019-05-29T10:18:07.000Z",
-    "createdDate": "2019-05-29T10:18:07.000Z",
+    "versionValidFrom": "2019-07-01T13:48:42.000Z",
+    "validFrom": "2019-07-01T13:48:42.000Z",
+    "createdDate": "2019-07-01T13:48:42.000Z",
     "createdBy": "BNJ",
     "logicalRecords": [
-        "/LogicalRecord/48e5935c-a404-4757-ab01-5ab068ac2901"
+        "/LogicalRecord/114909e5-63ce-4a1c-972c-fe64cc83e0b4"
     ]
 }

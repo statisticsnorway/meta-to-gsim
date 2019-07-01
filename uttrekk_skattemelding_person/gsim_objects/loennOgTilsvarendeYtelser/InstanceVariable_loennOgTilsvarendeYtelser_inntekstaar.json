@@ -1,5 +1,5 @@
 {
-    "id": "af68cbf5-53b2-4e1d-b305-a08dadc8e800",
+    "id": "6925a85d-6299-412d-97e6-ae01241f737b",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - loenn og tilsvarende ytelser, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - loenn og tilsvarende ytelser, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:10.000Z",
-    "validFrom": "2019-05-29T10:18:10.000Z",
-    "createdDate": "2019-05-29T10:18:10.000Z",
+    "versionValidFrom": "2019-07-01T13:48:44.000Z",
+    "validFrom": "2019-07-01T13:48:44.000Z",
+    "createdDate": "2019-07-01T13:48:44.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "LOENNOGTILSVARENDEYTELSER_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

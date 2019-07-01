@@ -1,5 +1,5 @@
 {
-    "id": "895ad4eb-8cfd-48c1-a696-e4e3d10ca9c5",
+    "id": "b110ff46-2c30-41c4-b02a-2f952e7ba0a7",
     "name": [
         {
             "languageCode": "nb",
@@ -9,16 +9,16 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding - verdi for annet privat innbo og loesoere, inntekstaar"
+            "languageText": "UttrekkSkattemelding v0_18 - verdi for annet privat innbo og loesoere, inntekstaar"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:11.000Z",
-    "validFrom": "2019-05-29T10:18:11.000Z",
-    "createdDate": "2019-05-29T10:18:11.000Z",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
     "createdBy": "BNJ",
     "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
-    "population": "/Population/2aa9ab12-63ca-4458-aa00-95ea287bf2a5",
+    "population": "/Population/Population_DUMMY",
     "dataStructureComponentType": "IDENTIFIER",
     "shortName": "VERDIFORANNETPRIVATINNBOOGLOESOERE_INNTEKSTAAR",
     "dataStructureComponentRole": "TIME"

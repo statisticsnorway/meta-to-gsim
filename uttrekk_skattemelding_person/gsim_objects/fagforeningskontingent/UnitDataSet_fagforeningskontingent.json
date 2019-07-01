@@ -1,5 +1,5 @@
 {
-    "id": "5de14e7f-2e1f-48b1-a65f-99ad25f063a4",
+    "id": "483e29a5-ea81-4e97-a521-b69c478a246b",
     "name": [
         {
             "languageCode": "nb",
@@ -9,15 +9,15 @@
     "description": [
         {
             "languageCode": "nb",
-            "languageText": "UttrekkSkattemelding datasett fagforeningskontingent"
+            "languageText": "UttrekkSkattemelding v0_18 datasett fagforeningskontingent"
         }
     ],
     "administrativeStatus": "DRAFT",
-    "versionValidFrom": "2019-05-29T10:18:08.000Z",
-    "validFrom": "2019-05-29T10:18:08.000Z",
-    "createdDate": "2019-05-29T10:18:08.000Z",
+    "versionValidFrom": "2019-07-01T13:48:43.000Z",
+    "validFrom": "2019-07-01T13:48:43.000Z",
+    "createdDate": "2019-07-01T13:48:43.000Z",
     "createdBy": "BNJ",
-    "unitDataStructure": "/UnitDataStructure/1e0c27f2-d062-4cfc-83bb-0a39b496d3a1",
+    "unitDataStructure": "/UnitDataStructure/ef382310-90eb-4dad-a3fc-5ccf820edb34",
     "dataSetState": "INPUT_DATA",
     "temporalityType": "EVENT"
 }

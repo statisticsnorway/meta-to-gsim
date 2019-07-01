@@ -1,0 +1,48 @@
+{
+    "id": "cad3a010-982c-4111-8dd7-b43b4c1fba8a",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding v0_18"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding v0_18 - SkattemeldingUtflatet"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-07-01T13:48:45.000Z",
+    "validFrom": "2019-07-01T13:48:45.000Z",
+    "createdDate": "2019-07-01T13:48:45.000Z",
+    "createdBy": "BNJ",
+    "dataSets": [
+        "/UnitDataSet/45e5e2b0-f4b9-44cd-87a8-398d49bf9776",
+        "/UnitDataSet/4a3c1916-ac24-45e5-8add-c1eda8153aab",
+        "/UnitDataSet/7bdb9be5-980a-41ab-9d71-f9dc1a2f4f2e",
+        "/UnitDataSet/e6c37eef-5d76-4fc5-bfce-81a0a6de5f43",
+        "/UnitDataSet/4f4dd40f-3c2b-4a05-9689-653a81542c5e",
+        "/UnitDataSet/7887b367-99b6-48fc-b240-0188291a0635",
+        "/UnitDataSet/483e29a5-ea81-4e97-a521-b69c478a246b",
+        "/UnitDataSet/4e576d89-d5a0-43da-a019-8e53e9a91430",
+        "/UnitDataSet/69104f80-2482-476d-9b76-d4b62a0f2b6a",
+        "/UnitDataSet/643f028e-04d6-4c38-ab42-3256ad122e10",
+        "/UnitDataSet/8d6fc837-d494-411d-879c-1fe511cf850f",
+        "/UnitDataSet/72198d45-b9a5-4afb-b0a3-f1c1d752c69d",
+        "/UnitDataSet/f8990cbb-4864-4d5b-b6c9-d4a3211e5606",
+        "/UnitDataSet/23c38bf7-b82c-4c00-9c9f-1b7d62087bee",
+        "/UnitDataSet/84036a26-11f5-4fa5-aa76-ca68883f1152",
+        "/UnitDataSet/8b2eb385-74b7-44d6-94bd-6f2b5125fd9a",
+        "/UnitDataSet/e50057b8-f1e1-45a7-956b-8d8ec048fddd",
+        "/UnitDataSet/23a7b2cf-9f4c-4ce0-879d-2819dfbea77b",
+        "/UnitDataSet/596b12c2-7425-4563-84e3-1b7ec2a64083",
+        "/UnitDataSet/dde6b5e7-4b58-413b-9d89-b0b3e4e71ee3",
+        "/UnitDataSet/48d1c28e-37b6-4fd1-9558-11869a4d8676",
+        "/UnitDataSet/3f19d593-fbd4-4619-a044-91311e66d249",
+        "/UnitDataSet/71e359db-ff38-40fb-9785-32744a973147",
+        "/UnitDataSet/6527c8b6-69a0-4b56-8baa-8c3d6888dbce",
+        "/UnitDataSet/c0d542dc-32e6-4bdc-a296-71f8b3bff729",
+        "/UnitDataSet/5f35dd43-0b3e-4a4f-81e6-1f36bfd33654"
+    ]
+}
