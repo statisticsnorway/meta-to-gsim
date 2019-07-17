@@ -1,47 +1,46 @@
 {
- "lastUpdatedBy": "Test",
- "description": [
-  {
-   "languageCode": "nb",
-   "languageText": "Nytt hendelsesorientert folkeregister hos Skatteetaten"
-  }
- ],
- "validFrom": "2019-02-15T13:24:28.303Z",
- "changeManagement": [
-  {
-   "languageCode": "nb",
-   "languageText": "Månedlig"
-  }
- ],
- "version": "1.0.6",
- "frequency": "ONGOING",
- "versionValidFrom": "2019-02-19T14:22:56.714Z",
- "lastUpdatedDate": "2019-02-19T14:22:56.714Z",
- "createdDate": "2019-02-15T13:24:28.303Z",
- "valuation": "A",
- "regulation": "ADMINISTRATIVE_REGISTER",
- "createdBy": "Test",
- "informationSource": [
-  {
-   "languageCode": "nb",
-   "languageText": "Ekstern"
-  }
- ],
- "exchangeChannels": [
-  "/DataHarvesting/662795de-3c0d-4444-a71f-04755e5b55da"
- ],
- "name": [
-  {
-   "languageCode": "nb",
-   "languageText": "Folkeregisteret"
-  }
- ],
- "provisionAgreementStatus": "DRAFT",
- "id": "53d61103-82d4-45a2-8996-47778e0a642e",
- "informationProviders": [
-  "/AgentInRole/e22b34d6-d03d-459d-80e8-f3aeb0c247cd"
- ],
- "agreedDataStructures": [
-  "/UnitDataStructure/620f2fec-94cd-4161-9777-96df3009f073"
- ]
+  "id": "53d61103-82d4-45a2-8996-47778e0a642e",
+  "name": [
+    {
+      "languageCode": "nb",
+      "languageText": "Folkeregisteret"
+    }
+  ],
+  "description": [
+    {
+      "languageCode": "nb",
+      "languageText": "Nytt hendelsesorientert folkeregister hos Skatteetaten"
+    }
+  ],
+  "administrativeStatus": "DRAFT",
+  "createdDate": "2019-02-15T13:24:28.303Z",
+  "createdBy": "Test",
+  "version": "1.0.8",
+  "versionValidFrom": "2019-07-17T08:21:17.023Z",
+  "lastUpdatedDate": "2019-07-17T08:21:17.023Z",
+  "lastUpdatedBy": "Test user",
+  "validFrom": "2019-02-15T13:24:28.303Z",
+  "validUntil": "2020-07-17T08:21:17.023Z",
+  "regulation": "ADMINISTRATIVE_REGISTER",
+  "provisionAgreementStatus": "DRAFT",
+  "valuation": "A",
+  "changeManagement": [
+    {
+      "languageCode": "nb",
+      "languageText": "MÃ¥nedlig"
+    }
+  ],
+  "informationSource": [
+    {
+      "languageCode": "nb",
+      "languageText": "Ekstern"
+    }
+  ],
+  "frequency": "ONGOING",
+  "exchangeChannels": [
+    "/DataHarvesting/662795de-3c0d-4444-a71f-04755e5b55da"
+  ],
+  "informationProviders": [
+    "/AgentInRole/e22b34d6-d03d-459d-80e8-f3aeb0c247cd"
+  ]
 }
