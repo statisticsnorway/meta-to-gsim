@@ -1,23 +1,32 @@
 {
- "id": "85aa81f1-5998-4f3f-a8a4-3ec1aff7e4ef",
- "name": [
-  {
-   "languageCode": "en",
-   "languageText": "EXTERNAL"
-  }
- ],
- "description": [
-  {
-   "languageCode": "en",
-   "languageText": "External resources"
-  }
- ],
- "administrativeStatus": "OPEN",
- "createdDate": "2019-02-01T13:58:42.724Z",
- "createdBy": "Test",
- "version": "1.0.1",
- "versionValidFrom": "2019-02-01T13:59:16.787Z",
- "lastUpdatedDate": "2019-02-01T13:59:16.787Z",
- "lastUpdatedBy": "Test",
- "validFrom": "2019-02-01T13:58:42.724Z"
+  "id": "85aa81f1-5998-4f3f-a8a4-3ec1aff7e4ef",
+  "name": [
+    {
+      "languageCode": "en",
+      "languageText": "External"
+    },
+    {
+      "languageCode": "nb",
+      "languageText": "Ekstern"
+    }
+  ],
+  "description": [
+    {
+      "languageCode": "en",
+      "languageText": "External resources"
+    },
+    {
+      "languageCode": "nb",
+      "languageText": "Ekstern ressurs"
+    }
+  ],
+  "administrativeStatus": "OPEN",
+  "createdDate": "2019-02-01T13:58:42.724Z",
+  "createdBy": "Test",
+  "version": "1.0.2",
+  "versionValidFrom": "2019-07-17T08:09:49.890Z",
+  "lastUpdatedDate": "2019-07-17T08:09:49.891Z",
+  "lastUpdatedBy": "Test user",
+  "validFrom": "2019-02-01T13:58:42.724Z",
+  "validUntil": "2020-07-17T08:09:49.891Z"
 }
