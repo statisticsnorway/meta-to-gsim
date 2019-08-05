@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"eierandel","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.278Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.278Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.278Z","createdBy":"obv","name":[{"languageText":"eierandel","languageCode":"nb"}],"id":"9a90229f-3da4-4c4e-b6cb-dc7ce6d23530","shortName":"EIERANDEL"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "eierandel",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.278Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.278Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.278Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "eierandel",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "9a90229f-3da4-4c4e-b6cb-dc7ce6d23530",
+    "shortName": "eierandel"
+}

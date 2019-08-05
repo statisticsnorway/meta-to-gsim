@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"byggeaar","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.410Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.410Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.410Z","createdBy":"obv","name":[{"languageText":"byggeaar","languageCode":"nb"}],"id":"c6df467b-5bfe-4906-bfcf-0cfd18abe102","shortName":"BYGGEAAR"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "byggeaar",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.410Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.410Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.410Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "byggeaar",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "c6df467b-5bfe-4906-bfcf-0cfd18abe102",
+    "shortName": "byggeaar"
+}

@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"festenummer","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.178Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.178Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.178Z","createdBy":"obv","name":[{"languageText":"festenummer","languageCode":"nb"}],"id":"895c9c1f-7e25-4ecd-9a8c-818a9dd66445","shortName":"FESTENUMMER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "festenummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.178Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.178Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.178Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "festenummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "895c9c1f-7e25-4ecd-9a8c-818a9dd66445",
+    "shortName": "festenummer"
+}

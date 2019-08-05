@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"bruksenhetsnummer","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.472Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.472Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.472Z","createdBy":"obv","name":[{"languageText":"bruksenhetsnummer","languageCode":"nb"}],"id":"4d79e77b-900a-4c0c-94da-b419d8ba2ee3","shortName":"BRUKSENHETSNUMMER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "bruksenhetsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.472Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.472Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.472Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "bruksenhetsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "4d79e77b-900a-4c0c-94da-b419d8ba2ee3",
+    "shortName": "bruksenhetsnummer"
+}

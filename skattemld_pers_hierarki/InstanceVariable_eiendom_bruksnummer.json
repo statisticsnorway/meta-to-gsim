@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"bruksnummer","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.129Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.129Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.129Z","createdBy":"obv","name":[{"languageText":"bruksnummer","languageCode":"nb"}],"id":"384df321-4868-4207-9e8f-13ff84e58cc8","shortName":"BRUKSNUMMER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "bruksnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.129Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.129Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.129Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "bruksnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "384df321-4868-4207-9e8f-13ff84e58cc8",
+    "shortName": "bruksnummer"
+}

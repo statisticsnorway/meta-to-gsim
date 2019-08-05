@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"beloep","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:27.006Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:27.006Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:27.006Z","createdBy":"obv","name":[{"languageText":"beloep","languageCode":"nb"}],"id":"5423798d-96aa-4a5f-b176-69d8fa4f0b36","shortName":"BELOEP"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "beloep",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:27.006Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:27.006Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:27.006Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "beloep",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "5423798d-96aa-4a5f-b176-69d8fa4f0b36",
+    "shortName": "beloep"
+}

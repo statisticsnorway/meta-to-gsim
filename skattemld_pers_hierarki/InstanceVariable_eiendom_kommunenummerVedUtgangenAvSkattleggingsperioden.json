@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"kommunenummervedutgangenavskattleggingsperioden","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.574Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.574Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.574Z","createdBy":"obv","name":[{"languageText":"kommunenummerVedUtgangenAvSkattleggingsperioden","languageCode":"nb"}],"id":"8e4617b7-b573-425a-806b-fbcfc316ac11","shortName":"KOMMUNENUMMERVEDUTGANGENAVSKATTLEGGINGSPERIODEN"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "kommunenummervedutgangenavskattleggingsperioden",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.574Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.574Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.574Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "kommunenummerVedUtgangenAvSkattleggingsperioden",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "8e4617b7-b573-425a-806b-fbcfc316ac11",
+    "shortName": "kommunenummerVedUtgangenAvSkattleggingsperioden"
+}

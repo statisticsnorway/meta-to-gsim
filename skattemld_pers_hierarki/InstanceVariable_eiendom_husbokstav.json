@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"husbokstav","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.502Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.502Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.502Z","createdBy":"obv","name":[{"languageText":"husbokstav","languageCode":"nb"}],"id":"d30b8402-8ab2-498d-ab2c-c83a48809af0","shortName":"HUSBOKSTAV"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "husbokstav",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.502Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.502Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.502Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "husbokstav",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "d30b8402-8ab2-498d-ab2c-c83a48809af0",
+    "shortName": "husbokstav"
+}

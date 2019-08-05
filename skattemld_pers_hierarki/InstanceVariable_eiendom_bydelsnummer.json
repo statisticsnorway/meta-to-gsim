@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"bydelsnummer","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.521Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.521Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.521Z","createdBy":"obv","name":[{"languageText":"bydelsnummer","languageCode":"nb"}],"id":"bc10b6ba-0fc5-4fcd-abf8-94f0dca79216","shortName":"BYDELSNUMMER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "bydelsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.521Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.521Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.521Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "bydelsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "bc10b6ba-0fc5-4fcd-abf8-94f0dca79216",
+    "shortName": "bydelsnummer"
+}

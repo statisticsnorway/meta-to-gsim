@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"arbeidsgiversnavn","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.972Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.972Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.972Z","createdBy":"obv","name":[{"languageText":"arbeidsgiversNavn","languageCode":"nb"}],"id":"8cc45ed3-07bd-43c0-9823-f0817a6581d9","shortName":"ARBEIDSGIVERSNAVN"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "arbeidsgiversnavn",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.972Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.972Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.972Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "arbeidsgiversNavn",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "8cc45ed3-07bd-43c0-9823-f0817a6581d9",
+    "shortName": "arbeidsgiversNavn"
+}

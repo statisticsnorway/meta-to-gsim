@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"gaardsnummer","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:25.146Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:25.146Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:25.146Z","createdBy":"obv","name":[{"languageText":"gaardsnummer","languageCode":"nb"}],"id":"8bd4c478-0e6c-4af7-a6a2-a025004859fc","shortName":"GAARDSNUMMER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "gaardsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.146Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.146Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.146Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "gaardsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "8bd4c478-0e6c-4af7-a6a2-a025004859fc",
+    "shortName": "gaardsnummer"
+}

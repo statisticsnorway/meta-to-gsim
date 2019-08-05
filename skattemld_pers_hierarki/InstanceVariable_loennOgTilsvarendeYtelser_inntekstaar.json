@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"inntekstaar","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.956Z","dataStructureComponentType":"IDENTIFIER","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.956Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.956Z","createdBy":"obv","name":[{"languageText":"inntekstaar","languageCode":"nb"}],"id":"6c898a85-79f8-4726-90ac-f472568cbbe1","shortName":"INNTEKSTAAR"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "inntekstaar",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.956Z",
+    "dataStructureComponentType": "IDENTIFIER",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.956Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.956Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "inntekstaar",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "6c898a85-79f8-4726-90ac-f472568cbbe1",
+    "shortName": "inntekstaar"
+}
