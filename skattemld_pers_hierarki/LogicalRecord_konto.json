@@ -1,0 +1,39 @@
+{
+    "unitType": "/UnitType/UnitType_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.731Z",
+    "instanceVariables": [
+        "/InstanceVariable/385f6b4a-e4e3-48af-baa1-1ee41035d758",
+        "/InstanceVariable/62cf6370-ecad-4a6b-b6f1-77e6224f755d",
+        "/InstanceVariable/63bdda26-61fd-4f2b-9adb-bd0d07e005d4",
+        "/InstanceVariable/3f34277e-7034-4422-9194-dcbd6ca17ab2",
+        "/InstanceVariable/f84e1e07-cda1-4ef0-b3eb-d6f72c1b20b5",
+        "/InstanceVariable/f23c7b25-2bff-4167-89b2-96ac09f71536",
+        "/InstanceVariable/c675aeea-affb-429f-a5b4-42b3e1905ebc",
+        "/InstanceVariable/af185cc5-1a2c-4f30-95a4-5d2e88f826f3",
+        "/InstanceVariable/dc4b4c14-5303-4342-bd51-47825cff618c",
+        "/InstanceVariable/d7cb3ed7-dafb-4d6c-abb9-351e6d2bffa8",
+        "/InstanceVariable/845de33c-a39f-4916-8770-8d8879aaf70a",
+        "/InstanceVariable/f93b9c8f-b18b-42a9-868f-65be5f23e80b",
+        "/InstanceVariable/83ea04a2-3fac-47d9-9495-70bf03059ea2",
+        "/InstanceVariable/47cf2056-a54b-4cdb-97e3-8f2f2b7e7fa8"
+    ],
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "konto",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "konto",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "80442612-c5aa-41de-a896-f449a526a32b",
+    "validFrom": "2019-07-15T12:58:26.731Z",
+    "shortName": "KONTO",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.731Z"
+}

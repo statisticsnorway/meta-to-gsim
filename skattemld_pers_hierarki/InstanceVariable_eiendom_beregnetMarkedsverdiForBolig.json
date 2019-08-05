@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "beregnetmarkedsverdiforbolig",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.262Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.262Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.262Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "beregnetmarkedsverdiforbolig",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "72f591c6-1c93-482a-ab79-ea1f10198d7a",
+    "shortName": "beregnetmarkedsverdiforbolig"
+}

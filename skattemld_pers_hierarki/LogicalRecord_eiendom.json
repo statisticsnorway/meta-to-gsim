@@ -1,0 +1,55 @@
+{
+    "unitType": "/UnitType/UnitType_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.598Z",
+    "instanceVariables": [
+        "/InstanceVariable/0102b2d4-bdfd-4ce6-9623-1b831c85723d",
+        "/InstanceVariable/7525159b-8128-40b4-b8d9-bcc126f442bd",
+        "/InstanceVariable/6fb8499f-fd8b-42a2-aab2-618ad5582f3f",
+        "/InstanceVariable/895c9c1f-7e25-4ecd-9a8c-818a9dd66445",
+        "/InstanceVariable/20c72c31-ecc7-4e96-8d83-5a805acc88bc",
+        "/InstanceVariable/2da68ea3-d8bc-4fe1-862e-01b7973dba33",
+        "/InstanceVariable/4d79e77b-900a-4c0c-94da-b419d8ba2ee3",
+        "/InstanceVariable/da7d5d6d-56f3-4572-8f44-70bcb44fc1af",
+        "/InstanceVariable/8e4617b7-b573-425a-806b-fbcfc316ac11",
+        "/InstanceVariable/8bd4c478-0e6c-4af7-a6a2-a025004859fc",
+        "/InstanceVariable/9a90229f-3da4-4c4e-b6cb-dc7ce6d23530",
+        "/InstanceVariable/c6df467b-5bfe-4906-bfcf-0cfd18abe102",
+        "/InstanceVariable/72f591c6-1c93-482a-ab79-ea1f10198d7a",
+        "/InstanceVariable/d30b8402-8ab2-498d-ab2c-c83a48809af0",
+        "/InstanceVariable/ea9bd80e-389f-46b0-8b0e-00d39baddb33",
+        "/InstanceVariable/f07b9b66-824f-4e55-b403-2cd03c3274cd",
+        "/InstanceVariable/7187d87f-8a8b-454a-9f7e-b613d88ee21f",
+        "/InstanceVariable/610aff77-5bcd-4e21-98db-2d646678f15b",
+        "/InstanceVariable/ac519ea2-6fab-4acc-bf41-d1496cb2c261",
+        "/InstanceVariable/384df321-4868-4207-9e8f-13ff84e58cc8",
+        "/InstanceVariable/9f3da75f-139c-468d-bc7a-2d1c95a6e3a2",
+        "/InstanceVariable/8fedca36-4825-4083-b85d-5e668a8328d5",
+        "/InstanceVariable/888666da-d91e-4be3-bf43-efc995b47ce9",
+        "/InstanceVariable/bc10b6ba-0fc5-4fcd-abf8-94f0dca79216",
+        "/InstanceVariable/6e56a878-52a0-4bae-923b-62df7c499e22",
+        "/InstanceVariable/0bc99bfd-fb60-4f99-bc8a-3e37f3bb39d5",
+        "/InstanceVariable/4683a372-f152-4be3-8560-4d2785538cc4",
+        "/InstanceVariable/adeaea36-7298-4379-9f3d-1a38006941ac",
+        "/InstanceVariable/a485d53e-3669-4c16-b942-2ad56a170750",
+        "/InstanceVariable/9e0392d4-d690-49c8-af67-7686b8af7df1"
+    ],
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "eiendom",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "eiendom",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "33ba1334-d2f6-4b85-ab71-fdae7099514b",
+    "validFrom": "2019-07-15T12:58:25.598Z",
+    "shortName": "EIENDOM",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.598Z"
+}

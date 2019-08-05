@@ -1,0 +1,27 @@
+{
+    "logicalRecords": [
+        "/LogicalRecord/cf263ad8-9910-4e25-916c-3d436c46a5b0",
+        "/LogicalRecord/33ba1334-d2f6-4b85-ab71-fdae7099514b",
+        "/LogicalRecord/80442612-c5aa-41de-a896-f449a526a32b",
+        "/LogicalRecord/dbeb0688-d450-42c1-ba72-7cac08c802e8"
+    ],
+    "createdDate": "2019-07-15T12:58:28.187Z",
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "skattepliktig",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "skattepliktig",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "e4ba5b06-7bcb-4881-8584-972429c60c0f",
+    "validFrom": "2019-07-15T12:58:28.187Z",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:28.187Z"
+}

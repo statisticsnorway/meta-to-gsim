@@ -1,0 +1,24 @@
+{
+    "createdDate": "2019-07-15T12:58:28.195Z",
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "skattepliktig",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "skattepliktig",
+            "languageCode": "nb"
+        }
+    ],
+    "unitDataStructure": "/UnitDataStructure/e4ba5b06-7bcb-4881-8584-972429c60c0f",
+    "id": "2fc827de-a047-4502-9a3c-f4e540421857",
+    "validFrom": "2019-07-15T12:58:28.195Z",
+    "dataSetState": "INPUT_DATA",
+    "version": "1.0.0",
+    "temporalityType": "EVENT",
+    "versionValidFrom": "2019-07-15T12:58:28.195Z"
+}

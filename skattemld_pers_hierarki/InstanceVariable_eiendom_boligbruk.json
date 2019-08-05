@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "boligbruk",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.304Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.304Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.304Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "boligbruk",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "7525159b-8128-40b4-b8d9-bcc126f442bd",
+    "shortName": "boligbruk"
+}

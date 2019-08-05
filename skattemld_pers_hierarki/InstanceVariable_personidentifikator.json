@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "inntekstaar personidentifikator",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-16T08:21:09.883Z",
+    "dataStructureComponentType": "IDENTIFIER",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-16T08:21:09.883Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-16T08:21:09.883Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "personidentifikator",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "e078887e-2299-4b50-8fcf-fe1388914ee0",
+    "shortName": "PERSONIDENTIFIKATOR"
+}

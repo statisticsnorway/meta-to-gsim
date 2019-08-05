@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "aksjeboenhetsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.442Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.442Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.442Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "aksjeboenhetsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "2da68ea3-d8bc-4fe1-862e-01b7973dba33",
+    "shortName": "aksjeBoenhetsNummer"
+}

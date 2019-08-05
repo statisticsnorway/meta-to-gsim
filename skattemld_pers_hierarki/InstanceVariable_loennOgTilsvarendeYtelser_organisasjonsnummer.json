@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "organisasjonsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.988Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.988Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.988Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "organisasjonsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "8aacc528-cc63-46ae-9668-10c65ce8909a",
+    "shortName": "ORGANISASJONSNUMMER"
+}

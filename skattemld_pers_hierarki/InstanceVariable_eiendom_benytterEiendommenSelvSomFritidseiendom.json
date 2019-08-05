@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "benyttereiendommenselvsomfritidseiendom",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.348Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.348Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.348Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "benyttereiendommenselvsomfritidseiendom",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "9e0392d4-d690-49c8-af67-7686b8af7df1",
+    "shortName": "benyttereiendommenselvsomfritidseiendom"
+}

@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "beliggenhetskode",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.539Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.539Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.539Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "beliggenhetskode",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "0102b2d4-bdfd-4ce6-9623-1b831c85723d",
+    "shortName": "beliggenhetskode"
+}

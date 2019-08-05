@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "inntekstaar",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-16T08:21:09.898Z",
+    "dataStructureComponentType": "IDENTIFIER",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-16T08:21:09.898Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-16T08:21:09.898Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "inntekstaar",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "ed9a54fb-366d-4b4f-a474-9c65b8c1f76f",
+    "shortName": "INNTEKSTAAR"
+}

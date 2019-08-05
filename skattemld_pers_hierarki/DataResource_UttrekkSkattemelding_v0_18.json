@@ -1,0 +1,23 @@
+{
+    "id": "56ba11a6-9c11-4270-848e-189b6a856c6f",
+    "name": [
+        {
+            "languageCode": "nb",
+            "languageText": "UttrekkSkattemelding v0_18 Test Hierarkisk datasett"
+        }
+    ],
+    "description": [
+        {
+            "languageCode": "nb",
+            "languageText": "SkattemeldingUtflatet - Test av ett datasett med logiske records som hierarki (PersonIdentifikator, Eiendom, Konto, LoennOgTilsvarendeYtelser)"
+        }
+    ],
+    "administrativeStatus": "DRAFT",
+    "versionValidFrom": "2019-07-15T13:48:45.000Z",
+    "validFrom": "2019-07-15T13:48:45.000Z",
+    "createdDate": "2019-07-15T13:48:45.000Z",
+    "createdBy": "OBV",
+    "dataSets": [
+        "/UnitDataSet/2fc827de-a047-4502-9a3c-f4e540421857"
+    ]
+}

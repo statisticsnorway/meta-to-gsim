@@ -1,0 +1,30 @@
+{
+    "relationType": "PARENT",
+    "createdDate": "2019-07-15T12:58:28.179Z",
+    "sourceLogicalRecords": [
+        "/LogicalRecord/cf263ad8-9910-4e25-916c-3d436c46a5b0"
+    ],
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "targetLogicalRecords": [
+        "/LogicalRecord/dbeb0688-d450-42c1-ba72-7cac08c802e8", 
+        "/LogicalRecord/80442612-c5aa-41de-a896-f449a526a32b",
+        "/LogicalRecord/33ba1334-d2f6-4b85-ab71-fdae7099514b"
+    ],
+    "name": [
+        {
+            "languageText": "Logicalrecord_relationships_in_skattepliktig - Test hierarki",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "Relation between logical records in skattepliktig - Test hierarki",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "a6873a28-94ae-473a-9af5-3504f96b0ad6",
+    "validFrom": "2019-07-15T12:58:28.179Z",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:28.179Z"
+}

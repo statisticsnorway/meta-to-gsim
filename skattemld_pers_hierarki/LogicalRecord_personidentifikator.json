@@ -1,0 +1,27 @@
+{
+    "unitType": "/UnitType/UnitType_DUMMY",
+    "createdDate": "2019-07-16T08:21:09.787Z",
+    "instanceVariables": [
+        "/InstanceVariable/e078887e-2299-4b50-8fcf-fe1388914ee0",
+        "/InstanceVariable/ed9a54fb-366d-4b4f-a474-9c65b8c1f76f"
+    ],
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "personidentifikator",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "personidentifikator",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "cf263ad8-9910-4e25-916c-3d436c46a5b0",
+    "validFrom": "2019-07-16T08:21:09.787Z",
+    "shortName": "personidentifikator",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-16T08:21:09.787Z"
+}

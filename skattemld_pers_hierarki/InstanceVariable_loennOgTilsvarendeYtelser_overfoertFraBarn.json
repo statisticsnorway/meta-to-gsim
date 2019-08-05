@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "overfoertfrabarn",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:27.037Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:27.037Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:27.037Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "overfoertFraBarn",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "aef3dc03-e000-4d34-95e7-87cf0c8f4280",
+    "shortName": "OVERFOERTFRABARN"
+}

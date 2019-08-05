@@ -1,0 +1,31 @@
+{
+    "unitType": "/UnitType/UnitType_DUMMY",
+    "createdDate": "2019-07-15T12:58:27.063Z",
+    "instanceVariables": [
+        "/InstanceVariable/0e2a1c5e-6ed3-4fd4-ae74-4f855aa47bf7",
+        "/InstanceVariable/5423798d-96aa-4a5f-b176-69d8fa4f0b36",
+        "/InstanceVariable/8cc45ed3-07bd-43c0-9823-f0817a6581d9",
+        "/InstanceVariable/8aacc528-cc63-46ae-9668-10c65ce8909a",
+        "/InstanceVariable/c9fc4aca-a0cc-4ad5-b5b6-dd9d8e98061a",
+        "/InstanceVariable/aef3dc03-e000-4d34-95e7-87cf0c8f4280"
+    ],
+    "administrativeStatus": "DRAFT",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "loennOgTilsvarendeYtelser",
+            "languageCode": "nb"
+        }
+    ],
+    "description": [
+        {
+            "languageText": "loenn og tilsvarende ytelser",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "dbeb0688-d450-42c1-ba72-7cac08c802e8",
+    "validFrom": "2019-07-15T12:58:27.063Z",
+    "shortName": "LOENNOGTILSVARENDEYTELSER",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:27.063Z"
+}

@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "boligtype",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.379Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.379Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.379Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "boligtype",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "a485d53e-3669-4c16-b942-2ad56a170750",
+    "shortName": "BOLIGTYPE"
+}

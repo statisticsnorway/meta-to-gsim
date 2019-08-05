@@ -1,0 +1,25 @@
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "andelsnummer ",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:25.426Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:25.426Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:25.426Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "andelsnummer",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "f07b9b66-824f-4e55-b403-2cd03c3274cd",
+    "shortName": "andelsnummer"
+}
