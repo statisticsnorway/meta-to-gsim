@@ -13,13 +13,13 @@
     ],
     "name": [
         {
-            "languageText": "Logicalrecord_relationships_in_skattepliktig - Test hierarki",
+            "languageText": "Hierarki-relasjon PersonIdentifier -> Eiendom, Konto, LonnOgYtelse",
             "languageCode": "nb"
         }
     ],
     "description": [
         {
-            "languageText": "Relation between logical records in skattepliktig - Test hierarki",
+            "languageText": "Hierarki-relasjon PersonIdentifier -> Eiendom, Konto, LonnOgYtelse",
             "languageCode": "nb"
         }
     ],

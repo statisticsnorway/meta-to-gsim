@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"konto sparebeloeptilboligsparingforungdomoppspartiskattleggingsperioden","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.702Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.702Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.702Z","createdBy":"obv","name":[{"languageText":"konto_sparebeloepTilBoligsparingForUngdomOppspartISkattleggingsperioden","languageCode":"nb"}],"id":"c675aeea-affb-429f-a5b4-42b3e1905ebc","shortName":"KONTO_SPAREBELOEPTILBOLIGSPARINGFORUNGDOMOPPSPARTISKATTLEGGINGSPERIODEN"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "sparebeloepTilBoligsparingForUngdomOppspartISkattleggingsperioden",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.702Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.702Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.702Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "sparebeloepTilBoligsparingForUngdomOppspartISkattleggingsperioden",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "c675aeea-affb-429f-a5b4-42b3e1905ebc",
+    "shortName": "sparebeloepTilBoligsparingForUngdomOppspartISkattleggingsperioden"
+}

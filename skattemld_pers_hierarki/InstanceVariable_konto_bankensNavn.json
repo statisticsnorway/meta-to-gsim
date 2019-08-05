@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"konto bankensnavn","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.535Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.535Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.535Z","createdBy":"obv","name":[{"languageText":"konto_bankensNavn","languageCode":"nb"}],"id":"3f34277e-7034-4422-9194-dcbd6ca17ab2","shortName":"KONTO_BANKENSNAVN"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "bankensnavn",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.535Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.535Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.535Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "bankensnavn",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "3f34277e-7034-4422-9194-dcbd6ca17ab2",
+    "shortName": "bankensnavn"
+}

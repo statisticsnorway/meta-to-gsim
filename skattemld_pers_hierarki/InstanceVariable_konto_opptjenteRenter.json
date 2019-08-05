@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"konto opptjenterenter","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.567Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.567Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.567Z","createdBy":"obv","name":[{"languageText":"konto_opptjenteRenter","languageCode":"nb"}],"id":"f93b9c8f-b18b-42a9-868f-65be5f23e80b","shortName":"KONTO_OPPTJENTERENTER"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "opptjenteRenter",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.567Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.567Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.567Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "opptjenteRenter",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "f93b9c8f-b18b-42a9-868f-65be5f23e80b",
+    "shortName": "opptjenteRenter"
+}

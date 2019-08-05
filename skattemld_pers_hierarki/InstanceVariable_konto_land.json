@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"konto land","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.649Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.649Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.649Z","createdBy":"obv","name":[{"languageText":"konto_land","languageCode":"nb"}],"id":"af185cc5-1a2c-4f30-95a4-5d2e88f826f3","shortName":"KONTO_LAND"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "land",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.649Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.649Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.649Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "land",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "af185cc5-1a2c-4f30-95a4-5d2e88f826f3",
+    "shortName": "land"
+}

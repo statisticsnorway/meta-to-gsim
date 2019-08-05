@@ -1,1 +1,25 @@
-{"representedVariable":"/RepresentedVariable/RepresentertVariable_DUMMY","administrativeStatus":"DRAFT","description":[{"languageText":"konto gjeld","languageCode":"nb"}],"validFrom":"2019-07-15T12:58:26.582Z","dataStructureComponentType":"MEASURE","version":"1.0.0","versionValidFrom":"2019-07-15T12:58:26.582Z","population":"/Population/Population_DUMMY","createdDate":"2019-07-15T12:58:26.582Z","createdBy":"obv","name":[{"languageText":"konto_gjeld","languageCode":"nb"}],"id":"845de33c-a39f-4916-8770-8d8879aaf70a","shortName":"KONTO_GJELD"}
+{
+    "representedVariable": "/RepresentedVariable/RepresentertVariable_DUMMY",
+    "administrativeStatus": "DRAFT",
+    "description": [
+        {
+            "languageText": "gjeld",
+            "languageCode": "nb"
+        }
+    ],
+    "validFrom": "2019-07-15T12:58:26.582Z",
+    "dataStructureComponentType": "MEASURE",
+    "version": "1.0.0",
+    "versionValidFrom": "2019-07-15T12:58:26.582Z",
+    "population": "/Population/Population_DUMMY",
+    "createdDate": "2019-07-15T12:58:26.582Z",
+    "createdBy": "obv",
+    "name": [
+        {
+            "languageText": "gjeld",
+            "languageCode": "nb"
+        }
+    ],
+    "id": "845de33c-a39f-4916-8770-8d8879aaf70a",
+    "shortName": "gjeld"
+}
