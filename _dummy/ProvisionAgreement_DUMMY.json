@@ -1,0 +1,32 @@
+{
+ "administrativeStatus": "OPEN",
+ "description": [
+  {
+   "languageCode": "en",
+   "languageText": "ProvisionAgreement DUMMY"
+  }
+ ],
+ "validFrom": "2010-01-01T15:00:00.000Z",
+ "version": "1.0.0",
+ "frequency": "ONGOING",
+ "versionValidFrom": "2019-02-01T14:07:37.344Z",
+ "createdDate": "2010-01-01T15:00:00.000Z",
+ "regulation": "VOLUNTARY",
+ "createdBy": "RSA",
+ "informationSource": [
+  {
+   "languageCode": "en",
+   "languageText": "manuell"
+  }
+ ],
+ "name": [
+  {
+   "languageCode": "en",
+   "languageText": "ProvisionAgreement DUMMY"
+  }
+ ],
+ "provisionAgreementStatus": "DRAFT",
+ "id": "ProvisionAgreement_DUMMY",
+ "lastUpdatedDate": "2019-08-07T08:13:37.344Z",
+ "lastUpdatedBy": "RSA"
+}
