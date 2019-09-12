@@ -1,0 +1,26 @@
+{
+  "id": "0bf82f62-5753-4186-8c60-ca1198873b48",
+  "name": [
+    {
+      "languageCode": "nb",
+      "languageText": "Skattestatistikk for personer 2020"
+    }
+  ],
+  "description": [
+    {
+      "languageCode": "nb",
+      "languageText": "Skattestatistikk for personer 2020"
+    }
+  ],
+  "administrativeStatus": "DRAFT",
+  "createdDate": "2019-09-02T13:08:35.262Z",
+  "createdBy": "OBV",
+  "version": "1.0.0",
+  "versionValidFrom": "2019-09-02T13:08:35.262Z",
+  "lastUpdatedDate": "2019-09-02T13:08:35.262Z",
+  "lastUpdatedBy": "OBV",
+  "validFrom": "2019-09-02T13:08:35.262Z",
+  "validUntil": "2020-09-02T13:08:35.262Z",
+  "referencePeriodStart": "2019-12-31T23:00:00.000Z",
+  "referencePeriodEnd": "2020-12-30T23:00:00.000Z"
+}
